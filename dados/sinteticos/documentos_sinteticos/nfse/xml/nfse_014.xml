@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS51034032216308612000186000000001415624088309294007">
+<xLocEmi>Cuiabá</xLocEmi><xLocPrestacao>Cuiabá</xLocPrestacao><nNFSe>14156</nNFSe>
+<cLocIncid>5103403</cLocIncid><xLocIncid>Cuiabá</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-08-23T13:44:45-03:00</dhProc><nDFSe>914285</nDFSe>
+<emit><CNPJ>16308612000186</CNPJ><xNome>Lima Advocacia Associados LTDA</xNome><enderNac><xLgr>Avenida Independência</xLgr>
+<nro>1121</nro><xBairro>Centro Norte</xBairro><cMun>5103403</cMun>
+<UF>MT</UF><CEP>78614731</CEP></enderNac><fone>12946793924</fone><email>lima48@exemplo.com.br</email></emit>
+<valores><vBC>5653.66</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>169.61</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>5653.66</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS5731"><tpAmb>1</tpAmb><dhEmi>2024-08-23T13:44:45-03:00</dhEmi><nDPS>5731</nDPS>
+<serie>1</serie><dCompet>2024-08-23</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>16308612000186</CNPJ><xNome>Lima Advocacia Associados LTDA</xNome><end><xLgr>Avenida Independência</xLgr>
+<nro>1121</nro><xBairro>Centro Norte</xBairro><cMun>5103403</cMun>
+<xMun>Cuiabá</xMun><UF>MT</UF><CEP>78614731</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>53897149000181</CNPJ><xNome>Eletro Litoral LTDA</xNome><end><endNac><cMun>4106902</cMun>
+<CEP>80603911</CEP></endNac><xLgr>Avenida Brasil</xLgr><nro>596</nro>
+<xBairro>Batel</xBairro></end><fone>95949085903</fone><email>eletro53@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 08/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>5653.66</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

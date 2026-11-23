@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS42054072243945756000116000000009519025023037977774">
+<xLocEmi>Florianópolis</xLocEmi><xLocPrestacao>Florianópolis</xLocPrestacao><nNFSe>95190</nNFSe>
+<cLocIncid>4205407</cLocIncid><xLocIncid>Florianópolis</xLocIncid><xTribNac>Odontologia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-02-22T12:37:52-03:00</dhProc><nDFSe>358748</nDFSe>
+<emit><CNPJ>43945756000116</CNPJ><xNome>Almeida Clínica Odontológica EPP</xNome><enderNac><xLgr>Rua Marechal Deodoro</xLgr>
+<nro>222</nro><xBairro>Itacorubi</xBairro><cMun>4205407</cMun>
+<UF>SC</UF><CEP>88023840</CEP></enderNac><fone>22923939348</fone><email>almeida28@exemplo.com.br</email></emit>
+<valores><vBC>12788.17</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>383.65</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>12788.17</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS46797"><tpAmb>1</tpAmb><dhEmi>2025-02-22T12:37:52-03:00</dhEmi><nDPS>46797</nDPS>
+<serie>1</serie><dCompet>2025-02-22</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>43945756000116</CNPJ><xNome>Almeida Clínica Odontológica EPP</xNome><end><xLgr>Rua Marechal Deodoro</xLgr>
+<nro>222</nro><xBairro>Itacorubi</xBairro><cMun>4205407</cMun>
+<xMun>Florianópolis</xMun><UF>SC</UF><CEP>88023840</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>81469702061</CPF><xNome>Débora Mendes Souza</xNome><end><endNac><cMun>3509502</cMun>
+<CEP>13034681</CEP></endNac><xLgr>Rua São João</xLgr><nro>1295</nro>
+<xBairro>Taquaral</xBairro></end><fone>98982497666</fone><email>dbora7@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>041201</cTribNac><xDescServ>Odontologia - competência 02/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>12788.17</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

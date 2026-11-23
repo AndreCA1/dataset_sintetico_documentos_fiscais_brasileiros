@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS41069022248817000000105000000006336124074705241552">
+<xLocEmi>Curitiba</xLocEmi><xLocPrestacao>Curitiba</xLocPrestacao><nNFSe>63361</nNFSe>
+<cLocIncid>4106902</cLocIncid><xLocIncid>Curitiba</xLocIncid><xTribNac>Suporte técnico em informática</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-07-03T15:18:14-03:00</dhProc><nDFSe>892592</nDFSe>
+<emit><CNPJ>48817000000105</CNPJ><xNome>Alves Tecnologia e Sistemas EIRELI</xNome><enderNac><xLgr>Avenida Brasil</xLgr>
+<nro>2059</nro><xBairro>Água Verde</xBairro><cMun>4106902</cMun>
+<UF>PR</UF><CEP>80606315</CEP></enderNac><fone>26946881007</fone><email>alves63@exemplo.com.br</email></emit>
+<valores><vBC>7889.00</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>197.22</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>7889.00</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS55495"><tpAmb>1</tpAmb><dhEmi>2024-07-03T15:18:14-03:00</dhEmi><nDPS>55495</nDPS>
+<serie>1</serie><dCompet>2024-07-03</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>48817000000105</CNPJ><xNome>Alves Tecnologia e Sistemas EIRELI</xNome><end><xLgr>Avenida Brasil</xLgr>
+<nro>2059</nro><xBairro>Água Verde</xBairro><cMun>4106902</cMun>
+<xMun>Curitiba</xMun><UF>PR</UF><CEP>80606315</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>61075596718</CPF><xNome>Pedro Gomes Costa</xNome><end><endNac><cMun>5103403</cMun>
+<CEP>78762835</CEP></endNac><xLgr>Rua das Flores</xLgr><nro>569</nro>
+<xBairro>Centro Norte</xBairro></end><fone>15959049602</fone><email>pedro23@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>010701</cTribNac><xDescServ>Suporte técnico em informática - competência 07/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>7889.00</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe><infNFe versao="4.00" Id="NFe13240852920483000146550010001799571784311107">
+<ide><cUF>13</cUF><cNF>78431110</cNF><natOp>Venda de mercadoria</natOp><mod>55</mod>
+<serie>1</serie><nNF>179957</nNF><dhEmi>2024-08-15T15:52:56-03:00</dhEmi><dhSaiEnt>2024-08-15T15:52:56-03:00</dhSaiEnt>
+<tpNF>1</tpNF><idDest>1</idDest><cMunFG>1302603</cMunFG><tpImp>1</tpImp>
+<tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal>
+<indPres>1</indPres><procEmi>0</procEmi><verProc>GeradorSintetico 1.0</verProc></ide>
+<emit><CNPJ>52920483000146</CNPJ><xNome>Indústria São Jorge ME</xNome><xFant>Indústria São Jorge</xFant>
+<enderEmit><xLgr>Avenida Independência</xLgr><nro>1573</nro><xBairro>Flores</xBairro><cMun>1302603</cMun><xMun>Manaus</xMun><UF>AM</UF><CEP>69354441</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>51997745371</fone></enderEmit><IE>219444534</IE><CRT>3</CRT></emit>
+<dest><CPF>41567462243</CPF><xNome>Sérgio Martins Pereira</xNome><enderDest><xLgr>Rua Marechal Deodoro</xLgr><nro>988</nro><xBairro>Centro</xBairro><cMun>3509502</cMun><xMun>Campinas</xMun><UF>SP</UF><CEP>13389751</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>89956015255</fone></enderDest><indIEDest>9</indIEDest></dest><det nItem="1"><prod><cProd>21801</cProd><cEAN>SEM GTIN</cEAN><xProd>Ração bovina 40kg</xProd><NCM>23099090</NCM><CFOP>5102</CFOP><uCom>SC</uCom><qCom>2.0000</qCom><vUnCom>152.3200000000</vUnCom><vProd>304.64</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>SC</uTrib><qTrib>2.0000</qTrib><vUnTrib>152.3200000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>76.16</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>304.64</vBC><pICMS>18.0000</pICMS><vICMS>54.84</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>304.64</vBC><pPIS>0.6500</pPIS><vPIS>1.98</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>304.64</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>9.14</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem="2"><prod><cProd>13654</cProd><cEAN>SEM GTIN</cEAN><xProd>Resma papel A4 75g 500 folhas</xProd><NCM>48025610</NCM><CFOP>5102</CFOP><uCom>CX</uCom><qCom>12.0000</qCom><vUnCom>34.7300000000</vUnCom><vProd>416.76</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>CX</uTrib><qTrib>12.0000</qTrib><vUnTrib>34.7300000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>104.19</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>416.76</vBC><pICMS>18.0000</pICMS><vICMS>75.02</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>416.76</vBC><pPIS>0.6500</pPIS><vPIS>2.71</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>416.76</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>12.50</vCOFINS></COFINSAliq></COFINS></imposto></det>
+<total><ICMSTot><vBC>721.40</vBC><vICMS>129.85</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP>
+<vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>721.40</vProd>
+<vFrete>26.82</vFrete><vSeg>0.00</vSeg><vDesc>36.07</vDesc><vII>0.00</vII><vIPI>0.00</vIPI>
+<vIPIDevol>0.00</vIPIDevol><vPIS>4.69</vPIS><vCOFINS>21.64</vCOFINS>
+<vOutro>0.00</vOutro><vNF>712.15</vNF><vTotTrib>180.35</vTotTrib></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<pag><detPag><indPag>0</indPag><tPag>15</tPag><vPag>712.15</vPag></detPag></pag>
+<infAdic><infCpl>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</infCpl></infAdic>
+</infNFe></NFe>
+<protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SINTETICO</verAplic><chNFe>13240852920483000146550010001799571784311107</chNFe>
+<dhRecbto>2024-08-15T15:52:56-03:00</dhRecbto><nProt>133973530608279</nProt><digVal>AAAA</digVal>
+<cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>

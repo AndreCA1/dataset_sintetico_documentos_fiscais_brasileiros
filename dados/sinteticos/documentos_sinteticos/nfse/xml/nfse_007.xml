@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS15014022294515157000101000000003924726093642748533">
+<xLocEmi>Belém</xLocEmi><xLocPrestacao>Belém</xLocPrestacao><nNFSe>39247</nNFSe>
+<cLocIncid>1501402</cLocIncid><xLocIncid>Belém</xLocIncid><xTribNac>Serviços de contabilidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-09-25T18:21:30-03:00</dhProc><nDFSe>513484</nDFSe>
+<emit><CNPJ>94515157000101</CNPJ><xNome>Ribeiro Consultoria Contábil EPP</xNome><enderNac><xLgr>Rua Tiradentes</xLgr>
+<nro>2272</nro><xBairro>Umarizal</xBairro><cMun>1501402</cMun>
+<UF>PA</UF><CEP>66278588</CEP></enderNac><fone>44984170376</fone><email>ribeiro72@exemplo.com.br</email></emit>
+<valores><vBC>24553.30</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>736.60</vISSQN>
+<vTotalRet>1510.03</vTotalRet><vLiq>23043.27</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS26303"><tpAmb>1</tpAmb><dhEmi>2026-09-25T18:21:30-03:00</dhEmi><nDPS>26303</nDPS>
+<serie>1</serie><dCompet>2026-09-25</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>94515157000101</CNPJ><xNome>Ribeiro Consultoria Contábil EPP</xNome><end><xLgr>Rua Tiradentes</xLgr>
+<nro>2272</nro><xBairro>Umarizal</xBairro><cMun>1501402</cMun>
+<xMun>Belém</xMun><UF>PA</UF><CEP>66278588</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>06990391000115</CNPJ><xNome>Auto Peças São Jorge EIRELI</xNome><end><endNac><cMun>2304400</cMun>
+<CEP>60645935</CEP></endNac><xLgr>Rua Tiradentes</xLgr><nro>2173</nro>
+<xBairro>Meireles</xBairro></end><fone>74968343262</fone><email>auto59@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171901</cTribNac><xDescServ>Serviços de contabilidade - competência 09/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>24553.30</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun><tribFed><vRetIRRF>368.30</vRetIRRF><vRetCSLL>1141.73</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

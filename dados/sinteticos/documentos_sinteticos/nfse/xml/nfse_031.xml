@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS33045572278226723000109000000005877825028109965394">
+<xLocEmi>Rio de Janeiro</xLocEmi><xLocPrestacao>Rio de Janeiro</xLocPrestacao><nNFSe>58778</nNFSe>
+<cLocIncid>3304557</cLocIncid><xLocIncid>Rio de Janeiro</xLocIncid><xTribNac>Transporte municipal de cargas</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-02-21T11:36:38-03:00</dhProc><nDFSe>342611</nDFSe>
+<emit><CNPJ>78226723000109</CNPJ><xNome>Fernandes Transportes e Logística EPP</xNome><enderNac><xLgr>Rua Dom Pedro II</xLgr>
+<nro>1206</nro><xBairro>Copacabana</xBairro><cMun>3304557</cMun>
+<UF>RJ</UF><CEP>20439990</CEP></enderNac><fone>61937956564</fone><email>fernandes42@exemplo.com.br</email></emit>
+<valores><vBC>16404.32</vBC><pAliqAplic>2.00</pAliqAplic><vISSQN>328.09</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>16404.32</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS2596"><tpAmb>1</tpAmb><dhEmi>2025-02-21T11:36:38-03:00</dhEmi><nDPS>2596</nDPS>
+<serie>1</serie><dCompet>2025-02-21</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>78226723000109</CNPJ><xNome>Fernandes Transportes e Logística EPP</xNome><end><xLgr>Rua Dom Pedro II</xLgr>
+<nro>1206</nro><xBairro>Copacabana</xBairro><cMun>3304557</cMun>
+<xMun>Rio de Janeiro</xMun><UF>RJ</UF><CEP>20439990</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>45165489841</CPF><xNome>Marcos Machado Silva</xNome><end><endNac><cMun>2611606</cMun>
+<CEP>50176322</CEP></endNac><xLgr>Avenida Getúlio Vargas</xLgr><nro>1602</nro>
+<xBairro>Espinheiro</xBairro></end><fone>57925338363</fone><email>marcos4@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>160201</cTribNac><xDescServ>Transporte municipal de cargas - competência 02/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>16404.32</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

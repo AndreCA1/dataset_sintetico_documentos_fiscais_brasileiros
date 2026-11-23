@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS33045572212922330000113000000008290126086799498576">
+<xLocEmi>Rio de Janeiro</xLocEmi><xLocPrestacao>Rio de Janeiro</xLocPrestacao><nNFSe>82901</nNFSe>
+<cLocIncid>3304557</cLocIncid><xLocIncid>Rio de Janeiro</xLocIncid><xTribNac>Reparação e manutenção de edifícios</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-08-17T17:51:00-03:00</dhProc><nDFSe>959540</nDFSe>
+<emit><CNPJ>12922330000113</CNPJ><xNome>Silva Manutenção Predial ME</xNome><enderNac><xLgr>Rua Santos Dumont</xLgr>
+<nro>1902</nro><xBairro>Tijuca</xBairro><cMun>3304557</cMun>
+<UF>RJ</UF><CEP>20410881</CEP></enderNac><fone>37990749227</fone><email>silva77@exemplo.com.br</email></emit>
+<valores><vBC>2015.28</vBC><pAliqAplic>2.00</pAliqAplic><vISSQN>40.31</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>2015.28</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS5128"><tpAmb>1</tpAmb><dhEmi>2026-08-17T17:51:00-03:00</dhEmi><nDPS>5128</nDPS>
+<serie>1</serie><dCompet>2026-08-17</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>12922330000113</CNPJ><xNome>Silva Manutenção Predial ME</xNome><end><xLgr>Rua Santos Dumont</xLgr>
+<nro>1902</nro><xBairro>Tijuca</xBairro><cMun>3304557</cMun>
+<xMun>Rio de Janeiro</xMun><UF>RJ</UF><CEP>20410881</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>92675358037</CPF><xNome>Marcos Fernandes Mendes</xNome><end><endNac><cMun>3205309</cMun>
+<CEP>29936388</CEP></endNac><xLgr>Rua Barão do Rio Branco</xLgr><nro>801</nro>
+<xBairro>Jardim Camburi</xBairro></end><fone>39986506479</fone><email>marcos27@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>070501</cTribNac><xDescServ>Reparação e manutenção de edifícios - competência 08/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>2015.28</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

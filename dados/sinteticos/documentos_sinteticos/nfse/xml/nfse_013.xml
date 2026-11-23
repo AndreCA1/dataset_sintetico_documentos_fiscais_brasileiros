@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS29274082255630709000162000000007118026030408301739">
+<xLocEmi>Salvador</xLocEmi><xLocPrestacao>Salvador</xLocPrestacao><nNFSe>71180</nNFSe>
+<cLocIncid>2927408</cLocIncid><xLocIncid>Salvador</xLocIncid><xTribNac>Limpeza, manutenção e conservação de imóveis</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-03-21T14:13:14-03:00</dhProc><nDFSe>594513</nDFSe>
+<emit><CNPJ>55630709000162</CNPJ><xNome>Lima Limpeza e Conservação EIRELI</xNome><enderNac><xLgr>Rua das Flores</xLgr>
+<nro>1977</nro><xBairro>Barra</xBairro><cMun>2927408</cMun>
+<UF>BA</UF><CEP>40300946</CEP></enderNac><fone>96958536951</fone><email>lima24@exemplo.com.br</email></emit>
+<valores><vBC>18058.78</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>902.94</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>18058.78</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS51709"><tpAmb>1</tpAmb><dhEmi>2026-03-21T14:13:14-03:00</dhEmi><nDPS>51709</nDPS>
+<serie>1</serie><dCompet>2026-03-21</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>55630709000162</CNPJ><xNome>Lima Limpeza e Conservação EIRELI</xNome><end><xLgr>Rua das Flores</xLgr>
+<nro>1977</nro><xBairro>Barra</xBairro><cMun>2927408</cMun>
+<xMun>Salvador</xMun><UF>BA</UF><CEP>40300946</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>57268509000137</CNPJ><xNome>Casa Bom Preço LTDA</xNome><end><endNac><cMun>5208707</cMun>
+<CEP>74366446</CEP></endNac><xLgr>Avenida Getúlio Vargas</xLgr><nro>2053</nro>
+<xBairro>Jardim Goiás</xBairro></end><fone>16919424292</fone><email>casa26@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>071001</cTribNac><xDescServ>Limpeza, manutenção e conservação de imóveis - competência 03/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>18058.78</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

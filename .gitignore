@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+impressao/
+
+# Imagens: distribuídas nos zips do release v1.0 (ver README)
+dados/sinteticos/boletos_sinteticos/imagens/png/
+dados/sinteticos/boletos_sinteticos/imagens/foto/
+dados/sinteticos/documentos_sinteticos/imagens/*/png/
+dados/sinteticos/documentos_sinteticos/imagens/*/foto/
+dados/fotos_reais/fotos/

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS26116062265049867000187000000000982224075076461998">
+<xLocEmi>Recife</xLocEmi><xLocPrestacao>Recife</xLocPrestacao><nNFSe>9822</nNFSe>
+<cLocIncid>2611606</cLocIncid><xLocIncid>Recife</xLocIncid><xTribNac>Odontologia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-07-30T09:05:18-03:00</dhProc><nDFSe>123250</nDFSe>
+<emit><CNPJ>65049867000187</CNPJ><xNome>Lopes Clínica Odontológica EPP</xNome><enderNac><xLgr>Avenida Paulista</xLgr>
+<nro>582</nro><xBairro>Graças</xBairro><cMun>2611606</cMun>
+<UF>PE</UF><CEP>50448205</CEP></enderNac><fone>41966493701</fone><email>lopes12@exemplo.com.br</email></emit>
+<valores><vBC>18154.90</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>907.75</vISSQN>
+<vTotalRet>1116.52</vTotalRet><vLiq>17038.38</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS89876"><tpAmb>1</tpAmb><dhEmi>2024-07-30T09:05:18-03:00</dhEmi><nDPS>89876</nDPS>
+<serie>1</serie><dCompet>2024-07-30</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>65049867000187</CNPJ><xNome>Lopes Clínica Odontológica EPP</xNome><end><xLgr>Avenida Paulista</xLgr>
+<nro>582</nro><xBairro>Graças</xBairro><cMun>2611606</cMun>
+<xMun>Recife</xMun><UF>PE</UF><CEP>50448205</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>37474004000111</CNPJ><xNome>Indústria Nova Era ME</xNome><end><endNac><cMun>3509502</cMun>
+<CEP>13365574</CEP></endNac><xLgr>Rua São João</xLgr><nro>1095</nro>
+<xBairro>Centro</xBairro></end><fone>56906727774</fone><email>indstria94@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>041201</cTribNac><xDescServ>Odontologia - competência 07/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>18154.90</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun><tribFed><vRetIRRF>272.32</vRetIRRF><vRetCSLL>844.20</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

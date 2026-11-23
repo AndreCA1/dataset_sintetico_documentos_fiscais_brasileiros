@@ -1,0 +1,3453 @@
+{
+  "descricao": "Documentos NFE sintéticos (dados fictícios) para teste de OCR/PLN",
+  "semente": 42,
+  "quantidade": 50,
+  "documentos": [
+    {
+      "id": "nfe_001",
+      "arquivo_xml": "xml/nfe_001.xml",
+      "arquivo_pdf": "pdf/nfe_001.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria Ipê ME",
+        "tipo_documento": "CNPJ",
+        "documento": "52.874.015/0001-82",
+        "documento_numeros": "52874015000182",
+        "endereco": "Rua Marechal Deodoro, 1236",
+        "bairro": "Jardim Goiás",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74642-772"
+      },
+      "destinatario": {
+        "nome": "Aline Freitas Vieira",
+        "tipo_documento": "CPF",
+        "documento": "730.839.584-71",
+        "documento_numeros": "73083958471",
+        "endereco": "Rua das Flores, 201",
+        "bairro": "Batista Campos",
+        "cidade": "Belém",
+        "uf": "PA",
+        "cep": "66893-130"
+      },
+      "numero": 223071,
+      "numero_formatado": "000.223.071",
+      "serie": 2,
+      "chave_acesso": "52250152874015000182550020002230711445968658",
+      "chave_acesso_formatada": "5225 0152 8740 1500 0182 5500 2000 2230 7114 4596 8658",
+      "data_emissao": "2025-01-17",
+      "data_emissao_formatada": "17/01/2025",
+      "hora_emissao": "12:06:34",
+      "valor_produtos": 1100.47,
+      "valor_frete": 80.21,
+      "valor_desconto": 33.01,
+      "valor_total": 1147.67,
+      "valor_total_formatado": "1.147,67",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 253.3,
+          "valor_total": 253.3
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 2,
+          "unidade": "LT",
+          "valor_unitario": 294.69,
+          "valor_total": 589.38
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 85.77,
+          "valor_total": 85.77
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 86.01,
+          "valor_total": 172.02
+        }
+      ]
+    },
+    {
+      "id": "nfe_002",
+      "arquivo_xml": "xml/nfe_002.xml",
+      "arquivo_pdf": "pdf/nfe_002.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria São Jorge ME",
+        "tipo_documento": "CNPJ",
+        "documento": "52.920.483/0001-46",
+        "documento_numeros": "52920483000146",
+        "endereco": "Avenida Independência, 1573",
+        "bairro": "Flores",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69354-441"
+      },
+      "destinatario": {
+        "nome": "Sérgio Martins Pereira",
+        "tipo_documento": "CPF",
+        "documento": "415.674.622-43",
+        "documento_numeros": "41567462243",
+        "endereco": "Rua Marechal Deodoro, 988",
+        "bairro": "Centro",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13389-751"
+      },
+      "numero": 179957,
+      "numero_formatado": "000.179.957",
+      "serie": 1,
+      "chave_acesso": "13240852920483000146550010001799571784311107",
+      "chave_acesso_formatada": "1324 0852 9204 8300 0146 5500 1000 1799 5717 8431 1107",
+      "data_emissao": "2024-08-15",
+      "data_emissao_formatada": "15/08/2024",
+      "hora_emissao": "15:52:56",
+      "valor_produtos": 721.4,
+      "valor_frete": 26.82,
+      "valor_desconto": 36.07,
+      "valor_total": 712.15,
+      "valor_total_formatado": "712,15",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 152.32,
+          "valor_total": 304.64
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 12,
+          "unidade": "CX",
+          "valor_unitario": 34.73,
+          "valor_total": 416.76
+        }
+      ]
+    },
+    {
+      "id": "nfe_003",
+      "arquivo_xml": "xml/nfe_003.xml",
+      "arquivo_pdf": "pdf/nfe_003.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Vale Verde ME",
+        "tipo_documento": "CNPJ",
+        "documento": "29.015.395/0001-88",
+        "documento_numeros": "29015395000188",
+        "endereco": "Rua São João, 1581",
+        "bairro": "Capim Macio",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59276-800"
+      },
+      "destinatario": {
+        "nome": "Mercado Nova Era ME",
+        "tipo_documento": "CNPJ",
+        "documento": "39.856.570/0001-13",
+        "documento_numeros": "39856570000113",
+        "endereco": "Travessa da Paz, 2189",
+        "bairro": "Moinhos de Vento",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "cep": "90033-458"
+      },
+      "numero": 103457,
+      "numero_formatado": "000.103.457",
+      "serie": 1,
+      "chave_acesso": "24240829015395000188550010001034571494347710",
+      "chave_acesso_formatada": "2424 0829 0153 9500 0188 5500 1000 1034 5714 9434 7710",
+      "data_emissao": "2024-08-06",
+      "data_emissao_formatada": "06/08/2024",
+      "hora_emissao": "15:56:28",
+      "valor_produtos": 9213.3,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 9213.3,
+      "valor_total_formatado": "9.213,30",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 14.72,
+          "valor_total": 29.44
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 778.54,
+          "valor_total": 2335.62
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4614.19,
+          "valor_total": 4614.19
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 675.84,
+          "valor_total": 2027.52
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 1,
+          "unidade": "RL",
+          "valor_unitario": 206.53,
+          "valor_total": 206.53
+        }
+      ]
+    },
+    {
+      "id": "nfe_004",
+      "arquivo_xml": "xml/nfe_004.xml",
+      "arquivo_pdf": "pdf/nfe_004.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Farmácia São Jorge S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "94.619.244/0001-09",
+        "documento_numeros": "94619244000109",
+        "endereco": "Rua Santos Dumont, 1504",
+        "bairro": "Portão",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80441-105"
+      },
+      "destinatario": {
+        "nome": "Materiais de Construção São Jorge LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "49.783.581/0001-74",
+        "documento_numeros": "49783581000174",
+        "endereco": "Avenida Brasil, 929",
+        "bairro": "Capim Macio",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59979-625"
+      },
+      "numero": 94517,
+      "numero_formatado": "000.094.517",
+      "serie": 2,
+      "chave_acesso": "41250294619244000109550020000945171274115709",
+      "chave_acesso_formatada": "4125 0294 6192 4400 0109 5500 2000 0945 1712 7411 5709",
+      "data_emissao": "2025-02-28",
+      "data_emissao_formatada": "28/02/2025",
+      "hora_emissao": "17:49:58",
+      "valor_produtos": 837.43,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 837.43,
+      "valor_total_formatado": "837,43",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 3,
+          "unidade": "GL",
+          "valor_unitario": 28.57,
+          "valor_total": 85.71
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 77.55,
+          "valor_total": 77.55
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 150.53,
+          "valor_total": 451.59
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 1,
+          "unidade": "LT",
+          "valor_unitario": 222.58,
+          "valor_total": 222.58
+        }
+      ]
+    },
+    {
+      "id": "nfe_005",
+      "arquivo_xml": "xml/nfe_005.xml",
+      "arquivo_pdf": "pdf/nfe_005.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria Litoral EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "04.516.785/0001-00",
+        "documento_numeros": "04516785000100",
+        "endereco": "Rua Santos Dumont, 2834",
+        "bairro": "Boa Viagem",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50682-396"
+      },
+      "destinatario": {
+        "nome": "Distribuidora Estrela LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "76.123.615/0001-77",
+        "documento_numeros": "76123615000177",
+        "endereco": "Avenida Brasil, 326",
+        "bairro": "Botafogo",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "cep": "20721-799"
+      },
+      "numero": 200914,
+      "numero_formatado": "000.200.914",
+      "serie": 1,
+      "chave_acesso": "26260404516785000100550010002009141087410707",
+      "chave_acesso_formatada": "2626 0404 5167 8500 0100 5500 1000 2009 1410 8741 0707",
+      "data_emissao": "2026-04-28",
+      "data_emissao_formatada": "28/04/2026",
+      "hora_emissao": "12:13:28",
+      "valor_produtos": 1031.74,
+      "valor_frete": 153.99,
+      "valor_desconto": 0.0,
+      "valor_total": 1185.73,
+      "valor_total_formatado": "1.185,73",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 2,
+          "unidade": "CX",
+          "valor_unitario": 34.34,
+          "valor_total": 68.68
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 205.48,
+          "valor_total": 616.44
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 1,
+          "unidade": "LT",
+          "valor_unitario": 346.62,
+          "valor_total": 346.62
+        }
+      ]
+    },
+    {
+      "id": "nfe_006",
+      "arquivo_xml": "xml/nfe_006.xml",
+      "arquivo_pdf": "pdf/nfe_006.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Casa Central ME",
+        "tipo_documento": "CNPJ",
+        "documento": "44.798.931/0001-52",
+        "documento_numeros": "44798931000152",
+        "endereco": "Rua Marechal Deodoro, 1506",
+        "bairro": "Jardim Goiás",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74145-928"
+      },
+      "destinatario": {
+        "nome": "Materiais de Construção Bom Preço LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "13.528.582/0001-25",
+        "documento_numeros": "13528582000125",
+        "endereco": "Rua Dom Pedro II, 1681",
+        "bairro": "Centro",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88700-176"
+      },
+      "numero": 207382,
+      "numero_formatado": "000.207.382",
+      "serie": 3,
+      "chave_acesso": "52260244798931000152550030002073821977806418",
+      "chave_acesso_formatada": "5226 0244 7989 3100 0152 5500 3000 2073 8219 7780 6418",
+      "data_emissao": "2026-02-03",
+      "data_emissao_formatada": "03/02/2026",
+      "hora_emissao": "08:50:31",
+      "valor_produtos": 3725.59,
+      "valor_frete": 0.0,
+      "valor_desconto": 186.28,
+      "valor_total": 3539.31,
+      "valor_total_formatado": "3.539,31",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 833.46,
+          "valor_total": 1666.92
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 33.19,
+          "valor_total": 33.19
+        },
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 53.09,
+          "valor_total": 424.72
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 2,
+          "unidade": "CX",
+          "valor_unitario": 33.13,
+          "valor_total": 66.26
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 135.0,
+          "valor_total": 405.0
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 3,
+          "unidade": "LT",
+          "valor_unitario": 376.5,
+          "valor_total": 1129.5
+        }
+      ]
+    },
+    {
+      "id": "nfe_007",
+      "arquivo_xml": "xml/nfe_007.xml",
+      "arquivo_pdf": "pdf/nfe_007.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Agropecuária Horizonte ME",
+        "tipo_documento": "CNPJ",
+        "documento": "91.416.374/0001-48",
+        "documento_numeros": "91416374000148",
+        "endereco": "Rua São João, 806",
+        "bairro": "Lagoa Nova",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59033-513"
+      },
+      "destinatario": {
+        "nome": "Empório Litoral ME",
+        "tipo_documento": "CNPJ",
+        "documento": "84.724.591/0001-30",
+        "documento_numeros": "84724591000130",
+        "endereco": "Alameda dos Ipês, 161",
+        "bairro": "Tatuapé",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01614-833"
+      },
+      "numero": 167707,
+      "numero_formatado": "000.167.707",
+      "serie": 2,
+      "chave_acesso": "24241091416374000148550020001677071952330944",
+      "chave_acesso_formatada": "2424 1091 4163 7400 0148 5500 2000 1677 0719 5233 0944",
+      "data_emissao": "2024-10-04",
+      "data_emissao_formatada": "04/10/2024",
+      "hora_emissao": "15:08:49",
+      "valor_produtos": 3598.5,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 3598.5,
+      "valor_total_formatado": "3.598,50",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 49.67,
+          "valor_total": 99.34
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 102.84,
+          "valor_total": 205.68
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 554.42,
+          "valor_total": 554.42
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 190.94,
+          "valor_total": 572.82
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 40.97,
+          "valor_total": 122.91
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 681.11,
+          "valor_total": 2043.33
+        }
+      ]
+    },
+    {
+      "id": "nfe_008",
+      "arquivo_xml": "xml/nfe_008.xml",
+      "arquivo_pdf": "pdf/nfe_008.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria São Jorge EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "50.014.357/0001-05",
+        "documento_numeros": "50014357000105",
+        "endereco": "Avenida Independência, 1535",
+        "bairro": "Trindade",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88760-511"
+      },
+      "destinatario": {
+        "nome": "Matheus Lima Silva",
+        "tipo_documento": "CPF",
+        "documento": "889.071.566-97",
+        "documento_numeros": "88907156697",
+        "endereco": "Avenida Rio Branco, 345",
+        "bairro": "Barão Geraldo",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13991-127"
+      },
+      "numero": 192336,
+      "numero_formatado": "000.192.336",
+      "serie": 3,
+      "chave_acesso": "42260850014357000105550030001923361371054853",
+      "chave_acesso_formatada": "4226 0850 0143 5700 0105 5500 3000 1923 3613 7105 4853",
+      "data_emissao": "2026-08-25",
+      "data_emissao_formatada": "25/08/2026",
+      "hora_emissao": "18:59:48",
+      "valor_produtos": 467.07,
+      "valor_frete": 35.81,
+      "valor_desconto": 46.71,
+      "valor_total": 456.17,
+      "valor_total_formatado": "456,17",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 1,
+          "unidade": "RL",
+          "valor_unitario": 209.11,
+          "valor_total": 209.11
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 64.49,
+          "valor_total": 257.96
+        }
+      ]
+    },
+    {
+      "id": "nfe_009",
+      "arquivo_xml": "xml/nfe_009.xml",
+      "arquivo_pdf": "pdf/nfe_009.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Aurora ME",
+        "tipo_documento": "CNPJ",
+        "documento": "49.655.830/0001-46",
+        "documento_numeros": "49655830000146",
+        "endereco": "Rua Santos Dumont, 2140",
+        "bairro": "Cocó",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60221-620"
+      },
+      "destinatario": {
+        "nome": "Ana Lima Dias",
+        "tipo_documento": "CPF",
+        "documento": "561.736.534-78",
+        "documento_numeros": "56173653478",
+        "endereco": "Rua Santos Dumont, 2047",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01263-392"
+      },
+      "numero": 163545,
+      "numero_formatado": "000.163.545",
+      "serie": 2,
+      "chave_acesso": "23251049655830000146550020001635451491318196",
+      "chave_acesso_formatada": "2325 1049 6558 3000 0146 5500 2000 1635 4514 9131 8196",
+      "data_emissao": "2025-10-26",
+      "data_emissao_formatada": "26/10/2025",
+      "hora_emissao": "09:15:49",
+      "valor_produtos": 6848.94,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 6848.94,
+      "valor_total_formatado": "6.848,94",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 2924.33,
+          "valor_total": 5848.66
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 2,
+          "unidade": "LT",
+          "valor_unitario": 212.25,
+          "valor_total": 424.5
+        },
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 13.68,
+          "valor_total": 27.36
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 153.93,
+          "valor_total": 307.86
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 1,
+          "unidade": "GL",
+          "valor_unitario": 27.8,
+          "valor_total": 27.8
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 6,
+          "unidade": "SC",
+          "valor_unitario": 35.46,
+          "valor_total": 212.76
+        }
+      ]
+    },
+    {
+      "id": "nfe_010",
+      "arquivo_xml": "xml/nfe_010.xml",
+      "arquivo_pdf": "pdf/nfe_010.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Serra Azul EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "05.691.375/0001-69",
+        "documento_numeros": "05691375000169",
+        "endereco": "Rua das Flores, 1120",
+        "bairro": "Moema",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01480-030"
+      },
+      "destinatario": {
+        "nome": "Padaria Estrela ME",
+        "tipo_documento": "CNPJ",
+        "documento": "20.743.725/0001-87",
+        "documento_numeros": "20743725000187",
+        "endereco": "Rua Dom Pedro II, 471",
+        "bairro": "Portão",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80513-220"
+      },
+      "numero": 42649,
+      "numero_formatado": "000.042.649",
+      "serie": 3,
+      "chave_acesso": "35241205691375000169550030000426491080875246",
+      "chave_acesso_formatada": "3524 1205 6913 7500 0169 5500 3000 0426 4910 8087 5246",
+      "data_emissao": "2024-12-20",
+      "data_emissao_formatada": "20/12/2024",
+      "hora_emissao": "19:56:53",
+      "valor_produtos": 7203.92,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 7203.92,
+      "valor_total_formatado": "7.203,92",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 12.46,
+          "valor_total": 49.84
+        },
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 40.89,
+          "valor_total": 245.34
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 3454.37,
+          "valor_total": 6908.74
+        }
+      ]
+    },
+    {
+      "id": "nfe_011",
+      "arquivo_xml": "xml/nfe_011.xml",
+      "arquivo_pdf": "pdf/nfe_011.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Atacadista Cerrado S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "06.460.171/0001-80",
+        "documento_numeros": "06460171000180",
+        "endereco": "Rua Dom Pedro II, 715",
+        "bairro": "Aldeota",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60546-068"
+      },
+      "destinatario": {
+        "nome": "Indústria Vale Verde EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "33.570.349/0001-18",
+        "documento_numeros": "33570349000118",
+        "endereco": "Avenida Independência, 654",
+        "bairro": "Setor Bueno",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74792-359"
+      },
+      "numero": 234639,
+      "numero_formatado": "000.234.639",
+      "serie": 1,
+      "chave_acesso": "23250106460171000180550010002346391895711517",
+      "chave_acesso_formatada": "2325 0106 4601 7100 0180 5500 1000 2346 3918 9571 1517",
+      "data_emissao": "2025-01-06",
+      "data_emissao_formatada": "06/01/2025",
+      "hora_emissao": "11:13:33",
+      "valor_produtos": 305.62,
+      "valor_frete": 74.38,
+      "valor_desconto": 0.0,
+      "valor_total": 380.0,
+      "valor_total_formatado": "380,00",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 152.81,
+          "valor_total": 305.62
+        }
+      ]
+    },
+    {
+      "id": "nfe_012",
+      "arquivo_xml": "xml/nfe_012.xml",
+      "arquivo_pdf": "pdf/nfe_012.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Padaria Ipê ME",
+        "tipo_documento": "CNPJ",
+        "documento": "95.149.193/0001-53",
+        "documento_numeros": "95149193000153",
+        "endereco": "Avenida Getúlio Vargas, 61",
+        "bairro": "Itacorubi",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88056-603"
+      },
+      "destinatario": {
+        "nome": "Pedro Lima Mendes",
+        "tipo_documento": "CPF",
+        "documento": "237.382.561-99",
+        "documento_numeros": "23738256199",
+        "endereco": "Avenida Paulista, 268",
+        "bairro": "Flores",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69860-386"
+      },
+      "numero": 26455,
+      "numero_formatado": "000.026.455",
+      "serie": 2,
+      "chave_acesso": "42241095149193000153550020000264551513780388",
+      "chave_acesso_formatada": "4224 1095 1491 9300 0153 5500 2000 0264 5515 1378 0388",
+      "data_emissao": "2024-10-25",
+      "data_emissao_formatada": "25/10/2024",
+      "hora_emissao": "10:12:28",
+      "valor_produtos": 329.25,
+      "valor_frete": 174.49,
+      "valor_desconto": 32.93,
+      "valor_total": 470.81,
+      "valor_total_formatado": "470,81",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 35.44,
+          "valor_total": 141.76
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 187.49,
+          "valor_total": 187.49
+        }
+      ]
+    },
+    {
+      "id": "nfe_013",
+      "arquivo_xml": "xml/nfe_013.xml",
+      "arquivo_pdf": "pdf/nfe_013.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Eletro Planalto ME",
+        "tipo_documento": "CNPJ",
+        "documento": "19.577.322/0001-26",
+        "documento_numeros": "19577322000126",
+        "endereco": "Avenida Getúlio Vargas, 1502",
+        "bairro": "Asa Sul",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70533-580"
+      },
+      "destinatario": {
+        "nome": "Empório Cerrado EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "67.775.096/0001-30",
+        "documento_numeros": "67775096000130",
+        "endereco": "Rua Tiradentes, 1375",
+        "bairro": "Jardim Camburi",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "cep": "29090-557"
+      },
+      "numero": 213843,
+      "numero_formatado": "000.213.843",
+      "serie": 3,
+      "chave_acesso": "53261019577322000126550030002138431777139408",
+      "chave_acesso_formatada": "5326 1019 5773 2200 0126 5500 3000 2138 4317 7713 9408",
+      "data_emissao": "2026-10-10",
+      "data_emissao_formatada": "10/10/2026",
+      "hora_emissao": "17:08:34",
+      "valor_produtos": 656.85,
+      "valor_frete": 0.0,
+      "valor_desconto": 19.71,
+      "valor_total": 637.14,
+      "valor_total_formatado": "637,14",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 157.83,
+          "valor_total": 473.49
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 6,
+          "unidade": "CX",
+          "valor_unitario": 30.56,
+          "valor_total": 183.36
+        }
+      ]
+    },
+    {
+      "id": "nfe_014",
+      "arquivo_xml": "xml/nfe_014.xml",
+      "arquivo_pdf": "pdf/nfe_014.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Materiais de Construção Litoral LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "22.970.244/0001-30",
+        "documento_numeros": "22970244000130",
+        "endereco": "Rua das Flores, 1929",
+        "bairro": "Pampulha",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30495-885"
+      },
+      "destinatario": {
+        "nome": "Distribuidora São Jorge EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "96.381.190/0001-03",
+        "documento_numeros": "96381190000103",
+        "endereco": "Avenida Independência, 1325",
+        "bairro": "Jardim Itália",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78672-903"
+      },
+      "numero": 118148,
+      "numero_formatado": "000.118.148",
+      "serie": 2,
+      "chave_acesso": "31250522970244000130550020001181481320317289",
+      "chave_acesso_formatada": "3125 0522 9702 4400 0130 5500 2000 1181 4813 2031 7289",
+      "data_emissao": "2025-05-23",
+      "data_emissao_formatada": "23/05/2025",
+      "hora_emissao": "17:45:04",
+      "valor_produtos": 255.21,
+      "valor_frete": 0.0,
+      "valor_desconto": 12.76,
+      "valor_total": 242.45,
+      "valor_total_formatado": "242,45",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 85.07,
+          "valor_total": 255.21
+        }
+      ]
+    },
+    {
+      "id": "nfe_015",
+      "arquivo_xml": "xml/nfe_015.xml",
+      "arquivo_pdf": "pdf/nfe_015.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Agropecuária Planalto EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "14.163.036/0001-09",
+        "documento_numeros": "14163036000109",
+        "endereco": "Rua Dom Pedro II, 2250",
+        "bairro": "Goiabeiras",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78778-120"
+      },
+      "destinatario": {
+        "nome": "Juliana Santos Martins",
+        "tipo_documento": "CPF",
+        "documento": "471.675.576-25",
+        "documento_numeros": "47167557625",
+        "endereco": "Travessa da Paz, 46",
+        "bairro": "Cocó",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60571-389"
+      },
+      "numero": 93566,
+      "numero_formatado": "000.093.566",
+      "serie": 3,
+      "chave_acesso": "51241014163036000109550030000935661580162235",
+      "chave_acesso_formatada": "5124 1014 1630 3600 0109 5500 3000 0935 6615 8016 2235",
+      "data_emissao": "2024-10-30",
+      "data_emissao_formatada": "30/10/2024",
+      "hora_emissao": "16:08:07",
+      "valor_produtos": 102.92,
+      "valor_frete": 29.8,
+      "valor_desconto": 0.0,
+      "valor_total": 132.72,
+      "valor_total_formatado": "132,72",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 4,
+          "unidade": "GL",
+          "valor_unitario": 25.73,
+          "valor_total": 102.92
+        }
+      ]
+    },
+    {
+      "id": "nfe_016",
+      "arquivo_xml": "xml/nfe_016.xml",
+      "arquivo_pdf": "pdf/nfe_016.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Farmácia Boa Vista LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "89.614.219/0001-94",
+        "documento_numeros": "89614219000194",
+        "endereco": "Rua das Flores, 1526",
+        "bairro": "Asa Norte",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70014-862"
+      },
+      "destinatario": {
+        "nome": "Auto Peças Cerrado LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "53.751.828/0001-48",
+        "documento_numeros": "53751828000148",
+        "endereco": "Rua Barão do Rio Branco, 748",
+        "bairro": "Renascença",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65617-595"
+      },
+      "numero": 231440,
+      "numero_formatado": "000.231.440",
+      "serie": 2,
+      "chave_acesso": "53241289614219000194550020002314401417745779",
+      "chave_acesso_formatada": "5324 1289 6142 1900 0194 5500 2000 2314 4014 1774 5779",
+      "data_emissao": "2024-12-09",
+      "data_emissao_formatada": "09/12/2024",
+      "hora_emissao": "15:04:25",
+      "valor_produtos": 5227.27,
+      "valor_frete": 0.0,
+      "valor_desconto": 261.36,
+      "valor_total": 4965.91,
+      "valor_total_formatado": "4.965,91",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 86.77,
+          "valor_total": 173.54
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 2,
+          "unidade": "RL",
+          "valor_unitario": 293.05,
+          "valor_total": 586.1
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 8,
+          "unidade": "SC",
+          "valor_unitario": 36.76,
+          "valor_total": 294.08
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 1271.15,
+          "valor_total": 2542.3
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 543.75,
+          "valor_total": 1631.25
+        }
+      ]
+    },
+    {
+      "id": "nfe_017",
+      "arquivo_xml": "xml/nfe_017.xml",
+      "arquivo_pdf": "pdf/nfe_017.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Materiais de Construção Boa Vista EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "96.292.647/0001-03",
+        "documento_numeros": "96292647000103",
+        "endereco": "Avenida Rio Branco, 342",
+        "bairro": "Jardim Itália",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78648-043"
+      },
+      "destinatario": {
+        "nome": "João Mendes Ribeiro",
+        "tipo_documento": "CPF",
+        "documento": "915.913.092-04",
+        "documento_numeros": "91591309204",
+        "endereco": "Rua São João, 856",
+        "bairro": "Boa Viagem",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50841-546"
+      },
+      "numero": 120161,
+      "numero_formatado": "000.120.161",
+      "serie": 1,
+      "chave_acesso": "51241296292647000103550010001201611521479531",
+      "chave_acesso_formatada": "5124 1296 2926 4700 0103 5500 1000 1201 6115 2147 9531",
+      "data_emissao": "2024-12-31",
+      "data_emissao_formatada": "31/12/2024",
+      "hora_emissao": "10:37:28",
+      "valor_produtos": 3770.49,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 3770.49,
+      "valor_total_formatado": "3.770,49",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 931.83,
+          "valor_total": 931.83
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 37.98,
+          "valor_total": 75.96
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 1,
+          "unidade": "RL",
+          "valor_unitario": 279.86,
+          "valor_total": 279.86
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 997.25,
+          "valor_total": 1994.5
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 90.0,
+          "valor_total": 90.0
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 1,
+          "unidade": "LT",
+          "valor_unitario": 398.34,
+          "valor_total": 398.34
+        }
+      ]
+    },
+    {
+      "id": "nfe_018",
+      "arquivo_xml": "xml/nfe_018.xml",
+      "arquivo_pdf": "pdf/nfe_018.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Padaria Litoral LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "32.169.101/0001-87",
+        "documento_numeros": "32169101000187",
+        "endereco": "Avenida Paulista, 977",
+        "bairro": "Goiabeiras",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78083-360"
+      },
+      "destinatario": {
+        "nome": "Casa Aurora LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "94.158.185/0001-00",
+        "documento_numeros": "94158185000100",
+        "endereco": "Avenida Rio Branco, 1393",
+        "bairro": "Centro",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88791-208"
+      },
+      "numero": 149192,
+      "numero_formatado": "000.149.192",
+      "serie": 3,
+      "chave_acesso": "51240832169101000187550030001491921831516378",
+      "chave_acesso_formatada": "5124 0832 1691 0100 0187 5500 3000 1491 9218 3151 6378",
+      "data_emissao": "2024-08-22",
+      "data_emissao_formatada": "22/08/2024",
+      "hora_emissao": "19:25:21",
+      "valor_produtos": 5044.59,
+      "valor_frete": 0.0,
+      "valor_desconto": 151.34,
+      "valor_total": 4893.25,
+      "valor_total_formatado": "4.893,25",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 823.31,
+          "valor_total": 1646.62
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 2,
+          "unidade": "GL",
+          "valor_unitario": 24.85,
+          "valor_total": 49.7
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 229.86,
+          "valor_total": 229.86
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 1039.47,
+          "valor_total": 3118.41
+        }
+      ]
+    },
+    {
+      "id": "nfe_019",
+      "arquivo_xml": "xml/nfe_019.xml",
+      "arquivo_pdf": "pdf/nfe_019.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Materiais de Construção Vale Verde EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "66.736.877/0001-53",
+        "documento_numeros": "66736877000153",
+        "endereco": "Rua Marechal Deodoro, 2517",
+        "bairro": "Centro",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13540-307"
+      },
+      "destinatario": {
+        "nome": "Indústria Nova Era LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "33.688.343/0001-40",
+        "documento_numeros": "33688343000140",
+        "endereco": "Rua São João, 1890",
+        "bairro": "Cidade Baixa",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "cep": "90553-632"
+      },
+      "numero": 230006,
+      "numero_formatado": "000.230.006",
+      "serie": 2,
+      "chave_acesso": "35260466736877000153550020002300061423496946",
+      "chave_acesso_formatada": "3526 0466 7368 7700 0153 5500 2000 2300 0614 2349 6946",
+      "data_emissao": "2026-04-04",
+      "data_emissao_formatada": "04/04/2026",
+      "hora_emissao": "16:22:54",
+      "valor_produtos": 402.21,
+      "valor_frete": 88.23,
+      "valor_desconto": 0.0,
+      "valor_total": 490.44,
+      "valor_total_formatado": "490,44",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 402.21,
+          "valor_total": 402.21
+        }
+      ]
+    },
+    {
+      "id": "nfe_020",
+      "arquivo_xml": "xml/nfe_020.xml",
+      "arquivo_pdf": "pdf/nfe_020.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Papelaria Primavera EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "97.971.595/0001-64",
+        "documento_numeros": "97971595000164",
+        "endereco": "Avenida Getúlio Vargas, 1397",
+        "bairro": "Centro",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13535-224"
+      },
+      "destinatario": {
+        "nome": "João Dias Santos",
+        "tipo_documento": "CPF",
+        "documento": "787.737.946-35",
+        "documento_numeros": "78773794635",
+        "endereco": "Rua Barão do Rio Branco, 792",
+        "bairro": "Jardim Itália",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78299-554"
+      },
+      "numero": 22464,
+      "numero_formatado": "000.022.464",
+      "serie": 3,
+      "chave_acesso": "35260697971595000164550030000224641885659244",
+      "chave_acesso_formatada": "3526 0697 9715 9500 0164 5500 3000 0224 6418 8565 9244",
+      "data_emissao": "2026-06-04",
+      "data_emissao_formatada": "04/06/2026",
+      "hora_emissao": "15:16:48",
+      "valor_produtos": 2155.67,
+      "valor_frete": 125.2,
+      "valor_desconto": 107.78,
+      "valor_total": 2173.09,
+      "valor_total_formatado": "2.173,09",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 79.61,
+          "valor_total": 79.61
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 8,
+          "unidade": "CX",
+          "valor_unitario": 37.86,
+          "valor_total": 302.88
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 238.27,
+          "valor_total": 476.54
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 12,
+          "unidade": "SC",
+          "valor_unitario": 32.4,
+          "valor_total": 388.8
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 907.84,
+          "valor_total": 907.84
+        }
+      ]
+    },
+    {
+      "id": "nfe_021",
+      "arquivo_xml": "xml/nfe_021.xml",
+      "arquivo_pdf": "pdf/nfe_021.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Distribuidora Litoral LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "09.075.142/0001-92",
+        "documento_numeros": "09075142000192",
+        "endereco": "Avenida Brasil, 526",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01270-953"
+      },
+      "destinatario": {
+        "nome": "Atacadista Cerrado LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "05.166.699/0001-88",
+        "documento_numeros": "05166699000188",
+        "endereco": "Rua Dom Pedro II, 1515",
+        "bairro": "Cambuí",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13184-751"
+      },
+      "numero": 239040,
+      "numero_formatado": "000.239.040",
+      "serie": 3,
+      "chave_acesso": "35260109075142000192550030002390401622914590",
+      "chave_acesso_formatada": "3526 0109 0751 4200 0192 5500 3000 2390 4016 2291 4590",
+      "data_emissao": "2026-01-02",
+      "data_emissao_formatada": "02/01/2026",
+      "hora_emissao": "11:21:00",
+      "valor_produtos": 9357.18,
+      "valor_frete": 171.79,
+      "valor_desconto": 935.72,
+      "valor_total": 8593.25,
+      "valor_total_formatado": "8.593,25",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 6.87,
+          "valor_total": 13.74
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4224.1,
+          "valor_total": 8448.2
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 4,
+          "unidade": "CX",
+          "valor_unitario": 23.06,
+          "valor_total": 92.24
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 2,
+          "unidade": "LT",
+          "valor_unitario": 401.5,
+          "valor_total": 803.0
+        }
+      ]
+    },
+    {
+      "id": "nfe_022",
+      "arquivo_xml": "xml/nfe_022.xml",
+      "arquivo_pdf": "pdf/nfe_022.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Empório Horizonte S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "99.420.585/0001-66",
+        "documento_numeros": "99420585000166",
+        "endereco": "Avenida Brasil, 1529",
+        "bairro": "Centro",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13729-970"
+      },
+      "destinatario": {
+        "nome": "Distribuidora Horizonte LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "62.011.270/0001-55",
+        "documento_numeros": "62011270000155",
+        "endereco": "Avenida Brasil, 1426",
+        "bairro": "Lourdes",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30606-198"
+      },
+      "numero": 42463,
+      "numero_formatado": "000.042.463",
+      "serie": 2,
+      "chave_acesso": "35250199420585000166550020000424631779141830",
+      "chave_acesso_formatada": "3525 0199 4205 8500 0166 5500 2000 0424 6317 7914 1830",
+      "data_emissao": "2025-01-16",
+      "data_emissao_formatada": "16/01/2025",
+      "hora_emissao": "19:10:55",
+      "valor_produtos": 1242.13,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 1242.13,
+      "valor_total_formatado": "1.242,13",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 3,
+          "unidade": "LT",
+          "valor_unitario": 294.13,
+          "valor_total": 882.39
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 179.87,
+          "valor_total": 359.74
+        }
+      ]
+    },
+    {
+      "id": "nfe_023",
+      "arquivo_xml": "xml/nfe_023.xml",
+      "arquivo_pdf": "pdf/nfe_023.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Padaria Serra Azul ME",
+        "tipo_documento": "CNPJ",
+        "documento": "00.588.180/0001-74",
+        "documento_numeros": "00588180000174",
+        "endereco": "Avenida Paulista, 1259",
+        "bairro": "Setor Marista",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74589-533"
+      },
+      "destinatario": {
+        "nome": "Matheus Carvalho Costa",
+        "tipo_documento": "CPF",
+        "documento": "656.638.625-44",
+        "documento_numeros": "65663862544",
+        "endereco": "Rua XV de Novembro, 2533",
+        "bairro": "Jardim dos Estados",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79459-294"
+      },
+      "numero": 202807,
+      "numero_formatado": "000.202.807",
+      "serie": 2,
+      "chave_acesso": "52260700588180000174550020002028071799830013",
+      "chave_acesso_formatada": "5226 0700 5881 8000 0174 5500 2000 2028 0717 9983 0013",
+      "data_emissao": "2026-07-17",
+      "data_emissao_formatada": "17/07/2026",
+      "hora_emissao": "08:21:11",
+      "valor_produtos": 4961.59,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 4961.59,
+      "valor_total_formatado": "4.961,59",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 1143.24,
+          "valor_total": 1143.24
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 668.18,
+          "valor_total": 2004.54
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 3,
+          "unidade": "LT",
+          "valor_unitario": 384.75,
+          "valor_total": 1154.25
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 3,
+          "unidade": "GL",
+          "valor_unitario": 28.92,
+          "valor_total": 86.76
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 2,
+          "unidade": "CX",
+          "valor_unitario": 37.97,
+          "valor_total": 75.94
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 2,
+          "unidade": "RL",
+          "valor_unitario": 248.43,
+          "valor_total": 496.86
+        }
+      ]
+    },
+    {
+      "id": "nfe_024",
+      "arquivo_xml": "xml/nfe_024.xml",
+      "arquivo_pdf": "pdf/nfe_024.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Planalto LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "87.348.292/0001-36",
+        "documento_numeros": "87348292000136",
+        "endereco": "Rua Sete de Setembro, 250",
+        "bairro": "Setor Marista",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74016-418"
+      },
+      "destinatario": {
+        "nome": "Luíza Costa Lima",
+        "tipo_documento": "CPF",
+        "documento": "487.591.904-26",
+        "documento_numeros": "48759190426",
+        "endereco": "Rua Marechal Deodoro, 1241",
+        "bairro": "Barão Geraldo",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13134-896"
+      },
+      "numero": 171245,
+      "numero_formatado": "000.171.245",
+      "serie": 3,
+      "chave_acesso": "52250487348292000136550030001712451084818465",
+      "chave_acesso_formatada": "5225 0487 3482 9200 0136 5500 3000 1712 4510 8481 8465",
+      "data_emissao": "2025-04-28",
+      "data_emissao_formatada": "28/04/2025",
+      "hora_emissao": "17:34:42",
+      "valor_produtos": 12881.28,
+      "valor_frete": 107.4,
+      "valor_desconto": 0.0,
+      "valor_total": 12988.68,
+      "valor_total_formatado": "12.988,68",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4266.25,
+          "valor_total": 12798.75
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 3,
+          "unidade": "CX",
+          "valor_unitario": 27.51,
+          "valor_total": 82.53
+        }
+      ]
+    },
+    {
+      "id": "nfe_025",
+      "arquivo_xml": "xml/nfe_025.xml",
+      "arquivo_pdf": "pdf/nfe_025.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Mercado Central ME",
+        "tipo_documento": "CNPJ",
+        "documento": "79.748.010/0001-60",
+        "documento_numeros": "79748010000160",
+        "endereco": "Avenida Brasil, 1718",
+        "bairro": "Água Verde",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80013-470"
+      },
+      "destinatario": {
+        "nome": "Empório São Jorge S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "91.753.114/0001-68",
+        "documento_numeros": "91753114000168",
+        "endereco": "Avenida Rio Branco, 1087",
+        "bairro": "Meireles",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60302-445"
+      },
+      "numero": 173574,
+      "numero_formatado": "000.173.574",
+      "serie": 2,
+      "chave_acesso": "41250979748010000160550020001735741934615735",
+      "chave_acesso_formatada": "4125 0979 7480 1000 0160 5500 2000 1735 7419 3461 5735",
+      "data_emissao": "2025-09-19",
+      "data_emissao_formatada": "19/09/2025",
+      "hora_emissao": "17:17:32",
+      "valor_produtos": 8857.02,
+      "valor_frete": 141.7,
+      "valor_desconto": 0.0,
+      "valor_total": 8998.72,
+      "valor_total_formatado": "8.998,72",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 3,
+          "unidade": "GL",
+          "valor_unitario": 26.52,
+          "valor_total": 79.56
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 2925.82,
+          "valor_total": 8777.46
+        }
+      ]
+    },
+    {
+      "id": "nfe_026",
+      "arquivo_xml": "xml/nfe_026.xml",
+      "arquivo_pdf": "pdf/nfe_026.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Eletro Bom Preço ME",
+        "tipo_documento": "CNPJ",
+        "documento": "99.945.459/0001-25",
+        "documento_numeros": "99945459000125",
+        "endereco": "Avenida Brasil, 1385",
+        "bairro": "Moinhos de Vento",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "cep": "90620-681"
+      },
+      "destinatario": {
+        "nome": "Eletro Litoral EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "64.328.721/0001-08",
+        "documento_numeros": "64328721000108",
+        "endereco": "Avenida Brasil, 2597",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01907-420"
+      },
+      "numero": 220837,
+      "numero_formatado": "000.220.837",
+      "serie": 2,
+      "chave_acesso": "43260899945459000125550020002208371876986501",
+      "chave_acesso_formatada": "4326 0899 9454 5900 0125 5500 2000 2208 3718 7698 6501",
+      "data_emissao": "2026-08-06",
+      "data_emissao_formatada": "06/08/2026",
+      "hora_emissao": "10:57:02",
+      "valor_produtos": 13146.39,
+      "valor_frete": 0.0,
+      "valor_desconto": 657.32,
+      "valor_total": 12489.07,
+      "valor_total_formatado": "12.489,07",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 4,
+          "unidade": "SC",
+          "valor_unitario": 34.44,
+          "valor_total": 137.76
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 1,
+          "unidade": "CX",
+          "valor_unitario": 26.5,
+          "valor_total": 26.5
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3051.01,
+          "valor_total": 9153.03
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 1260.92,
+          "valor_total": 3782.76
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 46.34,
+          "valor_total": 46.34
+        }
+      ]
+    },
+    {
+      "id": "nfe_027",
+      "arquivo_xml": "xml/nfe_027.xml",
+      "arquivo_pdf": "pdf/nfe_027.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Comercial Primavera LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "15.646.436/0001-20",
+        "documento_numeros": "15646436000120",
+        "endereco": "Rua Marechal Deodoro, 2323",
+        "bairro": "Centro",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38834-049"
+      },
+      "destinatario": {
+        "nome": "Indústria Ipê S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "75.376.989/0001-31",
+        "documento_numeros": "75376989000131",
+        "endereco": "Rua Santos Dumont, 1944",
+        "bairro": "Centro",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69629-354"
+      },
+      "numero": 100673,
+      "numero_formatado": "000.100.673",
+      "serie": 1,
+      "chave_acesso": "31260415646436000120550010001006731345015393",
+      "chave_acesso_formatada": "3126 0415 6464 3600 0120 5500 1000 1006 7313 4501 5393",
+      "data_emissao": "2026-04-04",
+      "data_emissao_formatada": "04/04/2026",
+      "hora_emissao": "10:02:52",
+      "valor_produtos": 3252.0,
+      "valor_frete": 0.0,
+      "valor_desconto": 97.56,
+      "valor_total": 3154.44,
+      "valor_total_formatado": "3.154,44",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 95.8,
+          "valor_total": 287.4
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 988.2,
+          "valor_total": 2964.6
+        }
+      ]
+    },
+    {
+      "id": "nfe_028",
+      "arquivo_xml": "xml/nfe_028.xml",
+      "arquivo_pdf": "pdf/nfe_028.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Agropecuária Planalto LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "97.272.457/0001-97",
+        "documento_numeros": "97272457000197",
+        "endereco": "Avenida Rio Branco, 2978",
+        "bairro": "Centro",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88831-169"
+      },
+      "destinatario": {
+        "nome": "Patrícia Moreira Silva",
+        "tipo_documento": "CPF",
+        "documento": "502.359.950-70",
+        "documento_numeros": "50235995070",
+        "endereco": "Avenida Paulista, 643",
+        "bairro": "Trindade",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88384-896"
+      },
+      "numero": 31773,
+      "numero_formatado": "000.031.773",
+      "serie": 3,
+      "chave_acesso": "42260197272457000197550030000317731321090739",
+      "chave_acesso_formatada": "4226 0197 2724 5700 0197 5500 3000 0317 7313 2109 0739",
+      "data_emissao": "2026-01-09",
+      "data_emissao_formatada": "09/01/2026",
+      "hora_emissao": "12:51:23",
+      "valor_produtos": 15756.71,
+      "valor_frete": 155.13,
+      "valor_desconto": 1575.67,
+      "valor_total": 14336.17,
+      "valor_total_formatado": "14.336,17",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3401.38,
+          "valor_total": 10204.14
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 3,
+          "unidade": "RL",
+          "valor_unitario": 269.9,
+          "valor_total": 809.7
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 194.81,
+          "valor_total": 584.43
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 177.47,
+          "valor_total": 177.47
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 490.14,
+          "valor_total": 980.28
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 1000.23,
+          "valor_total": 3000.69
+        }
+      ]
+    },
+    {
+      "id": "nfe_029",
+      "arquivo_xml": "xml/nfe_029.xml",
+      "arquivo_pdf": "pdf/nfe_029.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Farmácia Litoral LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "70.707.928/0001-96",
+        "documento_numeros": "70707928000196",
+        "endereco": "Alameda dos Ipês, 195",
+        "bairro": "Capim Macio",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59061-835"
+      },
+      "destinatario": {
+        "nome": "Mercado Aurora ME",
+        "tipo_documento": "CNPJ",
+        "documento": "63.020.181/0001-38",
+        "documento_numeros": "63020181000138",
+        "endereco": "Rua Dom Pedro II, 1094",
+        "bairro": "Capim Macio",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59304-673"
+      },
+      "numero": 19618,
+      "numero_formatado": "000.019.618",
+      "serie": 2,
+      "chave_acesso": "24260270707928000196550020000196181506162696",
+      "chave_acesso_formatada": "2426 0270 7079 2800 0196 5500 2000 0196 1815 0616 2696",
+      "data_emissao": "2026-02-19",
+      "data_emissao_formatada": "19/02/2026",
+      "hora_emissao": "12:00:22",
+      "valor_produtos": 13188.52,
+      "valor_frete": 72.92,
+      "valor_desconto": 0.0,
+      "valor_total": 13261.44,
+      "valor_total_formatado": "13.261,44",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 154.2,
+          "valor_total": 154.2
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4301.4,
+          "valor_total": 12904.2
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 4,
+          "unidade": "GL",
+          "valor_unitario": 32.53,
+          "valor_total": 130.12
+        }
+      ]
+    },
+    {
+      "id": "nfe_030",
+      "arquivo_xml": "xml/nfe_030.xml",
+      "arquivo_pdf": "pdf/nfe_030.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Papelaria Primavera LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "27.467.443/0001-43",
+        "documento_numeros": "27467443000143",
+        "endereco": "Travessa da Paz, 2486",
+        "bairro": "Portão",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80576-770"
+      },
+      "destinatario": {
+        "nome": "Gustavo Machado Souza",
+        "tipo_documento": "CPF",
+        "documento": "892.411.349-68",
+        "documento_numeros": "89241134968",
+        "endereco": "Rua Marechal Deodoro, 2325",
+        "bairro": "Pampulha",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30791-700"
+      },
+      "numero": 9595,
+      "numero_formatado": "000.009.595",
+      "serie": 3,
+      "chave_acesso": "41241227467443000143550030000095951850914111",
+      "chave_acesso_formatada": "4124 1227 4674 4300 0143 5500 3000 0095 9518 5091 4111",
+      "data_emissao": "2024-12-31",
+      "data_emissao_formatada": "31/12/2024",
+      "hora_emissao": "12:23:27",
+      "valor_produtos": 885.13,
+      "valor_frete": 0.0,
+      "valor_desconto": 26.55,
+      "valor_total": 858.58,
+      "valor_total_formatado": "858,58",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 10.25,
+          "valor_total": 61.5
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 2,
+          "unidade": "LT",
+          "valor_unitario": 394.68,
+          "valor_total": 789.36
+        },
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 34.27,
+          "valor_total": 34.27
+        }
+      ]
+    },
+    {
+      "id": "nfe_031",
+      "arquivo_xml": "xml/nfe_031.xml",
+      "arquivo_pdf": "pdf/nfe_031.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria Horizonte S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "86.999.363/0001-06",
+        "documento_numeros": "86999363000106",
+        "endereco": "Avenida Paulista, 1515",
+        "bairro": "Savassi",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30014-914"
+      },
+      "destinatario": {
+        "nome": "Indústria Bom Preço EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "25.254.033/0001-99",
+        "documento_numeros": "25254033000199",
+        "endereco": "Rua Barão do Rio Branco, 184",
+        "bairro": "Fátima",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60481-804"
+      },
+      "numero": 5001,
+      "numero_formatado": "000.005.001",
+      "serie": 1,
+      "chave_acesso": "31250186999363000106550010000050011854113930",
+      "chave_acesso_formatada": "3125 0186 9993 6300 0106 5500 1000 0050 0118 5411 3930",
+      "data_emissao": "2025-01-27",
+      "data_emissao_formatada": "27/01/2025",
+      "hora_emissao": "08:56:08",
+      "valor_produtos": 3640.57,
+      "valor_frete": 0.0,
+      "valor_desconto": 182.03,
+      "valor_total": 3458.54,
+      "valor_total_formatado": "3.458,54",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 79.88,
+          "valor_total": 319.52
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 159.54,
+          "valor_total": 478.62
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 681.76,
+          "valor_total": 681.76
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 12,
+          "unidade": "CX",
+          "valor_unitario": 33.74,
+          "valor_total": 404.88
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 2,
+          "unidade": "LT",
+          "valor_unitario": 419.24,
+          "valor_total": 838.48
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 3,
+          "unidade": "RL",
+          "valor_unitario": 305.77,
+          "valor_total": 917.31
+        }
+      ]
+    },
+    {
+      "id": "nfe_032",
+      "arquivo_xml": "xml/nfe_032.xml",
+      "arquivo_pdf": "pdf/nfe_032.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria Serra Azul S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "50.707.407/0001-21",
+        "documento_numeros": "50707407000121",
+        "endereco": "Avenida Independência, 47",
+        "bairro": "Funcionários",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30636-829"
+      },
+      "destinatario": {
+        "nome": "Padaria Ipê S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "93.917.703/0001-60",
+        "documento_numeros": "93917703000160",
+        "endereco": "Rua Tiradentes, 535",
+        "bairro": "Setor Bueno",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74383-097"
+      },
+      "numero": 157924,
+      "numero_formatado": "000.157.924",
+      "serie": 3,
+      "chave_acesso": "31241150707407000121550030001579241878698347",
+      "chave_acesso_formatada": "3124 1150 7074 0700 0121 5500 3000 1579 2418 7869 8347",
+      "data_emissao": "2024-11-05",
+      "data_emissao_formatada": "05/11/2024",
+      "hora_emissao": "12:01:27",
+      "valor_produtos": 2172.54,
+      "valor_frete": 64.79,
+      "valor_desconto": 108.63,
+      "valor_total": 2128.7,
+      "valor_total_formatado": "2.128,70",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 715.94,
+          "valor_total": 2147.82
+        },
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 12.36,
+          "valor_total": 24.72
+        }
+      ]
+    },
+    {
+      "id": "nfe_033",
+      "arquivo_xml": "xml/nfe_033.xml",
+      "arquivo_pdf": "pdf/nfe_033.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Indústria Litoral EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "85.323.798/0001-65",
+        "documento_numeros": "85323798000165",
+        "endereco": "Avenida Paulista, 2048",
+        "bairro": "Aldeota",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60532-993"
+      },
+      "destinatario": {
+        "nome": "Vitória Rocha Rodrigues",
+        "tipo_documento": "CPF",
+        "documento": "812.171.806-64",
+        "documento_numeros": "81217180664",
+        "endereco": "Rua Dom Pedro II, 2153",
+        "bairro": "Calhau",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65316-018"
+      },
+      "numero": 201434,
+      "numero_formatado": "000.201.434",
+      "serie": 1,
+      "chave_acesso": "23251085323798000165550010002014341739718269",
+      "chave_acesso_formatada": "2325 1085 3237 9800 0165 5500 1000 2014 3417 3971 8269",
+      "data_emissao": "2025-10-08",
+      "data_emissao_formatada": "08/10/2025",
+      "hora_emissao": "09:55:46",
+      "valor_produtos": 3886.03,
+      "valor_frete": 0.0,
+      "valor_desconto": 388.6,
+      "valor_total": 3497.43,
+      "valor_total_formatado": "3.497,43",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 438.06,
+          "valor_total": 876.12
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 3,
+          "unidade": "RL",
+          "valor_unitario": 209.85,
+          "valor_total": 629.55
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 1163.16,
+          "valor_total": 1163.16
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 2,
+          "unidade": "LT",
+          "valor_unitario": 413.42,
+          "valor_total": 826.84
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 195.18,
+          "valor_total": 390.36
+        }
+      ]
+    },
+    {
+      "id": "nfe_034",
+      "arquivo_xml": "xml/nfe_034.xml",
+      "arquivo_pdf": "pdf/nfe_034.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Casa Boa Vista S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "13.816.381/0001-23",
+        "documento_numeros": "13816381000123",
+        "endereco": "Alameda dos Ipês, 1958",
+        "bairro": "Centro",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "cep": "29966-252"
+      },
+      "destinatario": {
+        "nome": "Patrícia Ferreira Ribeiro",
+        "tipo_documento": "CPF",
+        "documento": "505.727.370-17",
+        "documento_numeros": "50572737017",
+        "endereco": "Alameda dos Ipês, 1321",
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01238-625"
+      },
+      "numero": 198233,
+      "numero_formatado": "000.198.233",
+      "serie": 3,
+      "chave_acesso": "32260413816381000123550030001982331665880584",
+      "chave_acesso_formatada": "3226 0413 8163 8100 0123 5500 3000 1982 3316 6588 0584",
+      "data_emissao": "2026-04-24",
+      "data_emissao_formatada": "24/04/2026",
+      "hora_emissao": "08:09:18",
+      "valor_produtos": 163.3,
+      "valor_frete": 0.0,
+      "valor_desconto": 16.33,
+      "valor_total": 146.97,
+      "valor_total_formatado": "146,97",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 81.65,
+          "valor_total": 163.3
+        }
+      ]
+    },
+    {
+      "id": "nfe_035",
+      "arquivo_xml": "xml/nfe_035.xml",
+      "arquivo_pdf": "pdf/nfe_035.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Farmácia Ipê EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "97.146.229/0001-70",
+        "documento_numeros": "97146229000170",
+        "endereco": "Rua Dom Pedro II, 1282",
+        "bairro": "Trindade",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88367-758"
+      },
+      "destinatario": {
+        "nome": "Felipe Santos Dias",
+        "tipo_documento": "CPF",
+        "documento": "528.226.785-37",
+        "documento_numeros": "52822678537",
+        "endereco": "Rua Sete de Setembro, 1806",
+        "bairro": "Meireles",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60493-527"
+      },
+      "numero": 161946,
+      "numero_formatado": "000.161.946",
+      "serie": 1,
+      "chave_acesso": "42260897146229000170550010001619461375113061",
+      "chave_acesso_formatada": "4226 0897 1462 2900 0170 5500 1000 1619 4613 7511 3061",
+      "data_emissao": "2026-08-24",
+      "data_emissao_formatada": "24/08/2026",
+      "hora_emissao": "10:52:11",
+      "valor_produtos": 120.43,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 120.43,
+      "valor_total_formatado": "120,43",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 120.43,
+          "valor_total": 120.43
+        }
+      ]
+    },
+    {
+      "id": "nfe_036",
+      "arquivo_xml": "xml/nfe_036.xml",
+      "arquivo_pdf": "pdf/nfe_036.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Padaria Central EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "67.913.606/0001-99",
+        "documento_numeros": "67913606000199",
+        "endereco": "Rua XV de Novembro, 2207",
+        "bairro": "Cambuí",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13311-796"
+      },
+      "destinatario": {
+        "nome": "Aline Carvalho Vieira",
+        "tipo_documento": "CPF",
+        "documento": "605.900.788-01",
+        "documento_numeros": "60590078801",
+        "endereco": "Rua Dom Pedro II, 1939",
+        "bairro": "Moema",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01608-040"
+      },
+      "numero": 98146,
+      "numero_formatado": "000.098.146",
+      "serie": 1,
+      "chave_acesso": "35260367913606000199550010000981461923887847",
+      "chave_acesso_formatada": "3526 0367 9136 0600 0199 5500 1000 0981 4619 2388 7847",
+      "data_emissao": "2026-03-23",
+      "data_emissao_formatada": "23/03/2026",
+      "hora_emissao": "11:38:43",
+      "valor_produtos": 16227.59,
+      "valor_frete": 65.78,
+      "valor_desconto": 0.0,
+      "valor_total": 16293.37,
+      "valor_total_formatado": "16.293,37",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 191.04,
+          "valor_total": 573.12
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 3,
+          "unidade": "LT",
+          "valor_unitario": 238.11,
+          "valor_total": 714.33
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 97.72,
+          "valor_total": 195.44
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 12,
+          "unidade": "GL",
+          "valor_unitario": 27.71,
+          "valor_total": 332.52
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4804.06,
+          "valor_total": 14412.18
+        }
+      ]
+    },
+    {
+      "id": "nfe_037",
+      "arquivo_xml": "xml/nfe_037.xml",
+      "arquivo_pdf": "pdf/nfe_037.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Primavera ME",
+        "tipo_documento": "CNPJ",
+        "documento": "92.563.126/0001-92",
+        "documento_numeros": "92563126000192",
+        "endereco": "Avenida Brasil, 119",
+        "bairro": "Santa Fé",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79971-002"
+      },
+      "destinatario": {
+        "nome": "Farmácia Vale Verde LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "77.901.564/0001-20",
+        "documento_numeros": "77901564000120",
+        "endereco": "Rua Sete de Setembro, 1220",
+        "bairro": "Jardim Karaíba",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38713-518"
+      },
+      "numero": 58314,
+      "numero_formatado": "000.058.314",
+      "serie": 3,
+      "chave_acesso": "50250892563126000192550030000583141696473108",
+      "chave_acesso_formatada": "5025 0892 5631 2600 0192 5500 3000 0583 1416 9647 3108",
+      "data_emissao": "2025-08-25",
+      "data_emissao_formatada": "25/08/2025",
+      "hora_emissao": "08:47:55",
+      "valor_produtos": 1591.52,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 1591.52,
+      "valor_total_formatado": "1.591,52",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 3,
+          "unidade": "LT",
+          "valor_unitario": 270.89,
+          "valor_total": 812.67
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 93.16,
+          "valor_total": 186.32
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 197.51,
+          "valor_total": 592.53
+        }
+      ]
+    },
+    {
+      "id": "nfe_038",
+      "arquivo_xml": "xml/nfe_038.xml",
+      "arquivo_pdf": "pdf/nfe_038.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Bom Preço ME",
+        "tipo_documento": "CNPJ",
+        "documento": "14.753.070/0001-25",
+        "documento_numeros": "14753070000125",
+        "endereco": "Alameda dos Ipês, 2053",
+        "bairro": "Fátima",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60888-447"
+      },
+      "destinatario": {
+        "nome": "Luíza Fernandes Rodrigues",
+        "tipo_documento": "CPF",
+        "documento": "743.703.653-33",
+        "documento_numeros": "74370365333",
+        "endereco": "Avenida Getúlio Vargas, 207",
+        "bairro": "Duque de Caxias",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78979-501"
+      },
+      "numero": 198815,
+      "numero_formatado": "000.198.815",
+      "serie": 2,
+      "chave_acesso": "23240914753070000125550020001988151976418385",
+      "chave_acesso_formatada": "2324 0914 7530 7000 0125 5500 2000 1988 1519 7641 8385",
+      "data_emissao": "2024-09-22",
+      "data_emissao_formatada": "22/09/2024",
+      "hora_emissao": "15:44:52",
+      "valor_produtos": 1211.18,
+      "valor_frete": 51.36,
+      "valor_desconto": 0.0,
+      "valor_total": 1262.54,
+      "valor_total_formatado": "1.262,54",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 605.59,
+          "valor_total": 1211.18
+        }
+      ]
+    },
+    {
+      "id": "nfe_039",
+      "arquivo_xml": "xml/nfe_039.xml",
+      "arquivo_pdf": "pdf/nfe_039.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Eletro Nova Era LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "83.254.521/0001-00",
+        "documento_numeros": "83254521000100",
+        "endereco": "Avenida Brasil, 1109",
+        "bairro": "Adrianópolis",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69853-892"
+      },
+      "destinatario": {
+        "nome": "Pedro Martins Costa",
+        "tipo_documento": "CPF",
+        "documento": "210.322.513-95",
+        "documento_numeros": "21032251395",
+        "endereco": "Rua Dom Pedro II, 1236",
+        "bairro": "Itaigara",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "cep": "40689-691"
+      },
+      "numero": 127923,
+      "numero_formatado": "000.127.923",
+      "serie": 1,
+      "chave_acesso": "13260283254521000100550010001279231729021607",
+      "chave_acesso_formatada": "1326 0283 2545 2100 0100 5500 1000 1279 2317 2902 1607",
+      "data_emissao": "2026-02-20",
+      "data_emissao_formatada": "20/02/2026",
+      "hora_emissao": "08:47:28",
+      "valor_produtos": 15741.47,
+      "valor_frete": 30.67,
+      "valor_desconto": 1574.15,
+      "valor_total": 14197.99,
+      "valor_total_formatado": "14.197,99",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 1,
+          "unidade": "LT",
+          "valor_unitario": 276.7,
+          "valor_total": 276.7
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 5033.62,
+          "valor_total": 15100.86
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 4,
+          "unidade": "SC",
+          "valor_unitario": 38.63,
+          "valor_total": 154.52
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 209.39,
+          "valor_total": 209.39
+        }
+      ]
+    },
+    {
+      "id": "nfe_040",
+      "arquivo_xml": "xml/nfe_040.xml",
+      "arquivo_pdf": "pdf/nfe_040.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Aurora EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "34.016.547/0001-05",
+        "documento_numeros": "34016547000105",
+        "endereco": "Rua Marechal Deodoro, 1293",
+        "bairro": "Nazaré",
+        "cidade": "Belém",
+        "uf": "PA",
+        "cep": "66018-352"
+      },
+      "destinatario": {
+        "nome": "Francisca Pereira Andrade",
+        "tipo_documento": "CPF",
+        "documento": "760.694.256-00",
+        "documento_numeros": "76069425600",
+        "endereco": "Avenida Rio Branco, 518",
+        "bairro": "Umarizal",
+        "cidade": "Belém",
+        "uf": "PA",
+        "cep": "66300-176"
+      },
+      "numero": 210021,
+      "numero_formatado": "000.210.021",
+      "serie": 3,
+      "chave_acesso": "15260434016547000105550030002100211912871535",
+      "chave_acesso_formatada": "1526 0434 0165 4700 0105 5500 3000 2100 2119 1287 1535",
+      "data_emissao": "2026-04-16",
+      "data_emissao_formatada": "16/04/2026",
+      "hora_emissao": "14:10:25",
+      "valor_produtos": 4318.39,
+      "valor_frete": 0.0,
+      "valor_desconto": 431.84,
+      "valor_total": 3886.55,
+      "valor_total_formatado": "3.886,55",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 233.99,
+          "valor_total": 233.99
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 3026.37,
+          "valor_total": 3026.37
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 34.85,
+          "valor_total": 104.55
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 346.62,
+          "valor_total": 346.62
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 606.86,
+          "valor_total": 606.86
+        }
+      ]
+    },
+    {
+      "id": "nfe_041",
+      "arquivo_xml": "xml/nfe_041.xml",
+      "arquivo_pdf": "pdf/nfe_041.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Materiais de Construção Vale Verde EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "51.566.954/0001-05",
+        "documento_numeros": "51566954000105",
+        "endereco": "Alameda dos Ipês, 2759",
+        "bairro": "Santa Fé",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79913-589"
+      },
+      "destinatario": {
+        "nome": "Padaria Bom Preço LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "88.263.457/0001-30",
+        "documento_numeros": "88263457000130",
+        "endereco": "Avenida Rio Branco, 105",
+        "bairro": "Jardim Karaíba",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38426-700"
+      },
+      "numero": 114189,
+      "numero_formatado": "000.114.189",
+      "serie": 1,
+      "chave_acesso": "50250451566954000105550010001141891970426265",
+      "chave_acesso_formatada": "5025 0451 5669 5400 0105 5500 1000 1141 8919 7042 6265",
+      "data_emissao": "2025-04-18",
+      "data_emissao_formatada": "18/04/2025",
+      "hora_emissao": "14:11:13",
+      "valor_produtos": 1803.14,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 1803.14,
+      "valor_total_formatado": "1.803,14",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 607.09,
+          "valor_total": 1214.18
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 178.21,
+          "valor_total": 534.63
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 54.33,
+          "valor_total": 54.33
+        }
+      ]
+    },
+    {
+      "id": "nfe_042",
+      "arquivo_xml": "xml/nfe_042.xml",
+      "arquivo_pdf": "pdf/nfe_042.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Farmácia São Jorge ME",
+        "tipo_documento": "CNPJ",
+        "documento": "92.350.996/0001-83",
+        "documento_numeros": "92350996000183",
+        "endereco": "Avenida Paulista, 757",
+        "bairro": "Água Verde",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80159-278"
+      },
+      "destinatario": {
+        "nome": "Fernanda Silva Martins",
+        "tipo_documento": "CPF",
+        "documento": "952.528.770-09",
+        "documento_numeros": "95252877009",
+        "endereco": "Rua Barão do Rio Branco, 2694",
+        "bairro": "Jardim Goiás",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74326-473"
+      },
+      "numero": 161553,
+      "numero_formatado": "000.161.553",
+      "serie": 2,
+      "chave_acesso": "41240792350996000183550020001615531215712784",
+      "chave_acesso_formatada": "4124 0792 3509 9600 0183 5500 2000 1615 5312 1571 2784",
+      "data_emissao": "2024-07-02",
+      "data_emissao_formatada": "02/07/2024",
+      "hora_emissao": "09:28:08",
+      "valor_produtos": 1738.69,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 1738.69,
+      "valor_total_formatado": "1.738,69",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 53.7,
+          "valor_total": 53.7
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 3,
+          "unidade": "GL",
+          "valor_unitario": 34.66,
+          "valor_total": 103.98
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 462.99,
+          "valor_total": 462.99
+        },
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 7.95,
+          "valor_total": 63.6
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 43.0,
+          "valor_total": 43.0
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 3,
+          "unidade": "LT",
+          "valor_unitario": 337.14,
+          "valor_total": 1011.42
+        }
+      ]
+    },
+    {
+      "id": "nfe_043",
+      "arquivo_xml": "xml/nfe_043.xml",
+      "arquivo_pdf": "pdf/nfe_043.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Mercado Aurora ME",
+        "tipo_documento": "CNPJ",
+        "documento": "39.857.316/0001-30",
+        "documento_numeros": "39857316000130",
+        "endereco": "Rua Marechal Deodoro, 2331",
+        "bairro": "Tijuca",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "cep": "20020-333"
+      },
+      "destinatario": {
+        "nome": "Patrícia Moreira Barbosa",
+        "tipo_documento": "CPF",
+        "documento": "144.251.612-70",
+        "documento_numeros": "14425161270",
+        "endereco": "Avenida Rio Branco, 1452",
+        "bairro": "Rio Vermelho",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "cep": "40482-909"
+      },
+      "numero": 77624,
+      "numero_formatado": "000.077.624",
+      "serie": 1,
+      "chave_acesso": "33241039857316000130550010000776241111259147",
+      "chave_acesso_formatada": "3324 1039 8573 1600 0130 5500 1000 0776 2411 1125 9147",
+      "data_emissao": "2024-10-05",
+      "data_emissao_formatada": "05/10/2024",
+      "hora_emissao": "11:36:07",
+      "valor_produtos": 4729.9,
+      "valor_frete": 173.54,
+      "valor_desconto": 472.99,
+      "valor_total": 4430.45,
+      "valor_total_formatado": "4.430,45",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 147.15,
+          "valor_total": 147.15
+        },
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 1,
+          "unidade": "LT",
+          "valor_unitario": 391.35,
+          "valor_total": 391.35
+        },
+        {
+          "descricao": "Detergente neutro 5L",
+          "quantidade": 6,
+          "unidade": "GL",
+          "valor_unitario": 20.1,
+          "valor_total": 120.6
+        },
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 28.09,
+          "valor_total": 112.36
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 1221.05,
+          "valor_total": 3663.15
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 9,
+          "unidade": "SC",
+          "valor_unitario": 32.81,
+          "valor_total": 295.29
+        }
+      ]
+    },
+    {
+      "id": "nfe_044",
+      "arquivo_xml": "xml/nfe_044.xml",
+      "arquivo_pdf": "pdf/nfe_044.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Auto Peças Central S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "90.331.436/0001-56",
+        "documento_numeros": "90331436000156",
+        "endereco": "Avenida Brasil, 2608",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01666-459"
+      },
+      "destinatario": {
+        "nome": "Agropecuária Cerrado EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "70.032.135/0001-14",
+        "documento_numeros": "70032135000114",
+        "endereco": "Rua Santos Dumont, 1523",
+        "bairro": "Pituba",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "cep": "40807-042"
+      },
+      "numero": 196557,
+      "numero_formatado": "000.196.557",
+      "serie": 3,
+      "chave_acesso": "35260690331436000156550030001965571590048727",
+      "chave_acesso_formatada": "3526 0690 3314 3600 0156 5500 3000 1965 5715 9004 8727",
+      "data_emissao": "2026-06-28",
+      "data_emissao_formatada": "28/06/2026",
+      "hora_emissao": "08:59:10",
+      "valor_produtos": 2634.75,
+      "valor_frete": 0.0,
+      "valor_desconto": 263.48,
+      "valor_total": 2371.27,
+      "valor_total_formatado": "2.371,27",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 878.25,
+          "valor_total": 2634.75
+        }
+      ]
+    },
+    {
+      "id": "nfe_045",
+      "arquivo_xml": "xml/nfe_045.xml",
+      "arquivo_pdf": "pdf/nfe_045.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Materiais de Construção Estrela EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "03.845.168/0001-96",
+        "documento_numeros": "03845168000196",
+        "endereco": "Rua Dom Pedro II, 2926",
+        "bairro": "Cocó",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60370-325"
+      },
+      "destinatario": {
+        "nome": "Patrícia Carvalho Mendes",
+        "tipo_documento": "CPF",
+        "documento": "702.086.078-89",
+        "documento_numeros": "70208607889",
+        "endereco": "Rua Tiradentes, 2872",
+        "bairro": "Méier",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "cep": "20027-817"
+      },
+      "numero": 176276,
+      "numero_formatado": "000.176.276",
+      "serie": 3,
+      "chave_acesso": "23251203845168000196550030001762761580072282",
+      "chave_acesso_formatada": "2325 1203 8451 6800 0196 5500 3000 1762 7615 8007 2282",
+      "data_emissao": "2025-12-14",
+      "data_emissao_formatada": "14/12/2025",
+      "hora_emissao": "09:38:30",
+      "valor_produtos": 3981.02,
+      "valor_frete": 52.19,
+      "valor_desconto": 0.0,
+      "valor_total": 4033.21,
+      "valor_total_formatado": "4.033,21",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 662.98,
+          "valor_total": 662.98
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 1014.81,
+          "valor_total": 3044.43
+        },
+        {
+          "descricao": "Cabo flexível 2,5mm 100m",
+          "quantidade": 1,
+          "unidade": "RL",
+          "valor_unitario": 273.61,
+          "valor_total": 273.61
+        }
+      ]
+    },
+    {
+      "id": "nfe_046",
+      "arquivo_xml": "xml/nfe_046.xml",
+      "arquivo_pdf": "pdf/nfe_046.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Casa Aurora LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "14.207.368/0001-30",
+        "documento_numeros": "14207368000130",
+        "endereco": "Rua Marechal Deodoro, 90",
+        "bairro": "Setor Oeste",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74492-026"
+      },
+      "destinatario": {
+        "nome": "Mercado Aurora S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "85.541.490/0001-96",
+        "documento_numeros": "85541490000196",
+        "endereco": "Rua Dom Pedro II, 2937",
+        "bairro": "Pituba",
+        "cidade": "Salvador",
+        "uf": "BA",
+        "cep": "40643-356"
+      },
+      "numero": 880,
+      "numero_formatado": "000.000.880",
+      "serie": 3,
+      "chave_acesso": "52250814207368000130550030000008801518307143",
+      "chave_acesso_formatada": "5225 0814 2073 6800 0130 5500 3000 0008 8015 1830 7143",
+      "data_emissao": "2025-08-31",
+      "data_emissao_formatada": "31/08/2025",
+      "hora_emissao": "10:22:11",
+      "valor_produtos": 11720.36,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 11720.36,
+      "valor_total_formatado": "11.720,36",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "Tinta acrílica fosca 18L branca",
+          "quantidade": 1,
+          "unidade": "LT",
+          "valor_unitario": 375.71,
+          "valor_total": 375.71
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 78.52,
+          "valor_total": 235.56
+        },
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 36.26,
+          "valor_total": 72.52
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3054.31,
+          "valor_total": 9162.93
+        },
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 144.7,
+          "valor_total": 289.4
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 528.08,
+          "valor_total": 1584.24
+        }
+      ]
+    },
+    {
+      "id": "nfe_047",
+      "arquivo_xml": "xml/nfe_047.xml",
+      "arquivo_pdf": "pdf/nfe_047.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Supermercado Ipê LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "08.391.305/0001-83",
+        "documento_numeros": "08391305000183",
+        "endereco": "Rua Dom Pedro II, 2187",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01134-634"
+      },
+      "destinatario": {
+        "nome": "Gustavo Marques Santos",
+        "tipo_documento": "CPF",
+        "documento": "926.287.953-96",
+        "documento_numeros": "92628795396",
+        "endereco": "Rua Tiradentes, 1816",
+        "bairro": "Funcionários",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30750-305"
+      },
+      "numero": 86979,
+      "numero_formatado": "000.086.979",
+      "serie": 2,
+      "chave_acesso": "35261008391305000183550020000869791122706619",
+      "chave_acesso_formatada": "3526 1008 3913 0500 0183 5500 2000 0869 7911 2270 6619",
+      "data_emissao": "2026-10-01",
+      "data_emissao_formatada": "01/10/2026",
+      "hora_emissao": "17:05:46",
+      "valor_produtos": 8379.89,
+      "valor_frete": 88.0,
+      "valor_desconto": 837.99,
+      "valor_total": 7629.9,
+      "valor_total_formatado": "7.629,90",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 8.88,
+          "valor_total": 71.04
+        },
+        {
+          "descricao": "Pneu aro 15 195/60",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 401.83,
+          "valor_total": 401.83
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 3953.51,
+          "valor_total": 7907.02
+        }
+      ]
+    },
+    {
+      "id": "nfe_048",
+      "arquivo_xml": "xml/nfe_048.xml",
+      "arquivo_pdf": "pdf/nfe_048.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Auto Peças Boa Vista LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "28.550.150/0001-98",
+        "documento_numeros": "28550150000198",
+        "endereco": "Rua Dom Pedro II, 2858",
+        "bairro": "Boa Viagem",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50781-143"
+      },
+      "destinatario": {
+        "nome": "Indústria Litoral ME",
+        "tipo_documento": "CNPJ",
+        "documento": "36.483.762/0001-33",
+        "documento_numeros": "36483762000133",
+        "endereco": "Rua Barão do Rio Branco, 1217",
+        "bairro": "Cambuí",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13456-707"
+      },
+      "numero": 143479,
+      "numero_formatado": "000.143.479",
+      "serie": 1,
+      "chave_acesso": "26261028550150000198550010001434791352042297",
+      "chave_acesso_formatada": "2626 1028 5501 5000 0198 5500 1000 1434 7913 5204 2297",
+      "data_emissao": "2026-10-14",
+      "data_emissao_formatada": "14/10/2026",
+      "hora_emissao": "18:03:35",
+      "valor_produtos": 3676.7,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 3676.7,
+      "valor_total_formatado": "3.676,70",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 10.08,
+          "valor_total": 10.08
+        },
+        {
+          "descricao": "Monitor LED 24 pol Full HD",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 701.7,
+          "valor_total": 1403.4
+        },
+        {
+          "descricao": "Cadeira de escritório ergonômica",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 981.83,
+          "valor_total": 1963.66
+        },
+        {
+          "descricao": "Resma papel A4 75g 500 folhas",
+          "quantidade": 4,
+          "unidade": "CX",
+          "valor_unitario": 34.15,
+          "valor_total": 136.6
+        },
+        {
+          "descricao": "Óleo lubrificante 5W30 1L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 54.32,
+          "valor_total": 162.96
+        }
+      ]
+    },
+    {
+      "id": "nfe_049",
+      "arquivo_xml": "xml/nfe_049.xml",
+      "arquivo_pdf": "pdf/nfe_049.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Materiais de Construção Primavera LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "60.073.529/0001-67",
+        "documento_numeros": "60073529000167",
+        "endereco": "Travessa da Paz, 2567",
+        "bairro": "Jardim Itália",
+        "cidade": "Cuiabá",
+        "uf": "MT",
+        "cep": "78214-569"
+      },
+      "destinatario": {
+        "nome": "Sérgio Nunes Souza",
+        "tipo_documento": "CPF",
+        "documento": "195.667.203-60",
+        "documento_numeros": "19566720360",
+        "endereco": "Avenida Paulista, 2937",
+        "bairro": "Lagoa Nova",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59114-604"
+      },
+      "numero": 136310,
+      "numero_formatado": "000.136.310",
+      "serie": 3,
+      "chave_acesso": "51241060073529000167550030001363101420799777",
+      "chave_acesso_formatada": "5124 1060 0735 2900 0167 5500 3000 1363 1014 2079 9777",
+      "data_emissao": "2024-10-04",
+      "data_emissao_formatada": "04/10/2024",
+      "hora_emissao": "11:43:40",
+      "valor_produtos": 12279.31,
+      "valor_frete": 0.0,
+      "valor_desconto": 368.38,
+      "valor_total": 11910.93,
+      "valor_total_formatado": "11.910,93",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "Cimento CP-II 50kg",
+          "quantidade": 3,
+          "unidade": "SC",
+          "valor_unitario": 43.63,
+          "valor_total": 130.89
+        },
+        {
+          "descricao": "Notebook 15,6 pol 16GB 512GB SSD",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3875.19,
+          "valor_total": 11625.57
+        },
+        {
+          "descricao": "Fertilizante NPK 10-10-10 50kg",
+          "quantidade": 1,
+          "unidade": "SC",
+          "valor_unitario": 177.04,
+          "valor_total": 177.04
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 43.06,
+          "valor_total": 43.06
+        },
+        {
+          "descricao": "Ração bovina 40kg",
+          "quantidade": 2,
+          "unidade": "SC",
+          "valor_unitario": 134.59,
+          "valor_total": 269.18
+        },
+        {
+          "descricao": "Lâmpada LED 9W bivolt",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 11.19,
+          "valor_total": 33.57
+        }
+      ]
+    },
+    {
+      "id": "nfe_050",
+      "arquivo_xml": "xml/nfe_050.xml",
+      "arquivo_pdf": "pdf/nfe_050.pdf",
+      "modelo": 55,
+      "emitente": {
+        "nome": "Distribuidora Serra Azul LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "72.264.837/0001-59",
+        "documento_numeros": "72264837000159",
+        "endereco": "Travessa da Paz, 1819",
+        "bairro": "Centro",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "cep": "29313-250"
+      },
+      "destinatario": {
+        "nome": "Materiais de Construção São Jorge LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "44.961.031/0001-84",
+        "documento_numeros": "44961031000184",
+        "endereco": "Rua Tiradentes, 662",
+        "bairro": "Sudoeste",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70354-015"
+      },
+      "numero": 74708,
+      "numero_formatado": "000.074.708",
+      "serie": 3,
+      "chave_acesso": "32250772264837000159550030000747081743528172",
+      "chave_acesso_formatada": "3225 0772 2648 3700 0159 5500 3000 0747 0817 4352 8172",
+      "data_emissao": "2025-07-12",
+      "data_emissao_formatada": "12/07/2025",
+      "hora_emissao": "15:24:16",
+      "valor_produtos": 286.67,
+      "valor_frete": 77.74,
+      "valor_desconto": 28.67,
+      "valor_total": 335.74,
+      "valor_total_formatado": "335,74",
+      "forma_pagamento": "Boleto Bancário",
+      "itens": [
+        {
+          "descricao": "Torneira metálica cozinha",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 221.99,
+          "valor_total": 221.99
+        },
+        {
+          "descricao": "Caixa organizadora plástica 50L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 64.68,
+          "valor_total": 64.68
+        }
+      ]
+    }
+  ]
+}

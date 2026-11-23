@@ -1,0 +1,2352 @@
+{
+    "descricao": "Boletos sintéticos (dados fictícios) gerados com OpenBoleto para teste de OCR/PLN",
+    "semente": 42,
+    "quantidade": 50,
+    "boletos": [
+        {
+            "id": "boleto_001",
+            "arquivo_html": "html/boleto_001.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01001.301009 01794.389187 9 14680000080993",
+            "linha_digitavel_numeros": "00190000090100130100901794389187914680000080993",
+            "codigo_barras": "00199146800000809930000001001301000179438918",
+            "valor_documento": 809.93,
+            "valor_documento_formatado": "R$ 809,93",
+            "desconto_abatimento": 72.89,
+            "desconto_abatimento_impresso": "72,89",
+            "valor_cobrado": 737.04,
+            "valor_cobrado_formatado": "R$ 737,04",
+            "data_vencimento": "2026-06-05",
+            "data_documento": "2026-05-28",
+            "numero_documento": "7451707",
+            "nosso_numero": "10013010001794389",
+            "agencia_codigo_beneficiario": "1370-9 / 69548860-0",
+            "beneficiario": {
+                "nome": "Editora Saber Mais LTDA",
+                "cnpj": "19.319.792/0001-90",
+                "endereco": "Rua XV de Novembro, 1389",
+                "cep": "70496-206",
+                "cidade": "Brasília",
+                "uf": "DF"
+            },
+            "pagador": {
+                "nome": "Fernanda Fernandes Soares",
+                "cpf": "465.040.384-73",
+                "endereco": "Rua Tiradentes, 1371",
+                "cep": "40557-696",
+                "cidade": "Salvador",
+                "uf": "BA"
+            },
+            "demonstrativo": [
+                "Assinatura de revista - ref. 05/2026",
+                "Documento nº 7451707"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 05/07/2026.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_002",
+            "arquivo_html": "html/boleto_002.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23791.25103 60068.680697 05146.493605 1 11420000203996",
+            "linha_digitavel_numeros": "23791251036006868069705146493605111420000203996",
+            "codigo_barras": "23791114200002039961251060068680690514649360",
+            "valor_documento": 2039.96,
+            "valor_documento_formatado": "R$ 2.039,96",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 2039.96,
+            "valor_cobrado_formatado": "R$ 2.039,96",
+            "data_vencimento": "2025-07-14",
+            "data_documento": "2025-06-05",
+            "numero_documento": "2215436",
+            "nosso_numero": "00686806905",
+            "agencia_codigo_beneficiario": "1251-7 / 1464936-0",
+            "beneficiario": {
+                "nome": "Seguradora Proteção Total S.A.",
+                "cnpj": "40.375.715/0001-43",
+                "endereco": "Rua Dom Pedro II, 1298 - Apto 1163",
+                "cep": "80110-909",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "pagador": {
+                "nome": "José Pereira Lima",
+                "cpf": "141.632.098-91",
+                "endereco": "Rua São João, 297",
+                "cep": "78591-519",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "demonstrativo": [
+                "Seguro residencial - ref. 06/2025",
+                "Documento nº 2215436"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 102,00 até o vencimento.",
+                "Sr. Caixa, não receber em cheque.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_003",
+            "arquivo_html": "html/boleto_003.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09230 39015.692476 31431.350003 8 16640000424351",
+            "linha_digitavel_numeros": "34191092303901569247631431350003816640000424351",
+            "codigo_barras": "34198166400004243511092339015692473143135000",
+            "valor_documento": 4243.51,
+            "valor_documento_formatado": "R$ 4.243,51",
+            "desconto_abatimento": 594.09,
+            "desconto_abatimento_impresso": "594,09",
+            "valor_cobrado": 3649.42,
+            "valor_cobrado_formatado": "R$ 3.649,42",
+            "data_vencimento": "2026-12-18",
+            "data_documento": "2026-11-15",
+            "numero_documento": "1005069",
+            "nosso_numero": "109/23390156-9",
+            "agencia_codigo_beneficiario": "2473 / 14313-1",
+            "beneficiario": {
+                "nome": "Cooperativa Agro Vale Verde",
+                "cnpj": "82.554.817/0001-76",
+                "endereco": "Rua das Flores, 2096 - Apto 267",
+                "cep": "88821-006",
+                "cidade": "Florianópolis",
+                "uf": "SC"
+            },
+            "pagador": {
+                "nome": "Sérgio Nunes Oliveira",
+                "cpf": "088.722.682-57",
+                "endereco": "Rua Sete de Setembro, 1913 - Apto 396",
+                "cep": "29603-738",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "demonstrativo": [
+                "Insumos agrícolas - ref. 11/2026",
+                "Documento nº 1005069"
+            ],
+            "instrucoes": [
+                "Não receber após 17/01/2027.",
+                "Conceder desconto de R$ 212,18 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_004",
+            "arquivo_html": "html/boleto_004.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10497.46678 57000.100040 00484.312020 1 98230000067597",
+            "linha_digitavel_numeros": "10497466785700010004000484312020198230000067597",
+            "codigo_barras": "10491982300000675977466757000100040048431202",
+            "valor_documento": 675.97,
+            "valor_documento_formatado": "R$ 675,97",
+            "desconto_abatimento": 67.6,
+            "desconto_abatimento_impresso": "67,60",
+            "valor_cobrado": 608.37,
+            "valor_cobrado_formatado": "R$ 608,37",
+            "data_vencimento": "2024-08-29",
+            "data_documento": "2024-08-15",
+            "numero_documento": "9614502",
+            "nosso_numero": "14000000004843120-1",
+            "agencia_codigo_beneficiario": "4000 / 0746675-2",
+            "beneficiario": {
+                "nome": "Editora Saber Mais LTDA",
+                "cnpj": "91.314.108/0001-04",
+                "endereco": "Alameda dos Ipês, 2607 - Apto 460",
+                "cep": "30597-031",
+                "cidade": "Belo Horizonte",
+                "uf": "MG"
+            },
+            "pagador": {
+                "nome": "Camila Soares Freitas",
+                "cpf": "489.259.964-64",
+                "endereco": "Rua Sete de Setembro, 1342",
+                "cep": "40010-708",
+                "cidade": "Salvador",
+                "uf": "BA"
+            },
+            "demonstrativo": [
+                "Assinatura de revista - ref. 08/2024",
+                "Documento nº 9614502"
+            ],
+            "instrucoes": [
+                "Não receber após 28/09/2024.",
+                "Em caso de dúvidas, entre em contato com o beneficiário.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_005",
+            "arquivo_html": "html/boleto_005.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.51311 33800.588619 58191.301017 1 12850000050688",
+            "linha_digitavel_numeros": "03399513113380058861958191301017112850000050688",
+            "codigo_barras": "03391128500000506889513133800588615819130101",
+            "valor_documento": 506.88,
+            "valor_documento_formatado": "R$ 506,88",
+            "desconto_abatimento": 45.62,
+            "desconto_abatimento_impresso": "45,62",
+            "valor_cobrado": 461.26,
+            "valor_cobrado_formatado": "R$ 461,26",
+            "data_vencimento": "2025-12-04",
+            "data_documento": "2025-11-13",
+            "numero_documento": "3446676",
+            "nosso_numero": "005886158191-3",
+            "agencia_codigo_beneficiario": "7390 / 5131338",
+            "beneficiario": {
+                "nome": "Auto Peças Estrada Real LTDA",
+                "cnpj": "92.262.508/0001-86",
+                "endereco": "Rua São João, 663",
+                "cep": "20304-762",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "pagador": {
+                "nome": "José Rodrigues Nascimento",
+                "cpf": "213.708.737-51",
+                "endereco": "Travessa da Paz, 45",
+                "cep": "80723-793",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "demonstrativo": [
+                "Peças automotivas - ref. 11/2025",
+                "Documento nº 3446676"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 03/01/2026.",
+                "Conceder desconto de R$ 25,34 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_006",
+            "arquivo_html": "html/boleto_006.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.57840 01001.705605 27432.700014 8 99710000288436",
+            "linha_digitavel_numeros": "75691578400100170560527432700014899710000288436",
+            "codigo_barras": "75698997100002884361578401001705602743270001",
+            "valor_documento": 2884.36,
+            "valor_documento_formatado": "R$ 2.884,36",
+            "desconto_abatimento": 374.97,
+            "desconto_abatimento_impresso": "374,97",
+            "valor_cobrado": 2509.39,
+            "valor_cobrado_formatado": "R$ 2.509,39",
+            "data_vencimento": "2025-01-24",
+            "data_documento": "2025-01-01",
+            "numero_documento": "1614854",
+            "nosso_numero": "0274327-0",
+            "agencia_codigo_beneficiario": "5784 / 17056",
+            "beneficiario": {
+                "nome": "Escola Pequeno Saber LTDA",
+                "cnpj": "32.986.394/0001-95",
+                "endereco": "Rua XV de Novembro, 356",
+                "cep": "29780-142",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "pagador": {
+                "nome": "Lucas Silva Nascimento",
+                "cpf": "916.096.530-41",
+                "endereco": "Alameda dos Ipês, 2063",
+                "cep": "59983-424",
+                "cidade": "Natal",
+                "uf": "RN"
+            },
+            "demonstrativo": [
+                "Mensalidade escolar - ref. 01/2025",
+                "Documento nº 1614854"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 23/02/2025.",
+                "Conceder desconto de R$ 144,22 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_007",
+            "arquivo_html": "html/boleto_007.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01703.375004 05883.704180 1 14050000162028",
+            "linha_digitavel_numeros": "00190000090170337500405883704180114050000162028",
+            "codigo_barras": "00191140500001620280000001703375000588370418",
+            "valor_documento": 1620.28,
+            "valor_documento_formatado": "R$ 1.620,28",
+            "desconto_abatimento": 210.64,
+            "desconto_abatimento_impresso": "210,64",
+            "valor_cobrado": 1409.64,
+            "valor_cobrado_formatado": "R$ 1.409,64",
+            "data_vencimento": "2026-04-03",
+            "data_documento": "2026-02-23",
+            "numero_documento": "3293187",
+            "nosso_numero": "17033750005883704",
+            "agencia_codigo_beneficiario": "9063-9 / 88298994-6",
+            "beneficiario": {
+                "nome": "Editora Saber Mais LTDA",
+                "cnpj": "77.397.697/0001-00",
+                "endereco": "Rua Sete de Setembro, 1500 - Apto 1254",
+                "cep": "60391-930",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "pagador": {
+                "nome": "João Santos Costa",
+                "cpf": "494.046.207-26",
+                "endereco": "Avenida Paulista, 2439 - Apto 362",
+                "cep": "13909-582",
+                "cidade": "Campinas",
+                "uf": "SP"
+            },
+            "demonstrativo": [
+                "Assinatura de revista - ref. 02/2026",
+                "Documento nº 3293187"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Sr. Caixa, não receber em cheque.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_008",
+            "arquivo_html": "html/boleto_008.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23792.82904 60097.587475 42319.408706 2 14520000360477",
+            "linha_digitavel_numeros": "23792829046009758747542319408706214520000360477",
+            "codigo_barras": "23792145200003604772829060097587474231940870",
+            "valor_documento": 3604.77,
+            "valor_documento_formatado": "R$ 3.604,77",
+            "desconto_abatimento": 72.1,
+            "desconto_abatimento_impresso": "72,10",
+            "valor_cobrado": 3532.67,
+            "valor_cobrado_formatado": "R$ 3.532,67",
+            "data_vencimento": "2026-05-20",
+            "data_documento": "2026-04-20",
+            "numero_documento": "4790720",
+            "nosso_numero": "00975874742",
+            "agencia_codigo_beneficiario": "2829-9 / 3194087-9",
+            "beneficiario": {
+                "nome": "Cooperativa Agro Vale Verde",
+                "cnpj": "85.070.896/0001-38",
+                "endereco": "Rua Dom Pedro II, 1296",
+                "cep": "60812-526",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "pagador": {
+                "nome": "Antônio Alves Lopes",
+                "cpf": "438.144.307-19",
+                "endereco": "Rua Marechal Deodoro, 1548 - Apto 277",
+                "cep": "69909-570",
+                "cidade": "Manaus",
+                "uf": "AM"
+            },
+            "demonstrativo": [
+                "Insumos agrícolas - ref. 04/2026",
+                "Documento nº 4790720"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 19/06/2026.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_009",
+            "arquivo_html": "html/boleto_009.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09941 82142.416526 91972.190002 5 11700000088057",
+            "linha_digitavel_numeros": "34191099418214241652691972190002511700000088057",
+            "codigo_barras": "34195117000000880571099482142416529197219000",
+            "valor_documento": 880.57,
+            "valor_documento_formatado": "R$ 880,57",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 880.57,
+            "valor_cobrado_formatado": "R$ 880,57",
+            "data_vencimento": "2025-08-11",
+            "data_documento": "2025-07-17",
+            "numero_documento": "2698681",
+            "nosso_numero": "109/94821424-1",
+            "agencia_codigo_beneficiario": "6529 / 19721-9",
+            "beneficiario": {
+                "nome": "Academia Corpo em Movimento ME",
+                "cnpj": "52.543.993/0001-41",
+                "endereco": "Avenida Getúlio Vargas, 2426 - Apto 507",
+                "cep": "30735-142",
+                "cidade": "Belo Horizonte",
+                "uf": "MG"
+            },
+            "pagador": {
+                "nome": "Pedro Ribeiro Ferreira",
+                "cpf": "698.647.588-88",
+                "endereco": "Rua Sete de Setembro, 1969 - Apto 1494",
+                "cep": "66636-756",
+                "cidade": "Belém",
+                "uf": "PA"
+            },
+            "demonstrativo": [
+                "Plano mensal academia - ref. 07/2025",
+                "Documento nº 2698681"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_010",
+            "arquivo_html": "html/boleto_010.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10497.39582 41000.100044 00986.799914 1 99710000344870",
+            "linha_digitavel_numeros": "10497395824100010004400986799914199710000344870",
+            "codigo_barras": "10491997100003448707395841000100040098679991",
+            "valor_documento": 3448.7,
+            "valor_documento_formatado": "R$ 3.448,70",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 3448.7,
+            "valor_cobrado_formatado": "R$ 3.448,70",
+            "data_vencimento": "2025-01-24",
+            "data_documento": "2024-12-17",
+            "numero_documento": "946749",
+            "nosso_numero": "14000000009867999-1",
+            "agencia_codigo_beneficiario": "9540 / 0739584-3",
+            "beneficiario": {
+                "nome": "Auto Peças Estrada Real LTDA",
+                "cnpj": "81.718.751/0001-40",
+                "endereco": "Rua das Flores, 1114",
+                "cep": "29849-165",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "pagador": {
+                "nome": "Gustavo Fernandes Ribeiro",
+                "cpf": "096.386.903-56",
+                "endereco": "Rua Marechal Deodoro, 692 - Apto 1308",
+                "cep": "78383-118",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "demonstrativo": [
+                "Peças automotivas - ref. 12/2024",
+                "Documento nº 946749"
+            ],
+            "instrucoes": [
+                "Não receber após 23/02/2025.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_011",
+            "arquivo_html": "html/boleto_011.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.55296 58700.895855 90388.501018 1 98570000137915",
+            "linha_digitavel_numeros": "03399552965870089585590388501018198570000137915",
+            "codigo_barras": "03391985700001379159552958700895859038850101",
+            "valor_documento": 1379.15,
+            "valor_documento_formatado": "R$ 1.379,15",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 1379.15,
+            "valor_cobrado_formatado": "R$ 1.379,15",
+            "data_vencimento": "2024-10-02",
+            "data_documento": "2024-09-27",
+            "numero_documento": "2278653",
+            "nosso_numero": "008958590388-5",
+            "agencia_codigo_beneficiario": "9233 / 5529587",
+            "beneficiario": {
+                "nome": "Escola Pequeno Saber LTDA",
+                "cnpj": "25.148.013/0001-33",
+                "endereco": "Avenida Getúlio Vargas, 294",
+                "cep": "66311-526",
+                "cidade": "Belém",
+                "uf": "PA"
+            },
+            "pagador": {
+                "nome": "Gustavo Silva Gomes",
+                "cpf": "626.120.926-09",
+                "endereco": "Travessa da Paz, 2886",
+                "cep": "29113-803",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "demonstrativo": [
+                "Mensalidade escolar - ref. 09/2024",
+                "Documento nº 2278653"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_012",
+            "arquivo_html": "html/boleto_012.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.40325 01001.405107 92043.310017 1 11310000420644",
+            "linha_digitavel_numeros": "75691403250100140510792043310017111310000420644",
+            "codigo_barras": "75691113100004206441403201001405109204331001",
+            "valor_documento": 4206.44,
+            "valor_documento_formatado": "R$ 4.206,44",
+            "desconto_abatimento": 294.45,
+            "desconto_abatimento_impresso": "294,45",
+            "valor_cobrado": 3911.99,
+            "valor_cobrado_formatado": "R$ 3.911,99",
+            "data_vencimento": "2025-07-03",
+            "data_documento": "2025-05-31",
+            "numero_documento": "3889895",
+            "nosso_numero": "0920433-1",
+            "agencia_codigo_beneficiario": "4032 / 14051",
+            "beneficiario": {
+                "nome": "Academia Corpo em Movimento ME",
+                "cnpj": "18.267.103/0001-88",
+                "endereco": "Quadra 104 Conjunto B, 719",
+                "cep": "90754-696",
+                "cidade": "Porto Alegre",
+                "uf": "RS"
+            },
+            "pagador": {
+                "nome": "Thiago Carvalho Ferreira",
+                "cpf": "729.075.987-75",
+                "endereco": "Rua Dom Pedro II, 987",
+                "cep": "78302-080",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "demonstrativo": [
+                "Plano mensal academia - ref. 05/2025",
+                "Documento nº 3889895"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Não receber após 02/08/2025.",
+                "Sr. Caixa, não receber em cheque.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_013",
+            "arquivo_html": "html/boleto_013.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01981.438003 08850.948186 3 10320000093312",
+            "linha_digitavel_numeros": "00190000090198143800308850948186310320000093312",
+            "codigo_barras": "00193103200000933120000001981438000885094818",
+            "valor_documento": 933.12,
+            "valor_documento_formatado": "R$ 933,12",
+            "desconto_abatimento": 18.66,
+            "desconto_abatimento_impresso": "18,66",
+            "valor_cobrado": 914.46,
+            "valor_cobrado_formatado": "R$ 914,46",
+            "data_vencimento": "2025-03-26",
+            "data_documento": "2025-02-16",
+            "numero_documento": "8502581",
+            "nosso_numero": "19814380008850948",
+            "agencia_codigo_beneficiario": "9339-0 / 4146796-3",
+            "beneficiario": {
+                "nome": "Loja de Móveis Bom Lar EIRELI",
+                "cnpj": "27.525.127/0001-80",
+                "endereco": "Rua Sete de Setembro, 518 - Apto 417",
+                "cep": "60203-649",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "pagador": {
+                "nome": "Patrícia Dias Rocha",
+                "cpf": "281.368.425-23",
+                "endereco": "Travessa da Paz, 2960 - Apto 1404",
+                "cep": "66640-931",
+                "cidade": "Belém",
+                "uf": "PA"
+            },
+            "demonstrativo": [
+                "Parcela de móveis planejados - ref. 02/2025",
+                "Documento nº 8502581"
+            ],
+            "instrucoes": [
+                "Conceder desconto de R$ 46,66 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_014",
+            "arquivo_html": "html/boleto_014.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23796.66205 60077.924417 98784.276408 6 16330000338217",
+            "linha_digitavel_numeros": "23796662056007792441798784276408616330000338217",
+            "codigo_barras": "23796163300003382176662060077924419878427640",
+            "valor_documento": 3382.17,
+            "valor_documento_formatado": "R$ 3.382,17",
+            "desconto_abatimento": 169.11,
+            "desconto_abatimento_impresso": "169,11",
+            "valor_cobrado": 3213.06,
+            "valor_cobrado_formatado": "R$ 3.213,06",
+            "data_vencimento": "2026-11-17",
+            "data_documento": "2026-11-11",
+            "numero_documento": "484722",
+            "nosso_numero": "00779244198",
+            "agencia_codigo_beneficiario": "6662-8 / 7842764-9",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "61.372.814/0001-41",
+                "endereco": "Quadra 104 Conjunto B, 1629",
+                "cep": "74058-930",
+                "cidade": "Goiânia",
+                "uf": "GO"
+            },
+            "pagador": {
+                "nome": "Lucas Oliveira Oliveira",
+                "cpf": "508.287.769-03",
+                "endereco": "Rua São João, 2384",
+                "cep": "38860-630",
+                "cidade": "Uberlândia",
+                "uf": "MG"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 11/2026",
+                "Documento nº 484722"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Sr. Caixa, não receber em cheque.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_015",
+            "arquivo_html": "html/boleto_015.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09636 98892.086012 83801.850005 3 14260000373015",
+            "linha_digitavel_numeros": "34191096369889208601283801850005314260000373015",
+            "codigo_barras": "34193142600003730151096398892086018380185000",
+            "valor_documento": 3730.15,
+            "valor_documento_formatado": "R$ 3.730,15",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 3730.15,
+            "valor_cobrado_formatado": "R$ 3.730,15",
+            "data_vencimento": "2026-04-24",
+            "data_documento": "2026-03-20",
+            "numero_documento": "1512852",
+            "nosso_numero": "109/63988920-8",
+            "agencia_codigo_beneficiario": "6018 / 38018-7",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "35.841.025/0001-00",
+                "endereco": "Avenida Brasil, 2836 - Apto 410",
+                "cep": "20125-880",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "pagador": {
+                "nome": "Francisca Gomes Fernandes",
+                "cpf": "627.622.391-33",
+                "endereco": "Rua São João, 827",
+                "cep": "88820-060",
+                "cidade": "Florianópolis",
+                "uf": "SC"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 03/2026",
+                "Documento nº 1512852"
+            ],
+            "instrucoes": [
+                "Não receber após 24/05/2026.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_016",
+            "arquivo_html": "html/boleto_016.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10491.34461 09000.100041 00746.392703 5 13480000161778",
+            "linha_digitavel_numeros": "10491344610900010004100746392703513480000161778",
+            "codigo_barras": "10495134800001617781344609000100040074639270",
+            "valor_documento": 1617.78,
+            "valor_documento_formatado": "R$ 1.617,78",
+            "desconto_abatimento": 226.49,
+            "desconto_abatimento_impresso": "226,49",
+            "valor_cobrado": 1391.29,
+            "valor_cobrado_formatado": "R$ 1.391,29",
+            "data_vencimento": "2026-02-05",
+            "data_documento": "2026-01-12",
+            "numero_documento": "5816368",
+            "nosso_numero": "14000000007463927-2",
+            "agencia_codigo_beneficiario": "1223 / 0134460-0",
+            "beneficiario": {
+                "nome": "Cooperativa Agro Vale Verde",
+                "cnpj": "53.217.577/0001-16",
+                "endereco": "Rua XV de Novembro, 2069",
+                "cep": "80592-211",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "pagador": {
+                "nome": "Felipe Mendes Mendes",
+                "cpf": "690.688.594-47",
+                "endereco": "Rua Sete de Setembro, 532",
+                "cep": "78151-513",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "demonstrativo": [
+                "Insumos agrícolas - ref. 01/2026",
+                "Documento nº 5816368"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 80,89 até o vencimento.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_017",
+            "arquivo_html": "html/boleto_017.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.87372 89200.532664 34940.501017 4 12460000021631",
+            "linha_digitavel_numeros": "03399873728920053266434940501017412460000021631",
+            "codigo_barras": "03394124600000216319873789200532663494050101",
+            "valor_documento": 216.31,
+            "valor_documento_formatado": "R$ 216,31",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 216.31,
+            "valor_cobrado_formatado": "R$ 216,31",
+            "data_vencimento": "2025-10-26",
+            "data_documento": "2025-09-19",
+            "numero_documento": "3822597",
+            "nosso_numero": "005326634940-5",
+            "agencia_codigo_beneficiario": "4268 / 8737892",
+            "beneficiario": {
+                "nome": "Faculdade Integrada do Planalto",
+                "cnpj": "43.028.063/0001-69",
+                "endereco": "Rua Sete de Setembro, 214",
+                "cep": "60074-958",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "pagador": {
+                "nome": "Juliana Rocha Costa",
+                "cpf": "177.318.642-60",
+                "endereco": "Avenida Rio Branco, 203 - Apto 1494",
+                "cep": "80742-687",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "demonstrativo": [
+                "Mensalidade graduação - ref. 09/2025",
+                "Documento nº 3822597"
+            ],
+            "instrucoes": [
+                "Não receber após 25/11/2025.",
+                "Conceder desconto de R$ 10,82 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_018",
+            "arquivo_html": "html/boleto_018.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.25060 01002.203006 97448.980017 2 15280000418708",
+            "linha_digitavel_numeros": "75691250600100220300697448980017215280000418708",
+            "codigo_barras": "75692152800004187081250601002203009744898001",
+            "valor_documento": 4187.08,
+            "valor_documento_formatado": "R$ 4.187,08",
+            "desconto_abatimento": 460.58,
+            "desconto_abatimento_impresso": "460,58",
+            "valor_cobrado": 3726.5,
+            "valor_cobrado_formatado": "R$ 3.726,50",
+            "data_vencimento": "2026-08-04",
+            "data_documento": "2026-07-01",
+            "numero_documento": "3655329",
+            "nosso_numero": "0974489-8",
+            "agencia_codigo_beneficiario": "2506 / 22030",
+            "beneficiario": {
+                "nome": "Editora Saber Mais LTDA",
+                "cnpj": "94.978.063/0001-60",
+                "endereco": "Avenida Rio Branco, 184 - Apto 925",
+                "cep": "59693-282",
+                "cidade": "Natal",
+                "uf": "RN"
+            },
+            "pagador": {
+                "nome": "Larissa Alves Dias",
+                "cpf": "344.375.901-71",
+                "endereco": "Rua São João, 1063 - Apto 174",
+                "cep": "38962-996",
+                "cidade": "Uberlândia",
+                "uf": "MG"
+            },
+            "demonstrativo": [
+                "Assinatura de revista - ref. 07/2026",
+                "Documento nº 3655329"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 209,35 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_019",
+            "arquivo_html": "html/boleto_019.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01449.118007 05494.067183 6 98470000201836",
+            "linha_digitavel_numeros": "00190000090144911800705494067183698470000201836",
+            "codigo_barras": "00196984700002018360000001449118000549406718",
+            "valor_documento": 2018.36,
+            "valor_documento_formatado": "R$ 2.018,36",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 2018.36,
+            "valor_cobrado_formatado": "R$ 2.018,36",
+            "data_vencimento": "2024-09-22",
+            "data_documento": "2024-09-12",
+            "numero_documento": "1283043",
+            "nosso_numero": "14491180005494067",
+            "agencia_codigo_beneficiario": "1866-5 / 219054-2",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "11.270.764/0001-13",
+                "endereco": "Rua Sete de Setembro, 1254",
+                "cep": "13084-184",
+                "cidade": "Campinas",
+                "uf": "SP"
+            },
+            "pagador": {
+                "nome": "Matheus Martins Pereira",
+                "cpf": "056.998.328-23",
+                "endereco": "Avenida Rio Branco, 2409 - Apto 372",
+                "cep": "20890-739",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 09/2024",
+                "Documento nº 1283043"
+            ],
+            "instrucoes": [
+                "Não receber após 22/10/2024.",
+                "Conceder desconto de R$ 100,92 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_020",
+            "arquivo_html": "html/boleto_020.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23794.07808 90038.577020 43217.719400 3 10010000385998",
+            "linha_digitavel_numeros": "23794078089003857702043217719400310010000385998",
+            "codigo_barras": "23793100100003859984078090038577024321771940",
+            "valor_documento": 3859.98,
+            "valor_documento_formatado": "R$ 3.859,98",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 3859.98,
+            "valor_cobrado_formatado": "R$ 3.859,98",
+            "data_vencimento": "2025-02-23",
+            "data_documento": "2025-01-20",
+            "numero_documento": "9153165",
+            "nosso_numero": "00385770243",
+            "agencia_codigo_beneficiario": "4078-8 / 2177194-0",
+            "beneficiario": {
+                "nome": "Escola Pequeno Saber LTDA",
+                "cnpj": "58.766.054/0001-42",
+                "endereco": "Rua Tiradentes, 493",
+                "cep": "59153-279",
+                "cidade": "Natal",
+                "uf": "RN"
+            },
+            "pagador": {
+                "nome": "Thiago Santos Fernandes",
+                "cpf": "077.220.986-30",
+                "endereco": "Rua São João, 796",
+                "cep": "70542-582",
+                "cidade": "Brasília",
+                "uf": "DF"
+            },
+            "demonstrativo": [
+                "Mensalidade escolar - ref. 01/2025",
+                "Documento nº 9153165"
+            ],
+            "instrucoes": [
+                "Conceder desconto de R$ 193,00 até o vencimento.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_021",
+            "arquivo_html": "html/boleto_021.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09362 52499.735869 03240.510002 3 11810000417680",
+            "linha_digitavel_numeros": "34191093625249973586903240510002311810000417680",
+            "codigo_barras": "34193118100004176801093652499735860324051000",
+            "valor_documento": 4176.8,
+            "valor_documento_formatado": "R$ 4.176,80",
+            "desconto_abatimento": 125.3,
+            "desconto_abatimento_impresso": "125,30",
+            "valor_cobrado": 4051.5,
+            "valor_cobrado_formatado": "R$ 4.051,50",
+            "data_vencimento": "2025-08-22",
+            "data_documento": "2025-07-28",
+            "numero_documento": "1657562",
+            "nosso_numero": "109/36524997-3",
+            "agencia_codigo_beneficiario": "5860 / 32405-2",
+            "beneficiario": {
+                "nome": "Condomínio Residencial Ipê Amarelo",
+                "cnpj": "07.273.213/0001-36",
+                "endereco": "Avenida Brasil, 2854",
+                "cep": "60285-733",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "pagador": {
+                "nome": "Fernanda Moreira Rocha",
+                "cpf": "392.048.555-68",
+                "endereco": "Rua Tiradentes, 1482 - Apto 1264",
+                "cep": "13033-220",
+                "cidade": "Campinas",
+                "uf": "SP"
+            },
+            "demonstrativo": [
+                "Taxa condominial - ref. 07/2025",
+                "Documento nº 1657562"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 21/09/2025."
+            ]
+        },
+        {
+            "id": "boleto_022",
+            "arquivo_html": "html/boleto_022.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10494.69958 21000.100046 00298.233552 8 10570000108049",
+            "linha_digitavel_numeros": "10494699582100010004600298233552810570000108049",
+            "codigo_barras": "10498105700001080494699521000100040029823355",
+            "valor_documento": 1080.49,
+            "valor_documento_formatado": "R$ 1.080,49",
+            "desconto_abatimento": 54.02,
+            "desconto_abatimento_impresso": "54,02",
+            "valor_cobrado": 1026.47,
+            "valor_cobrado_formatado": "R$ 1.026,47",
+            "data_vencimento": "2025-04-20",
+            "data_documento": "2025-04-10",
+            "numero_documento": "8346987",
+            "nosso_numero": "14000000002982335-3",
+            "agencia_codigo_beneficiario": "4731 / 0469952-7",
+            "beneficiario": {
+                "nome": "Cooperativa Agro Vale Verde",
+                "cnpj": "95.383.279/0001-46",
+                "endereco": "Avenida Brasil, 1309 - Apto 287",
+                "cep": "90105-489",
+                "cidade": "Porto Alegre",
+                "uf": "RS"
+            },
+            "pagador": {
+                "nome": "Thiago Alves Dias",
+                "cpf": "974.397.016-90",
+                "endereco": "Rua das Flores, 1394",
+                "cep": "70850-372",
+                "cidade": "Brasília",
+                "uf": "DF"
+            },
+            "demonstrativo": [
+                "Insumos agrícolas - ref. 04/2025",
+                "Documento nº 8346987"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Conceder desconto de R$ 54,02 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_023",
+            "arquivo_html": "html/boleto_023.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.20696 95200.593317 47800.501018 3 12200000162778",
+            "linha_digitavel_numeros": "03399206969520059331747800501018312200000162778",
+            "codigo_barras": "03393122000001627789206995200593314780050101",
+            "valor_documento": 1627.78,
+            "valor_documento_formatado": "R$ 1.627,78",
+            "desconto_abatimento": 32.56,
+            "desconto_abatimento_impresso": "32,56",
+            "valor_cobrado": 1595.22,
+            "valor_cobrado_formatado": "R$ 1.595,22",
+            "data_vencimento": "2025-09-30",
+            "data_documento": "2025-09-04",
+            "numero_documento": "7438484",
+            "nosso_numero": "005933147800-5",
+            "agencia_codigo_beneficiario": "3266 / 2069952",
+            "beneficiario": {
+                "nome": "Faculdade Integrada do Planalto",
+                "cnpj": "00.888.868/0001-70",
+                "endereco": "Avenida Brasil, 1124",
+                "cep": "50104-677",
+                "cidade": "Recife",
+                "uf": "PE"
+            },
+            "pagador": {
+                "nome": "Rafael Rocha Lopes",
+                "cpf": "445.462.479-82",
+                "endereco": "Avenida Brasil, 1832",
+                "cep": "13979-217",
+                "cidade": "Campinas",
+                "uf": "SP"
+            },
+            "demonstrativo": [
+                "Mensalidade graduação - ref. 09/2025",
+                "Documento nº 7438484"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Conceder desconto de R$ 81,39 até o vencimento.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_024",
+            "arquivo_html": "html/boleto_024.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.94413 01007.315508 72620.600014 4 12920000392801",
+            "linha_digitavel_numeros": "75691944130100731550872620600014412920000392801",
+            "codigo_barras": "75694129200003928011944101007315507262060001",
+            "valor_documento": 3928.01,
+            "valor_documento_formatado": "R$ 3.928,01",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 3928.01,
+            "valor_cobrado_formatado": "R$ 3.928,01",
+            "data_vencimento": "2025-12-11",
+            "data_documento": "2025-11-19",
+            "numero_documento": "2199237",
+            "nosso_numero": "0726206-0",
+            "agencia_codigo_beneficiario": "9441 / 73155",
+            "beneficiario": {
+                "nome": "Escola Pequeno Saber LTDA",
+                "cnpj": "60.146.600/0001-94",
+                "endereco": "Quadra 104 Conjunto B, 1250",
+                "cep": "20653-011",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "pagador": {
+                "nome": "José Santos Lopes",
+                "cpf": "840.084.197-21",
+                "endereco": "Avenida Paulista, 1128 - Apto 501",
+                "cep": "80795-451",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "demonstrativo": [
+                "Mensalidade escolar - ref. 11/2025",
+                "Documento nº 2199237"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 10/01/2026.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_025",
+            "arquivo_html": "html/boleto_025.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01799.821002 07431.457188 5 97890000169051",
+            "linha_digitavel_numeros": "00190000090179982100207431457188597890000169051",
+            "codigo_barras": "00195978900001690510000001799821000743145718",
+            "valor_documento": 1690.51,
+            "valor_documento_formatado": "R$ 1.690,51",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 1690.51,
+            "valor_cobrado_formatado": "R$ 1.690,51",
+            "data_vencimento": "2024-07-26",
+            "data_documento": "2024-07-18",
+            "numero_documento": "8707852",
+            "nosso_numero": "17998210007431457",
+            "agencia_codigo_beneficiario": "1843-5 / 14649479-1",
+            "beneficiario": {
+                "nome": "Academia Corpo em Movimento ME",
+                "cnpj": "87.013.802/0001-14",
+                "endereco": "Avenida Rio Branco, 949",
+                "cep": "65742-360",
+                "cidade": "São Luís",
+                "uf": "MA"
+            },
+            "pagador": {
+                "nome": "Luíza Silva Soares",
+                "cpf": "958.430.984-60",
+                "endereco": "Rua Tiradentes, 2768",
+                "cep": "70633-773",
+                "cidade": "Brasília",
+                "uf": "DF"
+            },
+            "demonstrativo": [
+                "Plano mensal academia - ref. 07/2024",
+                "Documento nº 8707852"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Conceder desconto de R$ 84,53 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_026",
+            "arquivo_html": "html/boleto_026.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23793.43201 60028.906455 69195.853705 5 99180000105466",
+            "linha_digitavel_numeros": "23793432016002890645569195853705599180000105466",
+            "codigo_barras": "23795991800001054663432060028906456919585370",
+            "valor_documento": 1054.66,
+            "valor_documento_formatado": "R$ 1.054,66",
+            "desconto_abatimento": 126.56,
+            "desconto_abatimento_impresso": "126,56",
+            "valor_cobrado": 928.1,
+            "valor_cobrado_formatado": "R$ 928,10",
+            "data_vencimento": "2024-12-02",
+            "data_documento": "2024-10-26",
+            "numero_documento": "1242933",
+            "nosso_numero": "00289064569",
+            "agencia_codigo_beneficiario": "3432-4 / 1958537-9",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "12.231.254/0001-08",
+                "endereco": "Rua Tiradentes, 319",
+                "cep": "69673-332",
+                "cidade": "Manaus",
+                "uf": "AM"
+            },
+            "pagador": {
+                "nome": "Lucas Rocha Alves",
+                "cpf": "855.673.593-22",
+                "endereco": "Avenida Getúlio Vargas, 2026",
+                "cep": "60456-585",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 10/2024",
+                "Documento nº 1242933"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Em caso de dúvidas, entre em contato com o beneficiário.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_027",
+            "arquivo_html": "html/boleto_027.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09255 03762.361701 22440.290009 6 99900000437819",
+            "linha_digitavel_numeros": "34191092550376236170122440290009699900000437819",
+            "codigo_barras": "34196999000004378191092503762361702244029000",
+            "valor_documento": 4378.19,
+            "valor_documento_formatado": "R$ 4.378,19",
+            "desconto_abatimento": 262.69,
+            "desconto_abatimento_impresso": "262,69",
+            "valor_cobrado": 4115.5,
+            "valor_cobrado_formatado": "R$ 4.115,50",
+            "data_vencimento": "2025-02-12",
+            "data_documento": "2025-01-30",
+            "numero_documento": "8711152",
+            "nosso_numero": "109/25037623-6",
+            "agencia_codigo_beneficiario": "1702 / 24402-8",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "68.883.139/0001-64",
+                "endereco": "Avenida Paulista, 2020 - Apto 1476",
+                "cep": "79629-593",
+                "cidade": "Campo Grande",
+                "uf": "MS"
+            },
+            "pagador": {
+                "nome": "Ana Lopes Lopes",
+                "cpf": "078.384.786-69",
+                "endereco": "Rua Tiradentes, 646 - Apto 508",
+                "cep": "80061-969",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 01/2025",
+                "Documento nº 8711152"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_028",
+            "arquivo_html": "html/boleto_028.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10499.30520 03000.100044 00410.084164 2 16060000089912",
+            "linha_digitavel_numeros": "10499305200300010004400410084164216060000089912",
+            "codigo_barras": "10492160600000899129305203000100040041008416",
+            "valor_documento": 899.12,
+            "valor_documento_formatado": "R$ 899,12",
+            "desconto_abatimento": 62.94,
+            "desconto_abatimento_impresso": "62,94",
+            "valor_cobrado": 836.18,
+            "valor_cobrado_formatado": "R$ 836,18",
+            "data_vencimento": "2026-10-21",
+            "data_documento": "2026-09-24",
+            "numero_documento": "7470299",
+            "nosso_numero": "14000000004100841-9",
+            "agencia_codigo_beneficiario": "7384 / 0930520-0",
+            "beneficiario": {
+                "nome": "Provedor NetRápido Telecom LTDA",
+                "cnpj": "71.063.094/0001-96",
+                "endereco": "Avenida Paulista, 2834",
+                "cep": "40178-319",
+                "cidade": "Salvador",
+                "uf": "BA"
+            },
+            "pagador": {
+                "nome": "Aline Machado Carvalho",
+                "cpf": "320.843.134-14",
+                "endereco": "Rua Tiradentes, 2761",
+                "cep": "30851-158",
+                "cidade": "Belo Horizonte",
+                "uf": "MG"
+            },
+            "demonstrativo": [
+                "Internet fibra 500 Mbps - ref. 09/2026",
+                "Documento nº 7470299"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Conceder desconto de R$ 44,96 até o vencimento."
+            ]
+        },
+        {
+            "id": "boleto_029",
+            "arquivo_html": "html/boleto_029.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.27667 46500.640597 04735.201016 4 10280000304632",
+            "linha_digitavel_numeros": "03399276674650064059704735201016410280000304632",
+            "codigo_barras": "03394102800003046329276646500640590473520101",
+            "valor_documento": 3046.32,
+            "valor_documento_formatado": "R$ 3.046,32",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 3046.32,
+            "valor_cobrado_formatado": "R$ 3.046,32",
+            "data_vencimento": "2025-03-22",
+            "data_documento": "2025-03-12",
+            "numero_documento": "700288",
+            "nosso_numero": "006405904735-2",
+            "agencia_codigo_beneficiario": "6022 / 2766465",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "12.740.932/0001-50",
+                "endereco": "Avenida Rio Branco, 2100 - Apto 341",
+                "cep": "30250-294",
+                "cidade": "Belo Horizonte",
+                "uf": "MG"
+            },
+            "pagador": {
+                "nome": "Marcos Almeida Martins",
+                "cpf": "486.896.952-81",
+                "endereco": "Alameda dos Ipês, 2805",
+                "cep": "80396-333",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 03/2025",
+                "Documento nº 700288"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_030",
+            "arquivo_html": "html/boleto_030.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.41299 01002.726808 63027.270014 4 10120000160282",
+            "linha_digitavel_numeros": "75691412990100272680863027270014410120000160282",
+            "codigo_barras": "75694101200001602821412901002726806302727001",
+            "valor_documento": 1602.82,
+            "valor_documento_formatado": "R$ 1.602,82",
+            "desconto_abatimento": 160.28,
+            "desconto_abatimento_impresso": "160,28",
+            "valor_cobrado": 1442.54,
+            "valor_cobrado_formatado": "R$ 1.442,54",
+            "data_vencimento": "2025-03-06",
+            "data_documento": "2025-02-28",
+            "numero_documento": "6583473",
+            "nosso_numero": "0630272-7",
+            "agencia_codigo_beneficiario": "4129 / 27268",
+            "beneficiario": {
+                "nome": "Distribuidora Horizonte LTDA",
+                "cnpj": "10.356.840/0001-45",
+                "endereco": "Rua São João, 1368 - Apto 560",
+                "cep": "74974-852",
+                "cidade": "Goiânia",
+                "uf": "GO"
+            },
+            "pagador": {
+                "nome": "Débora Souza Marques",
+                "cpf": "183.393.745-75",
+                "endereco": "Avenida Brasil, 2628",
+                "cep": "66013-696",
+                "cidade": "Belém",
+                "uf": "PA"
+            },
+            "demonstrativo": [
+                "Material de escritório - ref. 02/2025",
+                "Documento nº 6583473"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 05/04/2025."
+            ]
+        },
+        {
+            "id": "boleto_031",
+            "arquivo_html": "html/boleto_031.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01871.676001 06702.704187 1 16000000001696",
+            "linha_digitavel_numeros": "00190000090187167600106702704187116000000001696",
+            "codigo_barras": "00191160000000016960000001871676000670270418",
+            "valor_documento": 16.96,
+            "valor_documento_formatado": "R$ 16,96",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 16.96,
+            "valor_cobrado_formatado": "R$ 16,96",
+            "data_vencimento": "2026-10-15",
+            "data_documento": "2026-09-07",
+            "numero_documento": "6731338",
+            "nosso_numero": "18716760006702704",
+            "agencia_codigo_beneficiario": "5071-8 / 37643998-1",
+            "beneficiario": {
+                "nome": "Faculdade Integrada do Planalto",
+                "cnpj": "12.155.515/0001-40",
+                "endereco": "Rua Marechal Deodoro, 2690",
+                "cep": "80623-658",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "pagador": {
+                "nome": "Thiago Andrade Freitas",
+                "cpf": "009.166.865-40",
+                "endereco": "Rua Dom Pedro II, 1579",
+                "cep": "38866-458",
+                "cidade": "Uberlândia",
+                "uf": "MG"
+            },
+            "demonstrativo": [
+                "Mensalidade graduação - ref. 09/2026",
+                "Documento nº 6731338"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 14/11/2026.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_032",
+            "arquivo_html": "html/boleto_032.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23797.01408 90078.363083 70458.878306 1 98770000397614",
+            "linha_digitavel_numeros": "23797014089007836308370458878306198770000397614",
+            "codigo_barras": "23791987700003976147014090078363087045887830",
+            "valor_documento": 3976.14,
+            "valor_documento_formatado": "R$ 3.976,14",
+            "desconto_abatimento": 318.09,
+            "desconto_abatimento_impresso": "318,09",
+            "valor_cobrado": 3658.05,
+            "valor_cobrado_formatado": "R$ 3.658,05",
+            "data_vencimento": "2024-10-22",
+            "data_documento": "2024-10-08",
+            "numero_documento": "6912207",
+            "nosso_numero": "00783630870",
+            "agencia_codigo_beneficiario": "7014-0 / 4588783-5",
+            "beneficiario": {
+                "nome": "Auto Peças Estrada Real LTDA",
+                "cnpj": "34.359.704/0001-77",
+                "endereco": "Rua Sete de Setembro, 1502",
+                "cep": "78845-448",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "pagador": {
+                "nome": "Juliana Dias Almeida",
+                "cpf": "390.229.640-27",
+                "endereco": "Rua Sete de Setembro, 1097",
+                "cep": "90080-610",
+                "cidade": "Porto Alegre",
+                "uf": "RS"
+            },
+            "demonstrativo": [
+                "Peças automotivas - ref. 10/2024",
+                "Documento nº 6912207"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Não receber após 21/11/2024.",
+                "Conceder desconto de R$ 198,81 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_033",
+            "arquivo_html": "html/boleto_033.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09776 09745.642505 23167.850009 1 11000000350962",
+            "linha_digitavel_numeros": "34191097760974564250523167850009111000000350962",
+            "codigo_barras": "34191110000003509621097709745642502316785000",
+            "valor_documento": 3509.62,
+            "valor_documento_formatado": "R$ 3.509,62",
+            "desconto_abatimento": 105.29,
+            "desconto_abatimento_impresso": "105,29",
+            "valor_cobrado": 3404.33,
+            "valor_cobrado_formatado": "R$ 3.404,33",
+            "data_vencimento": "2025-06-02",
+            "data_documento": "2025-04-27",
+            "numero_documento": "837508",
+            "nosso_numero": "109/77097456-4",
+            "agencia_codigo_beneficiario": "2502 / 31678-9",
+            "beneficiario": {
+                "nome": "Provedor NetRápido Telecom LTDA",
+                "cnpj": "66.501.784/0001-40",
+                "endereco": "Rua Sete de Setembro, 1751 - Apto 1241",
+                "cep": "29165-893",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "pagador": {
+                "nome": "Aline Nunes Vieira",
+                "cpf": "913.886.763-03",
+                "endereco": "Rua Sete de Setembro, 1497 - Apto 1245",
+                "cep": "66844-979",
+                "cidade": "Belém",
+                "uf": "PA"
+            },
+            "demonstrativo": [
+                "Internet fibra 500 Mbps - ref. 04/2025",
+                "Documento nº 837508"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 175,48 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_034",
+            "arquivo_html": "html/boleto_034.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10495.40063 19000.100040 00003.571783 3 15370000382895",
+            "linha_digitavel_numeros": "10495400631900010004000003571783315370000382895",
+            "codigo_barras": "10493153700003828955400619000100040000357178",
+            "valor_documento": 3828.95,
+            "valor_documento_formatado": "R$ 3.828,95",
+            "desconto_abatimento": 306.32,
+            "desconto_abatimento_impresso": "306,32",
+            "valor_cobrado": 3522.63,
+            "valor_cobrado_formatado": "R$ 3.522,63",
+            "data_vencimento": "2026-08-13",
+            "data_documento": "2026-08-07",
+            "numero_documento": "7845661",
+            "nosso_numero": "14000000000035717-6",
+            "agencia_codigo_beneficiario": "7456 / 0540061-8",
+            "beneficiario": {
+                "nome": "Imobiliária Casa Nova LTDA",
+                "cnpj": "57.404.956/0001-76",
+                "endereco": "Travessa da Paz, 676",
+                "cep": "29098-975",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "pagador": {
+                "nome": "João Silva Freitas",
+                "cpf": "603.252.311-09",
+                "endereco": "Avenida Rio Branco, 2960",
+                "cep": "29334-462",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "demonstrativo": [
+                "Aluguel residencial - ref. 08/2026",
+                "Documento nº 7845661"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_035",
+            "arquivo_html": "html/boleto_035.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.97462 22400.345702 83082.001013 2 97810000446950",
+            "linha_digitavel_numeros": "03399974622240034570283082001013297810000446950",
+            "codigo_barras": "03392978100004469509974622400345708308200101",
+            "valor_documento": 4469.5,
+            "valor_documento_formatado": "R$ 4.469,50",
+            "desconto_abatimento": 491.65,
+            "desconto_abatimento_impresso": "491,65",
+            "valor_cobrado": 3977.85,
+            "valor_cobrado_formatado": "R$ 3.977,85",
+            "data_vencimento": "2024-07-18",
+            "data_documento": "2024-07-09",
+            "numero_documento": "4280396",
+            "nosso_numero": "003457083082-0",
+            "agencia_codigo_beneficiario": "2472 / 9746224",
+            "beneficiario": {
+                "nome": "Cooperativa Agro Vale Verde",
+                "cnpj": "94.543.763/0001-22",
+                "endereco": "Avenida Brasil, 2686 - Apto 844",
+                "cep": "79949-104",
+                "cidade": "Campo Grande",
+                "uf": "MS"
+            },
+            "pagador": {
+                "nome": "Carlos Dias Oliveira",
+                "cpf": "856.034.484-58",
+                "endereco": "Rua Marechal Deodoro, 1715",
+                "cep": "90870-002",
+                "cidade": "Porto Alegre",
+                "uf": "RS"
+            },
+            "demonstrativo": [
+                "Insumos agrícolas - ref. 07/2024",
+                "Documento nº 4280396"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Não receber após 17/08/2024.",
+                "Em caso de dúvidas, entre em contato com o beneficiário.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_036",
+            "arquivo_html": "html/boleto_036.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.36216 01008.013805 17673.220012 1 11600000066812",
+            "linha_digitavel_numeros": "75691362160100801380517673220012111600000066812",
+            "codigo_barras": "75691116000000668121362101008013801767322001",
+            "valor_documento": 668.12,
+            "valor_documento_formatado": "R$ 668,12",
+            "desconto_abatimento": 53.45,
+            "desconto_abatimento_impresso": "53,45",
+            "valor_cobrado": 614.67,
+            "valor_cobrado_formatado": "R$ 614,67",
+            "data_vencimento": "2025-08-01",
+            "data_documento": "2025-07-01",
+            "numero_documento": "1646392",
+            "nosso_numero": "0176732-2",
+            "agencia_codigo_beneficiario": "3621 / 80138",
+            "beneficiario": {
+                "nome": "Editora Saber Mais LTDA",
+                "cnpj": "87.781.247/0001-70",
+                "endereco": "Avenida Rio Branco, 2773",
+                "cep": "40408-917",
+                "cidade": "Salvador",
+                "uf": "BA"
+            },
+            "pagador": {
+                "nome": "Camila Mendes Lopes",
+                "cpf": "968.852.759-99",
+                "endereco": "Rua Dom Pedro II, 2052",
+                "cep": "20412-528",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "demonstrativo": [
+                "Assinatura de revista - ref. 07/2025",
+                "Documento nº 1646392"
+            ],
+            "instrucoes": [
+                "Não receber após 31/08/2025.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_037",
+            "arquivo_html": "html/boleto_037.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01285.663009 03798.010181 3 10050000342583",
+            "linha_digitavel_numeros": "00190000090128566300903798010181310050000342583",
+            "codigo_barras": "00193100500003425830000001285663000379801018",
+            "valor_documento": 3425.83,
+            "valor_documento_formatado": "R$ 3.425,83",
+            "desconto_abatimento": 68.52,
+            "desconto_abatimento_impresso": "68,52",
+            "valor_cobrado": 3357.31,
+            "valor_cobrado_formatado": "R$ 3.357,31",
+            "data_vencimento": "2025-02-27",
+            "data_documento": "2025-01-30",
+            "numero_documento": "782377",
+            "nosso_numero": "12856630003798010",
+            "agencia_codigo_beneficiario": "6628-2 / 89842859-5",
+            "beneficiario": {
+                "nome": "Auto Peças Estrada Real LTDA",
+                "cnpj": "52.262.514/0001-19",
+                "endereco": "Avenida Getúlio Vargas, 2729",
+                "cep": "78609-664",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "pagador": {
+                "nome": "Gustavo Andrade Pereira",
+                "cpf": "145.785.442-22",
+                "endereco": "Rua Marechal Deodoro, 1008 - Apto 1494",
+                "cep": "29005-255",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "demonstrativo": [
+                "Peças automotivas - ref. 01/2025",
+                "Documento nº 782377"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 29/03/2025.",
+                "Conceder desconto de R$ 171,29 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_038",
+            "arquivo_html": "html/boleto_038.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23796.10302 90058.613200 14112.206504 3 14910000292171",
+            "linha_digitavel_numeros": "23796103029005861320014112206504314910000292171",
+            "codigo_barras": "23793149100002921716103090058613201411220650",
+            "valor_documento": 2921.71,
+            "valor_documento_formatado": "R$ 2.921,71",
+            "desconto_abatimento": 87.65,
+            "desconto_abatimento_impresso": "87,65",
+            "valor_cobrado": 2834.06,
+            "valor_cobrado_formatado": "R$ 2.834,06",
+            "data_vencimento": "2026-06-28",
+            "data_documento": "2026-06-06",
+            "numero_documento": "4093584",
+            "nosso_numero": "00586132014",
+            "agencia_codigo_beneficiario": "6103-8 / 1122065-1",
+            "beneficiario": {
+                "nome": "Associação dos Moradores do Bairro Jardim",
+                "cnpj": "79.053.874/0001-67",
+                "endereco": "Avenida Brasil, 469",
+                "cep": "60777-383",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "pagador": {
+                "nome": "Thiago Andrade Soares",
+                "cpf": "104.085.217-32",
+                "endereco": "Rua Marechal Deodoro, 204",
+                "cep": "78510-189",
+                "cidade": "Cuiabá",
+                "uf": "MT"
+            },
+            "demonstrativo": [
+                "Contribuição associativa - ref. 06/2026",
+                "Documento nº 4093584"
+            ],
+            "instrucoes": [
+                "Não receber após 28/07/2026.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_039",
+            "arquivo_html": "html/boleto_039.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09966 15181.061217 81533.670006 9 98870000342124",
+            "linha_digitavel_numeros": "34191099661518106121781533670006998870000342124",
+            "codigo_barras": "34199988700003421241099615181061218153367000",
+            "valor_documento": 3421.24,
+            "valor_documento_formatado": "R$ 3.421,24",
+            "desconto_abatimento": 239.49,
+            "desconto_abatimento_impresso": "239,49",
+            "valor_cobrado": 3181.75,
+            "valor_cobrado_formatado": "R$ 3.181,75",
+            "data_vencimento": "2024-11-01",
+            "data_documento": "2024-10-22",
+            "numero_documento": "3799508",
+            "nosso_numero": "109/96151810-6",
+            "agencia_codigo_beneficiario": "1218 / 15336-2",
+            "beneficiario": {
+                "nome": "Editora Saber Mais LTDA",
+                "cnpj": "06.442.691/0001-60",
+                "endereco": "Avenida Rio Branco, 253 - Apto 134",
+                "cep": "66408-895",
+                "cidade": "Belém",
+                "uf": "PA"
+            },
+            "pagador": {
+                "nome": "Matheus Alves Nascimento",
+                "cpf": "421.607.401-44",
+                "endereco": "Avenida Brasil, 2781",
+                "cep": "40169-822",
+                "cidade": "Salvador",
+                "uf": "BA"
+            },
+            "demonstrativo": [
+                "Assinatura de revista - ref. 10/2024",
+                "Documento nº 3799508"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Conceder desconto de R$ 171,06 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_040",
+            "arquivo_html": "html/boleto_040.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10496.80497 18000.100042 00181.505405 8 98570000003519",
+            "linha_digitavel_numeros": "10496804971800010004200181505405898570000003519",
+            "codigo_barras": "10498985700000035196804918000100040018150540",
+            "valor_documento": 35.19,
+            "valor_documento_formatado": "R$ 35,19",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 35.19,
+            "valor_cobrado_formatado": "R$ 35,19",
+            "data_vencimento": "2024-10-02",
+            "data_documento": "2024-09-17",
+            "numero_documento": "9022776",
+            "nosso_numero": "14000000001815054-9",
+            "agencia_codigo_beneficiario": "9341 / 0680491-9",
+            "beneficiario": {
+                "nome": "Faculdade Integrada do Planalto",
+                "cnpj": "28.010.239/0001-61",
+                "endereco": "Avenida Rio Branco, 1088 - Apto 620",
+                "cep": "50583-710",
+                "cidade": "Recife",
+                "uf": "PE"
+            },
+            "pagador": {
+                "nome": "Ana Rocha Pereira",
+                "cpf": "352.960.184-51",
+                "endereco": "Avenida Getúlio Vargas, 665",
+                "cep": "13110-199",
+                "cidade": "Campinas",
+                "uf": "SP"
+            },
+            "demonstrativo": [
+                "Mensalidade graduação - ref. 09/2024",
+                "Documento nº 9022776"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_041",
+            "arquivo_html": "html/boleto_041.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.60254 50400.102625 50633.201012 8 16550000080266",
+            "linha_digitavel_numeros": "03399602545040010262550633201012816550000080266",
+            "codigo_barras": "03398165500000802669602550400102625063320101",
+            "valor_documento": 802.66,
+            "valor_documento_formatado": "R$ 802,66",
+            "desconto_abatimento": 88.29,
+            "desconto_abatimento_impresso": "88,29",
+            "valor_cobrado": 714.37,
+            "valor_cobrado_formatado": "R$ 714,37",
+            "data_vencimento": "2026-12-09",
+            "data_documento": "2026-11-16",
+            "numero_documento": "7564083",
+            "nosso_numero": "001026250633-2",
+            "agencia_codigo_beneficiario": "4667 / 6025504",
+            "beneficiario": {
+                "nome": "Distribuidora Horizonte LTDA",
+                "cnpj": "26.792.361/0001-01",
+                "endereco": "Alameda dos Ipês, 2626",
+                "cep": "69563-783",
+                "cidade": "Manaus",
+                "uf": "AM"
+            },
+            "pagador": {
+                "nome": "Antônio Barbosa Costa",
+                "cpf": "693.529.041-41",
+                "endereco": "Rua Dom Pedro II, 2353 - Apto 666",
+                "cep": "79128-970",
+                "cidade": "Campo Grande",
+                "uf": "MS"
+            },
+            "demonstrativo": [
+                "Material de escritório - ref. 11/2026",
+                "Documento nº 7564083"
+            ],
+            "instrucoes": [
+                "Não receber após 08/01/2027.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_042",
+            "arquivo_html": "html/boleto_042.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.22166 01008.306506 68966.160019 2 16620000087950",
+            "linha_digitavel_numeros": "75691221660100830650668966160019216620000087950",
+            "codigo_barras": "75692166200000879501221601008306506896616001",
+            "valor_documento": 879.5,
+            "valor_documento_formatado": "R$ 879,50",
+            "desconto_abatimento": 0,
+            "desconto_abatimento_impresso": null,
+            "valor_cobrado": 879.5,
+            "valor_cobrado_formatado": "R$ 879,50",
+            "data_vencimento": "2026-12-16",
+            "data_documento": "2026-11-02",
+            "numero_documento": "5691331",
+            "nosso_numero": "0689661-6",
+            "agencia_codigo_beneficiario": "2216 / 83065",
+            "beneficiario": {
+                "nome": "Distribuidora Horizonte LTDA",
+                "cnpj": "00.894.959/0001-18",
+                "endereco": "Avenida Getúlio Vargas, 227",
+                "cep": "65554-680",
+                "cidade": "São Luís",
+                "uf": "MA"
+            },
+            "pagador": {
+                "nome": "João Moreira Carvalho",
+                "cpf": "925.551.039-88",
+                "endereco": "Avenida Getúlio Vargas, 2500",
+                "cep": "69404-054",
+                "cidade": "Manaus",
+                "uf": "AM"
+            },
+            "demonstrativo": [
+                "Material de escritório - ref. 11/2026",
+                "Documento nº 5691331"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 43,98 até o vencimento.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_043",
+            "arquivo_html": "html/boleto_043.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01902.763000 05059.550185 4 98910000242225",
+            "linha_digitavel_numeros": "00190000090190276300005059550185498910000242225",
+            "codigo_barras": "00194989100002422250000001902763000505955018",
+            "valor_documento": 2422.25,
+            "valor_documento_formatado": "R$ 2.422,25",
+            "desconto_abatimento": 193.78,
+            "desconto_abatimento_impresso": "193,78",
+            "valor_cobrado": 2228.47,
+            "valor_cobrado_formatado": "R$ 2.228,47",
+            "data_vencimento": "2024-11-05",
+            "data_documento": "2024-10-06",
+            "numero_documento": "6215590",
+            "nosso_numero": "19027630005059550",
+            "agencia_codigo_beneficiario": "4220-3 / 54999993-1",
+            "beneficiario": {
+                "nome": "Contabilidade Exata Serviços LTDA",
+                "cnpj": "35.334.309/0001-00",
+                "endereco": "Travessa da Paz, 1580 - Apto 340",
+                "cep": "50740-409",
+                "cidade": "Recife",
+                "uf": "PE"
+            },
+            "pagador": {
+                "nome": "Ana Nunes Freitas",
+                "cpf": "507.000.812-91",
+                "endereco": "Rua São João, 2707",
+                "cep": "38160-647",
+                "cidade": "Uberlândia",
+                "uf": "MG"
+            },
+            "demonstrativo": [
+                "Honorários contábeis - ref. 10/2024",
+                "Documento nº 6215590"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 121,11 até o vencimento.",
+                "Sr. Caixa, não receber em cheque.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_044",
+            "arquivo_html": "html/boleto_044.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23798.68801 90004.227139 96987.462502 2 10820000426456",
+            "linha_digitavel_numeros": "23798688019000422713996987462502210820000426456",
+            "codigo_barras": "23792108200004264568688090004227139698746250",
+            "valor_documento": 4264.56,
+            "valor_documento_formatado": "R$ 4.264,56",
+            "desconto_abatimento": 213.23,
+            "desconto_abatimento_impresso": "213,23",
+            "valor_cobrado": 4051.33,
+            "valor_cobrado_formatado": "R$ 4.051,33",
+            "data_vencimento": "2025-05-15",
+            "data_documento": "2025-04-23",
+            "numero_documento": "8495576",
+            "nosso_numero": "00042271396",
+            "agencia_codigo_beneficiario": "8688-2 / 9874625-2",
+            "beneficiario": {
+                "nome": "Associação dos Moradores do Bairro Jardim",
+                "cnpj": "38.515.772/0001-39",
+                "endereco": "Avenida Paulista, 1105",
+                "cep": "20859-302",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "pagador": {
+                "nome": "Felipe Souza Souza",
+                "cpf": "636.831.816-30",
+                "endereco": "Rua São João, 2481",
+                "cep": "70282-375",
+                "cidade": "Brasília",
+                "uf": "DF"
+            },
+            "demonstrativo": [
+                "Contribuição associativa - ref. 04/2025",
+                "Documento nº 8495576"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Não receber após 14/06/2025.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_045",
+            "arquivo_html": "html/boleto_045.html",
+            "banco": {
+                "nome": "Itaú",
+                "codigo": "341"
+            },
+            "linha_digitavel": "34191.09529 03624.979773 49968.480001 8 14860000360936",
+            "linha_digitavel_numeros": "34191095290362497977349968480001814860000360936",
+            "codigo_barras": "34198148600003609361095203624979774996848000",
+            "valor_documento": 3609.36,
+            "valor_documento_formatado": "R$ 3.609,36",
+            "desconto_abatimento": 108.28,
+            "desconto_abatimento_impresso": "108,28",
+            "valor_cobrado": 3501.08,
+            "valor_cobrado_formatado": "R$ 3.501,08",
+            "data_vencimento": "2026-06-23",
+            "data_documento": "2026-05-27",
+            "numero_documento": "2377946",
+            "nosso_numero": "109/52036249-7",
+            "agencia_codigo_beneficiario": "9774 / 99684-5",
+            "beneficiario": {
+                "nome": "Clínica Odontológica Sorriso LTDA",
+                "cnpj": "19.934.044/0001-17",
+                "endereco": "Rua XV de Novembro, 1878",
+                "cep": "20455-316",
+                "cidade": "Rio de Janeiro",
+                "uf": "RJ"
+            },
+            "pagador": {
+                "nome": "Maria Soares Nascimento",
+                "cpf": "274.531.509-90",
+                "endereco": "Alameda dos Ipês, 408",
+                "cep": "80075-454",
+                "cidade": "Curitiba",
+                "uf": "PR"
+            },
+            "demonstrativo": [
+                "Tratamento odontológico - ref. 05/2026",
+                "Documento nº 2377946"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Após o vencimento cobrar juros de 0,033% ao dia.",
+                "Conceder desconto de R$ 180,47 até o vencimento.",
+                "Sr. Caixa, não receber em cheque."
+            ]
+        },
+        {
+            "id": "boleto_046",
+            "arquivo_html": "html/boleto_046.html",
+            "banco": {
+                "nome": "Caixa Econômica Federal",
+                "codigo": "104"
+            },
+            "linha_digitavel": "10493.18627 02000.100046 00140.563081 1 16270000097567",
+            "linha_digitavel_numeros": "10493186270200010004600140563081116270000097567",
+            "codigo_barras": "10491162700000975673186202000100040014056308",
+            "valor_documento": 975.67,
+            "valor_documento_formatado": "R$ 975,67",
+            "desconto_abatimento": 87.81,
+            "desconto_abatimento_impresso": "87,81",
+            "valor_cobrado": 887.86,
+            "valor_cobrado_formatado": "R$ 887,86",
+            "data_vencimento": "2026-11-11",
+            "data_documento": "2026-10-14",
+            "numero_documento": "9576891",
+            "nosso_numero": "14000000001405630-0",
+            "agencia_codigo_beneficiario": "3103 / 0318620-3",
+            "beneficiario": {
+                "nome": "Provedor NetRápido Telecom LTDA",
+                "cnpj": "87.466.038/0001-32",
+                "endereco": "Rua Marechal Deodoro, 1556 - Apto 374",
+                "cep": "01725-767",
+                "cidade": "São Paulo",
+                "uf": "SP"
+            },
+            "pagador": {
+                "nome": "Débora Vieira Nascimento",
+                "cpf": "476.642.624-02",
+                "endereco": "Rua XV de Novembro, 2063",
+                "cep": "74679-869",
+                "cidade": "Goiânia",
+                "uf": "GO"
+            },
+            "demonstrativo": [
+                "Internet fibra 500 Mbps - ref. 10/2026",
+                "Documento nº 9576891"
+            ],
+            "instrucoes": [
+                "Não receber após 11/12/2026.",
+                "Sr. Caixa, não receber em cheque.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_047",
+            "arquivo_html": "html/boleto_047.html",
+            "banco": {
+                "nome": "Santander",
+                "codigo": "033"
+            },
+            "linha_digitavel": "03399.87695 46800.377908 73348.901015 7 10620000209644",
+            "linha_digitavel_numeros": "03399876954680037790873348901015710620000209644",
+            "codigo_barras": "03397106200002096449876946800377907334890101",
+            "valor_documento": 2096.44,
+            "valor_documento_formatado": "R$ 2.096,44",
+            "desconto_abatimento": 125.79,
+            "desconto_abatimento_impresso": "125,79",
+            "valor_cobrado": 1970.65,
+            "valor_cobrado_formatado": "R$ 1.970,65",
+            "data_vencimento": "2025-04-25",
+            "data_documento": "2025-03-26",
+            "numero_documento": "4320072",
+            "nosso_numero": "003779073348-9",
+            "agencia_codigo_beneficiario": "3241 / 8769468",
+            "beneficiario": {
+                "nome": "Clínica Odontológica Sorriso LTDA",
+                "cnpj": "45.507.403/0001-60",
+                "endereco": "Rua XV de Novembro, 1417",
+                "cep": "88358-480",
+                "cidade": "Florianópolis",
+                "uf": "SC"
+            },
+            "pagador": {
+                "nome": "Aline Alves Andrade",
+                "cpf": "251.150.110-42",
+                "endereco": "Rua das Flores, 935",
+                "cep": "13329-586",
+                "cidade": "Campinas",
+                "uf": "SP"
+            },
+            "demonstrativo": [
+                "Tratamento odontológico - ref. 03/2025",
+                "Documento nº 4320072"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Não receber após 25/05/2025.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_048",
+            "arquivo_html": "html/boleto_048.html",
+            "banco": {
+                "nome": "Sicoob",
+                "codigo": "756"
+            },
+            "linha_digitavel": "75691.47551 01006.078503 09698.310019 1 11400000278176",
+            "linha_digitavel_numeros": "75691475510100607850309698310019111400000278176",
+            "codigo_barras": "75691114000002781761475501006078500969831001",
+            "valor_documento": 2781.76,
+            "valor_documento_formatado": "R$ 2.781,76",
+            "desconto_abatimento": 111.27,
+            "desconto_abatimento_impresso": "111,27",
+            "valor_cobrado": 2670.49,
+            "valor_cobrado_formatado": "R$ 2.670,49",
+            "data_vencimento": "2025-07-12",
+            "data_documento": "2025-06-10",
+            "numero_documento": "8870469",
+            "nosso_numero": "0096983-1",
+            "agencia_codigo_beneficiario": "4755 / 60785",
+            "beneficiario": {
+                "nome": "Contabilidade Exata Serviços LTDA",
+                "cnpj": "90.073.560/0001-69",
+                "endereco": "Avenida Getúlio Vargas, 1015",
+                "cep": "50172-065",
+                "cidade": "Recife",
+                "uf": "PE"
+            },
+            "pagador": {
+                "nome": "Débora Oliveira Soares",
+                "cpf": "025.798.248-55",
+                "endereco": "Avenida Brasil, 573 - Apto 611",
+                "cep": "60647-000",
+                "cidade": "Fortaleza",
+                "uf": "CE"
+            },
+            "demonstrativo": [
+                "Honorários contábeis - ref. 06/2025",
+                "Documento nº 8870469"
+            ],
+            "instrucoes": [
+                "Conceder desconto de R$ 139,09 até o vencimento.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        },
+        {
+            "id": "boleto_049",
+            "arquivo_html": "html/boleto_049.html",
+            "banco": {
+                "nome": "Banco do Brasil",
+                "codigo": "001"
+            },
+            "linha_digitavel": "00190.00009 01138.422009 02743.059186 3 10830000311904",
+            "linha_digitavel_numeros": "00190000090113842200902743059186310830000311904",
+            "codigo_barras": "00193108300003119040000001138422000274305918",
+            "valor_documento": 3119.04,
+            "valor_documento_formatado": "R$ 3.119,04",
+            "desconto_abatimento": 343.09,
+            "desconto_abatimento_impresso": "343,09",
+            "valor_cobrado": 2775.95,
+            "valor_cobrado_formatado": "R$ 2.775,95",
+            "data_vencimento": "2025-05-16",
+            "data_documento": "2025-04-13",
+            "numero_documento": "9140219",
+            "nosso_numero": "11384220002743059",
+            "agencia_codigo_beneficiario": "4729-7 / 26372584-0",
+            "beneficiario": {
+                "nome": "Loja de Móveis Bom Lar EIRELI",
+                "cnpj": "47.028.900/0001-00",
+                "endereco": "Avenida Rio Branco, 997",
+                "cep": "29439-657",
+                "cidade": "Vitória",
+                "uf": "ES"
+            },
+            "pagador": {
+                "nome": "Letícia Almeida Souza",
+                "cpf": "944.121.517-19",
+                "endereco": "Avenida Rio Branco, 242 - Apto 343",
+                "cep": "69243-405",
+                "cidade": "Manaus",
+                "uf": "AM"
+            },
+            "demonstrativo": [
+                "Parcela de móveis planejados - ref. 04/2025",
+                "Documento nº 9140219"
+            ],
+            "instrucoes": [
+                "Após o vencimento cobrar multa de 2%.",
+                "Conceder desconto de R$ 155,95 até o vencimento.",
+                "Em caso de dúvidas, entre em contato com o beneficiário."
+            ]
+        },
+        {
+            "id": "boleto_050",
+            "arquivo_html": "html/boleto_050.html",
+            "banco": {
+                "nome": "Bradesco",
+                "codigo": "237"
+            },
+            "linha_digitavel": "23797.42006 60070.866599 26684.861003 2 98340000374890",
+            "linha_digitavel_numeros": "23797420066007086659926684861003298340000374890",
+            "codigo_barras": "23792983400003748907420060070866592668486100",
+            "valor_documento": 3748.9,
+            "valor_documento_formatado": "R$ 3.748,90",
+            "desconto_abatimento": 74.98,
+            "desconto_abatimento_impresso": "74,98",
+            "valor_cobrado": 3673.92,
+            "valor_cobrado_formatado": "R$ 3.673,92",
+            "data_vencimento": "2024-09-09",
+            "data_documento": "2024-08-15",
+            "numero_documento": "2104792",
+            "nosso_numero": "00708665926",
+            "agencia_codigo_beneficiario": "7420-4 / 6848610-3",
+            "beneficiario": {
+                "nome": "Auto Peças Estrada Real LTDA",
+                "cnpj": "69.198.893/0001-28",
+                "endereco": "Rua XV de Novembro, 2748 - Apto 1443",
+                "cep": "65619-963",
+                "cidade": "São Luís",
+                "uf": "MA"
+            },
+            "pagador": {
+                "nome": "Rodrigo Dias Gomes",
+                "cpf": "329.235.270-38",
+                "endereco": "Rua Tiradentes, 1914",
+                "cep": "38505-347",
+                "cidade": "Uberlândia",
+                "uf": "MG"
+            },
+            "demonstrativo": [
+                "Peças automotivas - ref. 08/2024",
+                "Documento nº 2104792"
+            ],
+            "instrucoes": [
+                "Não receber após 09/10/2024.",
+                "Conceder desconto de R$ 187,45 até o vencimento.",
+                "Protestar após 10 dias corridos do vencimento."
+            ]
+        }
+    ]
+}

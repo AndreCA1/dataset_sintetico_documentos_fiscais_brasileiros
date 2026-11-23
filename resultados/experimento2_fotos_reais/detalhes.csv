@@ -1,0 +1,2459 @@
+numero,tipo,id,modo,condicao,campo,esperado,status,distancia
+1,nfe,nfe_002,comum,normal,chave_acesso,13240852920483000146550010001799571784311107,exato,0
+1,nfe,nfe_002,comum,normal,numero,179957,exato,0
+1,nfe,nfe_002,comum,normal,data_emissao,2024-08-15,exato,0
+1,nfe,nfe_002,comum,normal,valor_total,712.15,exato,0
+1,nfe,nfe_002,comum,normal,emitente_nome,Indústria São Jorge ME,quase,1
+1,nfe,nfe_002,comum,normal,emitente_documento,52.920.483/0001-46,exato,0
+1,nfe,nfe_002,comum,normal,destinatario_nome,Sérgio Martins Pereira,exato,0
+1,nfe,nfe_002,comum,normal,destinatario_documento,415.674.622-43,exato,0
+1,nfe,nfe_002,scanner,normal,chave_acesso,13240852920483000146550010001799571784311107,exato,0
+1,nfe,nfe_002,scanner,normal,numero,179957,quase,1
+1,nfe,nfe_002,scanner,normal,data_emissao,2024-08-15,exato,0
+1,nfe,nfe_002,scanner,normal,valor_total,712.15,quase,1
+1,nfe,nfe_002,scanner,normal,emitente_nome,Indústria São Jorge ME,exato,0
+1,nfe,nfe_002,scanner,normal,emitente_documento,52.920.483/0001-46,exato,0
+1,nfe,nfe_002,scanner,normal,destinatario_nome,Sérgio Martins Pereira,exato,0
+1,nfe,nfe_002,scanner,normal,destinatario_documento,415.674.622-43,exato,0
+2,nfe,nfe_003,comum,normal,chave_acesso,24240829015395000188550010001034571494347710,quase,1
+2,nfe,nfe_003,comum,normal,numero,103457,exato,0
+2,nfe,nfe_003,comum,normal,data_emissao,2024-08-06,exato,0
+2,nfe,nfe_003,comum,normal,valor_total,9213.3,quase,0
+2,nfe,nfe_003,comum,normal,emitente_nome,Supermercado Vale Verde ME,quase,1
+2,nfe,nfe_003,comum,normal,emitente_documento,29.015.395/0001-88,exato,0
+2,nfe,nfe_003,comum,normal,destinatario_nome,Mercado Nova Era ME,exato,0
+2,nfe,nfe_003,comum,normal,destinatario_documento,39.856.570/0001-13,exato,0
+2,nfe,nfe_003,scanner,normal,chave_acesso,24240829015395000188550010001034571494347710,quase,1
+2,nfe,nfe_003,scanner,normal,numero,103457,exato,0
+2,nfe,nfe_003,scanner,normal,data_emissao,2024-08-06,exato,0
+2,nfe,nfe_003,scanner,normal,valor_total,9213.3,exato,0
+2,nfe,nfe_003,scanner,normal,emitente_nome,Supermercado Vale Verde ME,exato,0
+2,nfe,nfe_003,scanner,normal,emitente_documento,29.015.395/0001-88,exato,0
+2,nfe,nfe_003,scanner,normal,destinatario_nome,Mercado Nova Era ME,exato,0
+2,nfe,nfe_003,scanner,normal,destinatario_documento,39.856.570/0001-13,exato,0
+3,nfe,nfe_005,comum,normal,chave_acesso,26260404516785000100550010002009141087410707,quase,1
+3,nfe,nfe_005,comum,normal,numero,200914,exato,0
+3,nfe,nfe_005,comum,normal,data_emissao,2026-04-28,exato,0
+3,nfe,nfe_005,comum,normal,valor_total,1185.73,exato,0
+3,nfe,nfe_005,comum,normal,emitente_nome,Indústria Litoral EIRELI,exato,0
+3,nfe,nfe_005,comum,normal,emitente_documento,04.516.785/0001-00,exato,0
+3,nfe,nfe_005,comum,normal,destinatario_nome,Distribuidora Estrela LTDA,quase,1
+3,nfe,nfe_005,comum,normal,destinatario_documento,76.123.615/0001-77,exato,0
+3,nfe,nfe_005,scanner,normal,chave_acesso,26260404516785000100550010002009141087410707,perdido,4
+3,nfe,nfe_005,scanner,normal,numero,200914,exato,0
+3,nfe,nfe_005,scanner,normal,data_emissao,2026-04-28,exato,0
+3,nfe,nfe_005,scanner,normal,valor_total,1185.73,quase,2
+3,nfe,nfe_005,scanner,normal,emitente_nome,Indústria Litoral EIRELI,exato,0
+3,nfe,nfe_005,scanner,normal,emitente_documento,04.516.785/0001-00,quase,1
+3,nfe,nfe_005,scanner,normal,destinatario_nome,Distribuidora Estrela LTDA,exato,0
+3,nfe,nfe_005,scanner,normal,destinatario_documento,76.123.615/0001-77,exato,0
+4,nfe,nfe_006,comum,normal,chave_acesso,52260244798931000152550030002073821977806418,exato,0
+4,nfe,nfe_006,comum,normal,numero,207382,exato,0
+4,nfe,nfe_006,comum,normal,data_emissao,2026-02-03,exato,0
+4,nfe,nfe_006,comum,normal,valor_total,3539.31,quase,1
+4,nfe,nfe_006,comum,normal,emitente_nome,Casa Central ME,exato,0
+4,nfe,nfe_006,comum,normal,emitente_documento,44.798.931/0001-52,exato,0
+4,nfe,nfe_006,comum,normal,destinatario_nome,Materiais de Construção Bom Preço LTDA,exato,0
+4,nfe,nfe_006,comum,normal,destinatario_documento,13.528.582/0001-25,exato,0
+4,nfe,nfe_006,scanner,normal,chave_acesso,52260244798931000152550030002073821977806418,quase,2
+4,nfe,nfe_006,scanner,normal,numero,207382,exato,0
+4,nfe,nfe_006,scanner,normal,data_emissao,2026-02-03,exato,0
+4,nfe,nfe_006,scanner,normal,valor_total,3539.31,exato,0
+4,nfe,nfe_006,scanner,normal,emitente_nome,Casa Central ME,exato,0
+4,nfe,nfe_006,scanner,normal,emitente_documento,44.798.931/0001-52,exato,0
+4,nfe,nfe_006,scanner,normal,destinatario_nome,Materiais de Construção Bom Preço LTDA,exato,0
+4,nfe,nfe_006,scanner,normal,destinatario_documento,13.528.582/0001-25,exato,0
+5,nfe,nfe_007,comum,normal,chave_acesso,24241091416374000148550020001677071952330944,exato,0
+5,nfe,nfe_007,comum,normal,numero,167707,exato,0
+5,nfe,nfe_007,comum,normal,data_emissao,2024-10-04,exato,0
+5,nfe,nfe_007,comum,normal,valor_total,3598.5,quase,1
+5,nfe,nfe_007,comum,normal,emitente_nome,Agropecuária Horizonte ME,exato,0
+5,nfe,nfe_007,comum,normal,emitente_documento,91.416.374/0001-48,exato,0
+5,nfe,nfe_007,comum,normal,destinatario_nome,Empório Litoral ME,exato,0
+5,nfe,nfe_007,comum,normal,destinatario_documento,84.724.591/0001-30,exato,0
+5,nfe,nfe_007,scanner,normal,chave_acesso,24241091416374000148550020001677071952330944,quase,2
+5,nfe,nfe_007,scanner,normal,numero,167707,exato,0
+5,nfe,nfe_007,scanner,normal,data_emissao,2024-10-04,exato,0
+5,nfe,nfe_007,scanner,normal,valor_total,3598.5,exato,0
+5,nfe,nfe_007,scanner,normal,emitente_nome,Agropecuária Horizonte ME,exato,0
+5,nfe,nfe_007,scanner,normal,emitente_documento,91.416.374/0001-48,exato,0
+5,nfe,nfe_007,scanner,normal,destinatario_nome,Empório Litoral ME,exato,0
+5,nfe,nfe_007,scanner,normal,destinatario_documento,84.724.591/0001-30,quase,1
+6,nfe,nfe_010,comum,normal,chave_acesso,35241205691375000169550030000426491080875246,quase,1
+6,nfe,nfe_010,comum,normal,numero,42649,exato,0
+6,nfe,nfe_010,comum,normal,data_emissao,2024-12-20,exato,0
+6,nfe,nfe_010,comum,normal,valor_total,7203.92,exato,0
+6,nfe,nfe_010,comum,normal,emitente_nome,Supermercado Serra Azul EIRELI,exato,0
+6,nfe,nfe_010,comum,normal,emitente_documento,05.691.375/0001-69,exato,0
+6,nfe,nfe_010,comum,normal,destinatario_nome,Padaria Estrela ME,exato,0
+6,nfe,nfe_010,comum,normal,destinatario_documento,20.743.725/0001-87,exato,0
+6,nfe,nfe_010,scanner,normal,chave_acesso,35241205691375000169550030000426491080875246,perdido,4
+6,nfe,nfe_010,scanner,normal,numero,42649,exato,0
+6,nfe,nfe_010,scanner,normal,data_emissao,2024-12-20,exato,0
+6,nfe,nfe_010,scanner,normal,valor_total,7203.92,exato,0
+6,nfe,nfe_010,scanner,normal,emitente_nome,Supermercado Serra Azul EIRELI,quase,1
+6,nfe,nfe_010,scanner,normal,emitente_documento,05.691.375/0001-69,quase,1
+6,nfe,nfe_010,scanner,normal,destinatario_nome,Padaria Estrela ME,quase,1
+6,nfe,nfe_010,scanner,normal,destinatario_documento,20.743.725/0001-87,exato,0
+7,nfe,nfe_011,comum,normal,chave_acesso,23250106460171000180550010002346391895711517,exato,0
+7,nfe,nfe_011,comum,normal,numero,234639,exato,0
+7,nfe,nfe_011,comum,normal,data_emissao,2025-01-06,exato,0
+7,nfe,nfe_011,comum,normal,valor_total,380.0,exato,0
+7,nfe,nfe_011,comum,normal,emitente_nome,Atacadista Cerrado S.A.,exato,0
+7,nfe,nfe_011,comum,normal,emitente_documento,06.460.171/0001-80,exato,0
+7,nfe,nfe_011,comum,normal,destinatario_nome,Indústria Vale Verde EPP,exato,0
+7,nfe,nfe_011,comum,normal,destinatario_documento,33.570.349/0001-18,exato,0
+7,nfe,nfe_011,scanner,normal,chave_acesso,23250106460171000180550010002346391895711517,quase,2
+7,nfe,nfe_011,scanner,normal,numero,234639,exato,0
+7,nfe,nfe_011,scanner,normal,data_emissao,2025-01-06,exato,0
+7,nfe,nfe_011,scanner,normal,valor_total,380.0,quase,1
+7,nfe,nfe_011,scanner,normal,emitente_nome,Atacadista Cerrado S.A.,exato,0
+7,nfe,nfe_011,scanner,normal,emitente_documento,06.460.171/0001-80,exato,0
+7,nfe,nfe_011,scanner,normal,destinatario_nome,Indústria Vale Verde EPP,quase,1
+7,nfe,nfe_011,scanner,normal,destinatario_documento,33.570.349/0001-18,exato,0
+8,nfe,nfe_012,comum,normal,chave_acesso,42241095149193000153550020000264551513780388,quase,1
+8,nfe,nfe_012,comum,normal,numero,26455,exato,0
+8,nfe,nfe_012,comum,normal,data_emissao,2024-10-25,exato,0
+8,nfe,nfe_012,comum,normal,valor_total,470.81,quase,1
+8,nfe,nfe_012,comum,normal,emitente_nome,Padaria Ipê ME,exato,0
+8,nfe,nfe_012,comum,normal,emitente_documento,95.149.193/0001-53,exato,0
+8,nfe,nfe_012,comum,normal,destinatario_nome,Pedro Lima Mendes,exato,0
+8,nfe,nfe_012,comum,normal,destinatario_documento,237.382.561-99,exato,0
+8,nfe,nfe_012,scanner,normal,chave_acesso,42241095149193000153550020000264551513780388,quase,2
+8,nfe,nfe_012,scanner,normal,numero,26455,exato,0
+8,nfe,nfe_012,scanner,normal,data_emissao,2024-10-25,exato,0
+8,nfe,nfe_012,scanner,normal,valor_total,470.81,quase,1
+8,nfe,nfe_012,scanner,normal,emitente_nome,Padaria Ipê ME,exato,0
+8,nfe,nfe_012,scanner,normal,emitente_documento,95.149.193/0001-53,exato,0
+8,nfe,nfe_012,scanner,normal,destinatario_nome,Pedro Lima Mendes,quase,2
+8,nfe,nfe_012,scanner,normal,destinatario_documento,237.382.561-99,exato,0
+9,nfe,nfe_013,comum,normal,chave_acesso,53261019577322000126550030002138431777139408,quase,1
+9,nfe,nfe_013,comum,normal,numero,213843,exato,0
+9,nfe,nfe_013,comum,normal,data_emissao,2026-10-10,exato,0
+9,nfe,nfe_013,comum,normal,valor_total,637.14,quase,1
+9,nfe,nfe_013,comum,normal,emitente_nome,Eletro Planalto ME,exato,0
+9,nfe,nfe_013,comum,normal,emitente_documento,19.577.322/0001-26,exato,0
+9,nfe,nfe_013,comum,normal,destinatario_nome,Empório Cerrado EIRELI,exato,0
+9,nfe,nfe_013,comum,normal,destinatario_documento,67.775.096/0001-30,exato,0
+9,nfe,nfe_013,scanner,normal,chave_acesso,53261019577322000126550030002138431777139408,perdido,3
+9,nfe,nfe_013,scanner,normal,numero,213843,exato,0
+9,nfe,nfe_013,scanner,normal,data_emissao,2026-10-10,exato,0
+9,nfe,nfe_013,scanner,normal,valor_total,637.14,exato,0
+9,nfe,nfe_013,scanner,normal,emitente_nome,Eletro Planalto ME,exato,0
+9,nfe,nfe_013,scanner,normal,emitente_documento,19.577.322/0001-26,exato,0
+9,nfe,nfe_013,scanner,normal,destinatario_nome,Empório Cerrado EIRELI,quase,1
+9,nfe,nfe_013,scanner,normal,destinatario_documento,67.775.096/0001-30,exato,0
+10,nfe,nfe_016,comum,normal,chave_acesso,53241289614219000194550020002314401417745779,quase,1
+10,nfe,nfe_016,comum,normal,numero,231440,exato,0
+10,nfe,nfe_016,comum,normal,data_emissao,2024-12-09,exato,0
+10,nfe,nfe_016,comum,normal,valor_total,4965.91,exato,0
+10,nfe,nfe_016,comum,normal,emitente_nome,Farmácia Boa Vista LTDA,exato,0
+10,nfe,nfe_016,comum,normal,emitente_documento,89.614.219/0001-94,exato,0
+10,nfe,nfe_016,comum,normal,destinatario_nome,Auto Peças Cerrado LTDA,exato,0
+10,nfe,nfe_016,comum,normal,destinatario_documento,53.751.828/0001-48,exato,0
+10,nfe,nfe_016,scanner,normal,chave_acesso,53241289614219000194550020002314401417745779,quase,1
+10,nfe,nfe_016,scanner,normal,numero,231440,exato,0
+10,nfe,nfe_016,scanner,normal,data_emissao,2024-12-09,exato,0
+10,nfe,nfe_016,scanner,normal,valor_total,4965.91,exato,0
+10,nfe,nfe_016,scanner,normal,emitente_nome,Farmácia Boa Vista LTDA,exato,0
+10,nfe,nfe_016,scanner,normal,emitente_documento,89.614.219/0001-94,exato,0
+10,nfe,nfe_016,scanner,normal,destinatario_nome,Auto Peças Cerrado LTDA,exato,0
+10,nfe,nfe_016,scanner,normal,destinatario_documento,53.751.828/0001-48,quase,1
+11,nfe,nfe_017,comum,normal,chave_acesso,51241296292647000103550010001201611521479531,quase,1
+11,nfe,nfe_017,comum,normal,numero,120161,exato,0
+11,nfe,nfe_017,comum,normal,data_emissao,2024-12-31,exato,0
+11,nfe,nfe_017,comum,normal,valor_total,3770.49,exato,0
+11,nfe,nfe_017,comum,normal,emitente_nome,Materiais de Construção Boa Vista EIRELI,perdido,5
+11,nfe,nfe_017,comum,normal,emitente_documento,96.292.647/0001-03,exato,0
+11,nfe,nfe_017,comum,normal,destinatario_nome,João Mendes Ribeiro,quase,1
+11,nfe,nfe_017,comum,normal,destinatario_documento,915.913.092-04,exato,0
+11,nfe,nfe_017,scanner,normal,chave_acesso,51241296292647000103550010001201611521479531,quase,1
+11,nfe,nfe_017,scanner,normal,numero,120161,exato,0
+11,nfe,nfe_017,scanner,normal,data_emissao,2024-12-31,exato,0
+11,nfe,nfe_017,scanner,normal,valor_total,3770.49,exato,0
+11,nfe,nfe_017,scanner,normal,emitente_nome,Materiais de Construção Boa Vista EIRELI,perdido,5
+11,nfe,nfe_017,scanner,normal,emitente_documento,96.292.647/0001-03,exato,0
+11,nfe,nfe_017,scanner,normal,destinatario_nome,João Mendes Ribeiro,exato,0
+11,nfe,nfe_017,scanner,normal,destinatario_documento,915.913.092-04,exato,0
+12,nfe,nfe_018,comum,normal,chave_acesso,51240832169101000187550030001491921831516378,quase,1
+12,nfe,nfe_018,comum,normal,numero,149192,exato,0
+12,nfe,nfe_018,comum,normal,data_emissao,2024-08-22,exato,0
+12,nfe,nfe_018,comum,normal,valor_total,4893.25,quase,1
+12,nfe,nfe_018,comum,normal,emitente_nome,Padaria Litoral LTDA,exato,0
+12,nfe,nfe_018,comum,normal,emitente_documento,32.169.101/0001-87,exato,0
+12,nfe,nfe_018,comum,normal,destinatario_nome,Casa Aurora LTDA,exato,0
+12,nfe,nfe_018,comum,normal,destinatario_documento,94.158.185/0001-00,exato,0
+12,nfe,nfe_018,scanner,normal,chave_acesso,51240832169101000187550030001491921831516378,perdido,5
+12,nfe,nfe_018,scanner,normal,numero,149192,exato,0
+12,nfe,nfe_018,scanner,normal,data_emissao,2024-08-22,exato,0
+12,nfe,nfe_018,scanner,normal,valor_total,4893.25,quase,1
+12,nfe,nfe_018,scanner,normal,emitente_nome,Padaria Litoral LTDA,exato,0
+12,nfe,nfe_018,scanner,normal,emitente_documento,32.169.101/0001-87,exato,0
+12,nfe,nfe_018,scanner,normal,destinatario_nome,Casa Aurora LTDA,exato,0
+12,nfe,nfe_018,scanner,normal,destinatario_documento,94.158.185/0001-00,exato,0
+13,nfe,nfe_020,comum,normal,chave_acesso,35260697971595000164550030000224641885659244,quase,1
+13,nfe,nfe_020,comum,normal,numero,22464,exato,0
+13,nfe,nfe_020,comum,normal,data_emissao,2026-06-04,exato,0
+13,nfe,nfe_020,comum,normal,valor_total,2173.09,quase,1
+13,nfe,nfe_020,comum,normal,emitente_nome,Papelaria Primavera EPP,exato,0
+13,nfe,nfe_020,comum,normal,emitente_documento,97.971.595/0001-64,exato,0
+13,nfe,nfe_020,comum,normal,destinatario_nome,João Dias Santos,exato,0
+13,nfe,nfe_020,comum,normal,destinatario_documento,787.737.946-35,exato,0
+13,nfe,nfe_020,scanner,normal,chave_acesso,35260697971595000164550030000224641885659244,perdido,5
+13,nfe,nfe_020,scanner,normal,numero,22464,quase,1
+13,nfe,nfe_020,scanner,normal,data_emissao,2026-06-04,exato,0
+13,nfe,nfe_020,scanner,normal,valor_total,2173.09,quase,1
+13,nfe,nfe_020,scanner,normal,emitente_nome,Papelaria Primavera EPP,exato,0
+13,nfe,nfe_020,scanner,normal,emitente_documento,97.971.595/0001-64,quase,1
+13,nfe,nfe_020,scanner,normal,destinatario_nome,João Dias Santos,quase,1
+13,nfe,nfe_020,scanner,normal,destinatario_documento,787.737.946-35,exato,0
+14,nfe,nfe_023,comum,normal,chave_acesso,52260700588180000174550020002028071799830013,quase,1
+14,nfe,nfe_023,comum,normal,numero,202807,exato,0
+14,nfe,nfe_023,comum,normal,data_emissao,2026-07-17,exato,0
+14,nfe,nfe_023,comum,normal,valor_total,4961.59,exato,0
+14,nfe,nfe_023,comum,normal,emitente_nome,Padaria Serra Azul ME,exato,0
+14,nfe,nfe_023,comum,normal,emitente_documento,00.588.180/0001-74,exato,0
+14,nfe,nfe_023,comum,normal,destinatario_nome,Matheus Carvalho Costa,exato,0
+14,nfe,nfe_023,comum,normal,destinatario_documento,656.638.625-44,exato,0
+14,nfe,nfe_023,scanner,normal,chave_acesso,52260700588180000174550020002028071799830013,perdido,3
+14,nfe,nfe_023,scanner,normal,numero,202807,exato,0
+14,nfe,nfe_023,scanner,normal,data_emissao,2026-07-17,exato,0
+14,nfe,nfe_023,scanner,normal,valor_total,4961.59,exato,0
+14,nfe,nfe_023,scanner,normal,emitente_nome,Padaria Serra Azul ME,exato,0
+14,nfe,nfe_023,scanner,normal,emitente_documento,00.588.180/0001-74,quase,1
+14,nfe,nfe_023,scanner,normal,destinatario_nome,Matheus Carvalho Costa,exato,0
+14,nfe,nfe_023,scanner,normal,destinatario_documento,656.638.625-44,exato,0
+15,nfe,nfe_024,comum,normal,chave_acesso,52250487348292000136550030001712451084818465,perdido,3
+15,nfe,nfe_024,comum,normal,numero,171245,exato,0
+15,nfe,nfe_024,comum,normal,data_emissao,2025-04-28,exato,0
+15,nfe,nfe_024,comum,normal,valor_total,12988.68,exato,0
+15,nfe,nfe_024,comum,normal,emitente_nome,Supermercado Planalto LTDA,quase,1
+15,nfe,nfe_024,comum,normal,emitente_documento,87.348.292/0001-36,exato,0
+15,nfe,nfe_024,comum,normal,destinatario_nome,Luíza Costa Lima,exato,0
+15,nfe,nfe_024,comum,normal,destinatario_documento,487.591.904-26,exato,0
+15,nfe,nfe_024,scanner,normal,chave_acesso,52250487348292000136550030001712451084818465,perdido,7
+15,nfe,nfe_024,scanner,normal,numero,171245,exato,0
+15,nfe,nfe_024,scanner,normal,data_emissao,2025-04-28,exato,0
+15,nfe,nfe_024,scanner,normal,valor_total,12988.68,quase,1
+15,nfe,nfe_024,scanner,normal,emitente_nome,Supermercado Planalto LTDA,exato,0
+15,nfe,nfe_024,scanner,normal,emitente_documento,87.348.292/0001-36,exato,0
+15,nfe,nfe_024,scanner,normal,destinatario_nome,Luíza Costa Lima,exato,0
+15,nfe,nfe_024,scanner,normal,destinatario_documento,487.591.904-26,exato,0
+16,nfe,nfe_025,comum,normal,chave_acesso,41250979748010000160550020001735741934615735,exato,0
+16,nfe,nfe_025,comum,normal,numero,173574,exato,0
+16,nfe,nfe_025,comum,normal,data_emissao,2025-09-19,exato,0
+16,nfe,nfe_025,comum,normal,valor_total,8998.72,quase,1
+16,nfe,nfe_025,comum,normal,emitente_nome,Mercado Central ME,exato,0
+16,nfe,nfe_025,comum,normal,emitente_documento,79.748.010/0001-60,exato,0
+16,nfe,nfe_025,comum,normal,destinatario_nome,Empório São Jorge S.A.,exato,0
+16,nfe,nfe_025,comum,normal,destinatario_documento,91.753.114/0001-68,quase,1
+16,nfe,nfe_025,scanner,normal,chave_acesso,41250979748010000160550020001735741934615735,quase,1
+16,nfe,nfe_025,scanner,normal,numero,173574,exato,0
+16,nfe,nfe_025,scanner,normal,data_emissao,2025-09-19,exato,0
+16,nfe,nfe_025,scanner,normal,valor_total,8998.72,exato,0
+16,nfe,nfe_025,scanner,normal,emitente_nome,Mercado Central ME,exato,0
+16,nfe,nfe_025,scanner,normal,emitente_documento,79.748.010/0001-60,exato,0
+16,nfe,nfe_025,scanner,normal,destinatario_nome,Empório São Jorge S.A.,exato,0
+16,nfe,nfe_025,scanner,normal,destinatario_documento,91.753.114/0001-68,quase,1
+17,nfe,nfe_026,comum,normal,chave_acesso,43260899945459000125550020002208371876986501,quase,2
+17,nfe,nfe_026,comum,normal,numero,220837,exato,0
+17,nfe,nfe_026,comum,normal,data_emissao,2026-08-06,exato,0
+17,nfe,nfe_026,comum,normal,valor_total,12489.07,exato,0
+17,nfe,nfe_026,comum,normal,emitente_nome,Eletro Bom Preço ME,exato,0
+17,nfe,nfe_026,comum,normal,emitente_documento,99.945.459/0001-25,exato,0
+17,nfe,nfe_026,comum,normal,destinatario_nome,Eletro Litoral EIRELI,exato,0
+17,nfe,nfe_026,comum,normal,destinatario_documento,64.328.721/0001-08,quase,1
+17,nfe,nfe_026,scanner,normal,chave_acesso,43260899945459000125550020002208371876986501,quase,1
+17,nfe,nfe_026,scanner,normal,numero,220837,exato,0
+17,nfe,nfe_026,scanner,normal,data_emissao,2026-08-06,exato,0
+17,nfe,nfe_026,scanner,normal,valor_total,12489.07,exato,0
+17,nfe,nfe_026,scanner,normal,emitente_nome,Eletro Bom Preço ME,exato,0
+17,nfe,nfe_026,scanner,normal,emitente_documento,99.945.459/0001-25,exato,0
+17,nfe,nfe_026,scanner,normal,destinatario_nome,Eletro Litoral EIRELI,quase,2
+17,nfe,nfe_026,scanner,normal,destinatario_documento,64.328.721/0001-08,exato,0
+18,nfe,nfe_029,comum,normal,chave_acesso,24260270707928000196550020000196181506162696,exato,0
+18,nfe,nfe_029,comum,normal,numero,19618,exato,0
+18,nfe,nfe_029,comum,normal,data_emissao,2026-02-19,exato,0
+18,nfe,nfe_029,comum,normal,valor_total,13261.44,quase,1
+18,nfe,nfe_029,comum,normal,emitente_nome,Farmácia Litoral LTDA,exato,0
+18,nfe,nfe_029,comum,normal,emitente_documento,70.707.928/0001-96,exato,0
+18,nfe,nfe_029,comum,normal,destinatario_nome,Mercado Aurora ME,exato,0
+18,nfe,nfe_029,comum,normal,destinatario_documento,63.020.181/0001-38,exato,0
+18,nfe,nfe_029,scanner,normal,chave_acesso,24260270707928000196550020000196181506162696,quase,2
+18,nfe,nfe_029,scanner,normal,numero,19618,exato,0
+18,nfe,nfe_029,scanner,normal,data_emissao,2026-02-19,exato,0
+18,nfe,nfe_029,scanner,normal,valor_total,13261.44,quase,1
+18,nfe,nfe_029,scanner,normal,emitente_nome,Farmácia Litoral LTDA,exato,0
+18,nfe,nfe_029,scanner,normal,emitente_documento,70.707.928/0001-96,exato,0
+18,nfe,nfe_029,scanner,normal,destinatario_nome,Mercado Aurora ME,exato,0
+18,nfe,nfe_029,scanner,normal,destinatario_documento,63.020.181/0001-38,quase,1
+19,nfe,nfe_030,comum,normal,chave_acesso,41241227467443000143550030000095951850914111,exato,0
+19,nfe,nfe_030,comum,normal,numero,9595,exato,0
+19,nfe,nfe_030,comum,normal,data_emissao,2024-12-31,exato,0
+19,nfe,nfe_030,comum,normal,valor_total,858.58,quase,1
+19,nfe,nfe_030,comum,normal,emitente_nome,Papelaria Primavera LTDA,exato,0
+19,nfe,nfe_030,comum,normal,emitente_documento,27.467.443/0001-43,exato,0
+19,nfe,nfe_030,comum,normal,destinatario_nome,Gustavo Machado Souza,quase,1
+19,nfe,nfe_030,comum,normal,destinatario_documento,892.411.349-68,exato,0
+19,nfe,nfe_030,scanner,normal,chave_acesso,41241227467443000143550030000095951850914111,perdido,3
+19,nfe,nfe_030,scanner,normal,numero,9595,exato,0
+19,nfe,nfe_030,scanner,normal,data_emissao,2024-12-31,exato,0
+19,nfe,nfe_030,scanner,normal,valor_total,858.58,quase,1
+19,nfe,nfe_030,scanner,normal,emitente_nome,Papelaria Primavera LTDA,exato,0
+19,nfe,nfe_030,scanner,normal,emitente_documento,27.467.443/0001-43,exato,0
+19,nfe,nfe_030,scanner,normal,destinatario_nome,Gustavo Machado Souza,exato,0
+19,nfe,nfe_030,scanner,normal,destinatario_documento,892.411.349-68,exato,0
+20,nfe,nfe_031,comum,normal,chave_acesso,31250186999363000106550010000050011854113930,quase,1
+20,nfe,nfe_031,comum,normal,numero,5001,exato,0
+20,nfe,nfe_031,comum,normal,data_emissao,2025-01-27,exato,0
+20,nfe,nfe_031,comum,normal,valor_total,3458.54,exato,0
+20,nfe,nfe_031,comum,normal,emitente_nome,Indústria Horizonte S.A.,exato,0
+20,nfe,nfe_031,comum,normal,emitente_documento,86.999.363/0001-06,exato,0
+20,nfe,nfe_031,comum,normal,destinatario_nome,Indústria Bom Preço EPP,quase,1
+20,nfe,nfe_031,comum,normal,destinatario_documento,25.254.033/0001-99,exato,0
+20,nfe,nfe_031,scanner,normal,chave_acesso,31250186999363000106550010000050011854113930,perdido,6
+20,nfe,nfe_031,scanner,normal,numero,5001,exato,0
+20,nfe,nfe_031,scanner,normal,data_emissao,2025-01-27,exato,0
+20,nfe,nfe_031,scanner,normal,valor_total,3458.54,quase,1
+20,nfe,nfe_031,scanner,normal,emitente_nome,Indústria Horizonte S.A.,exato,0
+20,nfe,nfe_031,scanner,normal,emitente_documento,86.999.363/0001-06,exato,0
+20,nfe,nfe_031,scanner,normal,destinatario_nome,Indústria Bom Preço EPP,perdido,3
+20,nfe,nfe_031,scanner,normal,destinatario_documento,25.254.033/0001-99,exato,0
+21,nfe,nfe_032,comum,normal,chave_acesso,31241150707407000121550030001579241878698347,quase,2
+21,nfe,nfe_032,comum,normal,numero,157924,exato,0
+21,nfe,nfe_032,comum,normal,data_emissao,2024-11-05,exato,0
+21,nfe,nfe_032,comum,normal,valor_total,2128.7,exato,0
+21,nfe,nfe_032,comum,normal,emitente_nome,Indústria Serra Azul S.A.,exato,0
+21,nfe,nfe_032,comum,normal,emitente_documento,50.707.407/0001-21,exato,0
+21,nfe,nfe_032,comum,normal,destinatario_nome,Padaria Ipê S.A.,quase,2
+21,nfe,nfe_032,comum,normal,destinatario_documento,93.917.703/0001-60,exato,0
+21,nfe,nfe_032,scanner,normal,chave_acesso,31241150707407000121550030001579241878698347,perdido,7
+21,nfe,nfe_032,scanner,normal,numero,157924,exato,0
+21,nfe,nfe_032,scanner,normal,data_emissao,2024-11-05,exato,0
+21,nfe,nfe_032,scanner,normal,valor_total,2128.7,exato,0
+21,nfe,nfe_032,scanner,normal,emitente_nome,Indústria Serra Azul S.A.,exato,0
+21,nfe,nfe_032,scanner,normal,emitente_documento,50.707.407/0001-21,exato,0
+21,nfe,nfe_032,scanner,normal,destinatario_nome,Padaria Ipê S.A.,quase,2
+21,nfe,nfe_032,scanner,normal,destinatario_documento,93.917.703/0001-60,exato,0
+22,nfe,nfe_034,comum,normal,chave_acesso,32260413816381000123550030001982331665880584,quase,1
+22,nfe,nfe_034,comum,normal,numero,198233,exato,0
+22,nfe,nfe_034,comum,normal,data_emissao,2026-04-24,exato,0
+22,nfe,nfe_034,comum,normal,valor_total,146.97,exato,0
+22,nfe,nfe_034,comum,normal,emitente_nome,Casa Boa Vista S.A.,exato,0
+22,nfe,nfe_034,comum,normal,emitente_documento,13.816.381/0001-23,exato,0
+22,nfe,nfe_034,comum,normal,destinatario_nome,Patrícia Ferreira Ribeiro,exato,0
+22,nfe,nfe_034,comum,normal,destinatario_documento,505.727.370-17,quase,1
+22,nfe,nfe_034,scanner,normal,chave_acesso,32260413816381000123550030001982331665880584,quase,2
+22,nfe,nfe_034,scanner,normal,numero,198233,exato,0
+22,nfe,nfe_034,scanner,normal,data_emissao,2026-04-24,exato,0
+22,nfe,nfe_034,scanner,normal,valor_total,146.97,exato,0
+22,nfe,nfe_034,scanner,normal,emitente_nome,Casa Boa Vista S.A.,exato,0
+22,nfe,nfe_034,scanner,normal,emitente_documento,13.816.381/0001-23,exato,0
+22,nfe,nfe_034,scanner,normal,destinatario_nome,Patrícia Ferreira Ribeiro,quase,2
+22,nfe,nfe_034,scanner,normal,destinatario_documento,505.727.370-17,quase,1
+23,nfe,nfe_036,comum,normal,chave_acesso,35260367913606000199550010000981461923887847,exato,0
+23,nfe,nfe_036,comum,normal,numero,98146,exato,0
+23,nfe,nfe_036,comum,normal,data_emissao,2026-03-23,exato,0
+23,nfe,nfe_036,comum,normal,valor_total,16293.37,quase,1
+23,nfe,nfe_036,comum,normal,emitente_nome,Padaria Central EIRELI,quase,1
+23,nfe,nfe_036,comum,normal,emitente_documento,67.913.606/0001-99,exato,0
+23,nfe,nfe_036,comum,normal,destinatario_nome,Aline Carvalho Vieira,quase,1
+23,nfe,nfe_036,comum,normal,destinatario_documento,605.900.788-01,exato,0
+23,nfe,nfe_036,scanner,normal,chave_acesso,35260367913606000199550010000981461923887847,perdido,3
+23,nfe,nfe_036,scanner,normal,numero,98146,exato,0
+23,nfe,nfe_036,scanner,normal,data_emissao,2026-03-23,exato,0
+23,nfe,nfe_036,scanner,normal,valor_total,16293.37,exato,0
+23,nfe,nfe_036,scanner,normal,emitente_nome,Padaria Central EIRELI,exato,0
+23,nfe,nfe_036,scanner,normal,emitente_documento,67.913.606/0001-99,exato,0
+23,nfe,nfe_036,scanner,normal,destinatario_nome,Aline Carvalho Vieira,quase,1
+23,nfe,nfe_036,scanner,normal,destinatario_documento,605.900.788-01,exato,0
+24,nfe,nfe_039,comum,normal,chave_acesso,13260283254521000100550010001279231729021607,quase,1
+24,nfe,nfe_039,comum,normal,numero,127923,exato,0
+24,nfe,nfe_039,comum,normal,data_emissao,2026-02-20,exato,0
+24,nfe,nfe_039,comum,normal,valor_total,14197.99,quase,1
+24,nfe,nfe_039,comum,normal,emitente_nome,Eletro Nova Era LTDA,exato,0
+24,nfe,nfe_039,comum,normal,emitente_documento,83.254.521/0001-00,exato,0
+24,nfe,nfe_039,comum,normal,destinatario_nome,Pedro Martins Costa,exato,0
+24,nfe,nfe_039,comum,normal,destinatario_documento,210.322.513-95,exato,0
+24,nfe,nfe_039,scanner,normal,chave_acesso,13260283254521000100550010001279231729021607,quase,2
+24,nfe,nfe_039,scanner,normal,numero,127923,exato,0
+24,nfe,nfe_039,scanner,normal,data_emissao,2026-02-20,exato,0
+24,nfe,nfe_039,scanner,normal,valor_total,14197.99,quase,1
+24,nfe,nfe_039,scanner,normal,emitente_nome,Eletro Nova Era LTDA,exato,0
+24,nfe,nfe_039,scanner,normal,emitente_documento,83.254.521/0001-00,exato,0
+24,nfe,nfe_039,scanner,normal,destinatario_nome,Pedro Martins Costa,exato,0
+24,nfe,nfe_039,scanner,normal,destinatario_documento,210.322.513-95,exato,0
+25,nfe,nfe_041,comum,normal,chave_acesso,50250451566954000105550010001141891970426265,exato,0
+25,nfe,nfe_041,comum,normal,numero,114189,exato,0
+25,nfe,nfe_041,comum,normal,data_emissao,2025-04-18,exato,0
+25,nfe,nfe_041,comum,normal,valor_total,1803.14,quase,1
+25,nfe,nfe_041,comum,normal,emitente_nome,Materiais de Construção Vale Verde EPP,exato,0
+25,nfe,nfe_041,comum,normal,emitente_documento,51.566.954/0001-05,exato,0
+25,nfe,nfe_041,comum,normal,destinatario_nome,Padaria Bom Preço LTDA,quase,1
+25,nfe,nfe_041,comum,normal,destinatario_documento,88.263.457/0001-30,exato,0
+25,nfe,nfe_041,scanner,normal,chave_acesso,50250451566954000105550010001141891970426265,perdido,4
+25,nfe,nfe_041,scanner,normal,numero,114189,exato,0
+25,nfe,nfe_041,scanner,normal,data_emissao,2025-04-18,exato,0
+25,nfe,nfe_041,scanner,normal,valor_total,1803.14,exato,0
+25,nfe,nfe_041,scanner,normal,emitente_nome,Materiais de Construção Vale Verde EPP,exato,0
+25,nfe,nfe_041,scanner,normal,emitente_documento,51.566.954/0001-05,quase,1
+25,nfe,nfe_041,scanner,normal,destinatario_nome,Padaria Bom Preço LTDA,quase,1
+25,nfe,nfe_041,scanner,normal,destinatario_documento,88.263.457/0001-30,quase,1
+26,nfe,nfe_042,comum,normal,chave_acesso,41240792350996000183550020001615531215712784,exato,0
+26,nfe,nfe_042,comum,normal,numero,161553,exato,0
+26,nfe,nfe_042,comum,normal,data_emissao,2024-07-02,exato,0
+26,nfe,nfe_042,comum,normal,valor_total,1738.69,exato,0
+26,nfe,nfe_042,comum,normal,emitente_nome,Farmácia São Jorge ME,exato,0
+26,nfe,nfe_042,comum,normal,emitente_documento,92.350.996/0001-83,exato,0
+26,nfe,nfe_042,comum,normal,destinatario_nome,Fernanda Silva Martins,exato,0
+26,nfe,nfe_042,comum,normal,destinatario_documento,952.528.770-09,exato,0
+26,nfe,nfe_042,scanner,normal,chave_acesso,41240792350996000183550020001615531215712784,quase,2
+26,nfe,nfe_042,scanner,normal,numero,161553,exato,0
+26,nfe,nfe_042,scanner,normal,data_emissao,2024-07-02,exato,0
+26,nfe,nfe_042,scanner,normal,valor_total,1738.69,exato,0
+26,nfe,nfe_042,scanner,normal,emitente_nome,Farmácia São Jorge ME,exato,0
+26,nfe,nfe_042,scanner,normal,emitente_documento,92.350.996/0001-83,exato,0
+26,nfe,nfe_042,scanner,normal,destinatario_nome,Fernanda Silva Martins,exato,0
+26,nfe,nfe_042,scanner,normal,destinatario_documento,952.528.770-09,exato,0
+27,nfe,nfe_043,comum,normal,chave_acesso,33241039857316000130550010000776241111259147,exato,0
+27,nfe,nfe_043,comum,normal,numero,77624,exato,0
+27,nfe,nfe_043,comum,normal,data_emissao,2024-10-05,exato,0
+27,nfe,nfe_043,comum,normal,valor_total,4430.45,quase,1
+27,nfe,nfe_043,comum,normal,emitente_nome,Mercado Aurora ME,exato,0
+27,nfe,nfe_043,comum,normal,emitente_documento,39.857.316/0001-30,exato,0
+27,nfe,nfe_043,comum,normal,destinatario_nome,Patrícia Moreira Barbosa,exato,0
+27,nfe,nfe_043,comum,normal,destinatario_documento,144.251.612-70,exato,0
+27,nfe,nfe_043,scanner,normal,chave_acesso,33241039857316000130550010000776241111259147,perdido,4
+27,nfe,nfe_043,scanner,normal,numero,77624,exato,0
+27,nfe,nfe_043,scanner,normal,data_emissao,2024-10-05,exato,0
+27,nfe,nfe_043,scanner,normal,valor_total,4430.45,exato,0
+27,nfe,nfe_043,scanner,normal,emitente_nome,Mercado Aurora ME,exato,0
+27,nfe,nfe_043,scanner,normal,emitente_documento,39.857.316/0001-30,exato,0
+27,nfe,nfe_043,scanner,normal,destinatario_nome,Patrícia Moreira Barbosa,quase,1
+27,nfe,nfe_043,scanner,normal,destinatario_documento,144.251.612-70,exato,0
+28,nfe,nfe_045,comum,normal,chave_acesso,23251203845168000196550030001762761580072282,exato,0
+28,nfe,nfe_045,comum,normal,numero,176276,exato,0
+28,nfe,nfe_045,comum,normal,data_emissao,2025-12-14,exato,0
+28,nfe,nfe_045,comum,normal,valor_total,4033.21,exato,0
+28,nfe,nfe_045,comum,normal,emitente_nome,Materiais de Construção Estrela EPP,exato,0
+28,nfe,nfe_045,comum,normal,emitente_documento,03.845.168/0001-96,exato,0
+28,nfe,nfe_045,comum,normal,destinatario_nome,Patrícia Carvalho Mendes,exato,0
+28,nfe,nfe_045,comum,normal,destinatario_documento,702.086.078-89,perdido,4
+28,nfe,nfe_045,scanner,normal,chave_acesso,23251203845168000196550030001762761580072282,quase,1
+28,nfe,nfe_045,scanner,normal,numero,176276,exato,0
+28,nfe,nfe_045,scanner,normal,data_emissao,2025-12-14,exato,0
+28,nfe,nfe_045,scanner,normal,valor_total,4033.21,exato,0
+28,nfe,nfe_045,scanner,normal,emitente_nome,Materiais de Construção Estrela EPP,exato,0
+28,nfe,nfe_045,scanner,normal,emitente_documento,03.845.168/0001-96,exato,0
+28,nfe,nfe_045,scanner,normal,destinatario_nome,Patrícia Carvalho Mendes,quase,0
+28,nfe,nfe_045,scanner,normal,destinatario_documento,702.086.078-89,exato,0
+29,nfe,nfe_046,comum,normal,chave_acesso,52250814207368000130550030000008801518307143,exato,0
+29,nfe,nfe_046,comum,normal,numero,880,exato,0
+29,nfe,nfe_046,comum,normal,data_emissao,2025-08-31,exato,0
+29,nfe,nfe_046,comum,normal,valor_total,11720.36,quase,1
+29,nfe,nfe_046,comum,normal,emitente_nome,Casa Aurora LTDA,exato,0
+29,nfe,nfe_046,comum,normal,emitente_documento,14.207.368/0001-30,exato,0
+29,nfe,nfe_046,comum,normal,destinatario_nome,Mercado Aurora S.A.,exato,0
+29,nfe,nfe_046,comum,normal,destinatario_documento,85.541.490/0001-96,quase,1
+29,nfe,nfe_046,scanner,normal,chave_acesso,52250814207368000130550030000008801518307143,perdido,6
+29,nfe,nfe_046,scanner,normal,numero,880,quase,0
+29,nfe,nfe_046,scanner,normal,data_emissao,2025-08-31,exato,0
+29,nfe,nfe_046,scanner,normal,valor_total,11720.36,exato,0
+29,nfe,nfe_046,scanner,normal,emitente_nome,Casa Aurora LTDA,exato,0
+29,nfe,nfe_046,scanner,normal,emitente_documento,14.207.368/0001-30,exato,0
+29,nfe,nfe_046,scanner,normal,destinatario_nome,Mercado Aurora S.A.,exato,0
+29,nfe,nfe_046,scanner,normal,destinatario_documento,85.541.490/0001-96,exato,0
+30,nfe,nfe_047,comum,normal,chave_acesso,35261008391305000183550020000869791122706619,quase,1
+30,nfe,nfe_047,comum,normal,numero,86979,exato,0
+30,nfe,nfe_047,comum,normal,data_emissao,2026-10-01,quase,1
+30,nfe,nfe_047,comum,normal,valor_total,7629.9,quase,1
+30,nfe,nfe_047,comum,normal,emitente_nome,Supermercado Ipê LTDA,exato,0
+30,nfe,nfe_047,comum,normal,emitente_documento,08.391.305/0001-83,exato,0
+30,nfe,nfe_047,comum,normal,destinatario_nome,Gustavo Marques Santos,quase,1
+30,nfe,nfe_047,comum,normal,destinatario_documento,926.287.953-96,exato,0
+30,nfe,nfe_047,scanner,normal,chave_acesso,35261008391305000183550020000869791122706619,perdido,3
+30,nfe,nfe_047,scanner,normal,numero,86979,exato,0
+30,nfe,nfe_047,scanner,normal,data_emissao,2026-10-01,exato,0
+30,nfe,nfe_047,scanner,normal,valor_total,7629.9,exato,0
+30,nfe,nfe_047,scanner,normal,emitente_nome,Supermercado Ipê LTDA,exato,0
+30,nfe,nfe_047,scanner,normal,emitente_documento,08.391.305/0001-83,exato,0
+30,nfe,nfe_047,scanner,normal,destinatario_nome,Gustavo Marques Santos,exato,0
+30,nfe,nfe_047,scanner,normal,destinatario_documento,926.287.953-96,exato,0
+31,nfse,nfse_001,comum,normal,chave_acesso,41069022238968227000106000000004818026019463764790,exato,0
+31,nfse,nfse_001,comum,normal,numero,48180,exato,0
+31,nfse,nfse_001,comum,normal,data_emissao,2026-01-02,exato,0
+31,nfse,nfse_001,comum,normal,valor_total,886.81,exato,0
+31,nfse,nfse_001,comum,normal,valor_iss,44.34,exato,0
+31,nfse,nfse_001,comum,normal,emitente_nome,Almeida Manutenção Predial EPP,quase,1
+31,nfse,nfse_001,comum,normal,emitente_documento,38.968.227/0001-06,exato,0
+31,nfse,nfse_001,comum,normal,destinatario_nome,Casa Litoral S.A.,exato,0
+31,nfse,nfse_001,comum,normal,destinatario_documento,66.741.274/0001-40,exato,0
+31,nfse,nfse_001,scanner,normal,chave_acesso,41069022238968227000106000000004818026019463764790,quase,1
+31,nfse,nfse_001,scanner,normal,numero,48180,exato,0
+31,nfse,nfse_001,scanner,normal,data_emissao,2026-01-02,exato,0
+31,nfse,nfse_001,scanner,normal,valor_total,886.81,exato,0
+31,nfse,nfse_001,scanner,normal,valor_iss,44.34,exato,0
+31,nfse,nfse_001,scanner,normal,emitente_nome,Almeida Manutenção Predial EPP,quase,1
+31,nfse,nfse_001,scanner,normal,emitente_documento,38.968.227/0001-06,exato,0
+31,nfse,nfse_001,scanner,normal,destinatario_nome,Casa Litoral S.A.,exato,0
+31,nfse,nfse_001,scanner,normal,destinatario_documento,66.741.274/0001-40,exato,0
+32,nfse,nfse_002,comum,normal,chave_acesso,24081022282949526000187000000000531826079577748398,exato,0
+32,nfse,nfse_002,comum,normal,numero,5318,exato,0
+32,nfse,nfse_002,comum,normal,data_emissao,2026-07-07,exato,0
+32,nfse,nfse_002,comum,normal,valor_total,7881.28,exato,0
+32,nfse,nfse_002,comum,normal,valor_iss,197.03,exato,0
+32,nfse,nfse_002,comum,normal,emitente_nome,Machado Advocacia Associados ME,exato,0
+32,nfse,nfse_002,comum,normal,emitente_documento,82.949.526/0001-87,exato,0
+32,nfse,nfse_002,comum,normal,destinatario_nome,Padaria Litoral S.A.,exato,0
+32,nfse,nfse_002,comum,normal,destinatario_documento,92.074.099/0001-94,exato,0
+32,nfse,nfse_002,scanner,normal,chave_acesso,24081022282949526000187000000000531826079577748398,exato,0
+32,nfse,nfse_002,scanner,normal,numero,5318,exato,0
+32,nfse,nfse_002,scanner,normal,data_emissao,2026-07-07,exato,0
+32,nfse,nfse_002,scanner,normal,valor_total,7881.28,exato,0
+32,nfse,nfse_002,scanner,normal,valor_iss,197.03,exato,0
+32,nfse,nfse_002,scanner,normal,emitente_nome,Machado Advocacia Associados ME,exato,0
+32,nfse,nfse_002,scanner,normal,emitente_documento,82.949.526/0001-87,exato,0
+32,nfse,nfse_002,scanner,normal,destinatario_nome,Padaria Litoral S.A.,exato,0
+32,nfse,nfse_002,scanner,normal,destinatario_documento,92.074.099/0001-94,exato,0
+33,nfse,nfse_003,comum,normal,chave_acesso,53001082298086144000107000000004027824089246429101,quase,2
+33,nfse,nfse_003,comum,normal,numero,40278,exato,0
+33,nfse,nfse_003,comum,normal,data_emissao,2024-08-20,exato,0
+33,nfse,nfse_003,comum,normal,valor_total,24097.95,exato,0
+33,nfse,nfse_003,comum,normal,valor_iss,1204.9,exato,0
+33,nfse,nfse_003,comum,normal,emitente_nome,Souza Publicidade e Marketing ME,exato,0
+33,nfse,nfse_003,comum,normal,emitente_documento,98.086.144/0001-07,exato,0
+33,nfse,nfse_003,comum,normal,destinatario_nome,Papelaria Aurora ME,exato,0
+33,nfse,nfse_003,comum,normal,destinatario_documento,18.006.798/0001-44,exato,0
+33,nfse,nfse_003,scanner,normal,chave_acesso,53001082298086144000107000000004027824089246429101,perdido,7
+33,nfse,nfse_003,scanner,normal,numero,40278,exato,0
+33,nfse,nfse_003,scanner,normal,data_emissao,2024-08-20,exato,0
+33,nfse,nfse_003,scanner,normal,valor_total,24097.95,exato,0
+33,nfse,nfse_003,scanner,normal,valor_iss,1204.9,exato,0
+33,nfse,nfse_003,scanner,normal,emitente_nome,Souza Publicidade e Marketing ME,quase,1
+33,nfse,nfse_003,scanner,normal,emitente_documento,98.086.144/0001-07,quase,1
+33,nfse,nfse_003,scanner,normal,destinatario_nome,Papelaria Aurora ME,exato,0
+33,nfse,nfse_003,scanner,normal,destinatario_documento,18.006.798/0001-44,exato,0
+34,nfse,nfse_004,comum,normal,chave_acesso,52087072292166990000150000000000279826051477334512,quase,2
+34,nfse,nfse_004,comum,normal,numero,2798,exato,0
+34,nfse,nfse_004,comum,normal,data_emissao,2026-05-15,exato,0
+34,nfse,nfse_004,comum,normal,valor_total,22293.77,exato,0
+34,nfse,nfse_004,comum,normal,valor_iss,445.88,exato,0
+34,nfse,nfse_004,comum,normal,emitente_nome,Almeida Manutenção Predial LTDA,exato,0
+34,nfse,nfse_004,comum,normal,emitente_documento,92.166.990/0001-50,exato,0
+34,nfse,nfse_004,comum,normal,destinatario_nome,Auto Peças Bom Preço LTDA,exato,0
+34,nfse,nfse_004,comum,normal,destinatario_documento,54.346.927/0001-07,exato,0
+34,nfse,nfse_004,scanner,normal,chave_acesso,52087072292166990000150000000000279826051477334512,quase,1
+34,nfse,nfse_004,scanner,normal,numero,2798,exato,0
+34,nfse,nfse_004,scanner,normal,data_emissao,2026-05-15,exato,0
+34,nfse,nfse_004,scanner,normal,valor_total,22293.77,exato,0
+34,nfse,nfse_004,scanner,normal,valor_iss,445.88,exato,0
+34,nfse,nfse_004,scanner,normal,emitente_nome,Almeida Manutenção Predial LTDA,exato,0
+34,nfse,nfse_004,scanner,normal,emitente_documento,92.166.990/0001-50,exato,0
+34,nfse,nfse_004,scanner,normal,destinatario_nome,Auto Peças Bom Preço LTDA,exato,0
+34,nfse,nfse_004,scanner,normal,destinatario_documento,54.346.927/0001-07,exato,0
+35,nfse,nfse_006,comum,normal,chave_acesso,35095022263458126000124000000004634424084685383312,perdido,3
+35,nfse,nfse_006,comum,normal,numero,46344,exato,0
+35,nfse,nfse_006,comum,normal,data_emissao,2024-08-13,exato,0
+35,nfse,nfse_006,comum,normal,valor_total,10173.57,exato,0
+35,nfse,nfse_006,comum,normal,valor_iss,305.21,exato,0
+35,nfse,nfse_006,comum,normal,emitente_nome,Vieira Consultoria Contábil LTDA,exato,0
+35,nfse,nfse_006,comum,normal,emitente_documento,63.458.126/0001-24,exato,0
+35,nfse,nfse_006,comum,normal,destinatario_nome,Comercial Vale Verde EIRELI,exato,0
+35,nfse,nfse_006,comum,normal,destinatario_documento,34.020.979/0001-81,exato,0
+35,nfse,nfse_006,scanner,normal,chave_acesso,35095022263458126000124000000004634424084685383312,perdido,8
+35,nfse,nfse_006,scanner,normal,numero,46344,quase,0
+35,nfse,nfse_006,scanner,normal,data_emissao,2024-08-13,exato,0
+35,nfse,nfse_006,scanner,normal,valor_total,10173.57,exato,0
+35,nfse,nfse_006,scanner,normal,valor_iss,305.21,quase,1
+35,nfse,nfse_006,scanner,normal,emitente_nome,Vieira Consultoria Contábil LTDA,quase,1
+35,nfse,nfse_006,scanner,normal,emitente_documento,63.458.126/0001-24,exato,0
+35,nfse,nfse_006,scanner,normal,destinatario_nome,Comercial Vale Verde EIRELI,quase,2
+35,nfse,nfse_006,scanner,normal,destinatario_documento,34.020.979/0001-81,exato,0
+36,nfse,nfse_012,comum,normal,chave_acesso,13026032239674233000105000000004736825022528811456,perdido,18
+36,nfse,nfse_012,comum,normal,numero,47368,exato,0
+36,nfse,nfse_012,comum,normal,data_emissao,2025-02-01,exato,0
+36,nfse,nfse_012,comum,normal,valor_total,5360.85,exato,0
+36,nfse,nfse_012,comum,normal,valor_iss,134.02,exato,0
+36,nfse,nfse_012,comum,normal,emitente_nome,Silva Tecnologia e Sistemas EIRELI,quase,1
+36,nfse,nfse_012,comum,normal,emitente_documento,39.674.233/0001-05,exato,0
+36,nfse,nfse_012,comum,normal,destinatario_nome,Mercado Ipê EPP,quase,1
+36,nfse,nfse_012,comum,normal,destinatario_documento,55.336.200/0001-01,quase,1
+36,nfse,nfse_012,scanner,normal,chave_acesso,13026032239674233000105000000004736825022528811456,perdido,6
+36,nfse,nfse_012,scanner,normal,numero,47368,exato,0
+36,nfse,nfse_012,scanner,normal,data_emissao,2025-02-01,exato,0
+36,nfse,nfse_012,scanner,normal,valor_total,5360.85,exato,0
+36,nfse,nfse_012,scanner,normal,valor_iss,134.02,exato,0
+36,nfse,nfse_012,scanner,normal,emitente_nome,Silva Tecnologia e Sistemas EIRELI,quase,1
+36,nfse,nfse_012,scanner,normal,emitente_documento,39.674.233/0001-05,exato,0
+36,nfse,nfse_012,scanner,normal,destinatario_nome,Mercado Ipê EPP,quase,1
+36,nfse,nfse_012,scanner,normal,destinatario_documento,55.336.200/0001-01,exato,0
+37,nfse,nfse_014,comum,normal,chave_acesso,51034032216308612000186000000001415624088309294007,exato,0
+37,nfse,nfse_014,comum,normal,numero,14156,exato,0
+37,nfse,nfse_014,comum,normal,data_emissao,2024-08-23,exato,0
+37,nfse,nfse_014,comum,normal,valor_total,5653.66,exato,0
+37,nfse,nfse_014,comum,normal,valor_iss,169.61,exato,0
+37,nfse,nfse_014,comum,normal,emitente_nome,Lima Advocacia Associados LTDA,exato,0
+37,nfse,nfse_014,comum,normal,emitente_documento,16.308.612/0001-86,exato,0
+37,nfse,nfse_014,comum,normal,destinatario_nome,Eletro Litoral LTDA,exato,0
+37,nfse,nfse_014,comum,normal,destinatario_documento,53.897.149/0001-81,exato,0
+37,nfse,nfse_014,scanner,normal,chave_acesso,51034032216308612000186000000001415624088309294007,quase,1
+37,nfse,nfse_014,scanner,normal,numero,14156,exato,0
+37,nfse,nfse_014,scanner,normal,data_emissao,2024-08-23,exato,0
+37,nfse,nfse_014,scanner,normal,valor_total,5653.66,exato,0
+37,nfse,nfse_014,scanner,normal,valor_iss,169.61,exato,0
+37,nfse,nfse_014,scanner,normal,emitente_nome,Lima Advocacia Associados LTDA,exato,0
+37,nfse,nfse_014,scanner,normal,emitente_documento,16.308.612/0001-86,exato,0
+37,nfse,nfse_014,scanner,normal,destinatario_nome,Eletro Litoral LTDA,quase,1
+37,nfse,nfse_014,scanner,normal,destinatario_documento,53.897.149/0001-81,exato,0
+38,nfse,nfse_015,comum,normal,chave_acesso,21113002295200608000176000000006875925028000673906,quase,1
+38,nfse,nfse_015,comum,normal,numero,68759,exato,0
+38,nfse,nfse_015,comum,normal,data_emissao,2025-02-03,exato,0
+38,nfse,nfse_015,comum,normal,valor_total,23218.66,exato,0
+38,nfse,nfse_015,comum,normal,valor_iss,696.56,exato,0
+38,nfse,nfse_015,comum,normal,emitente_nome,Vieira Publicidade e Marketing LTDA,quase,1
+38,nfse,nfse_015,comum,normal,emitente_documento,95.200.608/0001-76,exato,0
+38,nfse,nfse_015,comum,normal,destinatario_nome,Vitória Nascimento Martins,exato,0
+38,nfse,nfse_015,comum,normal,destinatario_documento,037.159.629-76,exato,0
+38,nfse,nfse_015,scanner,normal,chave_acesso,21113002295200608000176000000006875925028000673906,exato,0
+38,nfse,nfse_015,scanner,normal,numero,68759,exato,0
+38,nfse,nfse_015,scanner,normal,data_emissao,2025-02-03,exato,0
+38,nfse,nfse_015,scanner,normal,valor_total,23218.66,exato,0
+38,nfse,nfse_015,scanner,normal,valor_iss,696.56,exato,0
+38,nfse,nfse_015,scanner,normal,emitente_nome,Vieira Publicidade e Marketing LTDA,exato,0
+38,nfse,nfse_015,scanner,normal,emitente_documento,95.200.608/0001-76,exato,0
+38,nfse,nfse_015,scanner,normal,destinatario_nome,Vitória Nascimento Martins,exato,0
+38,nfse,nfse_015,scanner,normal,destinatario_documento,037.159.629-76,exato,0
+39,nfse,nfse_020,comum,normal,chave_acesso,42054072243945756000116000000009519025023037977774,perdido,19
+39,nfse,nfse_020,comum,normal,numero,95190,exato,0
+39,nfse,nfse_020,comum,normal,data_emissao,2025-02-22,exato,0
+39,nfse,nfse_020,comum,normal,valor_total,12788.17,exato,0
+39,nfse,nfse_020,comum,normal,valor_iss,383.65,exato,0
+39,nfse,nfse_020,comum,normal,emitente_nome,Almeida Clínica Odontológica EPP,exato,0
+39,nfse,nfse_020,comum,normal,emitente_documento,43.945.756/0001-16,exato,0
+39,nfse,nfse_020,comum,normal,destinatario_nome,Débora Mendes Souza,exato,0
+39,nfse,nfse_020,comum,normal,destinatario_documento,814.697.020-61,exato,0
+39,nfse,nfse_020,scanner,normal,chave_acesso,42054072243945756000116000000009519025023037977774,perdido,5
+39,nfse,nfse_020,scanner,normal,numero,95190,exato,0
+39,nfse,nfse_020,scanner,normal,data_emissao,2025-02-22,exato,0
+39,nfse,nfse_020,scanner,normal,valor_total,12788.17,exato,0
+39,nfse,nfse_020,scanner,normal,valor_iss,383.65,exato,0
+39,nfse,nfse_020,scanner,normal,emitente_nome,Almeida Clínica Odontológica EPP,quase,1
+39,nfse,nfse_020,scanner,normal,emitente_documento,43.945.756/0001-16,exato,0
+39,nfse,nfse_020,scanner,normal,destinatario_nome,Débora Mendes Souza,exato,0
+39,nfse,nfse_020,scanner,normal,destinatario_documento,814.697.020-61,exato,0
+40,nfse,nfse_021,comum,normal,chave_acesso,53001082236578599000192000000001685724077000610750,exato,0
+40,nfse,nfse_021,comum,normal,numero,16857,exato,0
+40,nfse,nfse_021,comum,normal,data_emissao,2024-07-10,exato,0
+40,nfse,nfse_021,comum,normal,valor_total,8020.1,exato,0
+40,nfse,nfse_021,comum,normal,valor_iss,200.5,exato,0
+40,nfse,nfse_021,comum,normal,emitente_nome,Pereira Manutenção Predial LTDA,exato,0
+40,nfse,nfse_021,comum,normal,emitente_documento,36.578.599/0001-92,exato,0
+40,nfse,nfse_021,comum,normal,destinatario_nome,Matheus Oliveira Fernandes,perdido,4
+40,nfse,nfse_021,comum,normal,destinatario_documento,428.160.411-15,exato,0
+40,nfse,nfse_021,scanner,normal,chave_acesso,53001082236578599000192000000001685724077000610750,exato,0
+40,nfse,nfse_021,scanner,normal,numero,16857,exato,0
+40,nfse,nfse_021,scanner,normal,data_emissao,2024-07-10,exato,0
+40,nfse,nfse_021,scanner,normal,valor_total,8020.1,exato,0
+40,nfse,nfse_021,scanner,normal,valor_iss,200.5,exato,0
+40,nfse,nfse_021,scanner,normal,emitente_nome,Pereira Manutenção Predial LTDA,exato,0
+40,nfse,nfse_021,scanner,normal,emitente_documento,36.578.599/0001-92,exato,0
+40,nfse,nfse_021,scanner,normal,destinatario_nome,Matheus Oliveira Fernandes,exato,0
+40,nfse,nfse_021,scanner,normal,destinatario_documento,428.160.411-15,exato,0
+41,nfse,nfse_023,comum,normal,chave_acesso,15014022279392212000111000000008970024126821156692,exato,0
+41,nfse,nfse_023,comum,normal,numero,89700,exato,0
+41,nfse,nfse_023,comum,normal,data_emissao,2024-12-16,exato,0
+41,nfse,nfse_023,comum,normal,valor_total,18613.83,exato,0
+41,nfse,nfse_023,comum,normal,valor_iss,465.35,exato,0
+41,nfse,nfse_023,comum,normal,emitente_nome,Santos Publicidade e Marketing EIRELI,exato,0
+41,nfse,nfse_023,comum,normal,emitente_documento,79.392.212/0001-11,exato,0
+41,nfse,nfse_023,comum,normal,destinatario_nome,Farmácia Planalto LTDA,quase,1
+41,nfse,nfse_023,comum,normal,destinatario_documento,57.562.405/0001-30,exato,0
+41,nfse,nfse_023,scanner,normal,chave_acesso,15014022279392212000111000000008970024126821156692,perdido,4
+41,nfse,nfse_023,scanner,normal,numero,89700,exato,0
+41,nfse,nfse_023,scanner,normal,data_emissao,2024-12-16,exato,0
+41,nfse,nfse_023,scanner,normal,valor_total,18613.83,exato,0
+41,nfse,nfse_023,scanner,normal,valor_iss,465.35,exato,0
+41,nfse,nfse_023,scanner,normal,emitente_nome,Santos Publicidade e Marketing EIRELI,exato,0
+41,nfse,nfse_023,scanner,normal,emitente_documento,79.392.212/0001-11,exato,0
+41,nfse,nfse_023,scanner,normal,destinatario_nome,Farmácia Planalto LTDA,exato,0
+41,nfse,nfse_023,scanner,normal,destinatario_documento,57.562.405/0001-30,exato,0
+42,nfse,nfse_024,comum,normal,chave_acesso,26116062220037046000192000000002988326103230651770,exato,0
+42,nfse,nfse_024,comum,normal,numero,29883,exato,0
+42,nfse,nfse_024,comum,normal,data_emissao,2026-10-25,exato,0
+42,nfse,nfse_024,comum,normal,valor_total,20479.46,exato,0
+42,nfse,nfse_024,comum,normal,valor_iss,409.59,exato,0
+42,nfse,nfse_024,comum,normal,emitente_nome,Gomes Publicidade e Marketing ME,exato,0
+42,nfse,nfse_024,comum,normal,emitente_documento,20.037.046/0001-92,exato,0
+42,nfse,nfse_024,comum,normal,destinatario_nome,Padaria Estrela LTDA,exato,0
+42,nfse,nfse_024,comum,normal,destinatario_documento,00.542.395/0001-54,exato,0
+42,nfse,nfse_024,scanner,normal,chave_acesso,26116062220037046000192000000002988326103230651770,exato,0
+42,nfse,nfse_024,scanner,normal,numero,29883,exato,0
+42,nfse,nfse_024,scanner,normal,data_emissao,2026-10-25,exato,0
+42,nfse,nfse_024,scanner,normal,valor_total,20479.46,exato,0
+42,nfse,nfse_024,scanner,normal,valor_iss,409.59,exato,0
+42,nfse,nfse_024,scanner,normal,emitente_nome,Gomes Publicidade e Marketing ME,exato,0
+42,nfse,nfse_024,scanner,normal,emitente_documento,20.037.046/0001-92,exato,0
+42,nfse,nfse_024,scanner,normal,destinatario_nome,Padaria Estrela LTDA,quase,1
+42,nfse,nfse_024,scanner,normal,destinatario_documento,00.542.395/0001-54,exato,0
+43,nfse,nfse_025,comum,normal,chave_acesso,32053092284403420000109000000003866225058195957144,exato,0
+43,nfse,nfse_025,comum,normal,numero,38662,exato,0
+43,nfse,nfse_025,comum,normal,data_emissao,2025-05-05,exato,0
+43,nfse,nfse_025,comum,normal,valor_total,23119.75,exato,0
+43,nfse,nfse_025,comum,normal,valor_iss,693.59,exato,0
+43,nfse,nfse_025,comum,normal,emitente_nome,Mendes Clínica Odontológica EIRELI,exato,0
+43,nfse,nfse_025,comum,normal,emitente_documento,84.403.420/0001-09,exato,0
+43,nfse,nfse_025,comum,normal,destinatario_nome,Francisca Costa Dias,exato,0
+43,nfse,nfse_025,comum,normal,destinatario_documento,360.855.735-02,exato,0
+43,nfse,nfse_025,scanner,normal,chave_acesso,32053092284403420000109000000003866225058195957144,exato,0
+43,nfse,nfse_025,scanner,normal,numero,38662,exato,0
+43,nfse,nfse_025,scanner,normal,data_emissao,2025-05-05,exato,0
+43,nfse,nfse_025,scanner,normal,valor_total,23119.75,exato,0
+43,nfse,nfse_025,scanner,normal,valor_iss,693.59,exato,0
+43,nfse,nfse_025,scanner,normal,emitente_nome,Mendes Clínica Odontológica EIRELI,exato,0
+43,nfse,nfse_025,scanner,normal,emitente_documento,84.403.420/0001-09,exato,0
+43,nfse,nfse_025,scanner,normal,destinatario_nome,Francisca Costa Dias,exato,0
+43,nfse,nfse_025,scanner,normal,destinatario_documento,360.855.735-02,exato,0
+49,nfse,nfse_032,comum,normal,chave_acesso,43149022208290991000104000000006283526054316279024,exato,0
+49,nfse,nfse_032,comum,normal,numero,62835,exato,0
+49,nfse,nfse_032,comum,normal,data_emissao,2026-05-13,exato,0
+49,nfse,nfse_032,comum,normal,valor_total,19361.6,exato,0
+49,nfse,nfse_032,comum,normal,valor_iss,968.08,exato,0
+49,nfse,nfse_032,comum,normal,emitente_nome,Mendes Advocacia Associados LTDA,exato,0
+49,nfse,nfse_032,comum,normal,emitente_documento,08.290.991/0001-04,exato,0
+49,nfse,nfse_032,comum,normal,destinatario_nome,Eletro Horizonte EPP,exato,0
+49,nfse,nfse_032,comum,normal,destinatario_documento,05.405.715/0001-48,exato,0
+49,nfse,nfse_032,scanner,normal,chave_acesso,43149022208290991000104000000006283526054316279024,exato,0
+49,nfse,nfse_032,scanner,normal,numero,62835,exato,0
+49,nfse,nfse_032,scanner,normal,data_emissao,2026-05-13,exato,0
+49,nfse,nfse_032,scanner,normal,valor_total,19361.6,exato,0
+49,nfse,nfse_032,scanner,normal,valor_iss,968.08,exato,0
+49,nfse,nfse_032,scanner,normal,emitente_nome,Mendes Advocacia Associados LTDA,exato,0
+49,nfse,nfse_032,scanner,normal,emitente_documento,08.290.991/0001-04,exato,0
+49,nfse,nfse_032,scanner,normal,destinatario_nome,Eletro Horizonte EPP,exato,0
+49,nfse,nfse_032,scanner,normal,destinatario_documento,05.405.715/0001-48,exato,0
+50,nfse,nfse_034,comum,normal,chave_acesso,41069022287811004000138000000008722324128215754531,exato,0
+50,nfse,nfse_034,comum,normal,numero,87223,exato,0
+50,nfse,nfse_034,comum,normal,data_emissao,2024-12-20,exato,0
+50,nfse,nfse_034,comum,normal,valor_total,22704.17,exato,0
+50,nfse,nfse_034,comum,normal,valor_iss,454.08,exato,0
+50,nfse,nfse_034,comum,normal,emitente_nome,Alves Transportes e Logística LTDA,exato,0
+50,nfse,nfse_034,comum,normal,emitente_documento,87.811.004/0001-38,exato,0
+50,nfse,nfse_034,comum,normal,destinatario_nome,Empório Bom Preço S.A.,perdido,7
+50,nfse,nfse_034,comum,normal,destinatario_documento,41.235.199/0001-14,exato,0
+50,nfse,nfse_034,scanner,normal,chave_acesso,41069022287811004000138000000008722324128215754531,quase,1
+50,nfse,nfse_034,scanner,normal,numero,87223,quase,1
+50,nfse,nfse_034,scanner,normal,data_emissao,2024-12-20,exato,0
+50,nfse,nfse_034,scanner,normal,valor_total,22704.17,exato,0
+50,nfse,nfse_034,scanner,normal,valor_iss,454.08,exato,0
+50,nfse,nfse_034,scanner,normal,emitente_nome,Alves Transportes e Logística LTDA,exato,0
+50,nfse,nfse_034,scanner,normal,emitente_documento,87.811.004/0001-38,exato,0
+50,nfse,nfse_034,scanner,normal,destinatario_nome,Empório Bom Preço S.A.,exato,0
+50,nfse,nfse_034,scanner,normal,destinatario_documento,41.235.199/0001-14,exato,0
+51,nfse,nfse_035,comum,normal,chave_acesso,53001082263546930000165000000009982025123766955389,exato,0
+51,nfse,nfse_035,comum,normal,numero,99820,exato,0
+51,nfse,nfse_035,comum,normal,data_emissao,2025-12-20,exato,0
+51,nfse,nfse_035,comum,normal,valor_total,3285.52,exato,0
+51,nfse,nfse_035,comum,normal,valor_iss,65.71,exato,0
+51,nfse,nfse_035,comum,normal,emitente_nome,Moreira Limpeza e Conservação LTDA,quase,1
+51,nfse,nfse_035,comum,normal,emitente_documento,63.546.930/0001-65,exato,0
+51,nfse,nfse_035,comum,normal,destinatario_nome,Distribuidora Bom Preço ME,exato,0
+51,nfse,nfse_035,comum,normal,destinatario_documento,78.907.262/0001-21,exato,0
+51,nfse,nfse_035,scanner,normal,chave_acesso,53001082263546930000165000000009982025123766955389,exato,0
+51,nfse,nfse_035,scanner,normal,numero,99820,exato,0
+51,nfse,nfse_035,scanner,normal,data_emissao,2025-12-20,exato,0
+51,nfse,nfse_035,scanner,normal,valor_total,3285.52,exato,0
+51,nfse,nfse_035,scanner,normal,valor_iss,65.71,exato,0
+51,nfse,nfse_035,scanner,normal,emitente_nome,Moreira Limpeza e Conservação LTDA,exato,0
+51,nfse,nfse_035,scanner,normal,emitente_documento,63.546.930/0001-65,exato,0
+51,nfse,nfse_035,scanner,normal,destinatario_nome,Distribuidora Bom Preço ME,exato,0
+51,nfse,nfse_035,scanner,normal,destinatario_documento,78.907.262/0001-21,exato,0
+52,nfse,nfse_036,comum,normal,chave_acesso,32053092251344242000133000000008690226031862327522,exato,0
+52,nfse,nfse_036,comum,normal,numero,86902,quase,0
+52,nfse,nfse_036,comum,normal,data_emissao,2026-03-31,exato,0
+52,nfse,nfse_036,comum,normal,valor_total,11178.79,exato,0
+52,nfse,nfse_036,comum,normal,valor_iss,335.36,exato,0
+52,nfse,nfse_036,comum,normal,emitente_nome,Almeida Engenharia e Projetos LTDA,exato,0
+52,nfse,nfse_036,comum,normal,emitente_documento,51.344.242/0001-33,exato,0
+52,nfse,nfse_036,comum,normal,destinatario_nome,Farmácia Bom Preço EPP,exato,0
+52,nfse,nfse_036,comum,normal,destinatario_documento,80.643.577/0001-50,exato,0
+52,nfse,nfse_036,scanner,normal,chave_acesso,32053092251344242000133000000008690226031862327522,exato,0
+52,nfse,nfse_036,scanner,normal,numero,86902,exato,0
+52,nfse,nfse_036,scanner,normal,data_emissao,2026-03-31,exato,0
+52,nfse,nfse_036,scanner,normal,valor_total,11178.79,exato,0
+52,nfse,nfse_036,scanner,normal,valor_iss,335.36,exato,0
+52,nfse,nfse_036,scanner,normal,emitente_nome,Almeida Engenharia e Projetos LTDA,exato,0
+52,nfse,nfse_036,scanner,normal,emitente_documento,51.344.242/0001-33,exato,0
+52,nfse,nfse_036,scanner,normal,destinatario_nome,Farmácia Bom Preço EPP,quase,1
+52,nfse,nfse_036,scanner,normal,destinatario_documento,80.643.577/0001-50,exato,0
+53,nfse,nfse_037,comum,normal,chave_acesso,15014022294763526000177000000006058026084185348644,quase,1
+53,nfse,nfse_037,comum,normal,numero,60580,exato,0
+53,nfse,nfse_037,comum,normal,data_emissao,2026-08-30,exato,0
+53,nfse,nfse_037,comum,normal,valor_total,24155.89,exato,0
+53,nfse,nfse_037,comum,normal,valor_iss,724.68,exato,0
+53,nfse,nfse_037,comum,normal,emitente_nome,Machado Transportes e Logística EPP,exato,0
+53,nfse,nfse_037,comum,normal,emitente_documento,94.763.526/0001-77,exato,0
+53,nfse,nfse_037,comum,normal,destinatario_nome,Atacadista Primavera LTDA,exato,0
+53,nfse,nfse_037,comum,normal,destinatario_documento,63.690.313/0001-39,exato,0
+53,nfse,nfse_037,scanner,normal,chave_acesso,15014022294763526000177000000006058026084185348644,exato,0
+53,nfse,nfse_037,scanner,normal,numero,60580,exato,0
+53,nfse,nfse_037,scanner,normal,data_emissao,2026-08-30,exato,0
+53,nfse,nfse_037,scanner,normal,valor_total,24155.89,exato,0
+53,nfse,nfse_037,scanner,normal,valor_iss,724.68,exato,0
+53,nfse,nfse_037,scanner,normal,emitente_nome,Machado Transportes e Logística EPP,quase,1
+53,nfse,nfse_037,scanner,normal,emitente_documento,94.763.526/0001-77,exato,0
+53,nfse,nfse_037,scanner,normal,destinatario_nome,Atacadista Primavera LTDA,quase,1
+53,nfse,nfse_037,scanner,normal,destinatario_documento,63.690.313/0001-39,exato,0
+54,nfse,nfse_040,comum,normal,chave_acesso,35503082231941362000100000000006874026058855081500,exato,0
+54,nfse,nfse_040,comum,normal,numero,68740,exato,0
+54,nfse,nfse_040,comum,normal,data_emissao,2026-05-23,exato,0
+54,nfse,nfse_040,comum,normal,valor_total,5865.4,exato,0
+54,nfse,nfse_040,comum,normal,valor_iss,117.31,exato,0
+54,nfse,nfse_040,comum,normal,emitente_nome,Lima Limpeza e Conservação EPP,exato,0
+54,nfse,nfse_040,comum,normal,emitente_documento,31.941.362/0001-00,exato,0
+54,nfse,nfse_040,comum,normal,destinatario_nome,Indústria Cerrado EIRELI,perdido,5
+54,nfse,nfse_040,comum,normal,destinatario_documento,07.457.061/0001-21,exato,0
+54,nfse,nfse_040,scanner,normal,chave_acesso,35503082231941362000100000000006874026058855081500,quase,1
+54,nfse,nfse_040,scanner,normal,numero,68740,quase,0
+54,nfse,nfse_040,scanner,normal,data_emissao,2026-05-23,exato,0
+54,nfse,nfse_040,scanner,normal,valor_total,5865.4,exato,0
+54,nfse,nfse_040,scanner,normal,valor_iss,117.31,exato,0
+54,nfse,nfse_040,scanner,normal,emitente_nome,Lima Limpeza e Conservação EPP,exato,0
+54,nfse,nfse_040,scanner,normal,emitente_documento,31.941.362/0001-00,exato,0
+54,nfse,nfse_040,scanner,normal,destinatario_nome,Indústria Cerrado EIRELI,quase,2
+54,nfse,nfse_040,scanner,normal,destinatario_documento,07.457.061/0001-21,quase,1
+55,nfse,nfse_041,comum,normal,chave_acesso,35503082267145697000160000000002886726032808489220,exato,0
+55,nfse,nfse_041,comum,normal,numero,28867,exato,0
+55,nfse,nfse_041,comum,normal,data_emissao,2026-03-18,exato,0
+55,nfse,nfse_041,comum,normal,valor_total,18361.4,exato,0
+55,nfse,nfse_041,comum,normal,valor_iss,459.04,quase,1
+55,nfse,nfse_041,comum,normal,emitente_nome,Carvalho Consultoria Contábil LTDA,exato,0
+55,nfse,nfse_041,comum,normal,emitente_documento,67.145.697/0001-60,exato,0
+55,nfse,nfse_041,comum,normal,destinatario_nome,Atacadista Cerrado LTDA,exato,0
+55,nfse,nfse_041,comum,normal,destinatario_documento,65.987.418/0001-80,exato,0
+55,nfse,nfse_041,scanner,normal,chave_acesso,35503082267145697000160000000002886726032808489220,quase,2
+55,nfse,nfse_041,scanner,normal,numero,28867,quase,0
+55,nfse,nfse_041,scanner,normal,data_emissao,2026-03-18,exato,0
+55,nfse,nfse_041,scanner,normal,valor_total,18361.4,exato,0
+55,nfse,nfse_041,scanner,normal,valor_iss,459.04,exato,0
+55,nfse,nfse_041,scanner,normal,emitente_nome,Carvalho Consultoria Contábil LTDA,quase,1
+55,nfse,nfse_041,scanner,normal,emitente_documento,67.145.697/0001-60,exato,0
+55,nfse,nfse_041,scanner,normal,destinatario_nome,Atacadista Cerrado LTDA,exato,0
+55,nfse,nfse_041,scanner,normal,destinatario_documento,65.987.418/0001-80,exato,0
+56,nfse,nfse_043,comum,normal,chave_acesso,43149022249080889000153000000008018224119838165051,exato,0
+56,nfse,nfse_043,comum,normal,numero,80182,exato,0
+56,nfse,nfse_043,comum,normal,data_emissao,2024-11-06,exato,0
+56,nfse,nfse_043,comum,normal,valor_total,266.16,exato,0
+56,nfse,nfse_043,comum,normal,valor_iss,13.31,exato,0
+56,nfse,nfse_043,comum,normal,emitente_nome,Ribeiro Clínica Odontológica LTDA,perdido,9
+56,nfse,nfse_043,comum,normal,emitente_documento,49.080.889/0001-53,exato,0
+56,nfse,nfse_043,comum,normal,destinatario_nome,Carlos Costa Rocha,quase,2
+56,nfse,nfse_043,comum,normal,destinatario_documento,592.107.243-56,exato,0
+56,nfse,nfse_043,scanner,normal,chave_acesso,43149022249080889000153000000008018224119838165051,exato,0
+56,nfse,nfse_043,scanner,normal,numero,80182,exato,0
+56,nfse,nfse_043,scanner,normal,data_emissao,2024-11-06,exato,0
+56,nfse,nfse_043,scanner,normal,valor_total,266.16,exato,0
+56,nfse,nfse_043,scanner,normal,valor_iss,13.31,exato,0
+56,nfse,nfse_043,scanner,normal,emitente_nome,Ribeiro Clínica Odontológica LTDA,quase,1
+56,nfse,nfse_043,scanner,normal,emitente_documento,49.080.889/0001-53,exato,0
+56,nfse,nfse_043,scanner,normal,destinatario_nome,Carlos Costa Rocha,exato,0
+56,nfse,nfse_043,scanner,normal,destinatario_documento,592.107.243-56,exato,0
+57,nfse,nfse_045,comum,normal,chave_acesso,35503082205064246000140000000007156326084394598858,exato,0
+57,nfse,nfse_045,comum,normal,numero,71563,exato,0
+57,nfse,nfse_045,comum,normal,data_emissao,2026-08-12,exato,0
+57,nfse,nfse_045,comum,normal,valor_total,6736.25,exato,0
+57,nfse,nfse_045,comum,normal,valor_iss,134.72,exato,0
+57,nfse,nfse_045,comum,normal,emitente_nome,Machado Clínica Odontológica EIRELI,exato,0
+57,nfse,nfse_045,comum,normal,emitente_documento,05.064.246/0001-40,exato,0
+57,nfse,nfse_045,comum,normal,destinatario_nome,Gustavo Alves Alves,quase,2
+57,nfse,nfse_045,comum,normal,destinatario_documento,593.266.163-12,exato,0
+57,nfse,nfse_045,scanner,normal,chave_acesso,35503082205064246000140000000007156326084394598858,exato,0
+57,nfse,nfse_045,scanner,normal,numero,71563,exato,0
+57,nfse,nfse_045,scanner,normal,data_emissao,2026-08-12,exato,0
+57,nfse,nfse_045,scanner,normal,valor_total,6736.25,exato,0
+57,nfse,nfse_045,scanner,normal,valor_iss,134.72,exato,0
+57,nfse,nfse_045,scanner,normal,emitente_nome,Machado Clínica Odontológica EIRELI,quase,1
+57,nfse,nfse_045,scanner,normal,emitente_documento,05.064.246/0001-40,exato,0
+57,nfse,nfse_045,scanner,normal,destinatario_nome,Gustavo Alves Alves,quase,1
+57,nfse,nfse_045,scanner,normal,destinatario_documento,593.266.163-12,exato,0
+58,nfse,nfse_046,comum,normal,chave_acesso,53001082200605595000109000000006415526077854688023,exato,0
+58,nfse,nfse_046,comum,normal,numero,64155,exato,0
+58,nfse,nfse_046,comum,normal,data_emissao,2026-07-23,exato,0
+58,nfse,nfse_046,comum,normal,valor_total,2236.18,exato,0
+58,nfse,nfse_046,comum,normal,valor_iss,67.09,exato,0
+58,nfse,nfse_046,comum,normal,emitente_nome,Lopes Limpeza e Conservação S.A.,exato,0
+58,nfse,nfse_046,comum,normal,emitente_documento,00.605.595/0001-09,exato,0
+58,nfse,nfse_046,comum,normal,destinatario_nome,Auto Peças Cerrado S.A.,exato,0
+58,nfse,nfse_046,comum,normal,destinatario_documento,64.630.368/0001-16,exato,0
+58,nfse,nfse_046,scanner,normal,chave_acesso,53001082200605595000109000000006415526077854688023,exato,0
+58,nfse,nfse_046,scanner,normal,numero,64155,exato,0
+58,nfse,nfse_046,scanner,normal,data_emissao,2026-07-23,exato,0
+58,nfse,nfse_046,scanner,normal,valor_total,2236.18,exato,0
+58,nfse,nfse_046,scanner,normal,valor_iss,67.09,exato,0
+58,nfse,nfse_046,scanner,normal,emitente_nome,Lopes Limpeza e Conservação S.A.,quase,1
+58,nfse,nfse_046,scanner,normal,emitente_documento,00.605.595/0001-09,exato,0
+58,nfse,nfse_046,scanner,normal,destinatario_nome,Auto Peças Cerrado S.A.,quase,1
+58,nfse,nfse_046,scanner,normal,destinatario_documento,64.630.368/0001-16,exato,0
+59,nfse,nfse_048,comum,normal,chave_acesso,21113002286009075000159000000003610326057021686830,exato,0
+59,nfse,nfse_048,comum,normal,numero,36103,exato,0
+59,nfse,nfse_048,comum,normal,data_emissao,2026-05-29,exato,0
+59,nfse,nfse_048,comum,normal,valor_total,14089.05,exato,0
+59,nfse,nfse_048,comum,normal,valor_iss,352.23,exato,0
+59,nfse,nfse_048,comum,normal,emitente_nome,Almeida Advocacia Associados LTDA,perdido,8
+59,nfse,nfse_048,comum,normal,emitente_documento,86.009.075/0001-59,exato,0
+59,nfse,nfse_048,comum,normal,destinatario_nome,Padaria São Jorge EPP,exato,0
+59,nfse,nfse_048,comum,normal,destinatario_documento,85.314.191/0001-19,exato,0
+59,nfse,nfse_048,scanner,normal,chave_acesso,21113002286009075000159000000003610326057021686830,quase,1
+59,nfse,nfse_048,scanner,normal,numero,36103,exato,0
+59,nfse,nfse_048,scanner,normal,data_emissao,2026-05-29,exato,0
+59,nfse,nfse_048,scanner,normal,valor_total,14089.05,exato,0
+59,nfse,nfse_048,scanner,normal,valor_iss,352.23,exato,0
+59,nfse,nfse_048,scanner,normal,emitente_nome,Almeida Advocacia Associados LTDA,quase,1
+59,nfse,nfse_048,scanner,normal,emitente_documento,86.009.075/0001-59,exato,0
+59,nfse,nfse_048,scanner,normal,destinatario_nome,Padaria São Jorge EPP,quase,1
+59,nfse,nfse_048,scanner,normal,destinatario_documento,85.314.191/0001-19,exato,0
+60,nfse,nfse_050,comum,normal,chave_acesso,32053092245516953000145000000008905824091344781410,exato,0
+60,nfse,nfse_050,comum,normal,numero,89058,exato,0
+60,nfse,nfse_050,comum,normal,data_emissao,2024-09-10,exato,0
+60,nfse,nfse_050,comum,normal,valor_total,4489.42,exato,0
+60,nfse,nfse_050,comum,normal,valor_iss,112.24,exato,0
+60,nfse,nfse_050,comum,normal,emitente_nome,Ribeiro Limpeza e Conservação EIRELI,exato,0
+60,nfse,nfse_050,comum,normal,emitente_documento,45.516.953/0001-45,exato,0
+60,nfse,nfse_050,comum,normal,destinatario_nome,Materiais de Construção Nova Era LTDA,exato,0
+60,nfse,nfse_050,comum,normal,destinatario_documento,44.635.047/0001-05,exato,0
+60,nfse,nfse_050,scanner,normal,chave_acesso,32053092245516953000145000000008905824091344781410,exato,0
+60,nfse,nfse_050,scanner,normal,numero,89058,exato,0
+60,nfse,nfse_050,scanner,normal,data_emissao,2024-09-10,exato,0
+60,nfse,nfse_050,scanner,normal,valor_total,4489.42,exato,0
+60,nfse,nfse_050,scanner,normal,valor_iss,112.24,exato,0
+60,nfse,nfse_050,scanner,normal,emitente_nome,Ribeiro Limpeza e Conservação EIRELI,perdido,12
+60,nfse,nfse_050,scanner,normal,emitente_documento,45.516.953/0001-45,exato,0
+60,nfse,nfse_050,scanner,normal,destinatario_nome,Materiais de Construção Nova Era LTDA,quase,1
+60,nfse,nfse_050,scanner,normal,destinatario_documento,44.635.047/0001-05,exato,0
+61,boleto,boleto_001,comum,normal,linha_digitavel,00190.00009 01001.301009 01794.389187 9 14680000080993,exato,0
+61,boleto,boleto_001,comum,normal,valor_documento,809.93,exato,0
+61,boleto,boleto_001,comum,normal,data_vencimento,2026-06-05,exato,0
+61,boleto,boleto_001,comum,normal,data_documento,2026-05-28,exato,0
+61,boleto,boleto_001,comum,normal,numero_documento,7451707,exato,0
+61,boleto,boleto_001,comum,normal,nosso_numero,10013010001794389,exato,0
+61,boleto,boleto_001,comum,normal,beneficiario_nome,Editora Saber Mais LTDA,exato,0
+61,boleto,boleto_001,comum,normal,beneficiario_cnpj,19.319.792/0001-90,exato,0
+61,boleto,boleto_001,comum,normal,pagador_nome,Fernanda Fernandes Soares,exato,0
+61,boleto,boleto_001,comum,normal,pagador_cpf,465.040.384-73,exato,0
+61,boleto,boleto_001,scanner,normal,linha_digitavel,00190.00009 01001.301009 01794.389187 9 14680000080993,exato,0
+61,boleto,boleto_001,scanner,normal,valor_documento,809.93,exato,0
+61,boleto,boleto_001,scanner,normal,data_vencimento,2026-06-05,exato,0
+61,boleto,boleto_001,scanner,normal,data_documento,2026-05-28,exato,0
+61,boleto,boleto_001,scanner,normal,numero_documento,7451707,exato,0
+61,boleto,boleto_001,scanner,normal,nosso_numero,10013010001794389,exato,0
+61,boleto,boleto_001,scanner,normal,beneficiario_nome,Editora Saber Mais LTDA,exato,0
+61,boleto,boleto_001,scanner,normal,beneficiario_cnpj,19.319.792/0001-90,exato,0
+61,boleto,boleto_001,scanner,normal,pagador_nome,Fernanda Fernandes Soares,exato,0
+61,boleto,boleto_001,scanner,normal,pagador_cpf,465.040.384-73,exato,0
+62,boleto,boleto_002,comum,normal,linha_digitavel,23791.25103 60068.680697 05146.493605 1 11420000203996,exato,0
+62,boleto,boleto_002,comum,normal,valor_documento,2039.96,exato,0
+62,boleto,boleto_002,comum,normal,data_vencimento,2025-07-14,exato,0
+62,boleto,boleto_002,comum,normal,data_documento,2025-06-05,exato,0
+62,boleto,boleto_002,comum,normal,numero_documento,2215436,exato,0
+62,boleto,boleto_002,comum,normal,nosso_numero,00686806905,exato,0
+62,boleto,boleto_002,comum,normal,beneficiario_nome,Seguradora Proteção Total S.A.,exato,0
+62,boleto,boleto_002,comum,normal,beneficiario_cnpj,40.375.715/0001-43,exato,0
+62,boleto,boleto_002,comum,normal,pagador_nome,José Pereira Lima,exato,0
+62,boleto,boleto_002,comum,normal,pagador_cpf,141.632.098-91,exato,0
+62,boleto,boleto_002,scanner,normal,linha_digitavel,23791.25103 60068.680697 05146.493605 1 11420000203996,exato,0
+62,boleto,boleto_002,scanner,normal,valor_documento,2039.96,exato,0
+62,boleto,boleto_002,scanner,normal,data_vencimento,2025-07-14,quase,1
+62,boleto,boleto_002,scanner,normal,data_documento,2025-06-05,exato,0
+62,boleto,boleto_002,scanner,normal,numero_documento,2215436,exato,0
+62,boleto,boleto_002,scanner,normal,nosso_numero,00686806905,exato,0
+62,boleto,boleto_002,scanner,normal,beneficiario_nome,Seguradora Proteção Total S.A.,exato,0
+62,boleto,boleto_002,scanner,normal,beneficiario_cnpj,40.375.715/0001-43,exato,0
+62,boleto,boleto_002,scanner,normal,pagador_nome,José Pereira Lima,exato,0
+62,boleto,boleto_002,scanner,normal,pagador_cpf,141.632.098-91,exato,0
+63,boleto,boleto_004,comum,normal,linha_digitavel,10497.46678 57000.100040 00484.312020 1 98230000067597,exato,0
+63,boleto,boleto_004,comum,normal,valor_documento,675.97,exato,0
+63,boleto,boleto_004,comum,normal,data_vencimento,2024-08-29,exato,0
+63,boleto,boleto_004,comum,normal,data_documento,2024-08-15,exato,0
+63,boleto,boleto_004,comum,normal,numero_documento,9614502,exato,0
+63,boleto,boleto_004,comum,normal,nosso_numero,14000000004843120-1,exato,0
+63,boleto,boleto_004,comum,normal,beneficiario_nome,Editora Saber Mais LTDA,exato,0
+63,boleto,boleto_004,comum,normal,beneficiario_cnpj,91.314.108/0001-04,exato,0
+63,boleto,boleto_004,comum,normal,pagador_nome,Camila Soares Freitas,exato,0
+63,boleto,boleto_004,comum,normal,pagador_cpf,489.259.964-64,exato,0
+63,boleto,boleto_004,scanner,normal,linha_digitavel,10497.46678 57000.100040 00484.312020 1 98230000067597,exato,0
+63,boleto,boleto_004,scanner,normal,valor_documento,675.97,exato,0
+63,boleto,boleto_004,scanner,normal,data_vencimento,2024-08-29,exato,0
+63,boleto,boleto_004,scanner,normal,data_documento,2024-08-15,exato,0
+63,boleto,boleto_004,scanner,normal,numero_documento,9614502,exato,0
+63,boleto,boleto_004,scanner,normal,nosso_numero,14000000004843120-1,quase,1
+63,boleto,boleto_004,scanner,normal,beneficiario_nome,Editora Saber Mais LTDA,exato,0
+63,boleto,boleto_004,scanner,normal,beneficiario_cnpj,91.314.108/0001-04,exato,0
+63,boleto,boleto_004,scanner,normal,pagador_nome,Camila Soares Freitas,exato,0
+63,boleto,boleto_004,scanner,normal,pagador_cpf,489.259.964-64,exato,0
+64,boleto,boleto_005,comum,normal,linha_digitavel,03399.51311 33800.588619 58191.301017 1 12850000050688,exato,0
+64,boleto,boleto_005,comum,normal,valor_documento,506.88,exato,0
+64,boleto,boleto_005,comum,normal,data_vencimento,2025-12-04,exato,0
+64,boleto,boleto_005,comum,normal,data_documento,2025-11-13,exato,0
+64,boleto,boleto_005,comum,normal,numero_documento,3446676,exato,0
+64,boleto,boleto_005,comum,normal,nosso_numero,005886158191-3,exato,0
+64,boleto,boleto_005,comum,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+64,boleto,boleto_005,comum,normal,beneficiario_cnpj,92.262.508/0001-86,exato,0
+64,boleto,boleto_005,comum,normal,pagador_nome,José Rodrigues Nascimento,exato,0
+64,boleto,boleto_005,comum,normal,pagador_cpf,213.708.737-51,exato,0
+64,boleto,boleto_005,scanner,normal,linha_digitavel,03399.51311 33800.588619 58191.301017 1 12850000050688,exato,0
+64,boleto,boleto_005,scanner,normal,valor_documento,506.88,exato,0
+64,boleto,boleto_005,scanner,normal,data_vencimento,2025-12-04,exato,0
+64,boleto,boleto_005,scanner,normal,data_documento,2025-11-13,quase,1
+64,boleto,boleto_005,scanner,normal,numero_documento,3446676,exato,0
+64,boleto,boleto_005,scanner,normal,nosso_numero,005886158191-3,exato,0
+64,boleto,boleto_005,scanner,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+64,boleto,boleto_005,scanner,normal,beneficiario_cnpj,92.262.508/0001-86,exato,0
+64,boleto,boleto_005,scanner,normal,pagador_nome,José Rodrigues Nascimento,exato,0
+64,boleto,boleto_005,scanner,normal,pagador_cpf,213.708.737-51,exato,0
+65,boleto,boleto_006,comum,normal,linha_digitavel,75691.57840 01001.705605 27432.700014 8 99710000288436,exato,0
+65,boleto,boleto_006,comum,normal,valor_documento,2884.36,exato,0
+65,boleto,boleto_006,comum,normal,data_vencimento,2025-01-24,exato,0
+65,boleto,boleto_006,comum,normal,data_documento,2025-01-01,exato,0
+65,boleto,boleto_006,comum,normal,numero_documento,1614854,exato,0
+65,boleto,boleto_006,comum,normal,nosso_numero,0274327-0,exato,0
+65,boleto,boleto_006,comum,normal,beneficiario_nome,Escola Pequeno Saber LTDA,exato,0
+65,boleto,boleto_006,comum,normal,beneficiario_cnpj,32.986.394/0001-95,exato,0
+65,boleto,boleto_006,comum,normal,pagador_nome,Lucas Silva Nascimento,exato,0
+65,boleto,boleto_006,comum,normal,pagador_cpf,916.096.530-41,exato,0
+65,boleto,boleto_006,scanner,normal,linha_digitavel,75691.57840 01001.705605 27432.700014 8 99710000288436,exato,0
+65,boleto,boleto_006,scanner,normal,valor_documento,2884.36,exato,0
+65,boleto,boleto_006,scanner,normal,data_vencimento,2025-01-24,quase,1
+65,boleto,boleto_006,scanner,normal,data_documento,2025-01-01,exato,0
+65,boleto,boleto_006,scanner,normal,numero_documento,1614854,exato,0
+65,boleto,boleto_006,scanner,normal,nosso_numero,0274327-0,exato,0
+65,boleto,boleto_006,scanner,normal,beneficiario_nome,Escola Pequeno Saber LTDA,exato,0
+65,boleto,boleto_006,scanner,normal,beneficiario_cnpj,32.986.394/0001-95,exato,0
+65,boleto,boleto_006,scanner,normal,pagador_nome,Lucas Silva Nascimento,exato,0
+65,boleto,boleto_006,scanner,normal,pagador_cpf,916.096.530-41,exato,0
+66,boleto,boleto_008,comum,normal,linha_digitavel,23792.82904 60097.587475 42319.408706 2 14520000360477,exato,0
+66,boleto,boleto_008,comum,normal,valor_documento,3604.77,exato,0
+66,boleto,boleto_008,comum,normal,data_vencimento,2026-05-20,exato,0
+66,boleto,boleto_008,comum,normal,data_documento,2026-04-20,exato,0
+66,boleto,boleto_008,comum,normal,numero_documento,4790720,exato,0
+66,boleto,boleto_008,comum,normal,nosso_numero,00975874742,exato,0
+66,boleto,boleto_008,comum,normal,beneficiario_nome,Cooperativa Agro Vale Verde,exato,0
+66,boleto,boleto_008,comum,normal,beneficiario_cnpj,85.070.896/0001-38,exato,0
+66,boleto,boleto_008,comum,normal,pagador_nome,Antônio Alves Lopes,exato,0
+66,boleto,boleto_008,comum,normal,pagador_cpf,438.144.307-19,exato,0
+66,boleto,boleto_008,scanner,normal,linha_digitavel,23792.82904 60097.587475 42319.408706 2 14520000360477,exato,0
+66,boleto,boleto_008,scanner,normal,valor_documento,3604.77,exato,0
+66,boleto,boleto_008,scanner,normal,data_vencimento,2026-05-20,exato,0
+66,boleto,boleto_008,scanner,normal,data_documento,2026-04-20,exato,0
+66,boleto,boleto_008,scanner,normal,numero_documento,4790720,exato,0
+66,boleto,boleto_008,scanner,normal,nosso_numero,00975874742,exato,0
+66,boleto,boleto_008,scanner,normal,beneficiario_nome,Cooperativa Agro Vale Verde,exato,0
+66,boleto,boleto_008,scanner,normal,beneficiario_cnpj,85.070.896/0001-38,exato,0
+66,boleto,boleto_008,scanner,normal,pagador_nome,Antônio Alves Lopes,exato,0
+66,boleto,boleto_008,scanner,normal,pagador_cpf,438.144.307-19,exato,0
+67,boleto,boleto_009,comum,normal,linha_digitavel,34191.09941 82142.416526 91972.190002 5 11700000088057,exato,0
+67,boleto,boleto_009,comum,normal,valor_documento,880.57,exato,0
+67,boleto,boleto_009,comum,normal,data_vencimento,2025-08-11,exato,0
+67,boleto,boleto_009,comum,normal,data_documento,2025-07-17,exato,0
+67,boleto,boleto_009,comum,normal,numero_documento,2698681,exato,0
+67,boleto,boleto_009,comum,normal,nosso_numero,109/94821424-1,exato,0
+67,boleto,boleto_009,comum,normal,beneficiario_nome,Academia Corpo em Movimento ME,exato,0
+67,boleto,boleto_009,comum,normal,beneficiario_cnpj,52.543.993/0001-41,exato,0
+67,boleto,boleto_009,comum,normal,pagador_nome,Pedro Ribeiro Ferreira,exato,0
+67,boleto,boleto_009,comum,normal,pagador_cpf,698.647.588-88,exato,0
+67,boleto,boleto_009,scanner,normal,linha_digitavel,34191.09941 82142.416526 91972.190002 5 11700000088057,exato,0
+67,boleto,boleto_009,scanner,normal,valor_documento,880.57,exato,0
+67,boleto,boleto_009,scanner,normal,data_vencimento,2025-08-11,exato,0
+67,boleto,boleto_009,scanner,normal,data_documento,2025-07-17,exato,0
+67,boleto,boleto_009,scanner,normal,numero_documento,2698681,exato,0
+67,boleto,boleto_009,scanner,normal,nosso_numero,109/94821424-1,exato,0
+67,boleto,boleto_009,scanner,normal,beneficiario_nome,Academia Corpo em Movimento ME,exato,0
+67,boleto,boleto_009,scanner,normal,beneficiario_cnpj,52.543.993/0001-41,exato,0
+67,boleto,boleto_009,scanner,normal,pagador_nome,Pedro Ribeiro Ferreira,exato,0
+67,boleto,boleto_009,scanner,normal,pagador_cpf,698.647.588-88,quase,2
+68,boleto,boleto_010,comum,normal,linha_digitavel,10497.39582 41000.100044 00986.799914 1 99710000344870,exato,0
+68,boleto,boleto_010,comum,normal,valor_documento,3448.7,exato,0
+68,boleto,boleto_010,comum,normal,data_vencimento,2025-01-24,exato,0
+68,boleto,boleto_010,comum,normal,data_documento,2024-12-17,exato,0
+68,boleto,boleto_010,comum,normal,numero_documento,946749,exato,0
+68,boleto,boleto_010,comum,normal,nosso_numero,14000000009867999-1,exato,0
+68,boleto,boleto_010,comum,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+68,boleto,boleto_010,comum,normal,beneficiario_cnpj,81.718.751/0001-40,exato,0
+68,boleto,boleto_010,comum,normal,pagador_nome,Gustavo Fernandes Ribeiro,exato,0
+68,boleto,boleto_010,comum,normal,pagador_cpf,096.386.903-56,exato,0
+68,boleto,boleto_010,scanner,normal,linha_digitavel,10497.39582 41000.100044 00986.799914 1 99710000344870,exato,0
+68,boleto,boleto_010,scanner,normal,valor_documento,3448.7,exato,0
+68,boleto,boleto_010,scanner,normal,data_vencimento,2025-01-24,exato,0
+68,boleto,boleto_010,scanner,normal,data_documento,2024-12-17,exato,0
+68,boleto,boleto_010,scanner,normal,numero_documento,946749,exato,0
+68,boleto,boleto_010,scanner,normal,nosso_numero,14000000009867999-1,exato,0
+68,boleto,boleto_010,scanner,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+68,boleto,boleto_010,scanner,normal,beneficiario_cnpj,81.718.751/0001-40,exato,0
+68,boleto,boleto_010,scanner,normal,pagador_nome,Gustavo Fernandes Ribeiro,exato,0
+68,boleto,boleto_010,scanner,normal,pagador_cpf,096.386.903-56,exato,0
+69,boleto,boleto_011,comum,normal,linha_digitavel,03399.55296 58700.895855 90388.501018 1 98570000137915,exato,0
+69,boleto,boleto_011,comum,normal,valor_documento,1379.15,exato,0
+69,boleto,boleto_011,comum,normal,data_vencimento,2024-10-02,exato,0
+69,boleto,boleto_011,comum,normal,data_documento,2024-09-27,exato,0
+69,boleto,boleto_011,comum,normal,numero_documento,2278653,exato,0
+69,boleto,boleto_011,comum,normal,nosso_numero,008958590388-5,exato,0
+69,boleto,boleto_011,comum,normal,beneficiario_nome,Escola Pequeno Saber LTDA,exato,0
+69,boleto,boleto_011,comum,normal,beneficiario_cnpj,25.148.013/0001-33,exato,0
+69,boleto,boleto_011,comum,normal,pagador_nome,Gustavo Silva Gomes,exato,0
+69,boleto,boleto_011,comum,normal,pagador_cpf,626.120.926-09,exato,0
+69,boleto,boleto_011,scanner,normal,linha_digitavel,03399.55296 58700.895855 90388.501018 1 98570000137915,exato,0
+69,boleto,boleto_011,scanner,normal,valor_documento,1379.15,exato,0
+69,boleto,boleto_011,scanner,normal,data_vencimento,2024-10-02,exato,0
+69,boleto,boleto_011,scanner,normal,data_documento,2024-09-27,exato,0
+69,boleto,boleto_011,scanner,normal,numero_documento,2278653,exato,0
+69,boleto,boleto_011,scanner,normal,nosso_numero,008958590388-5,exato,0
+69,boleto,boleto_011,scanner,normal,beneficiario_nome,Escola Pequeno Saber LTDA,exato,0
+69,boleto,boleto_011,scanner,normal,beneficiario_cnpj,25.148.013/0001-33,exato,0
+69,boleto,boleto_011,scanner,normal,pagador_nome,Gustavo Silva Gomes,exato,0
+69,boleto,boleto_011,scanner,normal,pagador_cpf,626.120.926-09,exato,0
+70,boleto,boleto_012,comum,normal,linha_digitavel,75691.40325 01001.405107 92043.310017 1 11310000420644,exato,0
+70,boleto,boleto_012,comum,normal,valor_documento,4206.44,exato,0
+70,boleto,boleto_012,comum,normal,data_vencimento,2025-07-03,exato,0
+70,boleto,boleto_012,comum,normal,data_documento,2025-05-31,exato,0
+70,boleto,boleto_012,comum,normal,numero_documento,3889895,exato,0
+70,boleto,boleto_012,comum,normal,nosso_numero,0920433-1,exato,0
+70,boleto,boleto_012,comum,normal,beneficiario_nome,Academia Corpo em Movimento ME,exato,0
+70,boleto,boleto_012,comum,normal,beneficiario_cnpj,18.267.103/0001-88,exato,0
+70,boleto,boleto_012,comum,normal,pagador_nome,Thiago Carvalho Ferreira,exato,0
+70,boleto,boleto_012,comum,normal,pagador_cpf,729.075.987-75,exato,0
+70,boleto,boleto_012,scanner,normal,linha_digitavel,75691.40325 01001.405107 92043.310017 1 11310000420644,exato,0
+70,boleto,boleto_012,scanner,normal,valor_documento,4206.44,exato,0
+70,boleto,boleto_012,scanner,normal,data_vencimento,2025-07-03,exato,0
+70,boleto,boleto_012,scanner,normal,data_documento,2025-05-31,exato,0
+70,boleto,boleto_012,scanner,normal,numero_documento,3889895,exato,0
+70,boleto,boleto_012,scanner,normal,nosso_numero,0920433-1,exato,0
+70,boleto,boleto_012,scanner,normal,beneficiario_nome,Academia Corpo em Movimento ME,exato,0
+70,boleto,boleto_012,scanner,normal,beneficiario_cnpj,18.267.103/0001-88,exato,0
+70,boleto,boleto_012,scanner,normal,pagador_nome,Thiago Carvalho Ferreira,exato,0
+70,boleto,boleto_012,scanner,normal,pagador_cpf,729.075.987-75,exato,0
+71,boleto,boleto_016,comum,normal,linha_digitavel,10491.34461 09000.100041 00746.392703 5 13480000161778,exato,0
+71,boleto,boleto_016,comum,normal,valor_documento,1617.78,exato,0
+71,boleto,boleto_016,comum,normal,data_vencimento,2026-02-05,exato,0
+71,boleto,boleto_016,comum,normal,data_documento,2026-01-12,exato,0
+71,boleto,boleto_016,comum,normal,numero_documento,5816368,exato,0
+71,boleto,boleto_016,comum,normal,nosso_numero,14000000007463927-2,exato,0
+71,boleto,boleto_016,comum,normal,beneficiario_nome,Cooperativa Agro Vale Verde,exato,0
+71,boleto,boleto_016,comum,normal,beneficiario_cnpj,53.217.577/0001-16,exato,0
+71,boleto,boleto_016,comum,normal,pagador_nome,Felipe Mendes Mendes,exato,0
+71,boleto,boleto_016,comum,normal,pagador_cpf,690.688.594-47,exato,0
+71,boleto,boleto_016,scanner,normal,linha_digitavel,10491.34461 09000.100041 00746.392703 5 13480000161778,exato,0
+71,boleto,boleto_016,scanner,normal,valor_documento,1617.78,exato,0
+71,boleto,boleto_016,scanner,normal,data_vencimento,2026-02-05,quase,1
+71,boleto,boleto_016,scanner,normal,data_documento,2026-01-12,exato,0
+71,boleto,boleto_016,scanner,normal,numero_documento,5816368,exato,0
+71,boleto,boleto_016,scanner,normal,nosso_numero,14000000007463927-2,exato,0
+71,boleto,boleto_016,scanner,normal,beneficiario_nome,Cooperativa Agro Vale Verde,exato,0
+71,boleto,boleto_016,scanner,normal,beneficiario_cnpj,53.217.577/0001-16,exato,0
+71,boleto,boleto_016,scanner,normal,pagador_nome,Felipe Mendes Mendes,exato,0
+71,boleto,boleto_016,scanner,normal,pagador_cpf,690.688.594-47,exato,0
+72,boleto,boleto_017,comum,normal,linha_digitavel,03399.87372 89200.532664 34940.501017 4 12460000021631,exato,0
+72,boleto,boleto_017,comum,normal,valor_documento,216.31,exato,0
+72,boleto,boleto_017,comum,normal,data_vencimento,2025-10-26,exato,0
+72,boleto,boleto_017,comum,normal,data_documento,2025-09-19,exato,0
+72,boleto,boleto_017,comum,normal,numero_documento,3822597,exato,0
+72,boleto,boleto_017,comum,normal,nosso_numero,005326634940-5,exato,0
+72,boleto,boleto_017,comum,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+72,boleto,boleto_017,comum,normal,beneficiario_cnpj,43.028.063/0001-69,exato,0
+72,boleto,boleto_017,comum,normal,pagador_nome,Juliana Rocha Costa,exato,0
+72,boleto,boleto_017,comum,normal,pagador_cpf,177.318.642-60,exato,0
+72,boleto,boleto_017,scanner,normal,linha_digitavel,03399.87372 89200.532664 34940.501017 4 12460000021631,exato,0
+72,boleto,boleto_017,scanner,normal,valor_documento,216.31,exato,0
+72,boleto,boleto_017,scanner,normal,data_vencimento,2025-10-26,exato,0
+72,boleto,boleto_017,scanner,normal,data_documento,2025-09-19,exato,0
+72,boleto,boleto_017,scanner,normal,numero_documento,3822597,exato,0
+72,boleto,boleto_017,scanner,normal,nosso_numero,005326634940-5,exato,0
+72,boleto,boleto_017,scanner,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+72,boleto,boleto_017,scanner,normal,beneficiario_cnpj,43.028.063/0001-69,exato,0
+72,boleto,boleto_017,scanner,normal,pagador_nome,Juliana Rocha Costa,exato,0
+72,boleto,boleto_017,scanner,normal,pagador_cpf,177.318.642-60,exato,0
+73,boleto,boleto_018,comum,normal,linha_digitavel,75691.25060 01002.203006 97448.980017 2 15280000418708,exato,0
+73,boleto,boleto_018,comum,normal,valor_documento,4187.08,exato,0
+73,boleto,boleto_018,comum,normal,data_vencimento,2026-08-04,exato,0
+73,boleto,boleto_018,comum,normal,data_documento,2026-07-01,exato,0
+73,boleto,boleto_018,comum,normal,numero_documento,3655329,exato,0
+73,boleto,boleto_018,comum,normal,nosso_numero,0974489-8,exato,0
+73,boleto,boleto_018,comum,normal,beneficiario_nome,Editora Saber Mais LTDA,exato,0
+73,boleto,boleto_018,comum,normal,beneficiario_cnpj,94.978.063/0001-60,exato,0
+73,boleto,boleto_018,comum,normal,pagador_nome,Larissa Alves Dias,exato,0
+73,boleto,boleto_018,comum,normal,pagador_cpf,344.375.901-71,exato,0
+73,boleto,boleto_018,scanner,normal,linha_digitavel,75691.25060 01002.203006 97448.980017 2 15280000418708,exato,0
+73,boleto,boleto_018,scanner,normal,valor_documento,4187.08,exato,0
+73,boleto,boleto_018,scanner,normal,data_vencimento,2026-08-04,exato,0
+73,boleto,boleto_018,scanner,normal,data_documento,2026-07-01,exato,0
+73,boleto,boleto_018,scanner,normal,numero_documento,3655329,exato,0
+73,boleto,boleto_018,scanner,normal,nosso_numero,0974489-8,exato,0
+73,boleto,boleto_018,scanner,normal,beneficiario_nome,Editora Saber Mais LTDA,exato,0
+73,boleto,boleto_018,scanner,normal,beneficiario_cnpj,94.978.063/0001-60,exato,0
+73,boleto,boleto_018,scanner,normal,pagador_nome,Larissa Alves Dias,exato,0
+73,boleto,boleto_018,scanner,normal,pagador_cpf,344.375.901-71,exato,0
+74,boleto,boleto_019,comum,normal,linha_digitavel,00190.00009 01449.118007 05494.067183 6 98470000201836,exato,0
+74,boleto,boleto_019,comum,normal,valor_documento,2018.36,exato,0
+74,boleto,boleto_019,comum,normal,data_vencimento,2024-09-22,exato,0
+74,boleto,boleto_019,comum,normal,data_documento,2024-09-12,exato,0
+74,boleto,boleto_019,comum,normal,numero_documento,1283043,exato,0
+74,boleto,boleto_019,comum,normal,nosso_numero,14491180005494067,exato,0
+74,boleto,boleto_019,comum,normal,beneficiario_nome,Imobiliária Casa Nova LTDA,exato,0
+74,boleto,boleto_019,comum,normal,beneficiario_cnpj,11.270.764/0001-13,exato,0
+74,boleto,boleto_019,comum,normal,pagador_nome,Matheus Martins Pereira,exato,0
+74,boleto,boleto_019,comum,normal,pagador_cpf,056.998.328-23,exato,0
+74,boleto,boleto_019,scanner,normal,linha_digitavel,00190.00009 01449.118007 05494.067183 6 98470000201836,exato,0
+74,boleto,boleto_019,scanner,normal,valor_documento,2018.36,exato,0
+74,boleto,boleto_019,scanner,normal,data_vencimento,2024-09-22,exato,0
+74,boleto,boleto_019,scanner,normal,data_documento,2024-09-12,exato,0
+74,boleto,boleto_019,scanner,normal,numero_documento,1283043,exato,0
+74,boleto,boleto_019,scanner,normal,nosso_numero,14491180005494067,exato,0
+74,boleto,boleto_019,scanner,normal,beneficiario_nome,Imobiliária Casa Nova LTDA,exato,0
+74,boleto,boleto_019,scanner,normal,beneficiario_cnpj,11.270.764/0001-13,exato,0
+74,boleto,boleto_019,scanner,normal,pagador_nome,Matheus Martins Pereira,exato,0
+74,boleto,boleto_019,scanner,normal,pagador_cpf,056.998.328-23,exato,0
+75,boleto,boleto_020,comum,normal,linha_digitavel,23794.07808 90038.577020 43217.719400 3 10010000385998,exato,0
+75,boleto,boleto_020,comum,normal,valor_documento,3859.98,exato,0
+75,boleto,boleto_020,comum,normal,data_vencimento,2025-02-23,quase,1
+75,boleto,boleto_020,comum,normal,data_documento,2025-01-20,exato,0
+75,boleto,boleto_020,comum,normal,numero_documento,9153165,exato,0
+75,boleto,boleto_020,comum,normal,nosso_numero,00385770243,exato,0
+75,boleto,boleto_020,comum,normal,beneficiario_nome,Escola Pequeno Saber LTDA,exato,0
+75,boleto,boleto_020,comum,normal,beneficiario_cnpj,58.766.054/0001-42,exato,0
+75,boleto,boleto_020,comum,normal,pagador_nome,Thiago Santos Fernandes,exato,0
+75,boleto,boleto_020,comum,normal,pagador_cpf,077.220.986-30,exato,0
+75,boleto,boleto_020,scanner,normal,linha_digitavel,23794.07808 90038.577020 43217.719400 3 10010000385998,exato,0
+75,boleto,boleto_020,scanner,normal,valor_documento,3859.98,exato,0
+75,boleto,boleto_020,scanner,normal,data_vencimento,2025-02-23,exato,0
+75,boleto,boleto_020,scanner,normal,data_documento,2025-01-20,exato,0
+75,boleto,boleto_020,scanner,normal,numero_documento,9153165,exato,0
+75,boleto,boleto_020,scanner,normal,nosso_numero,00385770243,exato,0
+75,boleto,boleto_020,scanner,normal,beneficiario_nome,Escola Pequeno Saber LTDA,exato,0
+75,boleto,boleto_020,scanner,normal,beneficiario_cnpj,58.766.054/0001-42,exato,0
+75,boleto,boleto_020,scanner,normal,pagador_nome,Thiago Santos Fernandes,exato,0
+75,boleto,boleto_020,scanner,normal,pagador_cpf,077.220.986-30,exato,0
+76,boleto,boleto_021,comum,normal,linha_digitavel,34191.09362 52499.735869 03240.510002 3 11810000417680,exato,0
+76,boleto,boleto_021,comum,normal,valor_documento,4176.8,exato,0
+76,boleto,boleto_021,comum,normal,data_vencimento,2025-08-22,exato,0
+76,boleto,boleto_021,comum,normal,data_documento,2025-07-28,exato,0
+76,boleto,boleto_021,comum,normal,numero_documento,1657562,exato,0
+76,boleto,boleto_021,comum,normal,nosso_numero,109/36524997-3,exato,0
+76,boleto,boleto_021,comum,normal,beneficiario_nome,Condomínio Residencial Ipê Amarelo,exato,0
+76,boleto,boleto_021,comum,normal,beneficiario_cnpj,07.273.213/0001-36,exato,0
+76,boleto,boleto_021,comum,normal,pagador_nome,Fernanda Moreira Rocha,exato,0
+76,boleto,boleto_021,comum,normal,pagador_cpf,392.048.555-68,exato,0
+76,boleto,boleto_021,scanner,normal,linha_digitavel,34191.09362 52499.735869 03240.510002 3 11810000417680,exato,0
+76,boleto,boleto_021,scanner,normal,valor_documento,4176.8,exato,0
+76,boleto,boleto_021,scanner,normal,data_vencimento,2025-08-22,exato,0
+76,boleto,boleto_021,scanner,normal,data_documento,2025-07-28,exato,0
+76,boleto,boleto_021,scanner,normal,numero_documento,1657562,exato,0
+76,boleto,boleto_021,scanner,normal,nosso_numero,109/36524997-3,exato,0
+76,boleto,boleto_021,scanner,normal,beneficiario_nome,Condomínio Residencial Ipê Amarelo,exato,0
+76,boleto,boleto_021,scanner,normal,beneficiario_cnpj,07.273.213/0001-36,exato,0
+76,boleto,boleto_021,scanner,normal,pagador_nome,Fernanda Moreira Rocha,exato,0
+76,boleto,boleto_021,scanner,normal,pagador_cpf,392.048.555-68,exato,0
+77,boleto,boleto_023,comum,normal,linha_digitavel,03399.20696 95200.593317 47800.501018 3 12200000162778,exato,0
+77,boleto,boleto_023,comum,normal,valor_documento,1627.78,exato,0
+77,boleto,boleto_023,comum,normal,data_vencimento,2025-09-30,exato,0
+77,boleto,boleto_023,comum,normal,data_documento,2025-09-04,exato,0
+77,boleto,boleto_023,comum,normal,numero_documento,7438484,exato,0
+77,boleto,boleto_023,comum,normal,nosso_numero,005933147800-5,exato,0
+77,boleto,boleto_023,comum,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+77,boleto,boleto_023,comum,normal,beneficiario_cnpj,00.888.868/0001-70,exato,0
+77,boleto,boleto_023,comum,normal,pagador_nome,Rafael Rocha Lopes,exato,0
+77,boleto,boleto_023,comum,normal,pagador_cpf,445.462.479-82,exato,0
+77,boleto,boleto_023,scanner,normal,linha_digitavel,03399.20696 95200.593317 47800.501018 3 12200000162778,exato,0
+77,boleto,boleto_023,scanner,normal,valor_documento,1627.78,exato,0
+77,boleto,boleto_023,scanner,normal,data_vencimento,2025-09-30,exato,0
+77,boleto,boleto_023,scanner,normal,data_documento,2025-09-04,quase,1
+77,boleto,boleto_023,scanner,normal,numero_documento,7438484,exato,0
+77,boleto,boleto_023,scanner,normal,nosso_numero,005933147800-5,exato,0
+77,boleto,boleto_023,scanner,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+77,boleto,boleto_023,scanner,normal,beneficiario_cnpj,00.888.868/0001-70,exato,0
+77,boleto,boleto_023,scanner,normal,pagador_nome,Rafael Rocha Lopes,quase,1
+77,boleto,boleto_023,scanner,normal,pagador_cpf,445.462.479-82,exato,0
+78,boleto,boleto_026,comum,normal,linha_digitavel,23793.43201 60028.906455 69195.853705 5 99180000105466,exato,0
+78,boleto,boleto_026,comum,normal,valor_documento,1054.66,exato,0
+78,boleto,boleto_026,comum,normal,data_vencimento,2024-12-02,exato,0
+78,boleto,boleto_026,comum,normal,data_documento,2024-10-26,exato,0
+78,boleto,boleto_026,comum,normal,numero_documento,1242933,exato,0
+78,boleto,boleto_026,comum,normal,nosso_numero,00289064569,exato,0
+78,boleto,boleto_026,comum,normal,beneficiario_nome,Imobiliária Casa Nova LTDA,exato,0
+78,boleto,boleto_026,comum,normal,beneficiario_cnpj,12.231.254/0001-08,exato,0
+78,boleto,boleto_026,comum,normal,pagador_nome,Lucas Rocha Alves,exato,0
+78,boleto,boleto_026,comum,normal,pagador_cpf,855.673.593-22,exato,0
+78,boleto,boleto_026,scanner,normal,linha_digitavel,23793.43201 60028.906455 69195.853705 5 99180000105466,exato,0
+78,boleto,boleto_026,scanner,normal,valor_documento,1054.66,exato,0
+78,boleto,boleto_026,scanner,normal,data_vencimento,2024-12-02,quase,1
+78,boleto,boleto_026,scanner,normal,data_documento,2024-10-26,exato,0
+78,boleto,boleto_026,scanner,normal,numero_documento,1242933,exato,0
+78,boleto,boleto_026,scanner,normal,nosso_numero,00289064569,exato,0
+78,boleto,boleto_026,scanner,normal,beneficiario_nome,Imobiliária Casa Nova LTDA,exato,0
+78,boleto,boleto_026,scanner,normal,beneficiario_cnpj,12.231.254/0001-08,exato,0
+78,boleto,boleto_026,scanner,normal,pagador_nome,Lucas Rocha Alves,exato,0
+78,boleto,boleto_026,scanner,normal,pagador_cpf,855.673.593-22,exato,0
+79,boleto,boleto_027,comum,normal,linha_digitavel,34191.09255 03762.361701 22440.290009 6 99900000437819,exato,0
+79,boleto,boleto_027,comum,normal,valor_documento,4378.19,exato,0
+79,boleto,boleto_027,comum,normal,data_vencimento,2025-02-12,exato,0
+79,boleto,boleto_027,comum,normal,data_documento,2025-01-30,exato,0
+79,boleto,boleto_027,comum,normal,numero_documento,8711152,exato,0
+79,boleto,boleto_027,comum,normal,nosso_numero,109/25037623-6,exato,0
+79,boleto,boleto_027,comum,normal,beneficiario_nome,Imobiliária Casa Nova LTDA,exato,0
+79,boleto,boleto_027,comum,normal,beneficiario_cnpj,68.883.139/0001-64,exato,0
+79,boleto,boleto_027,comum,normal,pagador_nome,Ana Lopes Lopes,exato,0
+79,boleto,boleto_027,comum,normal,pagador_cpf,078.384.786-69,exato,0
+79,boleto,boleto_027,scanner,normal,linha_digitavel,34191.09255 03762.361701 22440.290009 6 99900000437819,exato,0
+79,boleto,boleto_027,scanner,normal,valor_documento,4378.19,exato,0
+79,boleto,boleto_027,scanner,normal,data_vencimento,2025-02-12,exato,0
+79,boleto,boleto_027,scanner,normal,data_documento,2025-01-30,quase,2
+79,boleto,boleto_027,scanner,normal,numero_documento,8711152,exato,0
+79,boleto,boleto_027,scanner,normal,nosso_numero,109/25037623-6,exato,0
+79,boleto,boleto_027,scanner,normal,beneficiario_nome,Imobiliária Casa Nova LTDA,exato,0
+79,boleto,boleto_027,scanner,normal,beneficiario_cnpj,68.883.139/0001-64,exato,0
+79,boleto,boleto_027,scanner,normal,pagador_nome,Ana Lopes Lopes,exato,0
+79,boleto,boleto_027,scanner,normal,pagador_cpf,078.384.786-69,exato,0
+80,boleto,boleto_031,comum,normal,linha_digitavel,00190.00009 01871.676001 06702.704187 1 16000000001696,exato,0
+80,boleto,boleto_031,comum,normal,valor_documento,16.96,exato,0
+80,boleto,boleto_031,comum,normal,data_vencimento,2026-10-15,exato,0
+80,boleto,boleto_031,comum,normal,data_documento,2026-09-07,exato,0
+80,boleto,boleto_031,comum,normal,numero_documento,6731338,exato,0
+80,boleto,boleto_031,comum,normal,nosso_numero,18716760006702704,exato,0
+80,boleto,boleto_031,comum,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+80,boleto,boleto_031,comum,normal,beneficiario_cnpj,12.155.515/0001-40,exato,0
+80,boleto,boleto_031,comum,normal,pagador_nome,Thiago Andrade Freitas,exato,0
+80,boleto,boleto_031,comum,normal,pagador_cpf,009.166.865-40,exato,0
+80,boleto,boleto_031,scanner,normal,linha_digitavel,00190.00009 01871.676001 06702.704187 1 16000000001696,exato,0
+80,boleto,boleto_031,scanner,normal,valor_documento,16.96,exato,0
+80,boleto,boleto_031,scanner,normal,data_vencimento,2026-10-15,exato,0
+80,boleto,boleto_031,scanner,normal,data_documento,2026-09-07,exato,0
+80,boleto,boleto_031,scanner,normal,numero_documento,6731338,exato,0
+80,boleto,boleto_031,scanner,normal,nosso_numero,18716760006702704,exato,0
+80,boleto,boleto_031,scanner,normal,beneficiario_nome,Faculdade Integrada do Planalto,quase,1
+80,boleto,boleto_031,scanner,normal,beneficiario_cnpj,12.155.515/0001-40,exato,0
+80,boleto,boleto_031,scanner,normal,pagador_nome,Thiago Andrade Freitas,exato,0
+80,boleto,boleto_031,scanner,normal,pagador_cpf,009.166.865-40,exato,0
+81,boleto,boleto_033,comum,normal,linha_digitavel,34191.09776 09745.642505 23167.850009 1 11000000350962,exato,0
+81,boleto,boleto_033,comum,normal,valor_documento,3509.62,exato,0
+81,boleto,boleto_033,comum,normal,data_vencimento,2025-06-02,exato,0
+81,boleto,boleto_033,comum,normal,data_documento,2025-04-27,exato,0
+81,boleto,boleto_033,comum,normal,numero_documento,837508,exato,0
+81,boleto,boleto_033,comum,normal,nosso_numero,109/77097456-4,exato,0
+81,boleto,boleto_033,comum,normal,beneficiario_nome,Provedor NetRápido Telecom LTDA,exato,0
+81,boleto,boleto_033,comum,normal,beneficiario_cnpj,66.501.784/0001-40,exato,0
+81,boleto,boleto_033,comum,normal,pagador_nome,Aline Nunes Vieira,exato,0
+81,boleto,boleto_033,comum,normal,pagador_cpf,913.886.763-03,exato,0
+81,boleto,boleto_033,scanner,normal,linha_digitavel,34191.09776 09745.642505 23167.850009 1 11000000350962,exato,0
+81,boleto,boleto_033,scanner,normal,valor_documento,3509.62,exato,0
+81,boleto,boleto_033,scanner,normal,data_vencimento,2025-06-02,exato,0
+81,boleto,boleto_033,scanner,normal,data_documento,2025-04-27,exato,0
+81,boleto,boleto_033,scanner,normal,numero_documento,837508,exato,0
+81,boleto,boleto_033,scanner,normal,nosso_numero,109/77097456-4,exato,0
+81,boleto,boleto_033,scanner,normal,beneficiario_nome,Provedor NetRápido Telecom LTDA,exato,0
+81,boleto,boleto_033,scanner,normal,beneficiario_cnpj,66.501.784/0001-40,exato,0
+81,boleto,boleto_033,scanner,normal,pagador_nome,Aline Nunes Vieira,exato,0
+81,boleto,boleto_033,scanner,normal,pagador_cpf,913.886.763-03,exato,0
+82,boleto,boleto_035,comum,normal,linha_digitavel,03399.97462 22400.345702 83082.001013 2 97810000446950,exato,0
+82,boleto,boleto_035,comum,normal,valor_documento,4469.5,exato,0
+82,boleto,boleto_035,comum,normal,data_vencimento,2024-07-18,exato,0
+82,boleto,boleto_035,comum,normal,data_documento,2024-07-09,exato,0
+82,boleto,boleto_035,comum,normal,numero_documento,4280396,exato,0
+82,boleto,boleto_035,comum,normal,nosso_numero,003457083082-0,exato,0
+82,boleto,boleto_035,comum,normal,beneficiario_nome,Cooperativa Agro Vale Verde,exato,0
+82,boleto,boleto_035,comum,normal,beneficiario_cnpj,94.543.763/0001-22,exato,0
+82,boleto,boleto_035,comum,normal,pagador_nome,Carlos Dias Oliveira,exato,0
+82,boleto,boleto_035,comum,normal,pagador_cpf,856.034.484-58,exato,0
+82,boleto,boleto_035,scanner,normal,linha_digitavel,03399.97462 22400.345702 83082.001013 2 97810000446950,exato,0
+82,boleto,boleto_035,scanner,normal,valor_documento,4469.5,quase,1
+82,boleto,boleto_035,scanner,normal,data_vencimento,2024-07-18,quase,1
+82,boleto,boleto_035,scanner,normal,data_documento,2024-07-09,exato,0
+82,boleto,boleto_035,scanner,normal,numero_documento,4280396,exato,0
+82,boleto,boleto_035,scanner,normal,nosso_numero,003457083082-0,exato,0
+82,boleto,boleto_035,scanner,normal,beneficiario_nome,Cooperativa Agro Vale Verde,exato,0
+82,boleto,boleto_035,scanner,normal,beneficiario_cnpj,94.543.763/0001-22,exato,0
+82,boleto,boleto_035,scanner,normal,pagador_nome,Carlos Dias Oliveira,exato,0
+82,boleto,boleto_035,scanner,normal,pagador_cpf,856.034.484-58,exato,0
+83,boleto,boleto_037,comum,normal,linha_digitavel,00190.00009 01285.663009 03798.010181 3 10050000342583,exato,0
+83,boleto,boleto_037,comum,normal,valor_documento,3425.83,exato,0
+83,boleto,boleto_037,comum,normal,data_vencimento,2025-02-27,exato,0
+83,boleto,boleto_037,comum,normal,data_documento,2025-01-30,exato,0
+83,boleto,boleto_037,comum,normal,numero_documento,782377,exato,0
+83,boleto,boleto_037,comum,normal,nosso_numero,12856630003798010,exato,0
+83,boleto,boleto_037,comum,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+83,boleto,boleto_037,comum,normal,beneficiario_cnpj,52.262.514/0001-19,exato,0
+83,boleto,boleto_037,comum,normal,pagador_nome,Gustavo Andrade Pereira,exato,0
+83,boleto,boleto_037,comum,normal,pagador_cpf,145.785.442-22,exato,0
+83,boleto,boleto_037,scanner,normal,linha_digitavel,00190.00009 01285.663009 03798.010181 3 10050000342583,exato,0
+83,boleto,boleto_037,scanner,normal,valor_documento,3425.83,exato,0
+83,boleto,boleto_037,scanner,normal,data_vencimento,2025-02-27,exato,0
+83,boleto,boleto_037,scanner,normal,data_documento,2025-01-30,quase,1
+83,boleto,boleto_037,scanner,normal,numero_documento,782377,exato,0
+83,boleto,boleto_037,scanner,normal,nosso_numero,12856630003798010,exato,0
+83,boleto,boleto_037,scanner,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,quase,2
+83,boleto,boleto_037,scanner,normal,beneficiario_cnpj,52.262.514/0001-19,exato,0
+83,boleto,boleto_037,scanner,normal,pagador_nome,Gustavo Andrade Pereira,exato,0
+83,boleto,boleto_037,scanner,normal,pagador_cpf,145.785.442-22,exato,0
+84,boleto,boleto_040,comum,normal,linha_digitavel,10496.80497 18000.100042 00181.505405 8 98570000003519,exato,0
+84,boleto,boleto_040,comum,normal,valor_documento,35.19,exato,0
+84,boleto,boleto_040,comum,normal,data_vencimento,2024-10-02,exato,0
+84,boleto,boleto_040,comum,normal,data_documento,2024-09-17,exato,0
+84,boleto,boleto_040,comum,normal,numero_documento,9022776,exato,0
+84,boleto,boleto_040,comum,normal,nosso_numero,14000000001815054-9,exato,0
+84,boleto,boleto_040,comum,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+84,boleto,boleto_040,comum,normal,beneficiario_cnpj,28.010.239/0001-61,exato,0
+84,boleto,boleto_040,comum,normal,pagador_nome,Ana Rocha Pereira,exato,0
+84,boleto,boleto_040,comum,normal,pagador_cpf,352.960.184-51,exato,0
+84,boleto,boleto_040,scanner,normal,linha_digitavel,10496.80497 18000.100042 00181.505405 8 98570000003519,exato,0
+84,boleto,boleto_040,scanner,normal,valor_documento,35.19,exato,0
+84,boleto,boleto_040,scanner,normal,data_vencimento,2024-10-02,exato,0
+84,boleto,boleto_040,scanner,normal,data_documento,2024-09-17,exato,0
+84,boleto,boleto_040,scanner,normal,numero_documento,9022776,exato,0
+84,boleto,boleto_040,scanner,normal,nosso_numero,14000000001815054-9,exato,0
+84,boleto,boleto_040,scanner,normal,beneficiario_nome,Faculdade Integrada do Planalto,exato,0
+84,boleto,boleto_040,scanner,normal,beneficiario_cnpj,28.010.239/0001-61,exato,0
+84,boleto,boleto_040,scanner,normal,pagador_nome,Ana Rocha Pereira,exato,0
+84,boleto,boleto_040,scanner,normal,pagador_cpf,352.960.184-51,exato,0
+85,boleto,boleto_042,comum,normal,linha_digitavel,75691.22166 01008.306506 68966.160019 2 16620000087950,exato,0
+85,boleto,boleto_042,comum,normal,valor_documento,879.5,exato,0
+85,boleto,boleto_042,comum,normal,data_vencimento,2026-12-16,exato,0
+85,boleto,boleto_042,comum,normal,data_documento,2026-11-02,exato,0
+85,boleto,boleto_042,comum,normal,numero_documento,5691331,exato,0
+85,boleto,boleto_042,comum,normal,nosso_numero,0689661-6,exato,0
+85,boleto,boleto_042,comum,normal,beneficiario_nome,Distribuidora Horizonte LTDA,exato,0
+85,boleto,boleto_042,comum,normal,beneficiario_cnpj,00.894.959/0001-18,exato,0
+85,boleto,boleto_042,comum,normal,pagador_nome,João Moreira Carvalho,exato,0
+85,boleto,boleto_042,comum,normal,pagador_cpf,925.551.039-88,exato,0
+85,boleto,boleto_042,scanner,normal,linha_digitavel,75691.22166 01008.306506 68966.160019 2 16620000087950,exato,0
+85,boleto,boleto_042,scanner,normal,valor_documento,879.5,exato,0
+85,boleto,boleto_042,scanner,normal,data_vencimento,2026-12-16,exato,0
+85,boleto,boleto_042,scanner,normal,data_documento,2026-11-02,exato,0
+85,boleto,boleto_042,scanner,normal,numero_documento,5691331,exato,0
+85,boleto,boleto_042,scanner,normal,nosso_numero,0689661-6,exato,0
+85,boleto,boleto_042,scanner,normal,beneficiario_nome,Distribuidora Horizonte LTDA,exato,0
+85,boleto,boleto_042,scanner,normal,beneficiario_cnpj,00.894.959/0001-18,exato,0
+85,boleto,boleto_042,scanner,normal,pagador_nome,João Moreira Carvalho,exato,0
+85,boleto,boleto_042,scanner,normal,pagador_cpf,925.551.039-88,exato,0
+86,boleto,boleto_043,comum,normal,linha_digitavel,00190.00009 01902.763000 05059.550185 4 98910000242225,exato,0
+86,boleto,boleto_043,comum,normal,valor_documento,2422.25,exato,0
+86,boleto,boleto_043,comum,normal,data_vencimento,2024-11-05,exato,0
+86,boleto,boleto_043,comum,normal,data_documento,2024-10-06,quase,1
+86,boleto,boleto_043,comum,normal,numero_documento,6215590,exato,0
+86,boleto,boleto_043,comum,normal,nosso_numero,19027630005059550,exato,0
+86,boleto,boleto_043,comum,normal,beneficiario_nome,Contabilidade Exata Serviços LTDA,exato,0
+86,boleto,boleto_043,comum,normal,beneficiario_cnpj,35.334.309/0001-00,exato,0
+86,boleto,boleto_043,comum,normal,pagador_nome,Ana Nunes Freitas,exato,0
+86,boleto,boleto_043,comum,normal,pagador_cpf,507.000.812-91,exato,0
+86,boleto,boleto_043,scanner,normal,linha_digitavel,00190.00009 01902.763000 05059.550185 4 98910000242225,exato,0
+86,boleto,boleto_043,scanner,normal,valor_documento,2422.25,exato,0
+86,boleto,boleto_043,scanner,normal,data_vencimento,2024-11-05,quase,1
+86,boleto,boleto_043,scanner,normal,data_documento,2024-10-06,exato,0
+86,boleto,boleto_043,scanner,normal,numero_documento,6215590,exato,0
+86,boleto,boleto_043,scanner,normal,nosso_numero,19027630005059550,exato,0
+86,boleto,boleto_043,scanner,normal,beneficiario_nome,Contabilidade Exata Serviços LTDA,exato,0
+86,boleto,boleto_043,scanner,normal,beneficiario_cnpj,35.334.309/0001-00,exato,0
+86,boleto,boleto_043,scanner,normal,pagador_nome,Ana Nunes Freitas,exato,0
+86,boleto,boleto_043,scanner,normal,pagador_cpf,507.000.812-91,exato,0
+87,boleto,boleto_044,comum,normal,linha_digitavel,23798.68801 90004.227139 96987.462502 2 10820000426456,exato,0
+87,boleto,boleto_044,comum,normal,valor_documento,4264.56,exato,0
+87,boleto,boleto_044,comum,normal,data_vencimento,2025-05-15,exato,0
+87,boleto,boleto_044,comum,normal,data_documento,2025-04-23,exato,0
+87,boleto,boleto_044,comum,normal,numero_documento,8495576,exato,0
+87,boleto,boleto_044,comum,normal,nosso_numero,00042271396,exato,0
+87,boleto,boleto_044,comum,normal,beneficiario_nome,Associação dos Moradores do Bairro Jardim,exato,0
+87,boleto,boleto_044,comum,normal,beneficiario_cnpj,38.515.772/0001-39,exato,0
+87,boleto,boleto_044,comum,normal,pagador_nome,Felipe Souza Souza,exato,0
+87,boleto,boleto_044,comum,normal,pagador_cpf,636.831.816-30,exato,0
+87,boleto,boleto_044,scanner,normal,linha_digitavel,23798.68801 90004.227139 96987.462502 2 10820000426456,exato,0
+87,boleto,boleto_044,scanner,normal,valor_documento,4264.56,exato,0
+87,boleto,boleto_044,scanner,normal,data_vencimento,2025-05-15,exato,0
+87,boleto,boleto_044,scanner,normal,data_documento,2025-04-23,exato,0
+87,boleto,boleto_044,scanner,normal,numero_documento,8495576,exato,0
+87,boleto,boleto_044,scanner,normal,nosso_numero,00042271396,exato,0
+87,boleto,boleto_044,scanner,normal,beneficiario_nome,Associação dos Moradores do Bairro Jardim,exato,0
+87,boleto,boleto_044,scanner,normal,beneficiario_cnpj,38.515.772/0001-39,exato,0
+87,boleto,boleto_044,scanner,normal,pagador_nome,Felipe Souza Souza,exato,0
+87,boleto,boleto_044,scanner,normal,pagador_cpf,636.831.816-30,exato,0
+88,boleto,boleto_046,comum,normal,linha_digitavel,10493.18627 02000.100046 00140.563081 1 16270000097567,exato,0
+88,boleto,boleto_046,comum,normal,valor_documento,975.67,exato,0
+88,boleto,boleto_046,comum,normal,data_vencimento,2026-11-11,exato,0
+88,boleto,boleto_046,comum,normal,data_documento,2026-10-14,exato,0
+88,boleto,boleto_046,comum,normal,numero_documento,9576891,exato,0
+88,boleto,boleto_046,comum,normal,nosso_numero,14000000001405630-0,exato,0
+88,boleto,boleto_046,comum,normal,beneficiario_nome,Provedor NetRápido Telecom LTDA,exato,0
+88,boleto,boleto_046,comum,normal,beneficiario_cnpj,87.466.038/0001-32,exato,0
+88,boleto,boleto_046,comum,normal,pagador_nome,Débora Vieira Nascimento,exato,0
+88,boleto,boleto_046,comum,normal,pagador_cpf,476.642.624-02,exato,0
+88,boleto,boleto_046,scanner,normal,linha_digitavel,10493.18627 02000.100046 00140.563081 1 16270000097567,exato,0
+88,boleto,boleto_046,scanner,normal,valor_documento,975.67,exato,0
+88,boleto,boleto_046,scanner,normal,data_vencimento,2026-11-11,quase,1
+88,boleto,boleto_046,scanner,normal,data_documento,2026-10-14,exato,0
+88,boleto,boleto_046,scanner,normal,numero_documento,9576891,exato,0
+88,boleto,boleto_046,scanner,normal,nosso_numero,14000000001405630-0,exato,0
+88,boleto,boleto_046,scanner,normal,beneficiario_nome,Provedor NetRápido Telecom LTDA,exato,0
+88,boleto,boleto_046,scanner,normal,beneficiario_cnpj,87.466.038/0001-32,exato,0
+88,boleto,boleto_046,scanner,normal,pagador_nome,Débora Vieira Nascimento,exato,0
+88,boleto,boleto_046,scanner,normal,pagador_cpf,476.642.624-02,exato,0
+89,boleto,boleto_048,comum,normal,linha_digitavel,75691.47551 01006.078503 09698.310019 1 11400000278176,exato,0
+89,boleto,boleto_048,comum,normal,valor_documento,2781.76,exato,0
+89,boleto,boleto_048,comum,normal,data_vencimento,2025-07-12,exato,0
+89,boleto,boleto_048,comum,normal,data_documento,2025-06-10,exato,0
+89,boleto,boleto_048,comum,normal,numero_documento,8870469,exato,0
+89,boleto,boleto_048,comum,normal,nosso_numero,0096983-1,exato,0
+89,boleto,boleto_048,comum,normal,beneficiario_nome,Contabilidade Exata Serviços LTDA,exato,0
+89,boleto,boleto_048,comum,normal,beneficiario_cnpj,90.073.560/0001-69,exato,0
+89,boleto,boleto_048,comum,normal,pagador_nome,Débora Oliveira Soares,exato,0
+89,boleto,boleto_048,comum,normal,pagador_cpf,025.798.248-55,exato,0
+89,boleto,boleto_048,scanner,normal,linha_digitavel,75691.47551 01006.078503 09698.310019 1 11400000278176,exato,0
+89,boleto,boleto_048,scanner,normal,valor_documento,2781.76,exato,0
+89,boleto,boleto_048,scanner,normal,data_vencimento,2025-07-12,exato,0
+89,boleto,boleto_048,scanner,normal,data_documento,2025-06-10,exato,0
+89,boleto,boleto_048,scanner,normal,numero_documento,8870469,exato,0
+89,boleto,boleto_048,scanner,normal,nosso_numero,0096983-1,quase,1
+89,boleto,boleto_048,scanner,normal,beneficiario_nome,Contabilidade Exata Serviços LTDA,exato,0
+89,boleto,boleto_048,scanner,normal,beneficiario_cnpj,90.073.560/0001-69,exato,0
+89,boleto,boleto_048,scanner,normal,pagador_nome,Débora Oliveira Soares,exato,0
+89,boleto,boleto_048,scanner,normal,pagador_cpf,025.798.248-55,exato,0
+90,boleto,boleto_050,comum,normal,linha_digitavel,23797.42006 60070.866599 26684.861003 2 98340000374890,exato,0
+90,boleto,boleto_050,comum,normal,valor_documento,3748.9,exato,0
+90,boleto,boleto_050,comum,normal,data_vencimento,2024-09-09,exato,0
+90,boleto,boleto_050,comum,normal,data_documento,2024-08-15,exato,0
+90,boleto,boleto_050,comum,normal,numero_documento,2104792,exato,0
+90,boleto,boleto_050,comum,normal,nosso_numero,00708665926,exato,0
+90,boleto,boleto_050,comum,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+90,boleto,boleto_050,comum,normal,beneficiario_cnpj,69.198.893/0001-28,exato,0
+90,boleto,boleto_050,comum,normal,pagador_nome,Rodrigo Dias Gomes,exato,0
+90,boleto,boleto_050,comum,normal,pagador_cpf,329.235.270-38,exato,0
+90,boleto,boleto_050,scanner,normal,linha_digitavel,23797.42006 60070.866599 26684.861003 2 98340000374890,quase,1
+90,boleto,boleto_050,scanner,normal,valor_documento,3748.9,exato,0
+90,boleto,boleto_050,scanner,normal,data_vencimento,2024-09-09,exato,0
+90,boleto,boleto_050,scanner,normal,data_documento,2024-08-15,exato,0
+90,boleto,boleto_050,scanner,normal,numero_documento,2104792,exato,0
+90,boleto,boleto_050,scanner,normal,nosso_numero,00708665926,exato,0
+90,boleto,boleto_050,scanner,normal,beneficiario_nome,Auto Peças Estrada Real LTDA,exato,0
+90,boleto,boleto_050,scanner,normal,beneficiario_cnpj,69.198.893/0001-28,exato,0
+90,boleto,boleto_050,scanner,normal,pagador_nome,Rodrigo Dias Gomes,exato,0
+90,boleto,boleto_050,scanner,normal,pagador_cpf,329.235.270-38,exato,0
+91,nfce,nfce_001,comum,normal,chave_acesso,41241085846942000148650010000814771908857501,exato,0
+91,nfce,nfce_001,comum,normal,numero,81477,exato,0
+91,nfce,nfce_001,comum,normal,data_emissao,2024-10-22,exato,0
+91,nfce,nfce_001,comum,normal,valor_total,486.46,exato,0
+91,nfce,nfce_001,comum,normal,emitente_nome,Padaria Aurora S.A.,exato,0
+91,nfce,nfce_001,comum,normal,emitente_documento,85.846.942/0001-48,exato,0
+91,nfce,nfce_001,comum,normal,destinatario_nome,Carlos Ferreira Martins,quase,1
+91,nfce,nfce_001,comum,normal,destinatario_documento,632.199.974-14,exato,0
+91,nfce,nfce_001,scanner,normal,chave_acesso,41241085846942000148650010000814771908857501,quase,2
+91,nfce,nfce_001,scanner,normal,numero,81477,exato,0
+91,nfce,nfce_001,scanner,normal,data_emissao,2024-10-22,exato,0
+91,nfce,nfce_001,scanner,normal,valor_total,486.46,exato,0
+91,nfce,nfce_001,scanner,normal,emitente_nome,Padaria Aurora S.A.,exato,0
+91,nfce,nfce_001,scanner,normal,emitente_documento,85.846.942/0001-48,exato,0
+91,nfce,nfce_001,scanner,normal,destinatario_nome,Carlos Ferreira Martins,exato,0
+91,nfce,nfce_001,scanner,normal,destinatario_documento,632.199.974-14,exato,0
+92,nfce,nfce_004,comum,normal,chave_acesso,23260197638730000154650020002186531379909077,exato,0
+92,nfce,nfce_004,comum,normal,numero,218653,exato,0
+92,nfce,nfce_004,comum,normal,data_emissao,2026-01-13,exato,0
+92,nfce,nfce_004,comum,normal,valor_total,132.47,exato,0
+92,nfce,nfce_004,comum,normal,emitente_nome,Agropecuária Ipê S.A.,exato,0
+92,nfce,nfce_004,comum,normal,emitente_documento,97.638.730/0001-54,exato,0
+92,nfce,nfce_004,scanner,normal,chave_acesso,23260197638730000154650020002186531379909077,exato,0
+92,nfce,nfce_004,scanner,normal,numero,218653,exato,0
+92,nfce,nfce_004,scanner,normal,data_emissao,2026-01-13,exato,0
+92,nfce,nfce_004,scanner,normal,valor_total,132.47,exato,0
+92,nfce,nfce_004,scanner,normal,emitente_nome,Agropecuária Ipê S.A.,exato,0
+92,nfce,nfce_004,scanner,normal,emitente_documento,97.638.730/0001-54,exato,0
+93,nfce,nfce_008,comum,normal,chave_acesso,53260974914917000138650010002343411279814702,exato,0
+93,nfce,nfce_008,comum,normal,numero,234341,exato,0
+93,nfce,nfce_008,comum,normal,data_emissao,2026-09-15,exato,0
+93,nfce,nfce_008,comum,normal,valor_total,445.08,exato,0
+93,nfce,nfce_008,comum,normal,emitente_nome,Supermercado Estrela ME,exato,0
+93,nfce,nfce_008,comum,normal,emitente_documento,74.914.917/0001-38,exato,0
+93,nfce,nfce_008,comum,normal,destinatario_documento,569.152.281-79,exato,0
+93,nfce,nfce_008,scanner,normal,chave_acesso,53260974914917000138650010002343411279814702,exato,0
+93,nfce,nfce_008,scanner,normal,numero,234341,quase,1
+93,nfce,nfce_008,scanner,normal,data_emissao,2026-09-15,exato,0
+93,nfce,nfce_008,scanner,normal,valor_total,445.08,exato,0
+93,nfce,nfce_008,scanner,normal,emitente_nome,Supermercado Estrela ME,exato,0
+93,nfce,nfce_008,scanner,normal,emitente_documento,74.914.917/0001-38,exato,0
+93,nfce,nfce_008,scanner,normal,destinatario_documento,569.152.281-79,exato,0
+94,nfce,nfce_009,comum,normal,chave_acesso,31241163097803000126650010002253511342919418,quase,1
+94,nfce,nfce_009,comum,normal,numero,225351,quase,1
+94,nfce,nfce_009,comum,normal,data_emissao,2024-11-24,exato,0
+94,nfce,nfce_009,comum,normal,valor_total,231.31,exato,0
+94,nfce,nfce_009,comum,normal,emitente_nome,Empório Ipê LTDA,exato,0
+94,nfce,nfce_009,comum,normal,emitente_documento,63.097.803/0001-26,exato,0
+94,nfce,nfce_009,comum,normal,destinatario_nome,Aline Lopes Nascimento,exato,0
+94,nfce,nfce_009,comum,normal,destinatario_documento,532.915.474-03,exato,0
+94,nfce,nfce_009,scanner,normal,chave_acesso,31241163097803000126650010002253511342919418,quase,1
+94,nfce,nfce_009,scanner,normal,numero,225351,exato,0
+94,nfce,nfce_009,scanner,normal,data_emissao,2024-11-24,quase,1
+94,nfce,nfce_009,scanner,normal,valor_total,231.31,exato,0
+94,nfce,nfce_009,scanner,normal,emitente_nome,Empório Ipê LTDA,exato,0
+94,nfce,nfce_009,scanner,normal,emitente_documento,63.097.803/0001-26,exato,0
+94,nfce,nfce_009,scanner,normal,destinatario_nome,Aline Lopes Nascimento,exato,0
+94,nfce,nfce_009,scanner,normal,destinatario_documento,532.915.474-03,exato,0
+95,nfce,nfce_010,comum,normal,chave_acesso,35250192220872000183650030001529531821377903,exato,0
+95,nfce,nfce_010,comum,normal,numero,152953,quase,1
+95,nfce,nfce_010,comum,normal,data_emissao,2025-01-10,exato,0
+95,nfce,nfce_010,comum,normal,valor_total,103.23,exato,0
+95,nfce,nfce_010,comum,normal,emitente_nome,Padaria Boa Vista LTDA,exato,0
+95,nfce,nfce_010,comum,normal,emitente_documento,92.220.872/0001-83,exato,0
+95,nfce,nfce_010,comum,normal,destinatario_nome,Luíza Santos Almeida,exato,0
+95,nfce,nfce_010,comum,normal,destinatario_documento,203.431.821-81,exato,0
+95,nfce,nfce_010,scanner,normal,chave_acesso,35250192220872000183650030001529531821377903,exato,0
+95,nfce,nfce_010,scanner,normal,numero,152953,exato,0
+95,nfce,nfce_010,scanner,normal,data_emissao,2025-01-10,exato,0
+95,nfce,nfce_010,scanner,normal,valor_total,103.23,exato,0
+95,nfce,nfce_010,scanner,normal,emitente_nome,Padaria Boa Vista LTDA,exato,0
+95,nfce,nfce_010,scanner,normal,emitente_documento,92.220.872/0001-83,exato,0
+95,nfce,nfce_010,scanner,normal,destinatario_nome,Luíza Santos Almeida,exato,0
+95,nfce,nfce_010,scanner,normal,destinatario_documento,203.431.821-81,exato,0
+96,nfce,nfce_012,comum,normal,chave_acesso,31250722944602000130650030001842601736493090,exato,0
+96,nfce,nfce_012,comum,normal,numero,184260,exato,0
+96,nfce,nfce_012,comum,normal,data_emissao,2025-07-11,exato,0
+96,nfce,nfce_012,comum,normal,valor_total,47.19,exato,0
+96,nfce,nfce_012,comum,normal,emitente_nome,Comercial Horizonte EIRELI,exato,0
+96,nfce,nfce_012,comum,normal,emitente_documento,22.944.602/0001-30,exato,0
+96,nfce,nfce_012,comum,normal,destinatario_nome,Letícia Martins Mendes,exato,0
+96,nfce,nfce_012,comum,normal,destinatario_documento,942.407.234-18,exato,0
+96,nfce,nfce_012,scanner,normal,chave_acesso,31250722944602000130650030001842601736493090,exato,0
+96,nfce,nfce_012,scanner,normal,numero,184260,exato,0
+96,nfce,nfce_012,scanner,normal,data_emissao,2025-07-11,exato,0
+96,nfce,nfce_012,scanner,normal,valor_total,47.19,exato,0
+96,nfce,nfce_012,scanner,normal,emitente_nome,Comercial Horizonte EIRELI,exato,0
+96,nfce,nfce_012,scanner,normal,emitente_documento,22.944.602/0001-30,exato,0
+96,nfce,nfce_012,scanner,normal,destinatario_nome,Letícia Martins Mendes,exato,0
+96,nfce,nfce_012,scanner,normal,destinatario_documento,942.407.234-18,exato,0
+97,nfce,nfce_013,comum,normal,chave_acesso,50250499148725000199650030000178801376379730,exato,0
+97,nfce,nfce_013,comum,normal,numero,17880,exato,0
+97,nfce,nfce_013,comum,normal,data_emissao,2025-04-26,exato,0
+97,nfce,nfce_013,comum,normal,valor_total,131.43,exato,0
+97,nfce,nfce_013,comum,normal,emitente_nome,Supermercado Horizonte S.A.,exato,0
+97,nfce,nfce_013,comum,normal,emitente_documento,99.148.725/0001-99,exato,0
+97,nfce,nfce_013,comum,normal,destinatario_nome,José Ribeiro Machado,exato,0
+97,nfce,nfce_013,comum,normal,destinatario_documento,523.919.350-99,exato,0
+97,nfce,nfce_013,scanner,normal,chave_acesso,50250499148725000199650030000178801376379730,exato,0
+97,nfce,nfce_013,scanner,normal,numero,17880,quase,1
+97,nfce,nfce_013,scanner,normal,data_emissao,2025-04-26,exato,0
+97,nfce,nfce_013,scanner,normal,valor_total,131.43,exato,0
+97,nfce,nfce_013,scanner,normal,emitente_nome,Supermercado Horizonte S.A.,exato,0
+97,nfce,nfce_013,scanner,normal,emitente_documento,99.148.725/0001-99,exato,0
+97,nfce,nfce_013,scanner,normal,destinatario_nome,José Ribeiro Machado,exato,0
+97,nfce,nfce_013,scanner,normal,destinatario_documento,523.919.350-99,exato,0
+98,nfce,nfce_014,comum,normal,chave_acesso,21260493156237000147650030000765181516927326,exato,0
+98,nfce,nfce_014,comum,normal,numero,76518,exato,0
+98,nfce,nfce_014,comum,normal,data_emissao,2026-04-12,exato,0
+98,nfce,nfce_014,comum,normal,valor_total,48.87,exato,0
+98,nfce,nfce_014,comum,normal,emitente_nome,Atacadista Aurora LTDA,exato,0
+98,nfce,nfce_014,comum,normal,emitente_documento,93.156.237/0001-47,exato,0
+98,nfce,nfce_014,scanner,normal,chave_acesso,21260493156237000147650030000765181516927326,quase,1
+98,nfce,nfce_014,scanner,normal,numero,76518,exato,0
+98,nfce,nfce_014,scanner,normal,data_emissao,2026-04-12,exato,0
+98,nfce,nfce_014,scanner,normal,valor_total,48.87,exato,0
+98,nfce,nfce_014,scanner,normal,emitente_nome,Atacadista Aurora LTDA,exato,0
+98,nfce,nfce_014,scanner,normal,emitente_documento,93.156.237/0001-47,exato,0
+99,nfce,nfce_018,comum,normal,chave_acesso,43250881695542000128650020000711191014979272,quase,1
+99,nfce,nfce_018,comum,normal,numero,71119,exato,0
+99,nfce,nfce_018,comum,normal,data_emissao,2025-08-19,exato,0
+99,nfce,nfce_018,comum,normal,valor_total,285.6,exato,0
+99,nfce,nfce_018,comum,normal,emitente_nome,Padaria Primavera S.A.,exato,0
+99,nfce,nfce_018,comum,normal,emitente_documento,81.695.542/0001-28,exato,0
+99,nfce,nfce_018,comum,normal,destinatario_nome,José Andrade Gomes,exato,0
+99,nfce,nfce_018,comum,normal,destinatario_documento,604.602.770-57,exato,0
+99,nfce,nfce_018,scanner,normal,chave_acesso,43250881695542000128650020000711191014979272,quase,1
+99,nfce,nfce_018,scanner,normal,numero,71119,exato,0
+99,nfce,nfce_018,scanner,normal,data_emissao,2025-08-19,exato,0
+99,nfce,nfce_018,scanner,normal,valor_total,285.6,exato,0
+99,nfce,nfce_018,scanner,normal,emitente_nome,Padaria Primavera S.A.,exato,0
+99,nfce,nfce_018,scanner,normal,emitente_documento,81.695.542/0001-28,exato,0
+99,nfce,nfce_018,scanner,normal,destinatario_nome,José Andrade Gomes,exato,0
+99,nfce,nfce_018,scanner,normal,destinatario_documento,604.602.770-57,exato,0
+100,nfce,nfce_019,comum,normal,chave_acesso,35250704008178000130650010001802881482355626,exato,0
+100,nfce,nfce_019,comum,normal,numero,180288,exato,0
+100,nfce,nfce_019,comum,normal,data_emissao,2025-07-04,exato,0
+100,nfce,nfce_019,comum,normal,valor_total,229.26,exato,0
+100,nfce,nfce_019,comum,normal,emitente_nome,Agropecuária São Jorge ME,exato,0
+100,nfce,nfce_019,comum,normal,emitente_documento,04.008.178/0001-30,exato,0
+100,nfce,nfce_019,comum,normal,destinatario_nome,Aline Lima Vieira,exato,0
+100,nfce,nfce_019,comum,normal,destinatario_documento,100.639.751-57,exato,0
+100,nfce,nfce_019,scanner,normal,chave_acesso,35250704008178000130650010001802881482355626,quase,1
+100,nfce,nfce_019,scanner,normal,numero,180288,exato,0
+100,nfce,nfce_019,scanner,normal,data_emissao,2025-07-04,exato,0
+100,nfce,nfce_019,scanner,normal,valor_total,229.26,exato,0
+100,nfce,nfce_019,scanner,normal,emitente_nome,Agropecuária São Jorge ME,exato,0
+100,nfce,nfce_019,scanner,normal,emitente_documento,04.008.178/0001-30,exato,0
+100,nfce,nfce_019,scanner,normal,destinatario_nome,Aline Lima Vieira,exato,0
+100,nfce,nfce_019,scanner,normal,destinatario_documento,100.639.751-57,exato,0
+101,nfce,nfce_024,comum,normal,chave_acesso,31240915188875000136650010002027181301559827,exato,0
+101,nfce,nfce_024,comum,normal,numero,202718,exato,0
+101,nfce,nfce_024,comum,normal,data_emissao,2024-09-13,exato,0
+101,nfce,nfce_024,comum,normal,valor_total,337.24,exato,0
+101,nfce,nfce_024,comum,normal,emitente_nome,Auto Peças Serra Azul LTDA,exato,0
+101,nfce,nfce_024,comum,normal,emitente_documento,15.188.875/0001-36,exato,0
+101,nfce,nfce_024,comum,normal,destinatario_nome,Gabriela Souza Lopes,exato,0
+101,nfce,nfce_024,comum,normal,destinatario_documento,843.913.239-58,exato,0
+101,nfce,nfce_024,scanner,normal,chave_acesso,31240915188875000136650010002027181301559827,quase,1
+101,nfce,nfce_024,scanner,normal,numero,202718,exato,0
+101,nfce,nfce_024,scanner,normal,data_emissao,2024-09-13,exato,0
+101,nfce,nfce_024,scanner,normal,valor_total,337.24,exato,0
+101,nfce,nfce_024,scanner,normal,emitente_nome,Auto Peças Serra Azul LTDA,exato,0
+101,nfce,nfce_024,scanner,normal,emitente_documento,15.188.875/0001-36,quase,1
+101,nfce,nfce_024,scanner,normal,destinatario_nome,Gabriela Souza Lopes,exato,0
+101,nfce,nfce_024,scanner,normal,destinatario_documento,843.913.239-58,exato,0
+102,nfce,nfce_025,comum,normal,chave_acesso,52260482671339000184650010000169491860789224,exato,0
+102,nfce,nfce_025,comum,normal,numero,16949,exato,0
+102,nfce,nfce_025,comum,normal,data_emissao,2026-04-18,exato,0
+102,nfce,nfce_025,comum,normal,valor_total,66.99,exato,0
+102,nfce,nfce_025,comum,normal,emitente_nome,Comercial Litoral S.A.,quase,1
+102,nfce,nfce_025,comum,normal,emitente_documento,82.671.339/0001-84,exato,0
+102,nfce,nfce_025,comum,normal,destinatario_nome,Rodrigo Ferreira Soares,exato,0
+102,nfce,nfce_025,comum,normal,destinatario_documento,248.363.852-02,exato,0
+102,nfce,nfce_025,scanner,normal,chave_acesso,52260482671339000184650010000169491860789224,quase,1
+102,nfce,nfce_025,scanner,normal,numero,16949,exato,0
+102,nfce,nfce_025,scanner,normal,data_emissao,2026-04-18,exato,0
+102,nfce,nfce_025,scanner,normal,valor_total,66.99,exato,0
+102,nfce,nfce_025,scanner,normal,emitente_nome,Comercial Litoral S.A.,exato,0
+102,nfce,nfce_025,scanner,normal,emitente_documento,82.671.339/0001-84,exato,0
+102,nfce,nfce_025,scanner,normal,destinatario_nome,Rodrigo Ferreira Soares,exato,0
+102,nfce,nfce_025,scanner,normal,destinatario_documento,248.363.852-02,exato,0
+103,nfce,nfce_026,comum,normal,chave_acesso,23260629295887000174650010001157301007847092,exato,0
+103,nfce,nfce_026,comum,normal,numero,115730,exato,0
+103,nfce,nfce_026,comum,normal,data_emissao,2026-06-16,exato,0
+103,nfce,nfce_026,comum,normal,valor_total,72.67,exato,0
+103,nfce,nfce_026,comum,normal,emitente_nome,Padaria Boa Vista EPP,exato,0
+103,nfce,nfce_026,comum,normal,emitente_documento,29.295.887/0001-74,exato,0
+103,nfce,nfce_026,comum,normal,destinatario_nome,Maria Machado Silva,exato,0
+103,nfce,nfce_026,comum,normal,destinatario_documento,118.744.874-56,exato,0
+103,nfce,nfce_026,scanner,normal,chave_acesso,23260629295887000174650010001157301007847092,quase,1
+103,nfce,nfce_026,scanner,normal,numero,115730,exato,0
+103,nfce,nfce_026,scanner,normal,data_emissao,2026-06-16,exato,0
+103,nfce,nfce_026,scanner,normal,valor_total,72.67,exato,0
+103,nfce,nfce_026,scanner,normal,emitente_nome,Padaria Boa Vista EPP,exato,0
+103,nfce,nfce_026,scanner,normal,emitente_documento,29.295.887/0001-74,exato,0
+103,nfce,nfce_026,scanner,normal,destinatario_nome,Maria Machado Silva,exato,0
+103,nfce,nfce_026,scanner,normal,destinatario_documento,118.744.874-56,exato,0
+104,nfce,nfce_027,comum,normal,chave_acesso,13250196635525000172650020001377651591410415,quase,1
+104,nfce,nfce_027,comum,normal,numero,137765,exato,0
+104,nfce,nfce_027,comum,normal,data_emissao,2025-01-13,exato,0
+104,nfce,nfce_027,comum,normal,valor_total,151.14,exato,0
+104,nfce,nfce_027,comum,normal,emitente_nome,Distribuidora Cerrado ME,exato,0
+104,nfce,nfce_027,comum,normal,emitente_documento,96.635.525/0001-72,exato,0
+104,nfce,nfce_027,scanner,normal,chave_acesso,13250196635525000172650020001377651591410415,quase,1
+104,nfce,nfce_027,scanner,normal,numero,137765,exato,0
+104,nfce,nfce_027,scanner,normal,data_emissao,2025-01-13,exato,0
+104,nfce,nfce_027,scanner,normal,valor_total,151.14,exato,0
+104,nfce,nfce_027,scanner,normal,emitente_nome,Distribuidora Cerrado ME,quase,1
+104,nfce,nfce_027,scanner,normal,emitente_documento,96.635.525/0001-72,exato,0
+105,nfce,nfce_028,comum,normal,chave_acesso,31260642031779000152650020000325971686368705,exato,0
+105,nfce,nfce_028,comum,normal,numero,32597,exato,0
+105,nfce,nfce_028,comum,normal,data_emissao,2026-06-23,exato,0
+105,nfce,nfce_028,comum,normal,valor_total,369.28,exato,0
+105,nfce,nfce_028,comum,normal,emitente_nome,Auto Peças Central EPP,exato,0
+105,nfce,nfce_028,comum,normal,emitente_documento,42.031.779/0001-52,exato,0
+105,nfce,nfce_028,scanner,normal,chave_acesso,31260642031779000152650020000325971686368705,quase,1
+105,nfce,nfce_028,scanner,normal,numero,32597,exato,0
+105,nfce,nfce_028,scanner,normal,data_emissao,2026-06-23,exato,0
+105,nfce,nfce_028,scanner,normal,valor_total,369.28,exato,0
+105,nfce,nfce_028,scanner,normal,emitente_nome,Auto Peças Central EPP,exato,0
+105,nfce,nfce_028,scanner,normal,emitente_documento,42.031.779/0001-52,exato,0
+106,nfce,nfce_029,comum,normal,chave_acesso,52260972488376000106650010002099281076551340,exato,0
+106,nfce,nfce_029,comum,normal,numero,209928,exato,0
+106,nfce,nfce_029,comum,normal,data_emissao,2026-09-01,exato,0
+106,nfce,nfce_029,comum,normal,valor_total,380.42,exato,0
+106,nfce,nfce_029,comum,normal,emitente_nome,Agropecuária Cerrado EIRELI,exato,0
+106,nfce,nfce_029,comum,normal,emitente_documento,72.488.376/0001-06,exato,0
+106,nfce,nfce_029,comum,normal,destinatario_nome,Luíza Costa Nunes,exato,0
+106,nfce,nfce_029,comum,normal,destinatario_documento,688.456.912-33,exato,0
+106,nfce,nfce_029,scanner,normal,chave_acesso,52260972488376000106650010002099281076551340,exato,0
+106,nfce,nfce_029,scanner,normal,numero,209928,exato,0
+106,nfce,nfce_029,scanner,normal,data_emissao,2026-09-01,quase,1
+106,nfce,nfce_029,scanner,normal,valor_total,380.42,quase,1
+106,nfce,nfce_029,scanner,normal,emitente_nome,Agropecuária Cerrado EIRELI,exato,0
+106,nfce,nfce_029,scanner,normal,emitente_documento,72.488.376/0001-06,exato,0
+106,nfce,nfce_029,scanner,normal,destinatario_nome,Luíza Costa Nunes,exato,0
+106,nfce,nfce_029,scanner,normal,destinatario_documento,688.456.912-33,exato,0
+107,nfce,nfce_030,comum,normal,chave_acesso,31260590006435000136650020002075821021869581,exato,0
+107,nfce,nfce_030,comum,normal,numero,207582,exato,0
+107,nfce,nfce_030,comum,normal,data_emissao,2026-05-19,exato,0
+107,nfce,nfce_030,comum,normal,valor_total,98.26,quase,1
+107,nfce,nfce_030,comum,normal,emitente_nome,Auto Peças São Jorge ME,exato,0
+107,nfce,nfce_030,comum,normal,emitente_documento,90.006.435/0001-36,exato,0
+107,nfce,nfce_030,comum,normal,destinatario_documento,549.472.273-20,exato,0
+107,nfce,nfce_030,scanner,normal,chave_acesso,31260590006435000136650020002075821021869581,exato,0
+107,nfce,nfce_030,scanner,normal,numero,207582,exato,0
+107,nfce,nfce_030,scanner,normal,data_emissao,2026-05-19,exato,0
+107,nfce,nfce_030,scanner,normal,valor_total,98.26,exato,0
+107,nfce,nfce_030,scanner,normal,emitente_nome,Auto Peças São Jorge ME,quase,2
+107,nfce,nfce_030,scanner,normal,emitente_documento,90.006.435/0001-36,exato,0
+107,nfce,nfce_030,scanner,normal,destinatario_documento,549.472.273-20,exato,0
+108,nfce,nfce_033,comum,normal,chave_acesso,52250337981924000126650020001762441943435612,exato,0
+108,nfce,nfce_033,comum,normal,numero,176244,exato,0
+108,nfce,nfce_033,comum,normal,data_emissao,2025-03-09,exato,0
+108,nfce,nfce_033,comum,normal,valor_total,202.27,exato,0
+108,nfce,nfce_033,comum,normal,emitente_nome,Farmácia Aurora EIRELI,exato,0
+108,nfce,nfce_033,comum,normal,emitente_documento,37.981.924/0001-26,exato,0
+108,nfce,nfce_033,comum,normal,destinatario_documento,069.545.468-44,exato,0
+108,nfce,nfce_033,scanner,normal,chave_acesso,52250337981924000126650020001762441943435612,quase,1
+108,nfce,nfce_033,scanner,normal,numero,176244,exato,0
+108,nfce,nfce_033,scanner,normal,data_emissao,2025-03-09,exato,0
+108,nfce,nfce_033,scanner,normal,valor_total,202.27,exato,0
+108,nfce,nfce_033,scanner,normal,emitente_nome,Farmácia Aurora EIRELI,exato,0
+108,nfce,nfce_033,scanner,normal,emitente_documento,37.981.924/0001-26,exato,0
+108,nfce,nfce_033,scanner,normal,destinatario_documento,069.545.468-44,exato,0
+109,nfce,nfce_035,comum,normal,chave_acesso,35250431653534000140650020002062801661670797,exato,0
+109,nfce,nfce_035,comum,normal,numero,206280,exato,0
+109,nfce,nfce_035,comum,normal,data_emissao,2025-04-18,exato,0
+109,nfce,nfce_035,comum,normal,valor_total,738.21,exato,0
+109,nfce,nfce_035,comum,normal,emitente_nome,Indústria Serra Azul LTDA,exato,0
+109,nfce,nfce_035,comum,normal,emitente_documento,31.653.534/0001-40,exato,0
+109,nfce,nfce_035,scanner,normal,chave_acesso,35250431653534000140650020002062801661670797,quase,2
+109,nfce,nfce_035,scanner,normal,numero,206280,exato,0
+109,nfce,nfce_035,scanner,normal,data_emissao,2025-04-18,exato,0
+109,nfce,nfce_035,scanner,normal,valor_total,738.21,exato,0
+109,nfce,nfce_035,scanner,normal,emitente_nome,Indústria Serra Azul LTDA,exato,0
+109,nfce,nfce_035,scanner,normal,emitente_documento,31.653.534/0001-40,exato,0
+110,nfce,nfce_036,comum,normal,chave_acesso,13241233536069000193650010001915221147873987,exato,0
+110,nfce,nfce_036,comum,normal,numero,191522,exato,0
+110,nfce,nfce_036,comum,normal,data_emissao,2024-12-20,exato,0
+110,nfce,nfce_036,comum,normal,valor_total,54.39,exato,0
+110,nfce,nfce_036,comum,normal,emitente_nome,Mercado Planalto EIRELI,exato,0
+110,nfce,nfce_036,comum,normal,emitente_documento,33.536.069/0001-93,exato,0
+110,nfce,nfce_036,comum,normal,destinatario_nome,Thiago Freitas Ferreira,exato,0
+110,nfce,nfce_036,comum,normal,destinatario_documento,803.761.655-02,exato,0
+110,nfce,nfce_036,scanner,normal,chave_acesso,13241233536069000193650010001915221147873987,exato,0
+110,nfce,nfce_036,scanner,normal,numero,191522,exato,0
+110,nfce,nfce_036,scanner,normal,data_emissao,2024-12-20,exato,0
+110,nfce,nfce_036,scanner,normal,valor_total,54.39,exato,0
+110,nfce,nfce_036,scanner,normal,emitente_nome,Mercado Planalto EIRELI,exato,0
+110,nfce,nfce_036,scanner,normal,emitente_documento,33.536.069/0001-93,exato,0
+110,nfce,nfce_036,scanner,normal,destinatario_nome,Thiago Freitas Ferreira,exato,0
+110,nfce,nfce_036,scanner,normal,destinatario_documento,803.761.655-02,exato,0
+111,nfce,nfce_037,comum,normal,chave_acesso,31240621212210000113650020002233981972891467,exato,0
+111,nfce,nfce_037,comum,normal,numero,223398,exato,0
+111,nfce,nfce_037,comum,normal,data_emissao,2024-06-09,exato,0
+111,nfce,nfce_037,comum,normal,valor_total,526.7,quase,1
+111,nfce,nfce_037,comum,normal,emitente_nome,Agropecuária Central LTDA,exato,0
+111,nfce,nfce_037,comum,normal,emitente_documento,21.212.210/0001-13,exato,0
+111,nfce,nfce_037,scanner,normal,chave_acesso,31240621212210000113650020002233981972891467,exato,0
+111,nfce,nfce_037,scanner,normal,numero,223398,exato,0
+111,nfce,nfce_037,scanner,normal,data_emissao,2024-06-09,exato,0
+111,nfce,nfce_037,scanner,normal,valor_total,526.7,quase,1
+111,nfce,nfce_037,scanner,normal,emitente_nome,Agropecuária Central LTDA,quase,1
+111,nfce,nfce_037,scanner,normal,emitente_documento,21.212.210/0001-13,exato,0
+112,nfce,nfce_038,comum,normal,chave_acesso,35240946842510000107650030001279171847860494,quase,1
+112,nfce,nfce_038,comum,normal,numero,127917,exato,0
+112,nfce,nfce_038,comum,normal,data_emissao,2024-09-13,exato,0
+112,nfce,nfce_038,comum,normal,valor_total,196.72,exato,0
+112,nfce,nfce_038,comum,normal,emitente_nome,Comercial Litoral EPP,exato,0
+112,nfce,nfce_038,comum,normal,emitente_documento,46.842.510/0001-07,quase,1
+112,nfce,nfce_038,comum,normal,destinatario_nome,Rafael Vieira Oliveira,exato,0
+112,nfce,nfce_038,comum,normal,destinatario_documento,343.970.542-07,exato,0
+112,nfce,nfce_038,scanner,normal,chave_acesso,35240946842510000107650030001279171847860494,exato,0
+112,nfce,nfce_038,scanner,normal,numero,127917,exato,0
+112,nfce,nfce_038,scanner,normal,data_emissao,2024-09-13,exato,0
+112,nfce,nfce_038,scanner,normal,valor_total,196.72,exato,0
+112,nfce,nfce_038,scanner,normal,emitente_nome,Comercial Litoral EPP,exato,0
+112,nfce,nfce_038,scanner,normal,emitente_documento,46.842.510/0001-07,exato,0
+112,nfce,nfce_038,scanner,normal,destinatario_nome,Rafael Vieira Oliveira,exato,0
+112,nfce,nfce_038,scanner,normal,destinatario_documento,343.970.542-07,exato,0
+113,nfce,nfce_039,comum,normal,chave_acesso,52250473132372000145650010001149801671576333,quase,2
+113,nfce,nfce_039,comum,normal,numero,114980,exato,0
+113,nfce,nfce_039,comum,normal,data_emissao,2025-04-14,exato,0
+113,nfce,nfce_039,comum,normal,valor_total,464.3,exato,0
+113,nfce,nfce_039,comum,normal,emitente_nome,Eletro Central EIRELI,exato,0
+113,nfce,nfce_039,comum,normal,emitente_documento,73.132.372/0001-45,exato,0
+113,nfce,nfce_039,comum,normal,destinatario_nome,Rodrigo Pereira Ribeiro,exato,0
+113,nfce,nfce_039,comum,normal,destinatario_documento,283.720.700-40,exato,0
+113,nfce,nfce_039,scanner,normal,chave_acesso,52250473132372000145650010001149801671576333,quase,1
+113,nfce,nfce_039,scanner,normal,numero,114980,exato,0
+113,nfce,nfce_039,scanner,normal,data_emissao,2025-04-14,exato,0
+113,nfce,nfce_039,scanner,normal,valor_total,464.3,exato,0
+113,nfce,nfce_039,scanner,normal,emitente_nome,Eletro Central EIRELI,exato,0
+113,nfce,nfce_039,scanner,normal,emitente_documento,73.132.372/0001-45,exato,0
+113,nfce,nfce_039,scanner,normal,destinatario_nome,Rodrigo Pereira Ribeiro,exato,0
+113,nfce,nfce_039,scanner,normal,destinatario_documento,283.720.700-40,exato,0
+114,nfce,nfce_041,comum,normal,chave_acesso,42260681997079000179650010002442541539240632,exato,0
+114,nfce,nfce_041,comum,normal,numero,244254,exato,0
+114,nfce,nfce_041,comum,normal,data_emissao,2026-06-29,exato,0
+114,nfce,nfce_041,comum,normal,valor_total,95.95,exato,0
+114,nfce,nfce_041,comum,normal,emitente_nome,Auto Peças Primavera EPP,exato,0
+114,nfce,nfce_041,comum,normal,emitente_documento,81.997.079/0001-79,exato,0
+114,nfce,nfce_041,comum,normal,destinatario_nome,Beatriz Moreira Machado,exato,0
+114,nfce,nfce_041,comum,normal,destinatario_documento,762.682.079-71,exato,0
+114,nfce,nfce_041,scanner,normal,chave_acesso,42260681997079000179650010002442541539240632,quase,1
+114,nfce,nfce_041,scanner,normal,numero,244254,exato,0
+114,nfce,nfce_041,scanner,normal,data_emissao,2026-06-29,exato,0
+114,nfce,nfce_041,scanner,normal,valor_total,95.95,exato,0
+114,nfce,nfce_041,scanner,normal,emitente_nome,Auto Peças Primavera EPP,exato,0
+114,nfce,nfce_041,scanner,normal,emitente_documento,81.997.079/0001-79,exato,0
+114,nfce,nfce_041,scanner,normal,destinatario_nome,Beatriz Moreira Machado,exato,0
+114,nfce,nfce_041,scanner,normal,destinatario_documento,762.682.079-71,exato,0
+115,nfce,nfce_042,comum,normal,chave_acesso,13240765072068000121650020002225001406702700,exato,0
+115,nfce,nfce_042,comum,normal,numero,222500,exato,0
+115,nfce,nfce_042,comum,normal,data_emissao,2024-07-10,exato,0
+115,nfce,nfce_042,comum,normal,valor_total,387.09,exato,0
+115,nfce,nfce_042,comum,normal,emitente_nome,Distribuidora Planalto EPP,exato,0
+115,nfce,nfce_042,comum,normal,emitente_documento,65.072.068/0001-21,exato,0
+115,nfce,nfce_042,comum,normal,destinatario_nome,Francisca Martins Alves,exato,0
+115,nfce,nfce_042,comum,normal,destinatario_documento,548.777.940-69,exato,0
+115,nfce,nfce_042,scanner,normal,chave_acesso,13240765072068000121650020002225001406702700,exato,0
+115,nfce,nfce_042,scanner,normal,numero,222500,exato,0
+115,nfce,nfce_042,scanner,normal,data_emissao,2024-07-10,exato,0
+115,nfce,nfce_042,scanner,normal,valor_total,387.09,exato,0
+115,nfce,nfce_042,scanner,normal,emitente_nome,Distribuidora Planalto EPP,exato,0
+115,nfce,nfce_042,scanner,normal,emitente_documento,65.072.068/0001-21,exato,0
+115,nfce,nfce_042,scanner,normal,destinatario_nome,Francisca Martins Alves,exato,0
+115,nfce,nfce_042,scanner,normal,destinatario_documento,548.777.940-69,exato,0
+116,nfce,nfce_043,comum,normal,chave_acesso,26241150886054000174650010002073911756257497,quase,1
+116,nfce,nfce_043,comum,normal,numero,207391,exato,0
+116,nfce,nfce_043,comum,normal,data_emissao,2024-11-23,quase,1
+116,nfce,nfce_043,comum,normal,valor_total,186.18,exato,0
+116,nfce,nfce_043,comum,normal,emitente_nome,Farmácia Central ME,exato,0
+116,nfce,nfce_043,comum,normal,emitente_documento,50.886.054/0001-74,exato,0
+116,nfce,nfce_043,comum,normal,destinatario_documento,336.239.704-25,exato,0
+116,nfce,nfce_043,scanner,normal,chave_acesso,26241150886054000174650010002073911756257497,perdido,4
+116,nfce,nfce_043,scanner,normal,numero,207391,exato,0
+116,nfce,nfce_043,scanner,normal,data_emissao,2024-11-23,quase,1
+116,nfce,nfce_043,scanner,normal,valor_total,186.18,quase,1
+116,nfce,nfce_043,scanner,normal,emitente_nome,Farmácia Central ME,quase,2
+116,nfce,nfce_043,scanner,normal,emitente_documento,50.886.054/0001-74,perdido,3
+116,nfce,nfce_043,scanner,normal,destinatario_documento,336.239.704-25,exato,0
+117,nfce,nfce_044,comum,normal,chave_acesso,26261022578122000100650030002136831574740151,quase,1
+117,nfce,nfce_044,comum,normal,numero,213683,exato,0
+117,nfce,nfce_044,comum,normal,data_emissao,2026-10-03,exato,0
+117,nfce,nfce_044,comum,normal,valor_total,417.97,exato,0
+117,nfce,nfce_044,comum,normal,emitente_nome,Papelaria Ipê LTDA,exato,0
+117,nfce,nfce_044,comum,normal,emitente_documento,22.578.122/0001-00,quase,1
+117,nfce,nfce_044,comum,normal,destinatario_nome,Vitória Carvalho Nascimento,exato,0
+117,nfce,nfce_044,comum,normal,destinatario_documento,286.152.403-02,exato,0
+117,nfce,nfce_044,scanner,normal,chave_acesso,26261022578122000100650030002136831574740151,perdido,3
+117,nfce,nfce_044,scanner,normal,numero,213683,exato,0
+117,nfce,nfce_044,scanner,normal,data_emissao,2026-10-03,exato,0
+117,nfce,nfce_044,scanner,normal,valor_total,417.97,exato,0
+117,nfce,nfce_044,scanner,normal,emitente_nome,Papelaria Ipê LTDA,quase,1
+117,nfce,nfce_044,scanner,normal,emitente_documento,22.578.122/0001-00,quase,1
+117,nfce,nfce_044,scanner,normal,destinatario_nome,Vitória Carvalho Nascimento,exato,0
+117,nfce,nfce_044,scanner,normal,destinatario_documento,286.152.403-02,exato,0
+118,nfce,nfce_047,comum,normal,chave_acesso,21240829034175000100650030000160471797517082,quase,1
+118,nfce,nfce_047,comum,normal,numero,16047,exato,0
+118,nfce,nfce_047,comum,normal,data_emissao,2024-08-12,exato,0
+118,nfce,nfce_047,comum,normal,valor_total,156.66,exato,0
+118,nfce,nfce_047,comum,normal,emitente_nome,Distribuidora Ipê LTDA,quase,1
+118,nfce,nfce_047,comum,normal,emitente_documento,29.034.175/0001-00,exato,0
+118,nfce,nfce_047,comum,normal,destinatario_nome,Felipe Silva Pereira,exato,0
+118,nfce,nfce_047,comum,normal,destinatario_documento,903.923.955-09,exato,0
+118,nfce,nfce_047,scanner,normal,chave_acesso,21240829034175000100650030000160471797517082,exato,0
+118,nfce,nfce_047,scanner,normal,numero,16047,exato,0
+118,nfce,nfce_047,scanner,normal,data_emissao,2024-08-12,exato,0
+118,nfce,nfce_047,scanner,normal,valor_total,156.66,exato,0
+118,nfce,nfce_047,scanner,normal,emitente_nome,Distribuidora Ipê LTDA,quase,1
+118,nfce,nfce_047,scanner,normal,emitente_documento,29.034.175/0001-00,exato,0
+118,nfce,nfce_047,scanner,normal,destinatario_nome,Felipe Silva Pereira,exato,0
+118,nfce,nfce_047,scanner,normal,destinatario_documento,903.923.955-09,quase,1
+119,nfce,nfce_049,comum,normal,chave_acesso,53241041321140000149650020001767871288417050,exato,0
+119,nfce,nfce_049,comum,normal,numero,176787,exato,0
+119,nfce,nfce_049,comum,normal,data_emissao,2024-10-25,exato,0
+119,nfce,nfce_049,comum,normal,valor_total,461.64,exato,0
+119,nfce,nfce_049,comum,normal,emitente_nome,Distribuidora Cerrado EIRELI,exato,0
+119,nfce,nfce_049,comum,normal,emitente_documento,41.321.140/0001-49,exato,0
+119,nfce,nfce_049,comum,normal,destinatario_nome,Rodrigo Marques Costa,exato,0
+119,nfce,nfce_049,comum,normal,destinatario_documento,339.253.856-65,exato,0
+119,nfce,nfce_049,scanner,normal,chave_acesso,53241041321140000149650020001767871288417050,quase,2
+119,nfce,nfce_049,scanner,normal,numero,176787,exato,0
+119,nfce,nfce_049,scanner,normal,data_emissao,2024-10-25,exato,0
+119,nfce,nfce_049,scanner,normal,valor_total,461.64,exato,0
+119,nfce,nfce_049,scanner,normal,emitente_nome,Distribuidora Cerrado EIRELI,exato,0
+119,nfce,nfce_049,scanner,normal,emitente_documento,41.321.140/0001-49,quase,1
+119,nfce,nfce_049,scanner,normal,destinatario_nome,Rodrigo Marques Costa,exato,0
+119,nfce,nfce_049,scanner,normal,destinatario_documento,339.253.856-65,exato,0
+120,nfce,nfce_050,comum,normal,chave_acesso,31241224175011000170650020000113541007906421,quase,1
+120,nfce,nfce_050,comum,normal,numero,11354,exato,0
+120,nfce,nfce_050,comum,normal,data_emissao,2024-12-22,exato,0
+120,nfce,nfce_050,comum,normal,valor_total,524.49,exato,0
+120,nfce,nfce_050,comum,normal,emitente_nome,Comercial Bom Preço LTDA,exato,0
+120,nfce,nfce_050,comum,normal,emitente_documento,24.175.011/0001-70,exato,0
+120,nfce,nfce_050,comum,normal,destinatario_nome,Felipe Nascimento Almeida,exato,0
+120,nfce,nfce_050,comum,normal,destinatario_documento,227.475.490-03,exato,0
+120,nfce,nfce_050,scanner,normal,chave_acesso,31241224175011000170650020000113541007906421,exato,0
+120,nfce,nfce_050,scanner,normal,numero,11354,exato,0
+120,nfce,nfce_050,scanner,normal,data_emissao,2024-12-22,exato,0
+120,nfce,nfce_050,scanner,normal,valor_total,524.49,exato,0
+120,nfce,nfce_050,scanner,normal,emitente_nome,Comercial Bom Preço LTDA,exato,0
+120,nfce,nfce_050,scanner,normal,emitente_documento,24.175.011/0001-70,exato,0
+120,nfce,nfce_050,scanner,normal,destinatario_nome,Felipe Nascimento Almeida,exato,0
+120,nfce,nfce_050,scanner,normal,destinatario_documento,227.475.490-03,exato,0
+121,recibo,recibo_001,comum,normal,numero,4156,exato,0
+121,recibo,recibo_001,comum,normal,data,2026-10-01,exato,0
+121,recibo,recibo_001,comum,normal,valor,363.45,exato,0
+121,recibo,recibo_001,comum,normal,historico,Reembolso de despesas de viagem a serviço,exato,0
+121,recibo,recibo_001,comum,normal,pagador_nome,Comercial São Jorge EPP,exato,0
+121,recibo,recibo_001,comum,normal,pagador_documento,84.414.943/0001-50,exato,0
+121,recibo,recibo_001,comum,normal,recebedor_nome,Pedro Rodrigues Machado,exato,0
+121,recibo,recibo_001,comum,normal,recebedor_documento,163.549.495-81,exato,0
+121,recibo,recibo_001,scanner,normal,numero,4156,exato,0
+121,recibo,recibo_001,scanner,normal,data,2026-10-01,exato,0
+121,recibo,recibo_001,scanner,normal,valor,363.45,exato,0
+121,recibo,recibo_001,scanner,normal,historico,Reembolso de despesas de viagem a serviço,exato,0
+121,recibo,recibo_001,scanner,normal,pagador_nome,Comercial São Jorge EPP,exato,0
+121,recibo,recibo_001,scanner,normal,pagador_documento,84.414.943/0001-50,exato,0
+121,recibo,recibo_001,scanner,normal,recebedor_nome,Pedro Rodrigues Machado,quase,1
+121,recibo,recibo_001,scanner,normal,recebedor_documento,163.549.495-81,exato,0
+122,recibo,recibo_002,comum,normal,numero,0154,exato,0
+122,recibo,recibo_002,comum,normal,data,2026-05-29,exato,0
+122,recibo,recibo_002,comum,normal,valor,3220.0,exato,0
+122,recibo,recibo_002,comum,normal,historico,Pagamento de aula de treinamento para equipe de vendas,exato,0
+122,recibo,recibo_002,comum,normal,pagador_nome,Atacadista Ipê EIRELI,exato,0
+122,recibo,recibo_002,comum,normal,pagador_documento,32.427.335/0001-87,exato,0
+122,recibo,recibo_002,comum,normal,recebedor_nome,Antônio Ferreira Santos,exato,0
+122,recibo,recibo_002,comum,normal,recebedor_documento,006.622.850-69,exato,0
+122,recibo,recibo_002,scanner,normal,numero,0154,exato,0
+122,recibo,recibo_002,scanner,normal,data,2026-05-29,exato,0
+122,recibo,recibo_002,scanner,normal,valor,3220.0,exato,0
+122,recibo,recibo_002,scanner,normal,historico,Pagamento de aula de treinamento para equipe de vendas,exato,0
+122,recibo,recibo_002,scanner,normal,pagador_nome,Atacadista Ipê EIRELI,exato,0
+122,recibo,recibo_002,scanner,normal,pagador_documento,32.427.335/0001-87,exato,0
+122,recibo,recibo_002,scanner,normal,recebedor_nome,Antônio Ferreira Santos,exato,0
+122,recibo,recibo_002,scanner,normal,recebedor_documento,006.622.850-69,exato,0
+123,recibo,recibo_004,comum,normal,numero,8171,exato,0
+123,recibo,recibo_004,comum,normal,data,2026-07-21,exato,0
+123,recibo,recibo_004,comum,normal,valor,2425.87,exato,0
+123,recibo,recibo_004,comum,normal,historico,Pagamento de aula de treinamento para equipe de vendas,exato,0
+123,recibo,recibo_004,comum,normal,pagador_nome,Supermercado Estrela ME,exato,0
+123,recibo,recibo_004,comum,normal,pagador_documento,78.222.908/0001-37,exato,0
+123,recibo,recibo_004,comum,normal,recebedor_nome,Beatriz Mendes Dias,exato,0
+123,recibo,recibo_004,comum,normal,recebedor_documento,719.989.535-64,exato,0
+123,recibo,recibo_004,scanner,normal,numero,8171,exato,0
+123,recibo,recibo_004,scanner,normal,data,2026-07-21,quase,1
+123,recibo,recibo_004,scanner,normal,valor,2425.87,exato,0
+123,recibo,recibo_004,scanner,normal,historico,Pagamento de aula de treinamento para equipe de vendas,exato,0
+123,recibo,recibo_004,scanner,normal,pagador_nome,Supermercado Estrela ME,exato,0
+123,recibo,recibo_004,scanner,normal,pagador_documento,78.222.908/0001-37,exato,0
+123,recibo,recibo_004,scanner,normal,recebedor_nome,Beatriz Mendes Dias,exato,0
+123,recibo,recibo_004,scanner,normal,recebedor_documento,719.989.535-64,exato,0
+124,recibo,recibo_005,comum,normal,numero,6573,exato,0
+124,recibo,recibo_005,comum,normal,data,2026-01-03,exato,0
+124,recibo,recibo_005,comum,normal,valor,3500.64,exato,0
+124,recibo,recibo_005,comum,normal,historico,Pagamento de aula de treinamento para equipe de vendas,exato,0
+124,recibo,recibo_005,comum,normal,pagador_nome,Casa Boa Vista ME,exato,0
+124,recibo,recibo_005,comum,normal,pagador_documento,40.894.466/0001-00,exato,0
+124,recibo,recibo_005,comum,normal,recebedor_nome,Juliana Dias Marques,exato,0
+124,recibo,recibo_005,comum,normal,recebedor_documento,519.928.711-75,quase,1
+124,recibo,recibo_005,scanner,normal,numero,6573,exato,0
+124,recibo,recibo_005,scanner,normal,data,2026-01-03,exato,0
+124,recibo,recibo_005,scanner,normal,valor,3500.64,exato,0
+124,recibo,recibo_005,scanner,normal,historico,Pagamento de aula de treinamento para equipe de vendas,exato,0
+124,recibo,recibo_005,scanner,normal,pagador_nome,Casa Boa Vista ME,exato,0
+124,recibo,recibo_005,scanner,normal,pagador_documento,40.894.466/0001-00,exato,0
+124,recibo,recibo_005,scanner,normal,recebedor_nome,Juliana Dias Marques,exato,0
+124,recibo,recibo_005,scanner,normal,recebedor_documento,519.928.711-75,exato,0
+125,recibo,recibo_006,comum,normal,numero,7272,exato,0
+125,recibo,recibo_006,comum,normal,data,2024-08-26,exato,0
+125,recibo,recibo_006,comum,normal,valor,540.79,exato,0
+125,recibo,recibo_006,comum,normal,historico,Pagamento de serviço de limpeza e conservação referente a 08/2024,exato,0
+125,recibo,recibo_006,comum,normal,pagador_nome,Supermercado Bom Preço LTDA,exato,0
+125,recibo,recibo_006,comum,normal,pagador_documento,20.002.527/0001-62,quase,1
+125,recibo,recibo_006,comum,normal,recebedor_nome,Supermercado Ipê LTDA,exato,0
+125,recibo,recibo_006,comum,normal,recebedor_documento,15.217.794/0001-17,exato,0
+125,recibo,recibo_006,scanner,normal,numero,7272,exato,0
+125,recibo,recibo_006,scanner,normal,data,2024-08-26,perdido,6
+125,recibo,recibo_006,scanner,normal,valor,540.79,quase,1
+125,recibo,recibo_006,scanner,normal,historico,Pagamento de serviço de limpeza e conservação referente a 08/2024,perdido,13
+125,recibo,recibo_006,scanner,normal,pagador_nome,Supermercado Bom Preço LTDA,perdido,7
+125,recibo,recibo_006,scanner,normal,pagador_documento,20.002.527/0001-62,perdido,6
+125,recibo,recibo_006,scanner,normal,recebedor_nome,Supermercado Ipê LTDA,exato,0
+125,recibo,recibo_006,scanner,normal,recebedor_documento,15.217.794/0001-17,quase,1
+126,recibo,recibo_007,comum,normal,numero,8421,exato,0
+126,recibo,recibo_007,comum,normal,data,2025-08-26,exato,0
+126,recibo,recibo_007,comum,normal,valor,1240.9,exato,0
+126,recibo,recibo_007,comum,normal,historico,Pagamento de serviço de manutenção de ar-condicionado,exato,0
+126,recibo,recibo_007,comum,normal,pagador_nome,Distribuidora Primavera ME,exato,0
+126,recibo,recibo_007,comum,normal,pagador_documento,83.814.502/0001-83,exato,0
+126,recibo,recibo_007,comum,normal,recebedor_nome,Materiais de Construção Vale Verde EIRELI,exato,0
+126,recibo,recibo_007,comum,normal,recebedor_documento,24.267.656/0001-33,exato,0
+126,recibo,recibo_007,scanner,normal,numero,8421,exato,0
+126,recibo,recibo_007,scanner,normal,data,2025-08-26,exato,0
+126,recibo,recibo_007,scanner,normal,valor,1240.9,exato,0
+126,recibo,recibo_007,scanner,normal,historico,Pagamento de serviço de manutenção de ar-condicionado,exato,0
+126,recibo,recibo_007,scanner,normal,pagador_nome,Distribuidora Primavera ME,exato,0
+126,recibo,recibo_007,scanner,normal,pagador_documento,83.814.502/0001-83,exato,0
+126,recibo,recibo_007,scanner,normal,recebedor_nome,Materiais de Construção Vale Verde EIRELI,exato,0
+126,recibo,recibo_007,scanner,normal,recebedor_documento,24.267.656/0001-33,exato,0
+127,recibo,recibo_008,comum,normal,numero,3286,exato,0
+127,recibo,recibo_008,comum,normal,data,2026-07-18,exato,0
+127,recibo,recibo_008,comum,normal,valor,1022.97,exato,0
+127,recibo,recibo_008,comum,normal,historico,Adiantamento salarial referente a 07/2026,exato,0
+127,recibo,recibo_008,comum,normal,pagador_nome,Padaria Central LTDA,exato,0
+127,recibo,recibo_008,comum,normal,pagador_documento,19.358.313/0001-44,exato,0
+127,recibo,recibo_008,comum,normal,recebedor_nome,Lucas Santos Martins,exato,0
+127,recibo,recibo_008,comum,normal,recebedor_documento,349.559.948-73,exato,0
+127,recibo,recibo_008,scanner,normal,numero,3286,exato,0
+127,recibo,recibo_008,scanner,normal,data,2026-07-18,exato,0
+127,recibo,recibo_008,scanner,normal,valor,1022.97,exato,0
+127,recibo,recibo_008,scanner,normal,historico,Adiantamento salarial referente a 07/2026,exato,0
+127,recibo,recibo_008,scanner,normal,pagador_nome,Padaria Central LTDA,exato,0
+127,recibo,recibo_008,scanner,normal,pagador_documento,19.358.313/0001-44,exato,0
+127,recibo,recibo_008,scanner,normal,recebedor_nome,Lucas Santos Martins,exato,0
+127,recibo,recibo_008,scanner,normal,recebedor_documento,349.559.948-73,exato,0
+128,recibo,recibo_009,comum,normal,numero,4384,exato,0
+128,recibo,recibo_009,comum,normal,data,2025-04-08,quase,1
+128,recibo,recibo_009,comum,normal,valor,2734.15,quase,1
+128,recibo,recibo_009,comum,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+128,recibo,recibo_009,comum,normal,pagador_nome,Distribuidora Nova Era EPP,exato,0
+128,recibo,recibo_009,comum,normal,pagador_documento,00.694.632/0001-00,exato,0
+128,recibo,recibo_009,comum,normal,recebedor_nome,Casa Primavera ME,exato,0
+128,recibo,recibo_009,comum,normal,recebedor_documento,53.244.215/0001-14,exato,0
+128,recibo,recibo_009,scanner,normal,numero,4384,exato,0
+128,recibo,recibo_009,scanner,normal,data,2025-04-08,quase,1
+128,recibo,recibo_009,scanner,normal,valor,2734.15,quase,1
+128,recibo,recibo_009,scanner,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+128,recibo,recibo_009,scanner,normal,pagador_nome,Distribuidora Nova Era EPP,exato,0
+128,recibo,recibo_009,scanner,normal,pagador_documento,00.694.632/0001-00,exato,0
+128,recibo,recibo_009,scanner,normal,recebedor_nome,Casa Primavera ME,exato,0
+128,recibo,recibo_009,scanner,normal,recebedor_documento,53.244.215/0001-14,exato,0
+129,recibo,recibo_011,comum,normal,numero,6797,exato,0
+129,recibo,recibo_011,comum,normal,data,2026-09-06,exato,0
+129,recibo,recibo_011,comum,normal,valor,552.03,exato,0
+129,recibo,recibo_011,comum,normal,historico,Pagamento de diária de serviços de pintura,exato,0
+129,recibo,recibo_011,comum,normal,pagador_nome,Farmácia Litoral EPP,exato,0
+129,recibo,recibo_011,comum,normal,pagador_documento,54.501.119/0001-77,exato,0
+129,recibo,recibo_011,comum,normal,recebedor_nome,Camila Oliveira Mendes,exato,0
+129,recibo,recibo_011,comum,normal,recebedor_documento,988.699.192-50,exato,0
+129,recibo,recibo_011,scanner,normal,numero,6797,exato,0
+129,recibo,recibo_011,scanner,normal,data,2026-09-06,exato,0
+129,recibo,recibo_011,scanner,normal,valor,552.03,exato,0
+129,recibo,recibo_011,scanner,normal,historico,Pagamento de diária de serviços de pintura,exato,0
+129,recibo,recibo_011,scanner,normal,pagador_nome,Farmácia Litoral EPP,exato,0
+129,recibo,recibo_011,scanner,normal,pagador_documento,54.501.119/0001-77,exato,0
+129,recibo,recibo_011,scanner,normal,recebedor_nome,Camila Oliveira Mendes,exato,0
+129,recibo,recibo_011,scanner,normal,recebedor_documento,988.699.192-50,exato,0
+130,recibo,recibo_013,comum,normal,numero,6177,exato,0
+130,recibo,recibo_013,comum,normal,data,2025-03-15,exato,0
+130,recibo,recibo_013,comum,normal,valor,1770.0,exato,0
+130,recibo,recibo_013,comum,normal,historico,Reembolso de despesas de viagem a serviço,exato,0
+130,recibo,recibo_013,comum,normal,pagador_nome,Casa Horizonte LTDA,quase,2
+130,recibo,recibo_013,comum,normal,pagador_documento,02.012.121/0001-89,exato,0
+130,recibo,recibo_013,comum,normal,recebedor_nome,Larissa Freitas Lima,exato,0
+130,recibo,recibo_013,comum,normal,recebedor_documento,911.031.321-48,exato,0
+130,recibo,recibo_013,scanner,normal,numero,6177,exato,0
+130,recibo,recibo_013,scanner,normal,data,2025-03-15,exato,0
+130,recibo,recibo_013,scanner,normal,valor,1770.0,exato,0
+130,recibo,recibo_013,scanner,normal,historico,Reembolso de despesas de viagem a serviço,exato,0
+130,recibo,recibo_013,scanner,normal,pagador_nome,Casa Horizonte LTDA,exato,0
+130,recibo,recibo_013,scanner,normal,pagador_documento,02.012.121/0001-89,exato,0
+130,recibo,recibo_013,scanner,normal,recebedor_nome,Larissa Freitas Lima,exato,0
+130,recibo,recibo_013,scanner,normal,recebedor_documento,911.031.321-48,exato,0
+131,recibo,recibo_014,comum,normal,numero,6427,exato,0
+131,recibo,recibo_014,comum,normal,data,2026-02-27,exato,0
+131,recibo,recibo_014,comum,normal,valor,960.0,exato,0
+131,recibo,recibo_014,comum,normal,historico,Reembolso de despesas de viagem a serviço,exato,0
+131,recibo,recibo_014,comum,normal,pagador_nome,Distribuidora Nova Era EIRELI,exato,0
+131,recibo,recibo_014,comum,normal,pagador_documento,79.641.715/0001-83,exato,0
+131,recibo,recibo_014,comum,normal,recebedor_nome,Luíza Lopes Soares,exato,0
+131,recibo,recibo_014,comum,normal,recebedor_documento,034.868.165-86,exato,0
+131,recibo,recibo_014,scanner,normal,numero,6427,exato,0
+131,recibo,recibo_014,scanner,normal,data,2026-02-27,quase,1
+131,recibo,recibo_014,scanner,normal,valor,960.0,exato,0
+131,recibo,recibo_014,scanner,normal,historico,Reembolso de despesas de viagem a serviço,exato,0
+131,recibo,recibo_014,scanner,normal,pagador_nome,Distribuidora Nova Era EIRELI,exato,0
+131,recibo,recibo_014,scanner,normal,pagador_documento,79.641.715/0001-83,exato,0
+131,recibo,recibo_014,scanner,normal,recebedor_nome,Luíza Lopes Soares,exato,0
+131,recibo,recibo_014,scanner,normal,recebedor_documento,034.868.165-86,exato,0
+132,recibo,recibo_016,comum,normal,numero,2018,exato,0
+132,recibo,recibo_016,comum,normal,data,2026-11-17,quase,2
+132,recibo,recibo_016,comum,normal,valor,341.78,exato,0
+132,recibo,recibo_016,comum,normal,historico,Compra de material de escritório,exato,0
+132,recibo,recibo_016,comum,normal,pagador_nome,Indústria Vale Verde S.A.,exato,0
+132,recibo,recibo_016,comum,normal,pagador_documento,44.993.400/0001-10,exato,0
+132,recibo,recibo_016,comum,normal,recebedor_nome,Comercial Estrela EPP,exato,0
+132,recibo,recibo_016,comum,normal,recebedor_documento,33.610.503/0001-38,exato,0
+132,recibo,recibo_016,scanner,normal,numero,2018,exato,0
+132,recibo,recibo_016,scanner,normal,data,2026-11-17,exato,0
+132,recibo,recibo_016,scanner,normal,valor,341.78,exato,0
+132,recibo,recibo_016,scanner,normal,historico,Compra de material de escritório,exato,0
+132,recibo,recibo_016,scanner,normal,pagador_nome,Indústria Vale Verde S.A.,exato,0
+132,recibo,recibo_016,scanner,normal,pagador_documento,44.993.400/0001-10,exato,0
+132,recibo,recibo_016,scanner,normal,recebedor_nome,Comercial Estrela EPP,exato,0
+132,recibo,recibo_016,scanner,normal,recebedor_documento,33.610.503/0001-38,exato,0
+133,recibo,recibo_017,comum,normal,numero,8333,exato,0
+133,recibo,recibo_017,comum,normal,data,2026-03-30,exato,0
+133,recibo,recibo_017,comum,normal,valor,800.0,exato,0
+133,recibo,recibo_017,comum,normal,historico,Pagamento de serviço de manutenção de ar-condicionado,exato,0
+133,recibo,recibo_017,comum,normal,pagador_nome,Agropecuária Primavera ME,exato,0
+133,recibo,recibo_017,comum,normal,pagador_documento,48.213.286/0001-10,exato,0
+133,recibo,recibo_017,comum,normal,recebedor_nome,Supermercado Serra Azul EIRELI,exato,0
+133,recibo,recibo_017,comum,normal,recebedor_documento,73.545.202/0001-92,exato,0
+133,recibo,recibo_017,scanner,normal,numero,8333,quase,1
+133,recibo,recibo_017,scanner,normal,data,2026-03-30,exato,0
+133,recibo,recibo_017,scanner,normal,valor,800.0,exato,0
+133,recibo,recibo_017,scanner,normal,historico,Pagamento de serviço de manutenção de ar-condicionado,exato,0
+133,recibo,recibo_017,scanner,normal,pagador_nome,Agropecuária Primavera ME,exato,0
+133,recibo,recibo_017,scanner,normal,pagador_documento,48.213.286/0001-10,exato,0
+133,recibo,recibo_017,scanner,normal,recebedor_nome,Supermercado Serra Azul EIRELI,exato,0
+133,recibo,recibo_017,scanner,normal,recebedor_documento,73.545.202/0001-92,exato,0
+134,recibo,recibo_020,comum,normal,numero,9181,exato,0
+134,recibo,recibo_020,comum,normal,data,2026-08-13,exato,0
+134,recibo,recibo_020,comum,normal,valor,2845.78,exato,0
+134,recibo,recibo_020,comum,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+134,recibo,recibo_020,comum,normal,pagador_nome,Distribuidora São Jorge ME,exato,0
+134,recibo,recibo_020,comum,normal,pagador_documento,09.991.987/0001-28,exato,0
+134,recibo,recibo_020,comum,normal,recebedor_nome,Padaria Litoral LTDA,exato,0
+134,recibo,recibo_020,comum,normal,recebedor_documento,32.952.169/0001-38,exato,0
+134,recibo,recibo_020,scanner,normal,numero,9181,exato,0
+134,recibo,recibo_020,scanner,normal,data,2026-08-13,exato,0
+134,recibo,recibo_020,scanner,normal,valor,2845.78,exato,0
+134,recibo,recibo_020,scanner,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+134,recibo,recibo_020,scanner,normal,pagador_nome,Distribuidora São Jorge ME,exato,0
+134,recibo,recibo_020,scanner,normal,pagador_documento,09.991.987/0001-28,exato,0
+134,recibo,recibo_020,scanner,normal,recebedor_nome,Padaria Litoral LTDA,exato,0
+134,recibo,recibo_020,scanner,normal,recebedor_documento,32.952.169/0001-38,exato,0
+135,recibo,recibo_024,comum,normal,numero,8017,exato,0
+135,recibo,recibo_024,comum,normal,data,2024-06-21,exato,0
+135,recibo,recibo_024,comum,normal,valor,6277.27,quase,1
+135,recibo,recibo_024,comum,normal,historico,Pagamento de aluguel do imóvel comercial referente a 06/2024,exato,0
+135,recibo,recibo_024,comum,normal,pagador_nome,Empório Boa Vista LTDA,exato,0
+135,recibo,recibo_024,comum,normal,pagador_documento,78.226.092/0001-10,exato,0
+135,recibo,recibo_024,comum,normal,recebedor_nome,Sérgio Fernandes Carvalho,exato,0
+135,recibo,recibo_024,comum,normal,recebedor_documento,985.319.454-61,exato,0
+135,recibo,recibo_024,scanner,normal,numero,8017,exato,0
+135,recibo,recibo_024,scanner,normal,data,2024-06-21,exato,0
+135,recibo,recibo_024,scanner,normal,valor,6277.27,quase,1
+135,recibo,recibo_024,scanner,normal,historico,Pagamento de aluguel do imóvel comercial referente a 06/2024,exato,0
+135,recibo,recibo_024,scanner,normal,pagador_nome,Empório Boa Vista LTDA,exato,0
+135,recibo,recibo_024,scanner,normal,pagador_documento,78.226.092/0001-10,exato,0
+135,recibo,recibo_024,scanner,normal,recebedor_nome,Sérgio Fernandes Carvalho,exato,0
+135,recibo,recibo_024,scanner,normal,recebedor_documento,985.319.454-61,exato,0
+136,recibo,recibo_026,comum,normal,numero,8966,exato,0
+136,recibo,recibo_026,comum,normal,data,2026-04-14,exato,0
+136,recibo,recibo_026,comum,normal,valor,112.05,exato,0
+136,recibo,recibo_026,comum,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+136,recibo,recibo_026,comum,normal,pagador_nome,Padaria Central ME,exato,0
+136,recibo,recibo_026,comum,normal,pagador_documento,42.431.378/0001-90,exato,0
+136,recibo,recibo_026,comum,normal,recebedor_nome,Thiago Rodrigues Costa,exato,0
+136,recibo,recibo_026,comum,normal,recebedor_documento,078.200.228-50,exato,0
+136,recibo,recibo_026,scanner,normal,numero,8966,exato,0
+136,recibo,recibo_026,scanner,normal,data,2026-04-14,exato,0
+136,recibo,recibo_026,scanner,normal,valor,112.05,exato,0
+136,recibo,recibo_026,scanner,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+136,recibo,recibo_026,scanner,normal,pagador_nome,Padaria Central ME,exato,0
+136,recibo,recibo_026,scanner,normal,pagador_documento,42.431.378/0001-90,exato,0
+136,recibo,recibo_026,scanner,normal,recebedor_nome,Thiago Rodrigues Costa,exato,0
+136,recibo,recibo_026,scanner,normal,recebedor_documento,078.200.228-50,exato,0
+137,recibo,recibo_028,comum,normal,numero,7229,exato,0
+137,recibo,recibo_028,comum,normal,data,2026-01-14,exato,0
+137,recibo,recibo_028,comum,normal,valor,2247.04,exato,0
+137,recibo,recibo_028,comum,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+137,recibo,recibo_028,comum,normal,pagador_nome,Auto Peças Boa Vista EPP,exato,0
+137,recibo,recibo_028,comum,normal,pagador_documento,31.227.796/0001-43,exato,0
+137,recibo,recibo_028,comum,normal,recebedor_nome,Mercado Bom Preço S.A.,exato,0
+137,recibo,recibo_028,comum,normal,recebedor_documento,57.018.463/0001-06,exato,0
+137,recibo,recibo_028,scanner,normal,numero,7229,exato,0
+137,recibo,recibo_028,scanner,normal,data,2026-01-14,exato,0
+137,recibo,recibo_028,scanner,normal,valor,2247.04,exato,0
+137,recibo,recibo_028,scanner,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+137,recibo,recibo_028,scanner,normal,pagador_nome,Auto Peças Boa Vista EPP,exato,0
+137,recibo,recibo_028,scanner,normal,pagador_documento,31.227.796/0001-43,exato,0
+137,recibo,recibo_028,scanner,normal,recebedor_nome,Mercado Bom Preço S.A.,exato,0
+137,recibo,recibo_028,scanner,normal,recebedor_documento,57.018.463/0001-06,exato,0
+138,recibo,recibo_029,comum,normal,numero,0735,exato,0
+138,recibo,recibo_029,comum,normal,data,2024-06-23,exato,0
+138,recibo,recibo_029,comum,normal,valor,1101.75,exato,0
+138,recibo,recibo_029,comum,normal,historico,Pagamento de serviço de desenvolvimento de website,exato,0
+138,recibo,recibo_029,comum,normal,pagador_nome,Papelaria Bom Preço EIRELI,exato,0
+138,recibo,recibo_029,comum,normal,pagador_documento,11.649.067/0001-78,exato,0
+138,recibo,recibo_029,comum,normal,recebedor_nome,Patrícia Nascimento Barbosa,exato,0
+138,recibo,recibo_029,comum,normal,recebedor_documento,064.984.903-57,exato,0
+138,recibo,recibo_029,scanner,normal,numero,0735,exato,0
+138,recibo,recibo_029,scanner,normal,data,2024-06-23,exato,0
+138,recibo,recibo_029,scanner,normal,valor,1101.75,exato,0
+138,recibo,recibo_029,scanner,normal,historico,Pagamento de serviço de desenvolvimento de website,exato,0
+138,recibo,recibo_029,scanner,normal,pagador_nome,Papelaria Bom Preço EIRELI,exato,0
+138,recibo,recibo_029,scanner,normal,pagador_documento,11.649.067/0001-78,exato,0
+138,recibo,recibo_029,scanner,normal,recebedor_nome,Patrícia Nascimento Barbosa,exato,0
+138,recibo,recibo_029,scanner,normal,recebedor_documento,064.984.903-57,exato,0
+139,recibo,recibo_030,comum,normal,numero,6506,exato,0
+139,recibo,recibo_030,comum,normal,data,2025-12-07,quase,1
+139,recibo,recibo_030,comum,normal,valor,210.0,quase,1
+139,recibo,recibo_030,comum,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+139,recibo,recibo_030,comum,normal,pagador_nome,Empório Primavera LTDA,exato,0
+139,recibo,recibo_030,comum,normal,pagador_documento,51.620.875/0001-27,exato,0
+139,recibo,recibo_030,comum,normal,recebedor_nome,Francisca Nascimento Rocha,exato,0
+139,recibo,recibo_030,comum,normal,recebedor_documento,807.870.897-10,exato,0
+139,recibo,recibo_030,scanner,normal,numero,6506,exato,0
+139,recibo,recibo_030,scanner,normal,data,2025-12-07,exato,0
+139,recibo,recibo_030,scanner,normal,valor,210.0,quase,1
+139,recibo,recibo_030,scanner,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+139,recibo,recibo_030,scanner,normal,pagador_nome,Empório Primavera LTDA,exato,0
+139,recibo,recibo_030,scanner,normal,pagador_documento,51.620.875/0001-27,exato,0
+139,recibo,recibo_030,scanner,normal,recebedor_nome,Francisca Nascimento Rocha,exato,0
+139,recibo,recibo_030,scanner,normal,recebedor_documento,807.870.897-10,exato,0
+140,recibo,recibo_033,comum,normal,numero,9469,exato,0
+140,recibo,recibo_033,comum,normal,data,2025-05-04,exato,0
+140,recibo,recibo_033,comum,normal,valor,590.0,exato,0
+140,recibo,recibo_033,comum,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+140,recibo,recibo_033,comum,normal,pagador_nome,Papelaria Bom Preço EPP,quase,1
+140,recibo,recibo_033,comum,normal,pagador_documento,43.212.042/0001-07,exato,0
+140,recibo,recibo_033,comum,normal,recebedor_nome,Débora Nunes Almeida,exato,0
+140,recibo,recibo_033,comum,normal,recebedor_documento,977.427.596-91,exato,0
+140,recibo,recibo_033,scanner,normal,numero,9469,exato,0
+140,recibo,recibo_033,scanner,normal,data,2025-05-04,quase,1
+140,recibo,recibo_033,scanner,normal,valor,590.0,exato,0
+140,recibo,recibo_033,scanner,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+140,recibo,recibo_033,scanner,normal,pagador_nome,Papelaria Bom Preço EPP,exato,0
+140,recibo,recibo_033,scanner,normal,pagador_documento,43.212.042/0001-07,exato,0
+140,recibo,recibo_033,scanner,normal,recebedor_nome,Débora Nunes Almeida,exato,0
+140,recibo,recibo_033,scanner,normal,recebedor_documento,977.427.596-91,exato,0
+141,recibo,recibo_036,comum,normal,numero,3996,exato,0
+141,recibo,recibo_036,comum,normal,data,2026-07-23,exato,0
+141,recibo,recibo_036,comum,normal,valor,160.0,quase,1
+141,recibo,recibo_036,comum,normal,historico,Pagamento de frete de mercadorias - NF 87974,quase,1
+141,recibo,recibo_036,comum,normal,pagador_nome,Papelaria Planalto EIRELI,exato,0
+141,recibo,recibo_036,comum,normal,pagador_documento,26.541.173/0001-00,exato,0
+141,recibo,recibo_036,comum,normal,recebedor_nome,Mercado Primavera EIRELI,exato,0
+141,recibo,recibo_036,comum,normal,recebedor_documento,71.973.364/0001-04,exato,0
+141,recibo,recibo_036,scanner,normal,numero,3996,exato,0
+141,recibo,recibo_036,scanner,normal,data,2026-07-23,exato,0
+141,recibo,recibo_036,scanner,normal,valor,160.0,quase,1
+141,recibo,recibo_036,scanner,normal,historico,Pagamento de frete de mercadorias - NF 87974,exato,0
+141,recibo,recibo_036,scanner,normal,pagador_nome,Papelaria Planalto EIRELI,exato,0
+141,recibo,recibo_036,scanner,normal,pagador_documento,26.541.173/0001-00,exato,0
+141,recibo,recibo_036,scanner,normal,recebedor_nome,Mercado Primavera EIRELI,exato,0
+141,recibo,recibo_036,scanner,normal,recebedor_documento,71.973.364/0001-04,quase,1
+142,recibo,recibo_038,comum,normal,numero,2112,exato,0
+142,recibo,recibo_038,comum,normal,data,2024-07-22,exato,0
+142,recibo,recibo_038,comum,normal,valor,365.48,exato,0
+142,recibo,recibo_038,comum,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+142,recibo,recibo_038,comum,normal,pagador_nome,Distribuidora Litoral EPP,exato,0
+142,recibo,recibo_038,comum,normal,pagador_documento,08.280.146/0001-40,exato,0
+142,recibo,recibo_038,comum,normal,recebedor_nome,Débora Oliveira Costa,exato,0
+142,recibo,recibo_038,comum,normal,recebedor_documento,651.879.976-53,exato,0
+142,recibo,recibo_038,scanner,normal,numero,2112,exato,0
+142,recibo,recibo_038,scanner,normal,data,2024-07-22,quase,1
+142,recibo,recibo_038,scanner,normal,valor,365.48,exato,0
+142,recibo,recibo_038,scanner,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+142,recibo,recibo_038,scanner,normal,pagador_nome,Distribuidora Litoral EPP,exato,0
+142,recibo,recibo_038,scanner,normal,pagador_documento,08.280.146/0001-40,exato,0
+142,recibo,recibo_038,scanner,normal,recebedor_nome,Débora Oliveira Costa,exato,0
+142,recibo,recibo_038,scanner,normal,recebedor_documento,651.879.976-53,exato,0
+143,recibo,recibo_039,comum,normal,numero,7562,exato,0
+143,recibo,recibo_039,comum,normal,data,2025-02-14,exato,0
+143,recibo,recibo_039,comum,normal,valor,995.7,quase,1
+143,recibo,recibo_039,comum,normal,historico,Pagamento de frete de mercadorias - NF 62370,exato,0
+143,recibo,recibo_039,comum,normal,pagador_nome,Eletro Estrela EIRELI,exato,0
+143,recibo,recibo_039,comum,normal,pagador_documento,09.398.099/0001-04,quase,1
+143,recibo,recibo_039,comum,normal,recebedor_nome,Distribuidora Horizonte ME,exato,0
+143,recibo,recibo_039,comum,normal,recebedor_documento,53.578.563/0001-28,exato,0
+143,recibo,recibo_039,scanner,normal,numero,7562,exato,0
+143,recibo,recibo_039,scanner,normal,data,2025-02-14,exato,0
+143,recibo,recibo_039,scanner,normal,valor,995.7,quase,1
+143,recibo,recibo_039,scanner,normal,historico,Pagamento de frete de mercadorias - NF 62370,exato,0
+143,recibo,recibo_039,scanner,normal,pagador_nome,Eletro Estrela EIRELI,exato,0
+143,recibo,recibo_039,scanner,normal,pagador_documento,09.398.099/0001-04,exato,0
+143,recibo,recibo_039,scanner,normal,recebedor_nome,Distribuidora Horizonte ME,exato,0
+143,recibo,recibo_039,scanner,normal,recebedor_documento,53.578.563/0001-28,exato,0
+144,recibo,recibo_040,comum,normal,numero,9753,exato,0
+144,recibo,recibo_040,comum,normal,data,2024-09-24,exato,0
+144,recibo,recibo_040,comum,normal,valor,1207.18,exato,0
+144,recibo,recibo_040,comum,normal,historico,Pagamento de frete de mercadorias - NF 4330,exato,0
+144,recibo,recibo_040,comum,normal,pagador_nome,Empório Planalto LTDA,exato,0
+144,recibo,recibo_040,comum,normal,pagador_documento,37.097.871/0001-85,exato,0
+144,recibo,recibo_040,comum,normal,recebedor_nome,Eletro Estrela EIRELI,exato,0
+144,recibo,recibo_040,comum,normal,recebedor_documento,36.916.778/0001-92,exato,0
+144,recibo,recibo_040,scanner,normal,numero,9753,exato,0
+144,recibo,recibo_040,scanner,normal,data,2024-09-24,exato,0
+144,recibo,recibo_040,scanner,normal,valor,1207.18,exato,0
+144,recibo,recibo_040,scanner,normal,historico,Pagamento de frete de mercadorias - NF 4330,exato,0
+144,recibo,recibo_040,scanner,normal,pagador_nome,Empório Planalto LTDA,exato,0
+144,recibo,recibo_040,scanner,normal,pagador_documento,37.097.871/0001-85,exato,0
+144,recibo,recibo_040,scanner,normal,recebedor_nome,Eletro Estrela EIRELI,exato,0
+144,recibo,recibo_040,scanner,normal,recebedor_documento,36.916.778/0001-92,exato,0
+145,recibo,recibo_043,comum,normal,numero,6959,exato,0
+145,recibo,recibo_043,comum,normal,data,2025-06-30,exato,0
+145,recibo,recibo_043,comum,normal,valor,475.69,exato,0
+145,recibo,recibo_043,comum,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+145,recibo,recibo_043,comum,normal,pagador_nome,Farmácia Central EPP,exato,0
+145,recibo,recibo_043,comum,normal,pagador_documento,60.649.076/0001-74,exato,0
+145,recibo,recibo_043,comum,normal,recebedor_nome,Lucas Soares Almeida,exato,0
+145,recibo,recibo_043,comum,normal,recebedor_documento,360.789.870-70,exato,0
+145,recibo,recibo_043,scanner,normal,numero,6959,exato,0
+145,recibo,recibo_043,scanner,normal,data,2025-06-30,exato,0
+145,recibo,recibo_043,scanner,normal,valor,475.69,exato,0
+145,recibo,recibo_043,scanner,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+145,recibo,recibo_043,scanner,normal,pagador_nome,Farmácia Central EPP,perdido,4
+145,recibo,recibo_043,scanner,normal,pagador_documento,60.649.076/0001-74,exato,0
+145,recibo,recibo_043,scanner,normal,recebedor_nome,Lucas Soares Almeida,exato,0
+145,recibo,recibo_043,scanner,normal,recebedor_documento,360.789.870-70,exato,0
+146,recibo,recibo_044,comum,normal,numero,3021,exato,0
+146,recibo,recibo_044,comum,normal,data,2025-09-25,exato,0
+146,recibo,recibo_044,comum,normal,valor,8320.47,exato,0
+146,recibo,recibo_044,comum,normal,historico,Pagamento de aluguel do imóvel comercial referente a 09/2025,exato,0
+146,recibo,recibo_044,comum,normal,pagador_nome,Atacadista Primavera ME,exato,0
+146,recibo,recibo_044,comum,normal,pagador_documento,73.074.870/0001-89,exato,0
+146,recibo,recibo_044,comum,normal,recebedor_nome,Vitória Alves Rodrigues,exato,0
+146,recibo,recibo_044,comum,normal,recebedor_documento,836.527.706-92,exato,0
+146,recibo,recibo_044,scanner,normal,numero,3021,exato,0
+146,recibo,recibo_044,scanner,normal,data,2025-09-25,exato,0
+146,recibo,recibo_044,scanner,normal,valor,8320.47,exato,0
+146,recibo,recibo_044,scanner,normal,historico,Pagamento de aluguel do imóvel comercial referente a 09/2025,exato,0
+146,recibo,recibo_044,scanner,normal,pagador_nome,Atacadista Primavera ME,exato,0
+146,recibo,recibo_044,scanner,normal,pagador_documento,73.074.870/0001-89,exato,0
+146,recibo,recibo_044,scanner,normal,recebedor_nome,Vitória Alves Rodrigues,exato,0
+146,recibo,recibo_044,scanner,normal,recebedor_documento,836.527.706-92,exato,0
+147,recibo,recibo_046,comum,normal,numero,5087,exato,0
+147,recibo,recibo_046,comum,normal,data,2026-01-07,quase,1
+147,recibo,recibo_046,comum,normal,valor,1468.59,exato,0
+147,recibo,recibo_046,comum,normal,historico,Pagamento de frete de mercadorias - NF 30831,exato,0
+147,recibo,recibo_046,comum,normal,pagador_nome,Atacadista Vale Verde S.A.,exato,0
+147,recibo,recibo_046,comum,normal,pagador_documento,95.780.660/0001-49,exato,0
+147,recibo,recibo_046,comum,normal,recebedor_nome,Materiais de Construção Boa Vista LTDA,exato,0
+147,recibo,recibo_046,comum,normal,recebedor_documento,91.844.003/0001-67,exato,0
+147,recibo,recibo_046,scanner,normal,numero,5087,exato,0
+147,recibo,recibo_046,scanner,normal,data,2026-01-07,exato,0
+147,recibo,recibo_046,scanner,normal,valor,1468.59,exato,0
+147,recibo,recibo_046,scanner,normal,historico,Pagamento de frete de mercadorias - NF 30831,exato,0
+147,recibo,recibo_046,scanner,normal,pagador_nome,Atacadista Vale Verde S.A.,exato,0
+147,recibo,recibo_046,scanner,normal,pagador_documento,95.780.660/0001-49,exato,0
+147,recibo,recibo_046,scanner,normal,recebedor_nome,Materiais de Construção Boa Vista LTDA,exato,0
+147,recibo,recibo_046,scanner,normal,recebedor_documento,91.844.003/0001-67,exato,0
+148,recibo,recibo_047,comum,normal,numero,0255,exato,0
+148,recibo,recibo_047,comum,normal,data,2025-10-16,exato,0
+148,recibo,recibo_047,comum,normal,valor,394.14,exato,0
+148,recibo,recibo_047,comum,normal,historico,Pagamento de serviço de manutenção de ar-condicionado,exato,0
+148,recibo,recibo_047,comum,normal,pagador_nome,Casa Estrela ME,exato,0
+148,recibo,recibo_047,comum,normal,pagador_documento,76.544.756/0001-63,exato,0
+148,recibo,recibo_047,comum,normal,recebedor_nome,Papelaria São Jorge EPP,exato,0
+148,recibo,recibo_047,comum,normal,recebedor_documento,01.395.779/0001-54,exato,0
+148,recibo,recibo_047,scanner,normal,numero,0255,exato,0
+148,recibo,recibo_047,scanner,normal,data,2025-10-16,exato,0
+148,recibo,recibo_047,scanner,normal,valor,394.14,exato,0
+148,recibo,recibo_047,scanner,normal,historico,Pagamento de serviço de manutenção de ar-condicionado,exato,0
+148,recibo,recibo_047,scanner,normal,pagador_nome,Casa Estrela ME,exato,0
+148,recibo,recibo_047,scanner,normal,pagador_documento,76.544.756/0001-63,exato,0
+148,recibo,recibo_047,scanner,normal,recebedor_nome,Papelaria São Jorge EPP,exato,0
+148,recibo,recibo_047,scanner,normal,recebedor_documento,01.395.779/0001-54,exato,0
+149,recibo,recibo_049,comum,normal,numero,6078,exato,0
+149,recibo,recibo_049,comum,normal,data,2024-11-23,quase,1
+149,recibo,recibo_049,comum,normal,valor,1730.34,exato,0
+149,recibo,recibo_049,comum,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+149,recibo,recibo_049,comum,normal,pagador_nome,Padaria Serra Azul LTDA,exato,0
+149,recibo,recibo_049,comum,normal,pagador_documento,12.274.295/0001-73,exato,0
+149,recibo,recibo_049,comum,normal,recebedor_nome,Distribuidora Vale Verde EIRELI,exato,0
+149,recibo,recibo_049,comum,normal,recebedor_documento,43.350.311/0001-93,exato,0
+149,recibo,recibo_049,scanner,normal,numero,6078,exato,0
+149,recibo,recibo_049,scanner,normal,data,2024-11-23,exato,0
+149,recibo,recibo_049,scanner,normal,valor,1730.34,exato,0
+149,recibo,recibo_049,scanner,normal,historico,Pagamento de consultoria em segurança do trabalho,exato,0
+149,recibo,recibo_049,scanner,normal,pagador_nome,Padaria Serra Azul LTDA,exato,0
+149,recibo,recibo_049,scanner,normal,pagador_documento,12.274.295/0001-73,exato,0
+149,recibo,recibo_049,scanner,normal,recebedor_nome,Distribuidora Vale Verde EIRELI,exato,0
+149,recibo,recibo_049,scanner,normal,recebedor_documento,43.350.311/0001-93,exato,0
+150,recibo,recibo_050,comum,normal,numero,1030,exato,0
+150,recibo,recibo_050,comum,normal,data,2025-03-23,exato,0
+150,recibo,recibo_050,comum,normal,valor,439.42,exato,0
+150,recibo,recibo_050,comum,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+150,recibo,recibo_050,comum,normal,pagador_nome,Atacadista Serra Azul ME,exato,0
+150,recibo,recibo_050,comum,normal,pagador_documento,01.057.619/0001-03,exato,0
+150,recibo,recibo_050,comum,normal,recebedor_nome,Francisca Rodrigues Mendes,exato,0
+150,recibo,recibo_050,comum,normal,recebedor_documento,516.210.725-50,exato,0
+150,recibo,recibo_050,scanner,normal,numero,1030,exato,0
+150,recibo,recibo_050,scanner,normal,data,2025-03-23,exato,0
+150,recibo,recibo_050,scanner,normal,valor,439.42,exato,0
+150,recibo,recibo_050,scanner,normal,historico,Pagamento de serviço de chaveiro e troca de fechaduras,exato,0
+150,recibo,recibo_050,scanner,normal,pagador_nome,Atacadista Serra Azul ME,exato,0
+150,recibo,recibo_050,scanner,normal,pagador_documento,01.057.619/0001-03,exato,0
+150,recibo,recibo_050,scanner,normal,recebedor_nome,Francisca Rodrigues Mendes,exato,0
+150,recibo,recibo_050,scanner,normal,recebedor_documento,516.210.725-50,exato,0

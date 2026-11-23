@@ -1,0 +1,4212 @@
+{
+  "semente": 42,
+  "dpi_pdf": 200,
+  "nfe": [
+    {
+      "id": "nfe_001",
+      "png": "imagens/nfe/png/nfe_001.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_001.jpg",
+      "foto_degradacao": {
+        "largura_px": 1657,
+        "altura_px": 2268,
+        "rotacao_graus": -2.24,
+        "deslocamento_perspectiva_px": 23.0,
+        "intensidade_iluminacao": 0.352,
+        "ruido_sigma": 5.49,
+        "desfoque_raio": 1.24,
+        "contraste": 0.889,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "nfe_002",
+      "png": "imagens/nfe/png/nfe_002.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_002.jpg",
+      "foto_degradacao": {
+        "largura_px": 1426,
+        "altura_px": 1926,
+        "rotacao_graus": 1.64,
+        "deslocamento_perspectiva_px": 41.3,
+        "intensidade_iluminacao": 0.207,
+        "ruido_sigma": 3.16,
+        "desfoque_raio": 0.83,
+        "contraste": 0.919,
+        "qualidade_jpeg": 78
+      }
+    },
+    {
+      "id": "nfe_003",
+      "png": "imagens/nfe/png/nfe_003.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_003.jpg",
+      "foto_degradacao": {
+        "largura_px": 1456,
+        "altura_px": 1969,
+        "rotacao_graus": -1.86,
+        "deslocamento_perspectiva_px": 38.8,
+        "intensidade_iluminacao": 0.386,
+        "ruido_sigma": 5.28,
+        "desfoque_raio": 0.32,
+        "contraste": 0.916,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "nfe_004",
+      "png": "imagens/nfe/png/nfe_004.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_004.jpg",
+      "foto_degradacao": {
+        "largura_px": 1816,
+        "altura_px": 2449,
+        "rotacao_graus": 0.77,
+        "deslocamento_perspectiva_px": 28.7,
+        "intensidade_iluminacao": 0.213,
+        "ruido_sigma": 5.4,
+        "desfoque_raio": 0.44,
+        "contraste": 1.042,
+        "qualidade_jpeg": 73
+      }
+    },
+    {
+      "id": "nfe_005",
+      "png": "imagens/nfe/png/nfe_005.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_005.jpg",
+      "foto_degradacao": {
+        "largura_px": 1637,
+        "altura_px": 2206,
+        "rotacao_graus": 0.79,
+        "deslocamento_perspectiva_px": 41.6,
+        "intensidade_iluminacao": 0.178,
+        "ruido_sigma": 6.03,
+        "desfoque_raio": 0.74,
+        "contraste": 0.91,
+        "qualidade_jpeg": 60
+      }
+    },
+    {
+      "id": "nfe_006",
+      "png": "imagens/nfe/png/nfe_006.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_006.jpg",
+      "foto_degradacao": {
+        "largura_px": 1436,
+        "altura_px": 1933,
+        "rotacao_graus": 3.2,
+        "deslocamento_perspectiva_px": 43.7,
+        "intensidade_iluminacao": 0.212,
+        "ruido_sigma": 4.77,
+        "desfoque_raio": 0.92,
+        "contraste": 0.852,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "nfe_007",
+      "png": "imagens/nfe/png/nfe_007.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_007.jpg",
+      "foto_degradacao": {
+        "largura_px": 1607,
+        "altura_px": 2133,
+        "rotacao_graus": -1.17,
+        "deslocamento_perspectiva_px": 46.7,
+        "intensidade_iluminacao": 0.366,
+        "ruido_sigma": 5.23,
+        "desfoque_raio": 1.04,
+        "contraste": 1.032,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfe_008",
+      "png": "imagens/nfe/png/nfe_008.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_008.jpg",
+      "foto_degradacao": {
+        "largura_px": 1473,
+        "altura_px": 2004,
+        "rotacao_graus": 3.41,
+        "deslocamento_perspectiva_px": 22.2,
+        "intensidade_iluminacao": 0.192,
+        "ruido_sigma": 4.01,
+        "desfoque_raio": 1.28,
+        "contraste": 0.945,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "nfe_009",
+      "png": "imagens/nfe/png/nfe_009.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_009.jpg",
+      "foto_degradacao": {
+        "largura_px": 1992,
+        "altura_px": 2655,
+        "rotacao_graus": 3.69,
+        "deslocamento_perspectiva_px": 25.9,
+        "intensidade_iluminacao": 0.196,
+        "ruido_sigma": 3.18,
+        "desfoque_raio": 0.54,
+        "contraste": 1.005,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfe_010",
+      "png": "imagens/nfe/png/nfe_010.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_010.jpg",
+      "foto_degradacao": {
+        "largura_px": 1526,
+        "altura_px": 2070,
+        "rotacao_graus": 0.05,
+        "deslocamento_perspectiva_px": 33.9,
+        "intensidade_iluminacao": 0.237,
+        "ruido_sigma": 3.42,
+        "desfoque_raio": 0.72,
+        "contraste": 1.017,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfe_011",
+      "png": "imagens/nfe/png/nfe_011.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_011.jpg",
+      "foto_degradacao": {
+        "largura_px": 1826,
+        "altura_px": 2489,
+        "rotacao_graus": -3.97,
+        "deslocamento_perspectiva_px": 63.5,
+        "intensidade_iluminacao": 0.309,
+        "ruido_sigma": 4.76,
+        "desfoque_raio": 1.15,
+        "contraste": 0.869,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "nfe_012",
+      "png": "imagens/nfe/png/nfe_012.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_012.jpg",
+      "foto_degradacao": {
+        "largura_px": 1790,
+        "altura_px": 2381,
+        "rotacao_graus": 2.92,
+        "deslocamento_perspectiva_px": 38.8,
+        "intensidade_iluminacao": 0.353,
+        "ruido_sigma": 5.68,
+        "desfoque_raio": 1.12,
+        "contraste": 1.051,
+        "qualidade_jpeg": 70
+      }
+    },
+    {
+      "id": "nfe_013",
+      "png": "imagens/nfe/png/nfe_013.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_013.jpg",
+      "foto_degradacao": {
+        "largura_px": 1606,
+        "altura_px": 2140,
+        "rotacao_graus": 1.13,
+        "deslocamento_perspectiva_px": 23.2,
+        "intensidade_iluminacao": 0.395,
+        "ruido_sigma": 2.58,
+        "desfoque_raio": 1.25,
+        "contraste": 0.895,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "nfe_014",
+      "png": "imagens/nfe/png/nfe_014.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_014.jpg",
+      "foto_degradacao": {
+        "largura_px": 1428,
+        "altura_px": 1915,
+        "rotacao_graus": -3.44,
+        "deslocamento_perspectiva_px": 40.3,
+        "intensidade_iluminacao": 0.233,
+        "ruido_sigma": 5.6,
+        "desfoque_raio": 0.38,
+        "contraste": 0.951,
+        "qualidade_jpeg": 63
+      }
+    },
+    {
+      "id": "nfe_015",
+      "png": "imagens/nfe/png/nfe_015.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_015.jpg",
+      "foto_degradacao": {
+        "largura_px": 1534,
+        "altura_px": 2053,
+        "rotacao_graus": 0.09,
+        "deslocamento_perspectiva_px": 43.3,
+        "intensidade_iluminacao": 0.39,
+        "ruido_sigma": 3.42,
+        "desfoque_raio": 1.24,
+        "contraste": 0.873,
+        "qualidade_jpeg": 70
+      }
+    },
+    {
+      "id": "nfe_016",
+      "png": "imagens/nfe/png/nfe_016.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_016.jpg",
+      "foto_degradacao": {
+        "largura_px": 1723,
+        "altura_px": 2340,
+        "rotacao_graus": 1.25,
+        "deslocamento_perspectiva_px": 17.7,
+        "intensidade_iluminacao": 0.338,
+        "ruido_sigma": 4.13,
+        "desfoque_raio": 0.32,
+        "contraste": 0.863,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "nfe_017",
+      "png": "imagens/nfe/png/nfe_017.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_017.jpg",
+      "foto_degradacao": {
+        "largura_px": 1726,
+        "altura_px": 2299,
+        "rotacao_graus": 2.01,
+        "deslocamento_perspectiva_px": 66.4,
+        "intensidade_iluminacao": 0.219,
+        "ruido_sigma": 3.2,
+        "desfoque_raio": 0.3,
+        "contraste": 1.028,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "nfe_018",
+      "png": "imagens/nfe/png/nfe_018.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_018.jpg",
+      "foto_degradacao": {
+        "largura_px": 1586,
+        "altura_px": 2131,
+        "rotacao_graus": -0.18,
+        "deslocamento_perspectiva_px": 33.3,
+        "intensidade_iluminacao": 0.225,
+        "ruido_sigma": 6.18,
+        "desfoque_raio": 0.35,
+        "contraste": 0.972,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfe_019",
+      "png": "imagens/nfe/png/nfe_019.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_019.jpg",
+      "foto_degradacao": {
+        "largura_px": 1374,
+        "altura_px": 1859,
+        "rotacao_graus": -1.92,
+        "deslocamento_perspectiva_px": 51.1,
+        "intensidade_iluminacao": 0.264,
+        "ruido_sigma": 3.39,
+        "desfoque_raio": 0.61,
+        "contraste": 1.059,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "nfe_020",
+      "png": "imagens/nfe/png/nfe_020.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_020.jpg",
+      "foto_degradacao": {
+        "largura_px": 1880,
+        "altura_px": 2543,
+        "rotacao_graus": -2.66,
+        "deslocamento_perspectiva_px": 64.3,
+        "intensidade_iluminacao": 0.337,
+        "ruido_sigma": 6.82,
+        "desfoque_raio": 0.93,
+        "contraste": 0.949,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfe_021",
+      "png": "imagens/nfe/png/nfe_021.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_021.jpg",
+      "foto_degradacao": {
+        "largura_px": 1817,
+        "altura_px": 2418,
+        "rotacao_graus": -0.53,
+        "deslocamento_perspectiva_px": 63.9,
+        "intensidade_iluminacao": 0.373,
+        "ruido_sigma": 2.88,
+        "desfoque_raio": 1.2,
+        "contraste": 1.004,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfe_022",
+      "png": "imagens/nfe/png/nfe_022.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_022.jpg",
+      "foto_degradacao": {
+        "largura_px": 1736,
+        "altura_px": 2311,
+        "rotacao_graus": -2.3,
+        "deslocamento_perspectiva_px": 61.2,
+        "intensidade_iluminacao": 0.235,
+        "ruido_sigma": 3.38,
+        "desfoque_raio": 0.94,
+        "contraste": 0.871,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfe_023",
+      "png": "imagens/nfe/png/nfe_023.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_023.jpg",
+      "foto_degradacao": {
+        "largura_px": 1659,
+        "altura_px": 2252,
+        "rotacao_graus": 1.62,
+        "deslocamento_perspectiva_px": 59.8,
+        "intensidade_iluminacao": 0.213,
+        "ruido_sigma": 2.6,
+        "desfoque_raio": 0.63,
+        "contraste": 0.904,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfe_024",
+      "png": "imagens/nfe/png/nfe_024.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_024.jpg",
+      "foto_degradacao": {
+        "largura_px": 1855,
+        "altura_px": 2457,
+        "rotacao_graus": -0.17,
+        "deslocamento_perspectiva_px": 35.5,
+        "intensidade_iluminacao": 0.391,
+        "ruido_sigma": 2.57,
+        "desfoque_raio": 0.75,
+        "contraste": 0.973,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "nfe_025",
+      "png": "imagens/nfe/png/nfe_025.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_025.jpg",
+      "foto_degradacao": {
+        "largura_px": 1539,
+        "altura_px": 2050,
+        "rotacao_graus": 0.88,
+        "deslocamento_perspectiva_px": 39.9,
+        "intensidade_iluminacao": 0.387,
+        "ruido_sigma": 5.3,
+        "desfoque_raio": 0.1,
+        "contraste": 0.893,
+        "qualidade_jpeg": 55
+      }
+    },
+    {
+      "id": "nfe_026",
+      "png": "imagens/nfe/png/nfe_026.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_026.jpg",
+      "foto_degradacao": {
+        "largura_px": 1672,
+        "altura_px": 2235,
+        "rotacao_graus": 0.36,
+        "deslocamento_perspectiva_px": 26.2,
+        "intensidade_iluminacao": 0.377,
+        "ruido_sigma": 2.83,
+        "desfoque_raio": 0.9,
+        "contraste": 0.881,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfe_027",
+      "png": "imagens/nfe/png/nfe_027.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_027.jpg",
+      "foto_degradacao": {
+        "largura_px": 1920,
+        "altura_px": 2583,
+        "rotacao_graus": -0.24,
+        "deslocamento_perspectiva_px": 54.3,
+        "intensidade_iluminacao": 0.379,
+        "ruido_sigma": 5.17,
+        "desfoque_raio": 0.43,
+        "contraste": 0.937,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfe_028",
+      "png": "imagens/nfe/png/nfe_028.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_028.jpg",
+      "foto_degradacao": {
+        "largura_px": 1855,
+        "altura_px": 2511,
+        "rotacao_graus": -3.57,
+        "deslocamento_perspectiva_px": 67.3,
+        "intensidade_iluminacao": 0.306,
+        "ruido_sigma": 2.26,
+        "desfoque_raio": 0.63,
+        "contraste": 1.07,
+        "qualidade_jpeg": 56
+      }
+    },
+    {
+      "id": "nfe_029",
+      "png": "imagens/nfe/png/nfe_029.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_029.jpg",
+      "foto_degradacao": {
+        "largura_px": 1946,
+        "altura_px": 2609,
+        "rotacao_graus": 2.68,
+        "deslocamento_perspectiva_px": 35.9,
+        "intensidade_iluminacao": 0.211,
+        "ruido_sigma": 6.61,
+        "desfoque_raio": 0.36,
+        "contraste": 1.066,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "nfe_030",
+      "png": "imagens/nfe/png/nfe_030.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_030.jpg",
+      "foto_degradacao": {
+        "largura_px": 1652,
+        "altura_px": 2201,
+        "rotacao_graus": 3.46,
+        "deslocamento_perspectiva_px": 28.3,
+        "intensidade_iluminacao": 0.395,
+        "ruido_sigma": 6.28,
+        "desfoque_raio": 0.61,
+        "contraste": 0.93,
+        "qualidade_jpeg": 79
+      }
+    },
+    {
+      "id": "nfe_031",
+      "png": "imagens/nfe/png/nfe_031.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_031.jpg",
+      "foto_degradacao": {
+        "largura_px": 1653,
+        "altura_px": 2212,
+        "rotacao_graus": 2.25,
+        "deslocamento_perspectiva_px": 40.6,
+        "intensidade_iluminacao": 0.306,
+        "ruido_sigma": 3.64,
+        "desfoque_raio": 0.81,
+        "contraste": 1.089,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfe_032",
+      "png": "imagens/nfe/png/nfe_032.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_032.jpg",
+      "foto_degradacao": {
+        "largura_px": 1788,
+        "altura_px": 2446,
+        "rotacao_graus": -2.84,
+        "deslocamento_perspectiva_px": 78.1,
+        "intensidade_iluminacao": 0.291,
+        "ruido_sigma": 2.39,
+        "desfoque_raio": 0.31,
+        "contraste": 1.005,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "nfe_033",
+      "png": "imagens/nfe/png/nfe_033.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_033.jpg",
+      "foto_degradacao": {
+        "largura_px": 1555,
+        "altura_px": 2082,
+        "rotacao_graus": -2.1,
+        "deslocamento_perspectiva_px": 58.6,
+        "intensidade_iluminacao": 0.294,
+        "ruido_sigma": 6.89,
+        "desfoque_raio": 0.74,
+        "contraste": 0.919,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "nfe_034",
+      "png": "imagens/nfe/png/nfe_034.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_034.jpg",
+      "foto_degradacao": {
+        "largura_px": 1982,
+        "altura_px": 2645,
+        "rotacao_graus": 0.64,
+        "deslocamento_perspectiva_px": 30.0,
+        "intensidade_iluminacao": 0.173,
+        "ruido_sigma": 2.88,
+        "desfoque_raio": 1.19,
+        "contraste": 0.983,
+        "qualidade_jpeg": 65
+      }
+    },
+    {
+      "id": "nfe_035",
+      "png": "imagens/nfe/png/nfe_035.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_035.jpg",
+      "foto_degradacao": {
+        "largura_px": 1607,
+        "altura_px": 2139,
+        "rotacao_graus": 2.33,
+        "deslocamento_perspectiva_px": 54.2,
+        "intensidade_iluminacao": 0.284,
+        "ruido_sigma": 5.36,
+        "desfoque_raio": 1.22,
+        "contraste": 1.056,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfe_036",
+      "png": "imagens/nfe/png/nfe_036.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_036.jpg",
+      "foto_degradacao": {
+        "largura_px": 1782,
+        "altura_px": 2400,
+        "rotacao_graus": -3.07,
+        "deslocamento_perspectiva_px": 69.5,
+        "intensidade_iluminacao": 0.284,
+        "ruido_sigma": 6.75,
+        "desfoque_raio": 0.94,
+        "contraste": 0.997,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "nfe_037",
+      "png": "imagens/nfe/png/nfe_037.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_037.jpg",
+      "foto_degradacao": {
+        "largura_px": 1856,
+        "altura_px": 2470,
+        "rotacao_graus": -1.79,
+        "deslocamento_perspectiva_px": 16.8,
+        "intensidade_iluminacao": 0.387,
+        "ruido_sigma": 3.06,
+        "desfoque_raio": 0.43,
+        "contraste": 0.863,
+        "qualidade_jpeg": 63
+      }
+    },
+    {
+      "id": "nfe_038",
+      "png": "imagens/nfe/png/nfe_038.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_038.jpg",
+      "foto_degradacao": {
+        "largura_px": 1784,
+        "altura_px": 2425,
+        "rotacao_graus": -1.13,
+        "deslocamento_perspectiva_px": 35.8,
+        "intensidade_iluminacao": 0.297,
+        "ruido_sigma": 2.63,
+        "desfoque_raio": 0.47,
+        "contraste": 0.962,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfe_039",
+      "png": "imagens/nfe/png/nfe_039.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_039.jpg",
+      "foto_degradacao": {
+        "largura_px": 1596,
+        "altura_px": 2168,
+        "rotacao_graus": -2.99,
+        "deslocamento_perspectiva_px": 39.1,
+        "intensidade_iluminacao": 0.296,
+        "ruido_sigma": 4.99,
+        "desfoque_raio": 0.56,
+        "contraste": 0.976,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "nfe_040",
+      "png": "imagens/nfe/png/nfe_040.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_040.jpg",
+      "foto_degradacao": {
+        "largura_px": 1934,
+        "altura_px": 2588,
+        "rotacao_graus": -3.27,
+        "deslocamento_perspectiva_px": 44.3,
+        "intensidade_iluminacao": 0.258,
+        "ruido_sigma": 2.65,
+        "desfoque_raio": 0.53,
+        "contraste": 1.018,
+        "qualidade_jpeg": 82
+      }
+    },
+    {
+      "id": "nfe_041",
+      "png": "imagens/nfe/png/nfe_041.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_041.jpg",
+      "foto_degradacao": {
+        "largura_px": 1960,
+        "altura_px": 2618,
+        "rotacao_graus": 0.87,
+        "deslocamento_perspectiva_px": 38.2,
+        "intensidade_iluminacao": 0.323,
+        "ruido_sigma": 5.81,
+        "desfoque_raio": 0.24,
+        "contraste": 0.938,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "nfe_042",
+      "png": "imagens/nfe/png/nfe_042.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_042.jpg",
+      "foto_degradacao": {
+        "largura_px": 1702,
+        "altura_px": 2298,
+        "rotacao_graus": 2.04,
+        "deslocamento_perspectiva_px": 19.7,
+        "intensidade_iluminacao": 0.17,
+        "ruido_sigma": 5.04,
+        "desfoque_raio": 0.67,
+        "contraste": 0.904,
+        "qualidade_jpeg": 77
+      }
+    },
+    {
+      "id": "nfe_043",
+      "png": "imagens/nfe/png/nfe_043.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_043.jpg",
+      "foto_degradacao": {
+        "largura_px": 1597,
+        "altura_px": 2165,
+        "rotacao_graus": -2.97,
+        "deslocamento_perspectiva_px": 16.2,
+        "intensidade_iluminacao": 0.208,
+        "ruido_sigma": 3.77,
+        "desfoque_raio": 0.6,
+        "contraste": 0.959,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfe_044",
+      "png": "imagens/nfe/png/nfe_044.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_044.jpg",
+      "foto_degradacao": {
+        "largura_px": 1921,
+        "altura_px": 2577,
+        "rotacao_graus": 0.71,
+        "deslocamento_perspectiva_px": 34.2,
+        "intensidade_iluminacao": 0.249,
+        "ruido_sigma": 3.67,
+        "desfoque_raio": 0.15,
+        "contraste": 0.978,
+        "qualidade_jpeg": 87
+      }
+    },
+    {
+      "id": "nfe_045",
+      "png": "imagens/nfe/png/nfe_045.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_045.jpg",
+      "foto_degradacao": {
+        "largura_px": 1560,
+        "altura_px": 2079,
+        "rotacao_graus": 2.91,
+        "deslocamento_perspectiva_px": 24.4,
+        "intensidade_iluminacao": 0.188,
+        "ruido_sigma": 3.51,
+        "desfoque_raio": 0.4,
+        "contraste": 0.977,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "nfe_046",
+      "png": "imagens/nfe/png/nfe_046.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_046.jpg",
+      "foto_degradacao": {
+        "largura_px": 1386,
+        "altura_px": 1873,
+        "rotacao_graus": 0.01,
+        "deslocamento_perspectiva_px": 40.7,
+        "intensidade_iluminacao": 0.263,
+        "ruido_sigma": 6.91,
+        "desfoque_raio": 0.92,
+        "contraste": 0.86,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "nfe_047",
+      "png": "imagens/nfe/png/nfe_047.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_047.jpg",
+      "foto_degradacao": {
+        "largura_px": 1725,
+        "altura_px": 2312,
+        "rotacao_graus": -1.33,
+        "deslocamento_perspectiva_px": 37.3,
+        "intensidade_iluminacao": 0.185,
+        "ruido_sigma": 5.49,
+        "desfoque_raio": 1.22,
+        "contraste": 0.999,
+        "qualidade_jpeg": 74
+      }
+    },
+    {
+      "id": "nfe_048",
+      "png": "imagens/nfe/png/nfe_048.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_048.jpg",
+      "foto_degradacao": {
+        "largura_px": 1753,
+        "altura_px": 2347,
+        "rotacao_graus": -1.27,
+        "deslocamento_perspectiva_px": 52.8,
+        "intensidade_iluminacao": 0.198,
+        "ruido_sigma": 3.48,
+        "desfoque_raio": 0.7,
+        "contraste": 0.977,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfe_049",
+      "png": "imagens/nfe/png/nfe_049.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_049.jpg",
+      "foto_degradacao": {
+        "largura_px": 1380,
+        "altura_px": 1867,
+        "rotacao_graus": 2.02,
+        "deslocamento_perspectiva_px": 19.4,
+        "intensidade_iluminacao": 0.209,
+        "ruido_sigma": 5.92,
+        "desfoque_raio": 0.74,
+        "contraste": 1.02,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "nfe_050",
+      "png": "imagens/nfe/png/nfe_050.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfe/foto/nfe_050.jpg",
+      "foto_degradacao": {
+        "largura_px": 1614,
+        "altura_px": 2188,
+        "rotacao_graus": 3.24,
+        "deslocamento_perspectiva_px": 62.3,
+        "intensidade_iluminacao": 0.259,
+        "ruido_sigma": 4.26,
+        "desfoque_raio": 0.65,
+        "contraste": 0.863,
+        "qualidade_jpeg": 70
+      }
+    }
+  ],
+  "nfce": [
+    {
+      "id": "nfce_001",
+      "png": "imagens/nfce/png/nfce_001.png",
+      "png_tamanho_px": [
+        630,
+        2289
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_001.jpg",
+      "foto_degradacao": {
+        "largura_px": 581,
+        "altura_px": 1932,
+        "rotacao_graus": -1.95,
+        "deslocamento_perspectiva_px": 24.2,
+        "intensidade_iluminacao": 0.287,
+        "ruido_sigma": 2.56,
+        "desfoque_raio": 0.06,
+        "contraste": 0.925,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "nfce_002",
+      "png": "imagens/nfce/png/nfce_002.png",
+      "png_tamanho_px": [
+        630,
+        1793
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_002.jpg",
+      "foto_degradacao": {
+        "largura_px": 683,
+        "altura_px": 1719,
+        "rotacao_graus": 3.63,
+        "deslocamento_perspectiva_px": 19.0,
+        "intensidade_iluminacao": 0.347,
+        "ruido_sigma": 6.37,
+        "desfoque_raio": 0.46,
+        "contraste": 1.037,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfce_003",
+      "png": "imagens/nfce/png/nfce_003.png",
+      "png_tamanho_px": [
+        630,
+        2325
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_003.jpg",
+      "foto_degradacao": {
+        "largura_px": 626,
+        "altura_px": 1987,
+        "rotacao_graus": -3.7,
+        "deslocamento_perspectiva_px": 6.0,
+        "intensidade_iluminacao": 0.348,
+        "ruido_sigma": 3.55,
+        "desfoque_raio": 0.84,
+        "contraste": 0.859,
+        "qualidade_jpeg": 73
+      }
+    },
+    {
+      "id": "nfce_004",
+      "png": "imagens/nfce/png/nfce_004.png",
+      "png_tamanho_px": [
+        630,
+        1742
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_004.jpg",
+      "foto_degradacao": {
+        "largura_px": 632,
+        "altura_px": 1529,
+        "rotacao_graus": -0.56,
+        "deslocamento_perspectiva_px": 21.3,
+        "intensidade_iluminacao": 0.195,
+        "ruido_sigma": 3.64,
+        "desfoque_raio": 0.93,
+        "contraste": 0.961,
+        "qualidade_jpeg": 65
+      }
+    },
+    {
+      "id": "nfce_005",
+      "png": "imagens/nfce/png/nfce_005.png",
+      "png_tamanho_px": [
+        630,
+        1766
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_005.jpg",
+      "foto_degradacao": {
+        "largura_px": 671,
+        "altura_px": 1701,
+        "rotacao_graus": -2.86,
+        "deslocamento_perspectiva_px": 19.8,
+        "intensidade_iluminacao": 0.345,
+        "ruido_sigma": 5.89,
+        "desfoque_raio": 0.74,
+        "contraste": 0.946,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "nfce_006",
+      "png": "imagens/nfce/png/nfce_006.png",
+      "png_tamanho_px": [
+        630,
+        2171
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_006.jpg",
+      "foto_degradacao": {
+        "largura_px": 723,
+        "altura_px": 2115,
+        "rotacao_graus": 1.55,
+        "deslocamento_perspectiva_px": 12.8,
+        "intensidade_iluminacao": 0.2,
+        "ruido_sigma": 2.86,
+        "desfoque_raio": 1.05,
+        "contraste": 1.099,
+        "qualidade_jpeg": 75
+      }
+    },
+    {
+      "id": "nfce_007",
+      "png": "imagens/nfce/png/nfce_007.png",
+      "png_tamanho_px": [
+        630,
+        1624
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_007.jpg",
+      "foto_degradacao": {
+        "largura_px": 699,
+        "altura_px": 1594,
+        "rotacao_graus": -1.11,
+        "deslocamento_perspectiva_px": 25.9,
+        "intensidade_iluminacao": 0.267,
+        "ruido_sigma": 6.42,
+        "desfoque_raio": 0.93,
+        "contraste": 0.95,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfce_008",
+      "png": "imagens/nfce/png/nfce_008.png",
+      "png_tamanho_px": [
+        630,
+        2089
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_008.jpg",
+      "foto_degradacao": {
+        "largura_px": 670,
+        "altura_px": 1921,
+        "rotacao_graus": -2.68,
+        "deslocamento_perspectiva_px": 26.4,
+        "intensidade_iluminacao": 0.327,
+        "ruido_sigma": 6.47,
+        "desfoque_raio": 0.83,
+        "contraste": 0.913,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfce_009",
+      "png": "imagens/nfce/png/nfce_009.png",
+      "png_tamanho_px": [
+        630,
+        1817
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_009.jpg",
+      "foto_degradacao": {
+        "largura_px": 542,
+        "altura_px": 1416,
+        "rotacao_graus": 1.21,
+        "deslocamento_perspectiva_px": 15.6,
+        "intensidade_iluminacao": 0.254,
+        "ruido_sigma": 5.14,
+        "desfoque_raio": 1.05,
+        "contraste": 0.971,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfce_010",
+      "png": "imagens/nfce/png/nfce_010.png",
+      "png_tamanho_px": [
+        630,
+        1793
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_010.jpg",
+      "foto_degradacao": {
+        "largura_px": 561,
+        "altura_px": 1478,
+        "rotacao_graus": -2.07,
+        "deslocamento_perspectiva_px": 13.2,
+        "intensidade_iluminacao": 0.262,
+        "ruido_sigma": 6.73,
+        "desfoque_raio": 1.17,
+        "contraste": 1.091,
+        "qualidade_jpeg": 75
+      }
+    },
+    {
+      "id": "nfce_011",
+      "png": "imagens/nfce/png/nfce_011.png",
+      "png_tamanho_px": [
+        630,
+        1852
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_011.jpg",
+      "foto_degradacao": {
+        "largura_px": 761,
+        "altura_px": 1958,
+        "rotacao_graus": -1.75,
+        "deslocamento_perspectiva_px": 18.5,
+        "intensidade_iluminacao": 0.361,
+        "ruido_sigma": 2.04,
+        "desfoque_raio": 0.34,
+        "contraste": 0.883,
+        "qualidade_jpeg": 78
+      }
+    },
+    {
+      "id": "nfce_012",
+      "png": "imagens/nfce/png/nfce_012.png",
+      "png_tamanho_px": [
+        630,
+        1758
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_012.jpg",
+      "foto_degradacao": {
+        "largura_px": 689,
+        "altura_px": 1736,
+        "rotacao_graus": 2.36,
+        "deslocamento_perspectiva_px": 14.3,
+        "intensidade_iluminacao": 0.385,
+        "ruido_sigma": 4.55,
+        "desfoque_raio": 0.18,
+        "contraste": 0.861,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "nfce_013",
+      "png": "imagens/nfce/png/nfce_013.png",
+      "png_tamanho_px": [
+        630,
+        1817
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_013.jpg",
+      "foto_degradacao": {
+        "largura_px": 712,
+        "altura_px": 1827,
+        "rotacao_graus": 2.53,
+        "deslocamento_perspectiva_px": 13.7,
+        "intensidade_iluminacao": 0.318,
+        "ruido_sigma": 5.98,
+        "desfoque_raio": 1.02,
+        "contraste": 1.092,
+        "qualidade_jpeg": 69
+      }
+    },
+    {
+      "id": "nfce_014",
+      "png": "imagens/nfce/png/nfce_014.png",
+      "png_tamanho_px": [
+        630,
+        1707
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_014.jpg",
+      "foto_degradacao": {
+        "largura_px": 699,
+        "altura_px": 1685,
+        "rotacao_graus": 2.98,
+        "deslocamento_perspectiva_px": 24.7,
+        "intensidade_iluminacao": 0.166,
+        "ruido_sigma": 3.63,
+        "desfoque_raio": 0.41,
+        "contraste": 0.981,
+        "qualidade_jpeg": 66
+      }
+    },
+    {
+      "id": "nfce_015",
+      "png": "imagens/nfce/png/nfce_015.png",
+      "png_tamanho_px": [
+        630,
+        2112
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_015.jpg",
+      "foto_degradacao": {
+        "largura_px": 635,
+        "altura_px": 1875,
+        "rotacao_graus": -1.21,
+        "deslocamento_perspectiva_px": 18.1,
+        "intensidade_iluminacao": 0.349,
+        "ruido_sigma": 5.38,
+        "desfoque_raio": 1.24,
+        "contraste": 1.055,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "nfce_016",
+      "png": "imagens/nfce/png/nfce_016.png",
+      "png_tamanho_px": [
+        630,
+        2349
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_016.jpg",
+      "foto_degradacao": {
+        "largura_px": 577,
+        "altura_px": 1928,
+        "rotacao_graus": -3.2,
+        "deslocamento_perspectiva_px": 9.0,
+        "intensidade_iluminacao": 0.268,
+        "ruido_sigma": 6.82,
+        "desfoque_raio": 1.14,
+        "contraste": 1.013,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfce_017",
+      "png": "imagens/nfce/png/nfce_017.png",
+      "png_tamanho_px": [
+        630,
+        2207
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_017.jpg",
+      "foto_degradacao": {
+        "largura_px": 611,
+        "altura_px": 1940,
+        "rotacao_graus": 2.3,
+        "deslocamento_perspectiva_px": 19.0,
+        "intensidade_iluminacao": 0.337,
+        "ruido_sigma": 2.19,
+        "desfoque_raio": 0.44,
+        "contraste": 1.082,
+        "qualidade_jpeg": 84
+      }
+    },
+    {
+      "id": "nfce_018",
+      "png": "imagens/nfce/png/nfce_018.png",
+      "png_tamanho_px": [
+        630,
+        2053
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_018.jpg",
+      "foto_degradacao": {
+        "largura_px": 755,
+        "altura_px": 2171,
+        "rotacao_graus": 2.62,
+        "deslocamento_perspectiva_px": 13.1,
+        "intensidade_iluminacao": 0.172,
+        "ruido_sigma": 2.7,
+        "desfoque_raio": 0.31,
+        "contraste": 0.915,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfce_019",
+      "png": "imagens/nfce/png/nfce_019.png",
+      "png_tamanho_px": [
+        630,
+        1852
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_019.jpg",
+      "foto_degradacao": {
+        "largura_px": 725,
+        "altura_px": 1930,
+        "rotacao_graus": 1.11,
+        "deslocamento_perspectiva_px": 22.4,
+        "intensidade_iluminacao": 0.242,
+        "ruido_sigma": 4.39,
+        "desfoque_raio": 1.19,
+        "contraste": 1.025,
+        "qualidade_jpeg": 68
+      }
+    },
+    {
+      "id": "nfce_020",
+      "png": "imagens/nfce/png/nfce_020.png",
+      "png_tamanho_px": [
+        630,
+        1817
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_020.jpg",
+      "foto_degradacao": {
+        "largura_px": 716,
+        "altura_px": 1816,
+        "rotacao_graus": 1.74,
+        "deslocamento_perspectiva_px": 7.7,
+        "intensidade_iluminacao": 0.375,
+        "ruido_sigma": 2.66,
+        "desfoque_raio": 0.73,
+        "contraste": 0.991,
+        "qualidade_jpeg": 74
+      }
+    },
+    {
+      "id": "nfce_021",
+      "png": "imagens/nfce/png/nfce_021.png",
+      "png_tamanho_px": [
+        630,
+        2230
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_021.jpg",
+      "foto_degradacao": {
+        "largura_px": 681,
+        "altura_px": 2146,
+        "rotacao_graus": -1.0,
+        "deslocamento_perspectiva_px": 19.1,
+        "intensidade_iluminacao": 0.262,
+        "ruido_sigma": 2.4,
+        "desfoque_raio": 1.29,
+        "contraste": 0.88,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfce_022",
+      "png": "imagens/nfce/png/nfce_022.png",
+      "png_tamanho_px": [
+        630,
+        1994
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_022.jpg",
+      "foto_degradacao": {
+        "largura_px": 666,
+        "altura_px": 1835,
+        "rotacao_graus": 2.48,
+        "deslocamento_perspectiva_px": 21.7,
+        "intensidade_iluminacao": 0.342,
+        "ruido_sigma": 3.03,
+        "desfoque_raio": 0.91,
+        "contraste": 0.999,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "nfce_023",
+      "png": "imagens/nfce/png/nfce_023.png",
+      "png_tamanho_px": [
+        630,
+        1793
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_023.jpg",
+      "foto_degradacao": {
+        "largura_px": 547,
+        "altura_px": 1446,
+        "rotacao_graus": -0.69,
+        "deslocamento_perspectiva_px": 14.7,
+        "intensidade_iluminacao": 0.289,
+        "ruido_sigma": 2.88,
+        "desfoque_raio": 0.06,
+        "contraste": 0.989,
+        "qualidade_jpeg": 77
+      }
+    },
+    {
+      "id": "nfce_024",
+      "png": "imagens/nfce/png/nfce_024.png",
+      "png_tamanho_px": [
+        630,
+        2148
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_024.jpg",
+      "foto_degradacao": {
+        "largura_px": 758,
+        "altura_px": 2247,
+        "rotacao_graus": -0.89,
+        "deslocamento_perspectiva_px": 9.9,
+        "intensidade_iluminacao": 0.233,
+        "ruido_sigma": 3.86,
+        "desfoque_raio": 0.49,
+        "contraste": 0.863,
+        "qualidade_jpeg": 57
+      }
+    },
+    {
+      "id": "nfce_025",
+      "png": "imagens/nfce/png/nfce_025.png",
+      "png_tamanho_px": [
+        630,
+        1935
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_025.jpg",
+      "foto_degradacao": {
+        "largura_px": 696,
+        "altura_px": 1951,
+        "rotacao_graus": 1.57,
+        "deslocamento_perspectiva_px": 17.7,
+        "intensidade_iluminacao": 0.249,
+        "ruido_sigma": 3.42,
+        "desfoque_raio": 0.47,
+        "contraste": 0.927,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfce_026",
+      "png": "imagens/nfce/png/nfce_026.png",
+      "png_tamanho_px": [
+        630,
+        1852
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_026.jpg",
+      "foto_degradacao": {
+        "largura_px": 659,
+        "altura_px": 1685,
+        "rotacao_graus": -0.96,
+        "deslocamento_perspectiva_px": 11.9,
+        "intensidade_iluminacao": 0.275,
+        "ruido_sigma": 3.29,
+        "desfoque_raio": 0.83,
+        "contraste": 1.092,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfce_027",
+      "png": "imagens/nfce/png/nfce_027.png",
+      "png_tamanho_px": [
+        630,
+        2179
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_027.jpg",
+      "foto_degradacao": {
+        "largura_px": 652,
+        "altura_px": 1950,
+        "rotacao_graus": -0.7,
+        "deslocamento_perspectiva_px": 20.5,
+        "intensidade_iluminacao": 0.208,
+        "ruido_sigma": 4.53,
+        "desfoque_raio": 0.87,
+        "contraste": 1.004,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfce_028",
+      "png": "imagens/nfce/png/nfce_028.png",
+      "png_tamanho_px": [
+        630,
+        2002
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_028.jpg",
+      "foto_degradacao": {
+        "largura_px": 633,
+        "altura_px": 1863,
+        "rotacao_graus": 0.2,
+        "deslocamento_perspectiva_px": 5.9,
+        "intensidade_iluminacao": 0.305,
+        "ruido_sigma": 5.97,
+        "desfoque_raio": 0.6,
+        "contraste": 1.09,
+        "qualidade_jpeg": 70
+      }
+    },
+    {
+      "id": "nfce_029",
+      "png": "imagens/nfce/png/nfce_029.png",
+      "png_tamanho_px": [
+        630,
+        2171
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_029.jpg",
+      "foto_degradacao": {
+        "largura_px": 726,
+        "altura_px": 2262,
+        "rotacao_graus": 3.16,
+        "deslocamento_perspectiva_px": 8.6,
+        "intensidade_iluminacao": 0.207,
+        "ruido_sigma": 4.83,
+        "desfoque_raio": 0.89,
+        "contraste": 1.081,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfce_030",
+      "png": "imagens/nfce/png/nfce_030.png",
+      "png_tamanho_px": [
+        630,
+        1817
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_030.jpg",
+      "foto_degradacao": {
+        "largura_px": 738,
+        "altura_px": 1887,
+        "rotacao_graus": -0.93,
+        "deslocamento_perspectiva_px": 6.5,
+        "intensidade_iluminacao": 0.348,
+        "ruido_sigma": 5.73,
+        "desfoque_raio": 0.3,
+        "contraste": 0.874,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfce_031",
+      "png": "imagens/nfce/png/nfce_031.png",
+      "png_tamanho_px": [
+        630,
+        1876
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_031.jpg",
+      "foto_degradacao": {
+        "largura_px": 627,
+        "altura_px": 1626,
+        "rotacao_graus": -1.86,
+        "deslocamento_perspectiva_px": 5.6,
+        "intensidade_iluminacao": 0.346,
+        "ruido_sigma": 3.8,
+        "desfoque_raio": 0.58,
+        "contraste": 1.086,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfce_032",
+      "png": "imagens/nfce/png/nfce_032.png",
+      "png_tamanho_px": [
+        630,
+        2207
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_032.jpg",
+      "foto_degradacao": {
+        "largura_px": 520,
+        "altura_px": 1671,
+        "rotacao_graus": 0.58,
+        "deslocamento_perspectiva_px": 5.1,
+        "intensidade_iluminacao": 0.245,
+        "ruido_sigma": 4.47,
+        "desfoque_raio": 0.55,
+        "contraste": 0.959,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfce_033",
+      "png": "imagens/nfce/png/nfce_033.png",
+      "png_tamanho_px": [
+        630,
+        2112
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_033.jpg",
+      "foto_degradacao": {
+        "largura_px": 692,
+        "altura_px": 2075,
+        "rotacao_graus": -1.43,
+        "deslocamento_perspectiva_px": 16.6,
+        "intensidade_iluminacao": 0.2,
+        "ruido_sigma": 6.84,
+        "desfoque_raio": 1.06,
+        "contraste": 0.944,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfce_034",
+      "png": "imagens/nfce/png/nfce_034.png",
+      "png_tamanho_px": [
+        630,
+        2112
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_034.jpg",
+      "foto_degradacao": {
+        "largura_px": 645,
+        "altura_px": 1842,
+        "rotacao_graus": -2.89,
+        "deslocamento_perspectiva_px": 19.0,
+        "intensidade_iluminacao": 0.213,
+        "ruido_sigma": 3.88,
+        "desfoque_raio": 0.69,
+        "contraste": 0.996,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "nfce_035",
+      "png": "imagens/nfce/png/nfce_035.png",
+      "png_tamanho_px": [
+        630,
+        2156
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_035.jpg",
+      "foto_degradacao": {
+        "largura_px": 675,
+        "altura_px": 1990,
+        "rotacao_graus": -3.92,
+        "deslocamento_perspectiva_px": 7.8,
+        "intensidade_iluminacao": 0.278,
+        "ruido_sigma": 4.88,
+        "desfoque_raio": 1.0,
+        "contraste": 0.948,
+        "qualidade_jpeg": 87
+      }
+    },
+    {
+      "id": "nfce_036",
+      "png": "imagens/nfce/png/nfce_036.png",
+      "png_tamanho_px": [
+        630,
+        1793
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_036.jpg",
+      "foto_degradacao": {
+        "largura_px": 599,
+        "altura_px": 1465,
+        "rotacao_graus": 1.78,
+        "deslocamento_perspectiva_px": 12.5,
+        "intensidade_iluminacao": 0.167,
+        "ruido_sigma": 2.11,
+        "desfoque_raio": 0.96,
+        "contraste": 1.082,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfce_037",
+      "png": "imagens/nfce/png/nfce_037.png",
+      "png_tamanho_px": [
+        630,
+        2061
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_037.jpg",
+      "foto_degradacao": {
+        "largura_px": 541,
+        "altura_px": 1615,
+        "rotacao_graus": -2.35,
+        "deslocamento_perspectiva_px": 19.8,
+        "intensidade_iluminacao": 0.352,
+        "ruido_sigma": 6.36,
+        "desfoque_raio": 0.59,
+        "contraste": 0.931,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "nfce_038",
+      "png": "imagens/nfce/png/nfce_038.png",
+      "png_tamanho_px": [
+        630,
+        1852
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_038.jpg",
+      "foto_degradacao": {
+        "largura_px": 679,
+        "altura_px": 1779,
+        "rotacao_graus": -1.49,
+        "deslocamento_perspectiva_px": 19.5,
+        "intensidade_iluminacao": 0.179,
+        "ruido_sigma": 3.94,
+        "desfoque_raio": 0.55,
+        "contraste": 0.994,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfce_039",
+      "png": "imagens/nfce/png/nfce_039.png",
+      "png_tamanho_px": [
+        630,
+        2289
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_039.jpg",
+      "foto_degradacao": {
+        "largura_px": 689,
+        "altura_px": 2166,
+        "rotacao_graus": 1.48,
+        "deslocamento_perspectiva_px": 16.6,
+        "intensidade_iluminacao": 0.36,
+        "ruido_sigma": 2.15,
+        "desfoque_raio": 0.36,
+        "contraste": 0.923,
+        "qualidade_jpeg": 73
+      }
+    },
+    {
+      "id": "nfce_040",
+      "png": "imagens/nfce/png/nfce_040.png",
+      "png_tamanho_px": [
+        630,
+        1852
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_040.jpg",
+      "foto_degradacao": {
+        "largura_px": 562,
+        "altura_px": 1478,
+        "rotacao_graus": -0.4,
+        "deslocamento_perspectiva_px": 19.4,
+        "intensidade_iluminacao": 0.354,
+        "ruido_sigma": 5.88,
+        "desfoque_raio": 0.76,
+        "contraste": 1.053,
+        "qualidade_jpeg": 77
+      }
+    },
+    {
+      "id": "nfce_041",
+      "png": "imagens/nfce/png/nfce_041.png",
+      "png_tamanho_px": [
+        630,
+        1793
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_041.jpg",
+      "foto_degradacao": {
+        "largura_px": 733,
+        "altura_px": 1846,
+        "rotacao_graus": 3.94,
+        "deslocamento_perspectiva_px": 13.8,
+        "intensidade_iluminacao": 0.182,
+        "ruido_sigma": 5.56,
+        "desfoque_raio": 0.88,
+        "contraste": 1.04,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "nfce_042",
+      "png": "imagens/nfce/png/nfce_042.png",
+      "png_tamanho_px": [
+        630,
+        2289
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_042.jpg",
+      "foto_degradacao": {
+        "largura_px": 569,
+        "altura_px": 1799,
+        "rotacao_graus": 1.85,
+        "deslocamento_perspectiva_px": 6.1,
+        "intensidade_iluminacao": 0.316,
+        "ruido_sigma": 4.67,
+        "desfoque_raio": 1.08,
+        "contraste": 0.917,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "nfce_043",
+      "png": "imagens/nfce/png/nfce_043.png",
+      "png_tamanho_px": [
+        630,
+        1734
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_043.jpg",
+      "foto_degradacao": {
+        "largura_px": 620,
+        "altura_px": 1573,
+        "rotacao_graus": -2.73,
+        "deslocamento_perspectiva_px": 24.9,
+        "intensidade_iluminacao": 0.219,
+        "ruido_sigma": 3.86,
+        "desfoque_raio": 0.4,
+        "contraste": 0.949,
+        "qualidade_jpeg": 69
+      }
+    },
+    {
+      "id": "nfce_044",
+      "png": "imagens/nfce/png/nfce_044.png",
+      "png_tamanho_px": [
+        630,
+        2148
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_044.jpg",
+      "foto_degradacao": {
+        "largura_px": 592,
+        "altura_px": 1850,
+        "rotacao_graus": -2.17,
+        "deslocamento_perspectiva_px": 15.2,
+        "intensidade_iluminacao": 0.351,
+        "ruido_sigma": 3.5,
+        "desfoque_raio": 0.88,
+        "contraste": 1.01,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfce_045",
+      "png": "imagens/nfce/png/nfce_045.png",
+      "png_tamanho_px": [
+        630,
+        1817
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_045.jpg",
+      "foto_degradacao": {
+        "largura_px": 605,
+        "altura_px": 1624,
+        "rotacao_graus": -1.19,
+        "deslocamento_perspectiva_px": 21.0,
+        "intensidade_iluminacao": 0.348,
+        "ruido_sigma": 3.24,
+        "desfoque_raio": 0.79,
+        "contraste": 0.901,
+        "qualidade_jpeg": 67
+      }
+    },
+    {
+      "id": "nfce_046",
+      "png": "imagens/nfce/png/nfce_046.png",
+      "png_tamanho_px": [
+        630,
+        1801
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_046.jpg",
+      "foto_degradacao": {
+        "largura_px": 678,
+        "altura_px": 1760,
+        "rotacao_graus": 0.37,
+        "deslocamento_perspectiva_px": 14.8,
+        "intensidade_iluminacao": 0.268,
+        "ruido_sigma": 4.94,
+        "desfoque_raio": 1.2,
+        "contraste": 0.904,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfce_047",
+      "png": "imagens/nfce/png/nfce_047.png",
+      "png_tamanho_px": [
+        630,
+        2053
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_047.jpg",
+      "foto_degradacao": {
+        "largura_px": 654,
+        "altura_px": 1865,
+        "rotacao_graus": -0.87,
+        "deslocamento_perspectiva_px": 14.4,
+        "intensidade_iluminacao": 0.359,
+        "ruido_sigma": 5.49,
+        "desfoque_raio": 0.11,
+        "contraste": 0.864,
+        "qualidade_jpeg": 82
+      }
+    },
+    {
+      "id": "nfce_048",
+      "png": "imagens/nfce/png/nfce_048.png",
+      "png_tamanho_px": [
+        630,
+        1734
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_048.jpg",
+      "foto_degradacao": {
+        "largura_px": 562,
+        "altura_px": 1372,
+        "rotacao_graus": 1.86,
+        "deslocamento_perspectiva_px": 6.8,
+        "intensidade_iluminacao": 0.375,
+        "ruido_sigma": 4.62,
+        "desfoque_raio": 0.66,
+        "contraste": 0.974,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "nfce_049",
+      "png": "imagens/nfce/png/nfce_049.png",
+      "png_tamanho_px": [
+        630,
+        2148
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_049.jpg",
+      "foto_degradacao": {
+        "largura_px": 647,
+        "altura_px": 1936,
+        "rotacao_graus": 3.45,
+        "deslocamento_perspectiva_px": 21.9,
+        "intensidade_iluminacao": 0.288,
+        "ruido_sigma": 4.1,
+        "desfoque_raio": 0.94,
+        "contraste": 0.954,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfce_050",
+      "png": "imagens/nfce/png/nfce_050.png",
+      "png_tamanho_px": [
+        630,
+        2289
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfce/foto/nfce_050.jpg",
+      "foto_degradacao": {
+        "largura_px": 723,
+        "altura_px": 2295,
+        "rotacao_graus": -1.05,
+        "deslocamento_perspectiva_px": 10.3,
+        "intensidade_iluminacao": 0.346,
+        "ruido_sigma": 3.84,
+        "desfoque_raio": 1.01,
+        "contraste": 1.099,
+        "qualidade_jpeg": 70
+      }
+    }
+  ],
+  "nfse": [
+    {
+      "id": "nfse_001",
+      "png": "imagens/nfse/png/nfse_001.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_001.jpg",
+      "foto_degradacao": {
+        "largura_px": 1562,
+        "altura_px": 2072,
+        "rotacao_graus": -3.65,
+        "deslocamento_perspectiva_px": 59.2,
+        "intensidade_iluminacao": 0.361,
+        "ruido_sigma": 4.29,
+        "desfoque_raio": 0.66,
+        "contraste": 0.995,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfse_002",
+      "png": "imagens/nfse/png/nfse_002.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_002.jpg",
+      "foto_degradacao": {
+        "largura_px": 1444,
+        "altura_px": 1938,
+        "rotacao_graus": -2.76,
+        "deslocamento_perspectiva_px": 25.9,
+        "intensidade_iluminacao": 0.267,
+        "ruido_sigma": 6.82,
+        "desfoque_raio": 0.34,
+        "contraste": 0.927,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "nfse_003",
+      "png": "imagens/nfse/png/nfse_003.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_003.jpg",
+      "foto_degradacao": {
+        "largura_px": 1500,
+        "altura_px": 1998,
+        "rotacao_graus": 2.84,
+        "deslocamento_perspectiva_px": 52.2,
+        "intensidade_iluminacao": 0.288,
+        "ruido_sigma": 5.97,
+        "desfoque_raio": 1.02,
+        "contraste": 0.865,
+        "qualidade_jpeg": 69
+      }
+    },
+    {
+      "id": "nfse_004",
+      "png": "imagens/nfse/png/nfse_004.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_004.jpg",
+      "foto_degradacao": {
+        "largura_px": 1528,
+        "altura_px": 2034,
+        "rotacao_graus": -2.66,
+        "deslocamento_perspectiva_px": 57.1,
+        "intensidade_iluminacao": 0.355,
+        "ruido_sigma": 5.42,
+        "desfoque_raio": 0.24,
+        "contraste": 0.904,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfse_005",
+      "png": "imagens/nfse/png/nfse_005.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_005.jpg",
+      "foto_degradacao": {
+        "largura_px": 1577,
+        "altura_px": 2148,
+        "rotacao_graus": 3.92,
+        "deslocamento_perspectiva_px": 36.5,
+        "intensidade_iluminacao": 0.24,
+        "ruido_sigma": 6.56,
+        "desfoque_raio": 0.23,
+        "contraste": 0.947,
+        "qualidade_jpeg": 75
+      }
+    },
+    {
+      "id": "nfse_006",
+      "png": "imagens/nfse/png/nfse_006.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_006.jpg",
+      "foto_degradacao": {
+        "largura_px": 1634,
+        "altura_px": 2236,
+        "rotacao_graus": 0.61,
+        "deslocamento_perspectiva_px": 45.3,
+        "intensidade_iluminacao": 0.247,
+        "ruido_sigma": 2.87,
+        "desfoque_raio": 0.46,
+        "contraste": 1.026,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "nfse_007",
+      "png": "imagens/nfse/png/nfse_007.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_007.jpg",
+      "foto_degradacao": {
+        "largura_px": 1651,
+        "altura_px": 2246,
+        "rotacao_graus": 3.35,
+        "deslocamento_perspectiva_px": 24.5,
+        "intensidade_iluminacao": 0.231,
+        "ruido_sigma": 6.59,
+        "desfoque_raio": 1.12,
+        "contraste": 1.062,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfse_008",
+      "png": "imagens/nfse/png/nfse_008.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_008.jpg",
+      "foto_degradacao": {
+        "largura_px": 1705,
+        "altura_px": 2261,
+        "rotacao_graus": -2.21,
+        "deslocamento_perspectiva_px": 31.5,
+        "intensidade_iluminacao": 0.194,
+        "ruido_sigma": 2.64,
+        "desfoque_raio": 1.23,
+        "contraste": 1.087,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfse_009",
+      "png": "imagens/nfse/png/nfse_009.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_009.jpg",
+      "foto_degradacao": {
+        "largura_px": 1963,
+        "altura_px": 2617,
+        "rotacao_graus": -0.43,
+        "deslocamento_perspectiva_px": 53.8,
+        "intensidade_iluminacao": 0.212,
+        "ruido_sigma": 2.54,
+        "desfoque_raio": 0.95,
+        "contraste": 0.946,
+        "qualidade_jpeg": 65
+      }
+    },
+    {
+      "id": "nfse_010",
+      "png": "imagens/nfse/png/nfse_010.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_010.jpg",
+      "foto_degradacao": {
+        "largura_px": 1912,
+        "altura_px": 2573,
+        "rotacao_graus": -3.41,
+        "deslocamento_perspectiva_px": 68.9,
+        "intensidade_iluminacao": 0.244,
+        "ruido_sigma": 6.49,
+        "desfoque_raio": 0.8,
+        "contraste": 0.999,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfse_011",
+      "png": "imagens/nfse/png/nfse_011.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_011.jpg",
+      "foto_degradacao": {
+        "largura_px": 1791,
+        "altura_px": 2415,
+        "rotacao_graus": 0.57,
+        "deslocamento_perspectiva_px": 18.3,
+        "intensidade_iluminacao": 0.188,
+        "ruido_sigma": 3.47,
+        "desfoque_raio": 0.03,
+        "contraste": 0.9,
+        "qualidade_jpeg": 65
+      }
+    },
+    {
+      "id": "nfse_012",
+      "png": "imagens/nfse/png/nfse_012.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_012.jpg",
+      "foto_degradacao": {
+        "largura_px": 1880,
+        "altura_px": 2490,
+        "rotacao_graus": -0.48,
+        "deslocamento_perspectiva_px": 32.9,
+        "intensidade_iluminacao": 0.359,
+        "ruido_sigma": 5.48,
+        "desfoque_raio": 1.05,
+        "contraste": 1.017,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "nfse_013",
+      "png": "imagens/nfse/png/nfse_013.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_013.jpg",
+      "foto_degradacao": {
+        "largura_px": 1942,
+        "altura_px": 2605,
+        "rotacao_graus": -3.04,
+        "deslocamento_perspectiva_px": 77.8,
+        "intensidade_iluminacao": 0.193,
+        "ruido_sigma": 6.04,
+        "desfoque_raio": 1.28,
+        "contraste": 0.956,
+        "qualidade_jpeg": 82
+      }
+    },
+    {
+      "id": "nfse_014",
+      "png": "imagens/nfse/png/nfse_014.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_014.jpg",
+      "foto_degradacao": {
+        "largura_px": 1573,
+        "altura_px": 2094,
+        "rotacao_graus": -3.1,
+        "deslocamento_perspectiva_px": 58.4,
+        "intensidade_iluminacao": 0.292,
+        "ruido_sigma": 2.5,
+        "desfoque_raio": 1.13,
+        "contraste": 1.046,
+        "qualidade_jpeg": 77
+      }
+    },
+    {
+      "id": "nfse_015",
+      "png": "imagens/nfse/png/nfse_015.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_015.jpg",
+      "foto_degradacao": {
+        "largura_px": 1851,
+        "altura_px": 2511,
+        "rotacao_graus": 3.18,
+        "deslocamento_perspectiva_px": 26.9,
+        "intensidade_iluminacao": 0.354,
+        "ruido_sigma": 4.46,
+        "desfoque_raio": 1.27,
+        "contraste": 0.884,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "nfse_016",
+      "png": "imagens/nfse/png/nfse_016.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_016.jpg",
+      "foto_degradacao": {
+        "largura_px": 1805,
+        "altura_px": 2443,
+        "rotacao_graus": 2.24,
+        "deslocamento_perspectiva_px": 42.6,
+        "intensidade_iluminacao": 0.292,
+        "ruido_sigma": 3.0,
+        "desfoque_raio": 0.07,
+        "contraste": 0.858,
+        "qualidade_jpeg": 78
+      }
+    },
+    {
+      "id": "nfse_017",
+      "png": "imagens/nfse/png/nfse_017.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_017.jpg",
+      "foto_degradacao": {
+        "largura_px": 1753,
+        "altura_px": 2377,
+        "rotacao_graus": -3.78,
+        "deslocamento_perspectiva_px": 53.4,
+        "intensidade_iluminacao": 0.363,
+        "ruido_sigma": 3.11,
+        "desfoque_raio": 0.67,
+        "contraste": 1.013,
+        "qualidade_jpeg": 55
+      }
+    },
+    {
+      "id": "nfse_018",
+      "png": "imagens/nfse/png/nfse_018.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_018.jpg",
+      "foto_degradacao": {
+        "largura_px": 1589,
+        "altura_px": 2166,
+        "rotacao_graus": 0.68,
+        "deslocamento_perspectiva_px": 28.0,
+        "intensidade_iluminacao": 0.4,
+        "ruido_sigma": 4.81,
+        "desfoque_raio": 0.63,
+        "contraste": 1.021,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "nfse_019",
+      "png": "imagens/nfse/png/nfse_019.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_019.jpg",
+      "foto_degradacao": {
+        "largura_px": 1954,
+        "altura_px": 2617,
+        "rotacao_graus": -1.92,
+        "deslocamento_perspectiva_px": 25.6,
+        "intensidade_iluminacao": 0.247,
+        "ruido_sigma": 4.86,
+        "desfoque_raio": 0.29,
+        "contraste": 1.032,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfse_020",
+      "png": "imagens/nfse/png/nfse_020.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_020.jpg",
+      "foto_degradacao": {
+        "largura_px": 1962,
+        "altura_px": 2625,
+        "rotacao_graus": 1.95,
+        "deslocamento_perspectiva_px": 34.8,
+        "intensidade_iluminacao": 0.347,
+        "ruido_sigma": 3.47,
+        "desfoque_raio": 1.13,
+        "contraste": 0.968,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "nfse_021",
+      "png": "imagens/nfse/png/nfse_021.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_021.jpg",
+      "foto_degradacao": {
+        "largura_px": 1602,
+        "altura_px": 2178,
+        "rotacao_graus": -0.1,
+        "deslocamento_perspectiva_px": 16.9,
+        "intensidade_iluminacao": 0.194,
+        "ruido_sigma": 3.37,
+        "desfoque_raio": 0.99,
+        "contraste": 0.972,
+        "qualidade_jpeg": 60
+      }
+    },
+    {
+      "id": "nfse_022",
+      "png": "imagens/nfse/png/nfse_022.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_022.jpg",
+      "foto_degradacao": {
+        "largura_px": 1452,
+        "altura_px": 1958,
+        "rotacao_graus": 1.55,
+        "deslocamento_perspectiva_px": 59.4,
+        "intensidade_iluminacao": 0.182,
+        "ruido_sigma": 2.84,
+        "desfoque_raio": 0.38,
+        "contraste": 0.925,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfse_023",
+      "png": "imagens/nfse/png/nfse_023.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_023.jpg",
+      "foto_degradacao": {
+        "largura_px": 1705,
+        "altura_px": 2307,
+        "rotacao_graus": -3.01,
+        "deslocamento_perspectiva_px": 35.4,
+        "intensidade_iluminacao": 0.348,
+        "ruido_sigma": 5.86,
+        "desfoque_raio": 0.06,
+        "contraste": 0.998,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfse_024",
+      "png": "imagens/nfse/png/nfse_024.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_024.jpg",
+      "foto_degradacao": {
+        "largura_px": 1664,
+        "altura_px": 2278,
+        "rotacao_graus": -0.65,
+        "deslocamento_perspectiva_px": 37.4,
+        "intensidade_iluminacao": 0.278,
+        "ruido_sigma": 5.92,
+        "desfoque_raio": 1.01,
+        "contraste": 1.002,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfse_025",
+      "png": "imagens/nfse/png/nfse_025.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_025.jpg",
+      "foto_degradacao": {
+        "largura_px": 1882,
+        "altura_px": 2545,
+        "rotacao_graus": 1.79,
+        "deslocamento_perspectiva_px": 18.5,
+        "intensidade_iluminacao": 0.214,
+        "ruido_sigma": 3.48,
+        "desfoque_raio": 0.23,
+        "contraste": 0.875,
+        "qualidade_jpeg": 57
+      }
+    },
+    {
+      "id": "nfse_026",
+      "png": "imagens/nfse/png/nfse_026.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_026.jpg",
+      "foto_degradacao": {
+        "largura_px": 1860,
+        "altura_px": 2514,
+        "rotacao_graus": -3.09,
+        "deslocamento_perspectiva_px": 69.6,
+        "intensidade_iluminacao": 0.264,
+        "ruido_sigma": 4.39,
+        "desfoque_raio": 0.94,
+        "contraste": 0.883,
+        "qualidade_jpeg": 65
+      }
+    },
+    {
+      "id": "nfse_027",
+      "png": "imagens/nfse/png/nfse_027.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_027.jpg",
+      "foto_degradacao": {
+        "largura_px": 1529,
+        "altura_px": 2030,
+        "rotacao_graus": -0.47,
+        "deslocamento_perspectiva_px": 20.9,
+        "intensidade_iluminacao": 0.314,
+        "ruido_sigma": 4.62,
+        "desfoque_raio": 0.89,
+        "contraste": 0.98,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfse_028",
+      "png": "imagens/nfse/png/nfse_028.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_028.jpg",
+      "foto_degradacao": {
+        "largura_px": 1696,
+        "altura_px": 2264,
+        "rotacao_graus": -1.43,
+        "deslocamento_perspectiva_px": 59.8,
+        "intensidade_iluminacao": 0.22,
+        "ruido_sigma": 3.89,
+        "desfoque_raio": 0.58,
+        "contraste": 0.87,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "nfse_029",
+      "png": "imagens/nfse/png/nfse_029.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_029.jpg",
+      "foto_degradacao": {
+        "largura_px": 1439,
+        "altura_px": 1936,
+        "rotacao_graus": 2.6,
+        "deslocamento_perspectiva_px": 16.9,
+        "intensidade_iluminacao": 0.361,
+        "ruido_sigma": 5.0,
+        "desfoque_raio": 0.86,
+        "contraste": 0.874,
+        "qualidade_jpeg": 55
+      }
+    },
+    {
+      "id": "nfse_030",
+      "png": "imagens/nfse/png/nfse_030.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_030.jpg",
+      "foto_degradacao": {
+        "largura_px": 1661,
+        "altura_px": 2211,
+        "rotacao_graus": 1.73,
+        "deslocamento_perspectiva_px": 60.9,
+        "intensidade_iluminacao": 0.254,
+        "ruido_sigma": 4.94,
+        "desfoque_raio": 1.24,
+        "contraste": 1.015,
+        "qualidade_jpeg": 63
+      }
+    },
+    {
+      "id": "nfse_031",
+      "png": "imagens/nfse/png/nfse_031.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_031.jpg",
+      "foto_degradacao": {
+        "largura_px": 1792,
+        "altura_px": 2455,
+        "rotacao_graus": 3.84,
+        "deslocamento_perspectiva_px": 75.2,
+        "intensidade_iluminacao": 0.341,
+        "ruido_sigma": 6.85,
+        "desfoque_raio": 0.91,
+        "contraste": 0.953,
+        "qualidade_jpeg": 87
+      }
+    },
+    {
+      "id": "nfse_032",
+      "png": "imagens/nfse/png/nfse_032.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_032.jpg",
+      "foto_degradacao": {
+        "largura_px": 1608,
+        "altura_px": 2149,
+        "rotacao_graus": 2.09,
+        "deslocamento_perspectiva_px": 23.6,
+        "intensidade_iluminacao": 0.296,
+        "ruido_sigma": 5.37,
+        "desfoque_raio": 0.55,
+        "contraste": 1.069,
+        "qualidade_jpeg": 55
+      }
+    },
+    {
+      "id": "nfse_033",
+      "png": "imagens/nfse/png/nfse_033.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_033.jpg",
+      "foto_degradacao": {
+        "largura_px": 1591,
+        "altura_px": 2178,
+        "rotacao_graus": -3.18,
+        "deslocamento_perspectiva_px": 29.3,
+        "intensidade_iluminacao": 0.335,
+        "ruido_sigma": 4.81,
+        "desfoque_raio": 0.5,
+        "contraste": 1.082,
+        "qualidade_jpeg": 75
+      }
+    },
+    {
+      "id": "nfse_034",
+      "png": "imagens/nfse/png/nfse_034.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_034.jpg",
+      "foto_degradacao": {
+        "largura_px": 1804,
+        "altura_px": 2467,
+        "rotacao_graus": -1.36,
+        "deslocamento_perspectiva_px": 44.7,
+        "intensidade_iluminacao": 0.189,
+        "ruido_sigma": 2.25,
+        "desfoque_raio": 0.74,
+        "contraste": 0.973,
+        "qualidade_jpeg": 77
+      }
+    },
+    {
+      "id": "nfse_035",
+      "png": "imagens/nfse/png/nfse_035.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_035.jpg",
+      "foto_degradacao": {
+        "largura_px": 1471,
+        "altura_px": 1965,
+        "rotacao_graus": -3.08,
+        "deslocamento_perspectiva_px": 31.8,
+        "intensidade_iluminacao": 0.21,
+        "ruido_sigma": 3.22,
+        "desfoque_raio": 1.04,
+        "contraste": 0.945,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "nfse_036",
+      "png": "imagens/nfse/png/nfse_036.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_036.jpg",
+      "foto_degradacao": {
+        "largura_px": 1627,
+        "altura_px": 2186,
+        "rotacao_graus": 1.02,
+        "deslocamento_perspectiva_px": 41.2,
+        "intensidade_iluminacao": 0.307,
+        "ruido_sigma": 6.18,
+        "desfoque_raio": 0.93,
+        "contraste": 0.856,
+        "qualidade_jpeg": 57
+      }
+    },
+    {
+      "id": "nfse_037",
+      "png": "imagens/nfse/png/nfse_037.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_037.jpg",
+      "foto_degradacao": {
+        "largura_px": 1355,
+        "altura_px": 1852,
+        "rotacao_graus": -1.14,
+        "deslocamento_perspectiva_px": 39.6,
+        "intensidade_iluminacao": 0.222,
+        "ruido_sigma": 3.41,
+        "desfoque_raio": 1.07,
+        "contraste": 0.945,
+        "qualidade_jpeg": 56
+      }
+    },
+    {
+      "id": "nfse_038",
+      "png": "imagens/nfse/png/nfse_038.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_038.jpg",
+      "foto_degradacao": {
+        "largura_px": 1676,
+        "altura_px": 2252,
+        "rotacao_graus": -3.01,
+        "deslocamento_perspectiva_px": 58.3,
+        "intensidade_iluminacao": 0.299,
+        "ruido_sigma": 3.52,
+        "desfoque_raio": 0.84,
+        "contraste": 0.953,
+        "qualidade_jpeg": 87
+      }
+    },
+    {
+      "id": "nfse_039",
+      "png": "imagens/nfse/png/nfse_039.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_039.jpg",
+      "foto_degradacao": {
+        "largura_px": 1410,
+        "altura_px": 1919,
+        "rotacao_graus": -1.99,
+        "deslocamento_perspectiva_px": 21.8,
+        "intensidade_iluminacao": 0.295,
+        "ruido_sigma": 5.36,
+        "desfoque_raio": 0.09,
+        "contraste": 0.921,
+        "qualidade_jpeg": 67
+      }
+    },
+    {
+      "id": "nfse_040",
+      "png": "imagens/nfse/png/nfse_040.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_040.jpg",
+      "foto_degradacao": {
+        "largura_px": 1567,
+        "altura_px": 2112,
+        "rotacao_graus": 1.44,
+        "deslocamento_perspectiva_px": 49.6,
+        "intensidade_iluminacao": 0.27,
+        "ruido_sigma": 4.43,
+        "desfoque_raio": 0.11,
+        "contraste": 1.011,
+        "qualidade_jpeg": 72
+      }
+    },
+    {
+      "id": "nfse_041",
+      "png": "imagens/nfse/png/nfse_041.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_041.jpg",
+      "foto_degradacao": {
+        "largura_px": 1807,
+        "altura_px": 2463,
+        "rotacao_graus": 0.41,
+        "deslocamento_perspectiva_px": 62.3,
+        "intensidade_iluminacao": 0.4,
+        "ruido_sigma": 3.83,
+        "desfoque_raio": 0.66,
+        "contraste": 0.966,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "nfse_042",
+      "png": "imagens/nfse/png/nfse_042.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_042.jpg",
+      "foto_degradacao": {
+        "largura_px": 1500,
+        "altura_px": 2054,
+        "rotacao_graus": -1.89,
+        "deslocamento_perspectiva_px": 37.3,
+        "intensidade_iluminacao": 0.317,
+        "ruido_sigma": 3.94,
+        "desfoque_raio": 0.05,
+        "contraste": 1.07,
+        "qualidade_jpeg": 75
+      }
+    },
+    {
+      "id": "nfse_043",
+      "png": "imagens/nfse/png/nfse_043.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_043.jpg",
+      "foto_degradacao": {
+        "largura_px": 1541,
+        "altura_px": 2042,
+        "rotacao_graus": 0.01,
+        "deslocamento_perspectiva_px": 43.7,
+        "intensidade_iluminacao": 0.191,
+        "ruido_sigma": 3.06,
+        "desfoque_raio": 0.93,
+        "contraste": 0.941,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "nfse_044",
+      "png": "imagens/nfse/png/nfse_044.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_044.jpg",
+      "foto_degradacao": {
+        "largura_px": 1761,
+        "altura_px": 2376,
+        "rotacao_graus": -3.55,
+        "deslocamento_perspectiva_px": 43.5,
+        "intensidade_iluminacao": 0.195,
+        "ruido_sigma": 4.82,
+        "desfoque_raio": 1.29,
+        "contraste": 0.962,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "nfse_045",
+      "png": "imagens/nfse/png/nfse_045.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_045.jpg",
+      "foto_degradacao": {
+        "largura_px": 1556,
+        "altura_px": 2070,
+        "rotacao_graus": -0.19,
+        "deslocamento_perspectiva_px": 43.4,
+        "intensidade_iluminacao": 0.16,
+        "ruido_sigma": 2.59,
+        "desfoque_raio": 1.01,
+        "contraste": 1.074,
+        "qualidade_jpeg": 82
+      }
+    },
+    {
+      "id": "nfse_046",
+      "png": "imagens/nfse/png/nfse_046.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_046.jpg",
+      "foto_degradacao": {
+        "largura_px": 1668,
+        "altura_px": 2254,
+        "rotacao_graus": -1.73,
+        "deslocamento_perspectiva_px": 67.3,
+        "intensidade_iluminacao": 0.252,
+        "ruido_sigma": 5.95,
+        "desfoque_raio": 0.89,
+        "contraste": 1.014,
+        "qualidade_jpeg": 75
+      }
+    },
+    {
+      "id": "nfse_047",
+      "png": "imagens/nfse/png/nfse_047.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_047.jpg",
+      "foto_degradacao": {
+        "largura_px": 1546,
+        "altura_px": 2109,
+        "rotacao_graus": 3.91,
+        "deslocamento_perspectiva_px": 60.1,
+        "intensidade_iluminacao": 0.344,
+        "ruido_sigma": 6.32,
+        "desfoque_raio": 1.23,
+        "contraste": 1.046,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "nfse_048",
+      "png": "imagens/nfse/png/nfse_048.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_048.jpg",
+      "foto_degradacao": {
+        "largura_px": 1496,
+        "altura_px": 2019,
+        "rotacao_graus": 0.91,
+        "deslocamento_perspectiva_px": 32.3,
+        "intensidade_iluminacao": 0.328,
+        "ruido_sigma": 6.1,
+        "desfoque_raio": 0.26,
+        "contraste": 0.96,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "nfse_049",
+      "png": "imagens/nfse/png/nfse_049.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_049.jpg",
+      "foto_degradacao": {
+        "largura_px": 1461,
+        "altura_px": 1999,
+        "rotacao_graus": 0.14,
+        "deslocamento_perspectiva_px": 45.0,
+        "intensidade_iluminacao": 0.167,
+        "ruido_sigma": 6.15,
+        "desfoque_raio": 0.36,
+        "contraste": 1.091,
+        "qualidade_jpeg": 67
+      }
+    },
+    {
+      "id": "nfse_050",
+      "png": "imagens/nfse/png/nfse_050.png",
+      "png_tamanho_px": [
+        1654,
+        2339
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/nfse/foto/nfse_050.jpg",
+      "foto_degradacao": {
+        "largura_px": 1637,
+        "altura_px": 2210,
+        "rotacao_graus": 1.45,
+        "deslocamento_perspectiva_px": 36.4,
+        "intensidade_iluminacao": 0.366,
+        "ruido_sigma": 3.91,
+        "desfoque_raio": 0.54,
+        "contraste": 1.05,
+        "qualidade_jpeg": 77
+      }
+    }
+  ],
+  "recibo": [
+    {
+      "id": "recibo_001",
+      "png": "imagens/recibo/png/recibo_001.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_001.jpg",
+      "foto_degradacao": {
+        "largura_px": 1494,
+        "altura_px": 1096,
+        "rotacao_graus": -2.24,
+        "deslocamento_perspectiva_px": 20.7,
+        "intensidade_iluminacao": 0.352,
+        "ruido_sigma": 5.49,
+        "desfoque_raio": 1.24,
+        "contraste": 0.889,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "recibo_002",
+      "png": "imagens/recibo/png/recibo_002.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_002.jpg",
+      "foto_degradacao": {
+        "largura_px": 1286,
+        "altura_px": 875,
+        "rotacao_graus": 1.64,
+        "deslocamento_perspectiva_px": 37.2,
+        "intensidade_iluminacao": 0.207,
+        "ruido_sigma": 3.16,
+        "desfoque_raio": 0.83,
+        "contraste": 0.919,
+        "qualidade_jpeg": 78
+      }
+    },
+    {
+      "id": "recibo_003",
+      "png": "imagens/recibo/png/recibo_003.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_003.jpg",
+      "foto_degradacao": {
+        "largura_px": 1313,
+        "altura_px": 844,
+        "rotacao_graus": -1.86,
+        "deslocamento_perspectiva_px": 35.0,
+        "intensidade_iluminacao": 0.386,
+        "ruido_sigma": 5.28,
+        "desfoque_raio": 0.32,
+        "contraste": 0.916,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "recibo_004",
+      "png": "imagens/recibo/png/recibo_004.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_004.jpg",
+      "foto_degradacao": {
+        "largura_px": 1636,
+        "altura_px": 1278,
+        "rotacao_graus": 0.77,
+        "deslocamento_perspectiva_px": 25.9,
+        "intensidade_iluminacao": 0.213,
+        "ruido_sigma": 5.4,
+        "desfoque_raio": 0.44,
+        "contraste": 1.042,
+        "qualidade_jpeg": 73
+      }
+    },
+    {
+      "id": "recibo_005",
+      "png": "imagens/recibo/png/recibo_005.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_005.jpg",
+      "foto_degradacao": {
+        "largura_px": 1477,
+        "altura_px": 1010,
+        "rotacao_graus": 0.79,
+        "deslocamento_perspectiva_px": 37.6,
+        "intensidade_iluminacao": 0.178,
+        "ruido_sigma": 6.03,
+        "desfoque_raio": 0.74,
+        "contraste": 0.91,
+        "qualidade_jpeg": 60
+      }
+    },
+    {
+      "id": "recibo_006",
+      "png": "imagens/recibo/png/recibo_006.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_006.jpg",
+      "foto_degradacao": {
+        "largura_px": 1294,
+        "altura_px": 840,
+        "rotacao_graus": 3.2,
+        "deslocamento_perspectiva_px": 39.4,
+        "intensidade_iluminacao": 0.212,
+        "ruido_sigma": 4.77,
+        "desfoque_raio": 0.92,
+        "contraste": 0.852,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "recibo_007",
+      "png": "imagens/recibo/png/recibo_007.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_007.jpg",
+      "foto_degradacao": {
+        "largura_px": 1448,
+        "altura_px": 1150,
+        "rotacao_graus": -1.17,
+        "deslocamento_perspectiva_px": 42.1,
+        "intensidade_iluminacao": 0.366,
+        "ruido_sigma": 5.23,
+        "desfoque_raio": 1.04,
+        "contraste": 1.032,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "recibo_008",
+      "png": "imagens/recibo/png/recibo_008.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_008.jpg",
+      "foto_degradacao": {
+        "largura_px": 1327,
+        "altura_px": 892,
+        "rotacao_graus": 3.41,
+        "deslocamento_perspectiva_px": 20.0,
+        "intensidade_iluminacao": 0.192,
+        "ruido_sigma": 4.01,
+        "desfoque_raio": 1.28,
+        "contraste": 0.945,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "recibo_009",
+      "png": "imagens/recibo/png/recibo_009.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_009.jpg",
+      "foto_degradacao": {
+        "largura_px": 1817,
+        "altura_px": 1205,
+        "rotacao_graus": 3.69,
+        "deslocamento_perspectiva_px": 23.6,
+        "intensidade_iluminacao": 0.196,
+        "ruido_sigma": 3.18,
+        "desfoque_raio": 0.54,
+        "contraste": 1.005,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "recibo_010",
+      "png": "imagens/recibo/png/recibo_010.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_010.jpg",
+      "foto_degradacao": {
+        "largura_px": 1376,
+        "altura_px": 1068,
+        "rotacao_graus": 0.05,
+        "deslocamento_perspectiva_px": 30.6,
+        "intensidade_iluminacao": 0.237,
+        "ruido_sigma": 3.42,
+        "desfoque_raio": 0.72,
+        "contraste": 1.017,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "recibo_011",
+      "png": "imagens/recibo/png/recibo_011.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_011.jpg",
+      "foto_degradacao": {
+        "largura_px": 1670,
+        "altura_px": 1119,
+        "rotacao_graus": -3.97,
+        "deslocamento_perspectiva_px": 58.1,
+        "intensidade_iluminacao": 0.309,
+        "ruido_sigma": 4.76,
+        "desfoque_raio": 1.15,
+        "contraste": 0.869,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "recibo_012",
+      "png": "imagens/recibo/png/recibo_012.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_012.jpg",
+      "foto_degradacao": {
+        "largura_px": 1614,
+        "altura_px": 1074,
+        "rotacao_graus": 2.92,
+        "deslocamento_perspectiva_px": 35.0,
+        "intensidade_iluminacao": 0.353,
+        "ruido_sigma": 5.68,
+        "desfoque_raio": 1.12,
+        "contraste": 1.051,
+        "qualidade_jpeg": 70
+      }
+    },
+    {
+      "id": "recibo_013",
+      "png": "imagens/recibo/png/recibo_013.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_013.jpg",
+      "foto_degradacao": {
+        "largura_px": 1449,
+        "altura_px": 1101,
+        "rotacao_graus": 1.13,
+        "deslocamento_perspectiva_px": 20.9,
+        "intensidade_iluminacao": 0.395,
+        "ruido_sigma": 2.58,
+        "desfoque_raio": 1.25,
+        "contraste": 0.895,
+        "qualidade_jpeg": 71
+      }
+    },
+    {
+      "id": "recibo_014",
+      "png": "imagens/recibo/png/recibo_014.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_014.jpg",
+      "foto_degradacao": {
+        "largura_px": 1289,
+        "altura_px": 889,
+        "rotacao_graus": -3.44,
+        "deslocamento_perspectiva_px": 36.3,
+        "intensidade_iluminacao": 0.233,
+        "ruido_sigma": 5.6,
+        "desfoque_raio": 0.38,
+        "contraste": 0.951,
+        "qualidade_jpeg": 63
+      }
+    },
+    {
+      "id": "recibo_015",
+      "png": "imagens/recibo/png/recibo_015.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_015.jpg",
+      "foto_degradacao": {
+        "largura_px": 1384,
+        "altura_px": 910,
+        "rotacao_graus": 0.09,
+        "deslocamento_perspectiva_px": 39.1,
+        "intensidade_iluminacao": 0.39,
+        "ruido_sigma": 3.42,
+        "desfoque_raio": 1.24,
+        "contraste": 0.873,
+        "qualidade_jpeg": 70
+      }
+    },
+    {
+      "id": "recibo_016",
+      "png": "imagens/recibo/png/recibo_016.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_016.jpg",
+      "foto_degradacao": {
+        "largura_px": 1553,
+        "altura_px": 1151,
+        "rotacao_graus": 1.25,
+        "deslocamento_perspectiva_px": 15.9,
+        "intensidade_iluminacao": 0.338,
+        "ruido_sigma": 4.13,
+        "desfoque_raio": 0.32,
+        "contraste": 0.863,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "recibo_017",
+      "png": "imagens/recibo/png/recibo_017.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_017.jpg",
+      "foto_degradacao": {
+        "largura_px": 1556,
+        "altura_px": 1086,
+        "rotacao_graus": 2.01,
+        "deslocamento_perspectiva_px": 59.9,
+        "intensidade_iluminacao": 0.219,
+        "ruido_sigma": 3.2,
+        "desfoque_raio": 0.3,
+        "contraste": 1.028,
+        "qualidade_jpeg": 76
+      }
+    },
+    {
+      "id": "recibo_018",
+      "png": "imagens/recibo/png/recibo_018.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_018.jpg",
+      "foto_degradacao": {
+        "largura_px": 1431,
+        "altura_px": 933,
+        "rotacao_graus": -0.18,
+        "deslocamento_perspectiva_px": 30.1,
+        "intensidade_iluminacao": 0.225,
+        "ruido_sigma": 6.18,
+        "desfoque_raio": 0.35,
+        "contraste": 0.972,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "recibo_019",
+      "png": "imagens/recibo/png/recibo_019.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_019.jpg",
+      "foto_degradacao": {
+        "largura_px": 1239,
+        "altura_px": 964,
+        "rotacao_graus": -1.92,
+        "deslocamento_perspectiva_px": 46.1,
+        "intensidade_iluminacao": 0.264,
+        "ruido_sigma": 3.39,
+        "desfoque_raio": 0.61,
+        "contraste": 1.059,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "recibo_020",
+      "png": "imagens/recibo/png/recibo_020.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_020.jpg",
+      "foto_degradacao": {
+        "largura_px": 1753,
+        "altura_px": 1191,
+        "rotacao_graus": -2.66,
+        "deslocamento_perspectiva_px": 59.9,
+        "intensidade_iluminacao": 0.337,
+        "ruido_sigma": 6.82,
+        "desfoque_raio": 0.93,
+        "contraste": 0.949,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "recibo_021",
+      "png": "imagens/recibo/png/recibo_021.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_021.jpg",
+      "foto_degradacao": {
+        "largura_px": 1639,
+        "altura_px": 1090,
+        "rotacao_graus": -0.53,
+        "deslocamento_perspectiva_px": 57.6,
+        "intensidade_iluminacao": 0.373,
+        "ruido_sigma": 2.88,
+        "desfoque_raio": 1.2,
+        "contraste": 1.004,
+        "qualidade_jpeg": 85
+      }
+    },
+    {
+      "id": "recibo_022",
+      "png": "imagens/recibo/png/recibo_022.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_022.jpg",
+      "foto_degradacao": {
+        "largura_px": 1566,
+        "altura_px": 1240,
+        "rotacao_graus": -2.3,
+        "deslocamento_perspectiva_px": 55.2,
+        "intensidade_iluminacao": 0.235,
+        "ruido_sigma": 3.38,
+        "desfoque_raio": 0.94,
+        "contraste": 0.871,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "recibo_023",
+      "png": "imagens/recibo/png/recibo_023.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_023.jpg",
+      "foto_degradacao": {
+        "largura_px": 1496,
+        "altura_px": 1009,
+        "rotacao_graus": 1.62,
+        "deslocamento_perspectiva_px": 53.9,
+        "intensidade_iluminacao": 0.213,
+        "ruido_sigma": 2.6,
+        "desfoque_raio": 0.63,
+        "contraste": 0.904,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "recibo_024",
+      "png": "imagens/recibo/png/recibo_024.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_024.jpg",
+      "foto_degradacao": {
+        "largura_px": 1673,
+        "altura_px": 1123,
+        "rotacao_graus": -0.17,
+        "deslocamento_perspectiva_px": 32.0,
+        "intensidade_iluminacao": 0.391,
+        "ruido_sigma": 2.57,
+        "desfoque_raio": 0.75,
+        "contraste": 0.973,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "recibo_025",
+      "png": "imagens/recibo/png/recibo_025.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_025.jpg",
+      "foto_degradacao": {
+        "largura_px": 1388,
+        "altura_px": 1099,
+        "rotacao_graus": 0.88,
+        "deslocamento_perspectiva_px": 35.9,
+        "intensidade_iluminacao": 0.387,
+        "ruido_sigma": 5.3,
+        "desfoque_raio": 0.1,
+        "contraste": 0.893,
+        "qualidade_jpeg": 55
+      }
+    },
+    {
+      "id": "recibo_026",
+      "png": "imagens/recibo/png/recibo_026.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_026.jpg",
+      "foto_degradacao": {
+        "largura_px": 1509,
+        "altura_px": 1047,
+        "rotacao_graus": 0.36,
+        "deslocamento_perspectiva_px": 23.6,
+        "intensidade_iluminacao": 0.377,
+        "ruido_sigma": 2.83,
+        "desfoque_raio": 0.9,
+        "contraste": 0.881,
+        "qualidade_jpeg": 80
+      }
+    },
+    {
+      "id": "recibo_027",
+      "png": "imagens/recibo/png/recibo_027.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_027.jpg",
+      "foto_degradacao": {
+        "largura_px": 1758,
+        "altura_px": 1143,
+        "rotacao_graus": -0.24,
+        "deslocamento_perspectiva_px": 49.7,
+        "intensidade_iluminacao": 0.379,
+        "ruido_sigma": 5.17,
+        "desfoque_raio": 0.43,
+        "contraste": 0.937,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "recibo_028",
+      "png": "imagens/recibo/png/recibo_028.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_028.jpg",
+      "foto_degradacao": {
+        "largura_px": 1674,
+        "altura_px": 1303,
+        "rotacao_graus": -3.57,
+        "deslocamento_perspectiva_px": 60.8,
+        "intensidade_iluminacao": 0.306,
+        "ruido_sigma": 2.26,
+        "desfoque_raio": 0.63,
+        "contraste": 1.07,
+        "qualidade_jpeg": 56
+      }
+    },
+    {
+      "id": "recibo_029",
+      "png": "imagens/recibo/png/recibo_029.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_029.jpg",
+      "foto_degradacao": {
+        "largura_px": 1799,
+        "altura_px": 1242,
+        "rotacao_graus": 2.68,
+        "deslocamento_perspectiva_px": 33.2,
+        "intensidade_iluminacao": 0.211,
+        "ruido_sigma": 6.61,
+        "desfoque_raio": 0.36,
+        "contraste": 1.066,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "recibo_030",
+      "png": "imagens/recibo/png/recibo_030.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_030.jpg",
+      "foto_degradacao": {
+        "largura_px": 1490,
+        "altura_px": 988,
+        "rotacao_graus": 3.46,
+        "deslocamento_perspectiva_px": 25.5,
+        "intensidade_iluminacao": 0.395,
+        "ruido_sigma": 6.28,
+        "desfoque_raio": 0.61,
+        "contraste": 0.93,
+        "qualidade_jpeg": 79
+      }
+    },
+    {
+      "id": "recibo_031",
+      "png": "imagens/recibo/png/recibo_031.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_031.jpg",
+      "foto_degradacao": {
+        "largura_px": 1491,
+        "altura_px": 1127,
+        "rotacao_graus": 2.25,
+        "deslocamento_perspectiva_px": 36.6,
+        "intensidade_iluminacao": 0.306,
+        "ruido_sigma": 3.64,
+        "desfoque_raio": 0.81,
+        "contraste": 1.089,
+        "qualidade_jpeg": 86
+      }
+    },
+    {
+      "id": "recibo_032",
+      "png": "imagens/recibo/png/recibo_032.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_032.jpg",
+      "foto_degradacao": {
+        "largura_px": 1614,
+        "altura_px": 1074,
+        "rotacao_graus": -2.84,
+        "deslocamento_perspectiva_px": 70.5,
+        "intensidade_iluminacao": 0.291,
+        "ruido_sigma": 2.39,
+        "desfoque_raio": 0.31,
+        "contraste": 1.005,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "recibo_033",
+      "png": "imagens/recibo/png/recibo_033.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_033.jpg",
+      "foto_degradacao": {
+        "largura_px": 1402,
+        "altura_px": 920,
+        "rotacao_graus": -2.1,
+        "deslocamento_perspectiva_px": 52.9,
+        "intensidade_iluminacao": 0.294,
+        "ruido_sigma": 6.89,
+        "desfoque_raio": 0.74,
+        "contraste": 0.919,
+        "qualidade_jpeg": 58
+      }
+    },
+    {
+      "id": "recibo_034",
+      "png": "imagens/recibo/png/recibo_034.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_034.jpg",
+      "foto_degradacao": {
+        "largura_px": 1797,
+        "altura_px": 1363,
+        "rotacao_graus": 0.64,
+        "deslocamento_perspectiva_px": 27.2,
+        "intensidade_iluminacao": 0.173,
+        "ruido_sigma": 2.88,
+        "desfoque_raio": 1.19,
+        "contraste": 0.983,
+        "qualidade_jpeg": 65
+      }
+    },
+    {
+      "id": "recibo_035",
+      "png": "imagens/recibo/png/recibo_035.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_035.jpg",
+      "foto_degradacao": {
+        "largura_px": 1451,
+        "altura_px": 1014,
+        "rotacao_graus": 2.33,
+        "deslocamento_perspectiva_px": 48.9,
+        "intensidade_iluminacao": 0.284,
+        "ruido_sigma": 5.36,
+        "desfoque_raio": 1.22,
+        "contraste": 1.056,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "recibo_036",
+      "png": "imagens/recibo/png/recibo_036.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_036.jpg",
+      "foto_degradacao": {
+        "largura_px": 1608,
+        "altura_px": 1043,
+        "rotacao_graus": -3.07,
+        "deslocamento_perspectiva_px": 62.7,
+        "intensidade_iluminacao": 0.284,
+        "ruido_sigma": 6.75,
+        "desfoque_raio": 0.94,
+        "contraste": 0.997,
+        "qualidade_jpeg": 81
+      }
+    },
+    {
+      "id": "recibo_037",
+      "png": "imagens/recibo/png/recibo_037.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_037.jpg",
+      "foto_degradacao": {
+        "largura_px": 1675,
+        "altura_px": 1275,
+        "rotacao_graus": -1.79,
+        "deslocamento_perspectiva_px": 15.1,
+        "intensidade_iluminacao": 0.387,
+        "ruido_sigma": 3.06,
+        "desfoque_raio": 0.43,
+        "contraste": 0.863,
+        "qualidade_jpeg": 63
+      }
+    },
+    {
+      "id": "recibo_038",
+      "png": "imagens/recibo/png/recibo_038.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_038.jpg",
+      "foto_degradacao": {
+        "largura_px": 1608,
+        "altura_px": 1082,
+        "rotacao_graus": -1.13,
+        "deslocamento_perspectiva_px": 32.3,
+        "intensidade_iluminacao": 0.297,
+        "ruido_sigma": 2.63,
+        "desfoque_raio": 0.47,
+        "contraste": 0.962,
+        "qualidade_jpeg": 61
+      }
+    },
+    {
+      "id": "recibo_039",
+      "png": "imagens/recibo/png/recibo_039.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_039.jpg",
+      "foto_degradacao": {
+        "largura_px": 1438,
+        "altura_px": 915,
+        "rotacao_graus": -2.99,
+        "deslocamento_perspectiva_px": 35.3,
+        "intensidade_iluminacao": 0.296,
+        "ruido_sigma": 4.99,
+        "desfoque_raio": 0.56,
+        "contraste": 0.976,
+        "qualidade_jpeg": 62
+      }
+    },
+    {
+      "id": "recibo_040",
+      "png": "imagens/recibo/png/recibo_040.png",
+      "png_tamanho_px": [
+        1492,
+        1046
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_040.jpg",
+      "foto_degradacao": {
+        "largura_px": 1744,
+        "altura_px": 1318,
+        "rotacao_graus": -3.27,
+        "deslocamento_perspectiva_px": 40.0,
+        "intensidade_iluminacao": 0.258,
+        "ruido_sigma": 2.65,
+        "desfoque_raio": 0.53,
+        "contraste": 1.018,
+        "qualidade_jpeg": 82
+      }
+    },
+    {
+      "id": "recibo_041",
+      "png": "imagens/recibo/png/recibo_041.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_041.jpg",
+      "foto_degradacao": {
+        "largura_px": 1768,
+        "altura_px": 1229,
+        "rotacao_graus": 0.87,
+        "deslocamento_perspectiva_px": 34.5,
+        "intensidade_iluminacao": 0.323,
+        "ruido_sigma": 5.81,
+        "desfoque_raio": 0.24,
+        "contraste": 0.938,
+        "qualidade_jpeg": 64
+      }
+    },
+    {
+      "id": "recibo_042",
+      "png": "imagens/recibo/png/recibo_042.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_042.jpg",
+      "foto_degradacao": {
+        "largura_px": 1535,
+        "altura_px": 991,
+        "rotacao_graus": 2.04,
+        "deslocamento_perspectiva_px": 17.7,
+        "intensidade_iluminacao": 0.17,
+        "ruido_sigma": 5.04,
+        "desfoque_raio": 0.67,
+        "contraste": 0.904,
+        "qualidade_jpeg": 77
+      }
+    },
+    {
+      "id": "recibo_043",
+      "png": "imagens/recibo/png/recibo_043.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_043.jpg",
+      "foto_degradacao": {
+        "largura_px": 1440,
+        "altura_px": 1119,
+        "rotacao_graus": -2.97,
+        "deslocamento_perspectiva_px": 14.6,
+        "intensidade_iluminacao": 0.208,
+        "ruido_sigma": 3.77,
+        "desfoque_raio": 0.6,
+        "contraste": 0.959,
+        "qualidade_jpeg": 59
+      }
+    },
+    {
+      "id": "recibo_044",
+      "png": "imagens/recibo/png/recibo_044.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_044.jpg",
+      "foto_degradacao": {
+        "largura_px": 1732,
+        "altura_px": 1193,
+        "rotacao_graus": 0.71,
+        "deslocamento_perspectiva_px": 30.9,
+        "intensidade_iluminacao": 0.249,
+        "ruido_sigma": 3.67,
+        "desfoque_raio": 0.15,
+        "contraste": 0.978,
+        "qualidade_jpeg": 87
+      }
+    },
+    {
+      "id": "recibo_045",
+      "png": "imagens/recibo/png/recibo_045.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_045.jpg",
+      "foto_degradacao": {
+        "largura_px": 1407,
+        "altura_px": 932,
+        "rotacao_graus": 2.91,
+        "deslocamento_perspectiva_px": 22.0,
+        "intensidade_iluminacao": 0.188,
+        "ruido_sigma": 3.51,
+        "desfoque_raio": 0.4,
+        "contraste": 0.977,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "recibo_046",
+      "png": "imagens/recibo/png/recibo_046.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_046.jpg",
+      "foto_degradacao": {
+        "largura_px": 1249,
+        "altura_px": 973,
+        "rotacao_graus": 0.01,
+        "deslocamento_perspectiva_px": 36.7,
+        "intensidade_iluminacao": 0.263,
+        "ruido_sigma": 6.91,
+        "desfoque_raio": 0.92,
+        "contraste": 0.86,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "recibo_047",
+      "png": "imagens/recibo/png/recibo_047.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_047.jpg",
+      "foto_degradacao": {
+        "largura_px": 1556,
+        "altura_px": 1075,
+        "rotacao_graus": -1.33,
+        "deslocamento_perspectiva_px": 33.7,
+        "intensidade_iluminacao": 0.185,
+        "ruido_sigma": 5.49,
+        "desfoque_raio": 1.22,
+        "contraste": 0.999,
+        "qualidade_jpeg": 74
+      }
+    },
+    {
+      "id": "recibo_048",
+      "png": "imagens/recibo/png/recibo_048.png",
+      "png_tamanho_px": [
+        1492,
+        866
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_048.jpg",
+      "foto_degradacao": {
+        "largura_px": 1582,
+        "altura_px": 1039,
+        "rotacao_graus": -1.27,
+        "deslocamento_perspectiva_px": 47.6,
+        "intensidade_iluminacao": 0.198,
+        "ruido_sigma": 3.48,
+        "desfoque_raio": 0.7,
+        "contraste": 0.977,
+        "qualidade_jpeg": 88
+      }
+    },
+    {
+      "id": "recibo_049",
+      "png": "imagens/recibo/png/recibo_049.png",
+      "png_tamanho_px": [
+        1492,
+        1104
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_049.jpg",
+      "foto_degradacao": {
+        "largura_px": 1245,
+        "altura_px": 969,
+        "rotacao_graus": 2.02,
+        "deslocamento_perspectiva_px": 17.5,
+        "intensidade_iluminacao": 0.209,
+        "ruido_sigma": 5.92,
+        "desfoque_raio": 0.74,
+        "contraste": 1.02,
+        "qualidade_jpeg": 83
+      }
+    },
+    {
+      "id": "recibo_050",
+      "png": "imagens/recibo/png/recibo_050.png",
+      "png_tamanho_px": [
+        1492,
+        930
+      ],
+      "paginas_documento": 1,
+      "foto": "imagens/recibo/foto/recibo_050.jpg",
+      "foto_degradacao": {
+        "largura_px": 1457,
+        "altura_px": 986,
+        "rotacao_graus": 3.24,
+        "deslocamento_perspectiva_px": 56.2,
+        "intensidade_iluminacao": 0.259,
+        "ruido_sigma": 4.26,
+        "desfoque_raio": 0.65,
+        "contraste": 0.863,
+        "qualidade_jpeg": 70
+      }
+    }
+  ]
+}

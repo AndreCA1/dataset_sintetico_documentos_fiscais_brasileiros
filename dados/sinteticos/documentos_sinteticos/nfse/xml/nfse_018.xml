@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS41069022251100494000117000000003405425059860333250">
+<xLocEmi>Curitiba</xLocEmi><xLocPrestacao>Curitiba</xLocPrestacao><nNFSe>34054</nNFSe>
+<cLocIncid>4106902</cLocIncid><xLocIncid>Curitiba</xLocIncid><xTribNac>Propaganda e publicidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-05-16T17:25:55-03:00</dhProc><nDFSe>732777</nDFSe>
+<emit><CNPJ>51100494000117</CNPJ><xNome>Lopes Publicidade e Marketing EPP</xNome><enderNac><xLgr>Avenida Getúlio Vargas</xLgr>
+<nro>1302</nro><xBairro>Portão</xBairro><cMun>4106902</cMun>
+<UF>PR</UF><CEP>80319161</CEP></enderNac><fone>79956197699</fone><email>lopes79@exemplo.com.br</email></emit>
+<valores><vBC>11574.18</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>578.71</vISSQN>
+<vTotalRet>711.81</vTotalRet><vLiq>10862.37</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS36903"><tpAmb>1</tpAmb><dhEmi>2025-05-16T17:25:55-03:00</dhEmi><nDPS>36903</nDPS>
+<serie>1</serie><dCompet>2025-05-16</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>51100494000117</CNPJ><xNome>Lopes Publicidade e Marketing EPP</xNome><end><xLgr>Avenida Getúlio Vargas</xLgr>
+<nro>1302</nro><xBairro>Portão</xBairro><cMun>4106902</cMun>
+<xMun>Curitiba</xMun><UF>PR</UF><CEP>80319161</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>11148887000186</CNPJ><xNome>Mercado Horizonte LTDA</xNome><end><endNac><cMun>4205407</cMun>
+<CEP>88740998</CEP></endNac><xLgr>Rua XV de Novembro</xLgr><nro>1797</nro>
+<xBairro>Centro</xBairro></end><fone>71978738853</fone><email>mercado66@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>170601</cTribNac><xDescServ>Propaganda e publicidade - competência 05/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>11574.18</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun><tribFed><vRetIRRF>173.61</vRetIRRF><vRetCSLL>538.20</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

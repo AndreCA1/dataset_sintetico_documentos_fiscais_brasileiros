@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS52087072292166990000150000000000279826051477334512">
+<xLocEmi>Goiânia</xLocEmi><xLocPrestacao>Goiânia</xLocPrestacao><nNFSe>2798</nNFSe>
+<cLocIncid>5208707</cLocIncid><xLocIncid>Goiânia</xLocIncid><xTribNac>Reparação e manutenção de edifícios</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-05-15T13:02:42-03:00</dhProc><nDFSe>562105</nDFSe>
+<emit><CNPJ>92166990000150</CNPJ><xNome>Almeida Manutenção Predial LTDA</xNome><enderNac><xLgr>Avenida Paulista</xLgr>
+<nro>2228</nro><xBairro>Setor Bueno</xBairro><cMun>5208707</cMun>
+<UF>GO</UF><CEP>74905177</CEP></enderNac><fone>35902141571</fone><email>almeida52@exemplo.com.br</email></emit>
+<valores><vBC>22293.77</vBC><pAliqAplic>2.00</pAliqAplic><vISSQN>445.88</vISSQN>
+<vTotalRet>1371.07</vTotalRet><vLiq>20922.70</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS54533"><tpAmb>1</tpAmb><dhEmi>2026-05-15T13:02:42-03:00</dhEmi><nDPS>54533</nDPS>
+<serie>1</serie><dCompet>2026-05-15</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>92166990000150</CNPJ><xNome>Almeida Manutenção Predial LTDA</xNome><end><xLgr>Avenida Paulista</xLgr>
+<nro>2228</nro><xBairro>Setor Bueno</xBairro><cMun>5208707</cMun>
+<xMun>Goiânia</xMun><UF>GO</UF><CEP>74905177</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>54346927000107</CNPJ><xNome>Auto Peças Bom Preço LTDA</xNome><end><endNac><cMun>3304557</cMun>
+<CEP>20794067</CEP></endNac><xLgr>Travessa da Paz</xLgr><nro>2199</nro>
+<xBairro>Copacabana</xBairro></end><fone>95978882294</fone><email>auto17@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>070501</cTribNac><xDescServ>Reparação e manutenção de edifícios - competência 05/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>22293.77</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.00</pAliq></tribMun><tribFed><vRetIRRF>334.41</vRetIRRF><vRetCSLL>1036.66</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS52087072276407083000108000000001125725010924121664">
+<xLocEmi>Goiânia</xLocEmi><xLocPrestacao>Goiânia</xLocPrestacao><nNFSe>11257</nNFSe>
+<cLocIncid>5208707</cLocIncid><xLocIncid>Goiânia</xLocIncid><xTribNac>Odontologia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-01-29T12:07:48-03:00</dhProc><nDFSe>605872</nDFSe>
+<emit><CNPJ>76407083000108</CNPJ><xNome>Silva Clínica Odontológica EIRELI</xNome><enderNac><xLgr>Rua Sete de Setembro</xLgr>
+<nro>950</nro><xBairro>Setor Bueno</xBairro><cMun>5208707</cMun>
+<UF>GO</UF><CEP>74346668</CEP></enderNac><fone>64904884764</fone><email>silva49@exemplo.com.br</email></emit>
+<valores><vBC>3112.29</vBC><pAliqAplic>2.00</pAliqAplic><vISSQN>62.25</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>3112.29</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS44120"><tpAmb>1</tpAmb><dhEmi>2025-01-29T12:07:48-03:00</dhEmi><nDPS>44120</nDPS>
+<serie>1</serie><dCompet>2025-01-29</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>76407083000108</CNPJ><xNome>Silva Clínica Odontológica EIRELI</xNome><end><xLgr>Rua Sete de Setembro</xLgr>
+<nro>950</nro><xBairro>Setor Bueno</xBairro><cMun>5208707</cMun>
+<xMun>Goiânia</xMun><UF>GO</UF><CEP>74346668</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>37861453260</CPF><xNome>Rodrigo Oliveira Barbosa</xNome><end><endNac><cMun>1501402</cMun>
+<CEP>66894151</CEP></endNac><xLgr>Avenida Paulista</xLgr><nro>2741</nro>
+<xBairro>Umarizal</xBairro></end><fone>27947577613</fone><email>rodrigo9@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>041201</cTribNac><xDescServ>Odontologia - competência 01/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>3112.29</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

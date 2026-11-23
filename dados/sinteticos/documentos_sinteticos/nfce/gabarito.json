@@ -1,0 +1,4436 @@
+{
+  "descricao": "Documentos NFCE sintéticos (dados fictícios) para teste de OCR/PLN",
+  "semente": 42,
+  "quantidade": 50,
+  "documentos": [
+    {
+      "id": "nfce_001",
+      "arquivo_xml": "xml/nfce_001.xml",
+      "arquivo_pdf": "pdf/nfce_001.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Padaria Aurora S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "85.846.942/0001-48",
+        "documento_numeros": "85846942000148",
+        "endereco": "Rua Tiradentes, 1269",
+        "bairro": "Batel",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80601-377"
+      },
+      "destinatario": {
+        "nome": "Carlos Ferreira Martins",
+        "tipo_documento": "CPF",
+        "documento": "632.199.974-14",
+        "documento_numeros": "63219997414",
+        "endereco": "Alameda dos Ipês, 423",
+        "bairro": "Água Verde",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80756-699"
+      },
+      "numero": 81477,
+      "numero_formatado": "000.081.477",
+      "serie": 1,
+      "chave_acesso": "41241085846942000148650010000814771908857501",
+      "chave_acesso_formatada": "4124 1085 8469 4200 0148 6500 1000 0814 7719 0885 7501",
+      "data_emissao": "2024-10-22",
+      "data_emissao_formatada": "22/10/2024",
+      "hora_emissao": "15:41:49",
+      "valor_produtos": 501.51,
+      "valor_frete": 0.0,
+      "valor_desconto": 15.05,
+      "valor_total": 486.46,
+      "valor_total_formatado": "486,46",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3.1,
+          "valor_total": 9.3
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 2.168,
+          "unidade": "KG",
+          "valor_unitario": 10.83,
+          "valor_total": 23.48
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 9.0,
+          "valor_total": 54.0
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 1.593,
+          "unidade": "KG",
+          "valor_unitario": 37.73,
+          "valor_total": 60.1
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.688,
+          "unidade": "KG",
+          "valor_unitario": 53.41,
+          "valor_total": 90.16
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.75,
+          "valor_total": 4.75
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 3.83,
+          "valor_total": 3.83
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4.2,
+          "valor_total": 8.4
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 22.15,
+          "valor_total": 66.45
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 22.9,
+          "valor_total": 91.6
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 22.36,
+          "valor_total": 89.44
+        }
+      ],
+      "valor_pago": 486.46,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_002",
+      "arquivo_xml": "xml/nfce_002.xml",
+      "arquivo_pdf": "pdf/nfce_002.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Empório Cerrado LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "52.687.126/0001-80",
+        "documento_numeros": "52687126000180",
+        "endereco": "Rua São João, 930",
+        "bairro": "Batista Campos",
+        "cidade": "Belém",
+        "uf": "PA",
+        "cep": "66327-726"
+      },
+      "destinatario": {
+        "nome": "Maria Souza Andrade",
+        "tipo_documento": "CPF",
+        "documento": "541.295.392-13",
+        "documento_numeros": "54129539213",
+        "endereco": "Rua Marechal Deodoro, 2564",
+        "bairro": "Batista Campos",
+        "cidade": "Belém",
+        "uf": "PA",
+        "cep": "66721-438"
+      },
+      "numero": 62093,
+      "numero_formatado": "000.062.093",
+      "serie": 3,
+      "chave_acesso": "15261152687126000180650030000620931910655330",
+      "chave_acesso_formatada": "1526 1152 6871 2600 0180 6500 3000 0620 9319 1065 5330",
+      "data_emissao": "2026-11-06",
+      "data_emissao_formatada": "06/11/2026",
+      "hora_emissao": "08:19:07",
+      "valor_produtos": 50.34,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 50.34,
+      "valor_total_formatado": "50,34",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 17.56,
+          "valor_total": 17.56
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 4.8,
+          "valor_total": 19.2
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 6.79,
+          "valor_total": 13.58
+        }
+      ],
+      "valor_pago": 60.0,
+      "troco": 9.66
+    },
+    {
+      "id": "nfce_003",
+      "arquivo_xml": "xml/nfce_003.xml",
+      "arquivo_pdf": "pdf/nfce_003.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Materiais de Construção Bom Preço LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "26.447.758/0001-66",
+        "documento_numeros": "26447758000166",
+        "endereco": "Rua Tiradentes, 2914",
+        "bairro": "Funcionários",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30178-942"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "797.394.316-15",
+        "documento_numeros": "79739431615",
+        "endereco": "Rua Sete de Setembro, 1639",
+        "bairro": "Lourdes",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30415-166"
+      },
+      "numero": 234354,
+      "numero_formatado": "000.234.354",
+      "serie": 1,
+      "chave_acesso": "31240826447758000166650010002343541372978416",
+      "chave_acesso_formatada": "3124 0826 4477 5800 0166 6500 1000 2343 5413 7297 8416",
+      "data_emissao": "2024-08-07",
+      "data_emissao_formatada": "07/08/2024",
+      "hora_emissao": "15:40:42",
+      "valor_produtos": 650.67,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 650.67,
+      "valor_total_formatado": "650,67",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 27.05,
+          "valor_total": 108.2
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 0.901,
+          "unidade": "KG",
+          "valor_unitario": 37.09,
+          "valor_total": 33.42
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 2.0,
+          "valor_total": 6.0
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 10.1,
+          "valor_total": 30.3
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.884,
+          "unidade": "KG",
+          "valor_unitario": 7.32,
+          "valor_total": 21.11
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 23.15,
+          "valor_total": 46.3
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4.3,
+          "valor_total": 12.9
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 24.4,
+          "valor_total": 73.2
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 4.18,
+          "valor_total": 33.44
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 16.16,
+          "valor_total": 193.92
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 7.69,
+          "valor_total": 30.76
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.433,
+          "unidade": "KG",
+          "valor_unitario": 42.65,
+          "valor_total": 61.12
+        }
+      ],
+      "valor_pago": 650.67,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_004",
+      "arquivo_xml": "xml/nfce_004.xml",
+      "arquivo_pdf": "pdf/nfce_004.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Agropecuária Ipê S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "97.638.730/0001-54",
+        "documento_numeros": "97638730000154",
+        "endereco": "Avenida Independência, 2219",
+        "bairro": "Aldeota",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60123-334"
+      },
+      "destinatario": null,
+      "numero": 218653,
+      "numero_formatado": "000.218.653",
+      "serie": 2,
+      "chave_acesso": "23260197638730000154650020002186531379909077",
+      "chave_acesso_formatada": "2326 0197 6387 3000 0154 6500 2000 2186 5313 7990 9077",
+      "data_emissao": "2026-01-13",
+      "data_emissao_formatada": "13/01/2026",
+      "hora_emissao": "14:09:13",
+      "valor_produtos": 132.47,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 132.47,
+      "valor_total_formatado": "132,47",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 18.2,
+          "valor_total": 54.6
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 7.59,
+          "valor_total": 7.59
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 5.99,
+          "valor_total": 23.96
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 23.16,
+          "valor_total": 46.32
+        }
+      ],
+      "valor_pago": 140.0,
+      "troco": 7.53
+    },
+    {
+      "id": "nfce_005",
+      "arquivo_xml": "xml/nfce_005.xml",
+      "arquivo_pdf": "pdf/nfce_005.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Atacadista São Jorge EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "49.432.965/0001-42",
+        "documento_numeros": "49432965000142",
+        "endereco": "Avenida Independência, 491",
+        "bairro": "Savassi",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30771-086"
+      },
+      "destinatario": null,
+      "numero": 35328,
+      "numero_formatado": "000.035.328",
+      "serie": 2,
+      "chave_acesso": "31250449432965000142650020000353281304528135",
+      "chave_acesso_formatada": "3125 0449 4329 6500 0142 6500 2000 0353 2813 0452 8135",
+      "data_emissao": "2025-04-24",
+      "data_emissao_formatada": "24/04/2025",
+      "hora_emissao": "19:45:07",
+      "valor_produtos": 155.23,
+      "valor_frete": 0.0,
+      "valor_desconto": 7.76,
+      "valor_total": 147.47,
+      "valor_total_formatado": "147,47",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 14.26,
+          "valor_total": 128.34
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 1.758,
+          "unidade": "KG",
+          "valor_unitario": 6.34,
+          "valor_total": 11.15
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3.92,
+          "valor_total": 11.76
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 3.98,
+          "valor_total": 3.98
+        }
+      ],
+      "valor_pago": 147.47,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_006",
+      "arquivo_xml": "xml/nfce_006.xml",
+      "arquivo_pdf": "pdf/nfce_006.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Supermercado Boa Vista LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "04.421.877/0001-07",
+        "documento_numeros": "04421877000107",
+        "endereco": "Avenida Getúlio Vargas, 439",
+        "bairro": "Moema",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01772-009"
+      },
+      "destinatario": {
+        "nome": "Francisca Freitas Moreira",
+        "tipo_documento": "CPF",
+        "documento": "359.081.988-03",
+        "documento_numeros": "35908198803",
+        "endereco": "Travessa da Paz, 106",
+        "bairro": "Moema",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01223-466"
+      },
+      "numero": 203374,
+      "numero_formatado": "000.203.374",
+      "serie": 1,
+      "chave_acesso": "35250504421877000107650010002033741394381471",
+      "chave_acesso_formatada": "3525 0504 4218 7700 0107 6500 1000 2033 7413 9438 1471",
+      "data_emissao": "2025-05-18",
+      "data_emissao_formatada": "18/05/2025",
+      "hora_emissao": "10:18:02",
+      "valor_produtos": 421.6,
+      "valor_frete": 0.0,
+      "valor_desconto": 21.08,
+      "valor_total": 400.52,
+      "valor_total_formatado": "400,52",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 10.01,
+          "valor_total": 120.12
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 0.806,
+          "unidade": "KG",
+          "valor_unitario": 6.73,
+          "valor_total": 5.42
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 26.18,
+          "valor_total": 78.54
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.343,
+          "unidade": "KG",
+          "valor_unitario": 10.7,
+          "valor_total": 25.07
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 7.5,
+          "valor_total": 7.5
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 18.65,
+          "valor_total": 55.95
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 8.91,
+          "valor_total": 35.64
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 1.084,
+          "unidade": "KG",
+          "valor_unitario": 33.32,
+          "valor_total": 36.12
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 9.54,
+          "valor_total": 57.24
+        }
+      ],
+      "valor_pago": 400.52,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_007",
+      "arquivo_xml": "xml/nfce_007.xml",
+      "arquivo_pdf": "pdf/nfce_007.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Materiais de Construção Central LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "67.277.987/0001-67",
+        "documento_numeros": "67277987000167",
+        "endereco": "Rua Sete de Setembro, 174",
+        "bairro": "Água Verde",
+        "cidade": "Curitiba",
+        "uf": "PR",
+        "cep": "80978-914"
+      },
+      "destinatario": null,
+      "numero": 210301,
+      "numero_formatado": "000.210.301",
+      "serie": 3,
+      "chave_acesso": "41250467277987000167650030002103011927568183",
+      "chave_acesso_formatada": "4125 0467 2779 8700 0167 6500 3000 2103 0119 2756 8183",
+      "data_emissao": "2025-04-21",
+      "data_emissao_formatada": "21/04/2025",
+      "hora_emissao": "12:29:50",
+      "valor_produtos": 66.89,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 66.89,
+      "valor_total_formatado": "66,89",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 25.97,
+          "valor_total": 25.97
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 3.41,
+          "valor_total": 40.92
+        }
+      ],
+      "valor_pago": 66.89,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_008",
+      "arquivo_xml": "xml/nfce_008.xml",
+      "arquivo_pdf": "pdf/nfce_008.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Supermercado Estrela ME",
+        "tipo_documento": "CNPJ",
+        "documento": "74.914.917/0001-38",
+        "documento_numeros": "74914917000138",
+        "endereco": "Rua Dom Pedro II, 1082",
+        "bairro": "Asa Sul",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70267-186"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "569.152.281-79",
+        "documento_numeros": "56915228179",
+        "endereco": "Avenida Brasil, 1613",
+        "bairro": "Asa Sul",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70581-211"
+      },
+      "numero": 234341,
+      "numero_formatado": "000.234.341",
+      "serie": 1,
+      "chave_acesso": "53260974914917000138650010002343411279814702",
+      "chave_acesso_formatada": "5326 0974 9149 1700 0138 6500 1000 2343 4112 7981 4702",
+      "data_emissao": "2026-09-15",
+      "data_emissao_formatada": "15/09/2026",
+      "hora_emissao": "09:31:25",
+      "valor_produtos": 445.08,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 445.08,
+      "valor_total_formatado": "445,08",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 6.56,
+          "valor_total": 52.48
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.145,
+          "unidade": "KG",
+          "valor_unitario": 4.9,
+          "valor_total": 10.51
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 22.13,
+          "valor_total": 88.52
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4.62,
+          "valor_total": 13.86
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 4.39,
+          "valor_total": 35.12
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 2.514,
+          "unidade": "KG",
+          "valor_unitario": 36.49,
+          "valor_total": 91.74
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 10.33,
+          "valor_total": 41.32
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 2.424,
+          "unidade": "KG",
+          "valor_unitario": 46.01,
+          "valor_total": 111.53
+        }
+      ],
+      "valor_pago": 445.08,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_009",
+      "arquivo_xml": "xml/nfce_009.xml",
+      "arquivo_pdf": "pdf/nfce_009.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Empório Ipê LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "63.097.803/0001-26",
+        "documento_numeros": "63097803000126",
+        "endereco": "Avenida Rio Branco, 539",
+        "bairro": "Jardim Karaíba",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38912-843"
+      },
+      "destinatario": {
+        "nome": "Aline Lopes Nascimento",
+        "tipo_documento": "CPF",
+        "documento": "532.915.474-03",
+        "documento_numeros": "53291547403",
+        "endereco": "Rua das Flores, 858",
+        "bairro": "Tibery",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38284-033"
+      },
+      "numero": 225351,
+      "numero_formatado": "000.225.351",
+      "serie": 1,
+      "chave_acesso": "31241163097803000126650010002253511342919418",
+      "chave_acesso_formatada": "3124 1163 0978 0300 0126 6500 1000 2253 5113 4291 9418",
+      "data_emissao": "2024-11-24",
+      "data_emissao_formatada": "24/11/2024",
+      "hora_emissao": "14:18:44",
+      "valor_produtos": 243.48,
+      "valor_frete": 0.0,
+      "valor_desconto": 12.17,
+      "valor_total": 231.31,
+      "valor_total_formatado": "231,31",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.708,
+          "unidade": "KG",
+          "valor_unitario": 15.99,
+          "valor_total": 43.3
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 17.08,
+          "valor_total": 153.72
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 23.23,
+          "valor_total": 46.46
+        }
+      ],
+      "valor_pago": 231.31,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_010",
+      "arquivo_xml": "xml/nfce_010.xml",
+      "arquivo_pdf": "pdf/nfce_010.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Padaria Boa Vista LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "92.220.872/0001-83",
+        "documento_numeros": "92220872000183",
+        "endereco": "Avenida Getúlio Vargas, 300",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01727-682"
+      },
+      "destinatario": {
+        "nome": "Luíza Santos Almeida",
+        "tipo_documento": "CPF",
+        "documento": "203.431.821-81",
+        "documento_numeros": "20343182181",
+        "endereco": "Travessa da Paz, 614",
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01130-562"
+      },
+      "numero": 152953,
+      "numero_formatado": "000.152.953",
+      "serie": 3,
+      "chave_acesso": "35250192220872000183650030001529531821377903",
+      "chave_acesso_formatada": "3525 0192 2208 7200 0183 6500 3000 1529 5318 2137 7903",
+      "data_emissao": "2025-01-10",
+      "data_emissao_formatada": "10/01/2025",
+      "hora_emissao": "14:51:30",
+      "valor_produtos": 103.23,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 103.23,
+      "valor_total_formatado": "103,23",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 17.12,
+          "valor_total": 51.36
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 10.71,
+          "valor_total": 21.42
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 10.15,
+          "valor_total": 30.45
+        }
+      ],
+      "valor_pago": 103.23,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_011",
+      "arquivo_xml": "xml/nfce_011.xml",
+      "arquivo_pdf": "pdf/nfce_011.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Supermercado Primavera EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "09.846.822/0001-62",
+        "documento_numeros": "09846822000162",
+        "endereco": "Alameda dos Ipês, 2146",
+        "bairro": "Tijuca",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "cep": "20460-686"
+      },
+      "destinatario": {
+        "nome": "Francisca Vieira Alves",
+        "tipo_documento": "CPF",
+        "documento": "103.946.941-80",
+        "documento_numeros": "10394694180",
+        "endereco": "Rua Dom Pedro II, 2835",
+        "bairro": "Méier",
+        "cidade": "Rio de Janeiro",
+        "uf": "RJ",
+        "cep": "20174-942"
+      },
+      "numero": 58345,
+      "numero_formatado": "000.058.345",
+      "serie": 2,
+      "chave_acesso": "33250209846822000162650020000583451153343742",
+      "chave_acesso_formatada": "3325 0209 8468 2200 0162 6500 2000 0583 4511 5334 3742",
+      "data_emissao": "2025-02-06",
+      "data_emissao_formatada": "06/02/2025",
+      "hora_emissao": "13:57:20",
+      "valor_produtos": 166.93,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 166.93,
+      "valor_total_formatado": "166,93",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.26,
+          "valor_total": 4.26
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 9.03,
+          "valor_total": 27.09
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 10.01,
+          "valor_total": 60.06
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 18.88,
+          "valor_total": 75.52
+        }
+      ],
+      "valor_pago": 166.93,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_012",
+      "arquivo_xml": "xml/nfce_012.xml",
+      "arquivo_pdf": "pdf/nfce_012.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Comercial Horizonte EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "22.944.602/0001-30",
+        "documento_numeros": "22944602000130",
+        "endereco": "Rua Barão do Rio Branco, 1741",
+        "bairro": "Centro",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38029-486"
+      },
+      "destinatario": {
+        "nome": "Letícia Martins Mendes",
+        "tipo_documento": "CPF",
+        "documento": "942.407.234-18",
+        "documento_numeros": "94240723418",
+        "endereco": "Alameda dos Ipês, 409",
+        "bairro": "Santa Mônica",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38701-526"
+      },
+      "numero": 184260,
+      "numero_formatado": "000.184.260",
+      "serie": 3,
+      "chave_acesso": "31250722944602000130650030001842601736493090",
+      "chave_acesso_formatada": "3125 0722 9446 0200 0130 6500 3000 1842 6017 3649 3090",
+      "data_emissao": "2025-07-11",
+      "data_emissao_formatada": "11/07/2025",
+      "hora_emissao": "16:53:02",
+      "valor_produtos": 52.43,
+      "valor_frete": 0.0,
+      "valor_desconto": 5.24,
+      "valor_total": 47.19,
+      "valor_total_formatado": "47,19",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 11.59,
+          "valor_total": 46.36
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 6.07,
+          "valor_total": 6.07
+        }
+      ],
+      "valor_pago": 47.19,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_013",
+      "arquivo_xml": "xml/nfce_013.xml",
+      "arquivo_pdf": "pdf/nfce_013.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Supermercado Horizonte S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "99.148.725/0001-99",
+        "documento_numeros": "99148725000199",
+        "endereco": "Rua Tiradentes, 487",
+        "bairro": "Carandá Bosque",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79566-943"
+      },
+      "destinatario": {
+        "nome": "José Ribeiro Machado",
+        "tipo_documento": "CPF",
+        "documento": "523.919.350-99",
+        "documento_numeros": "52391935099",
+        "endereco": "Rua Tiradentes, 2057",
+        "bairro": "Carandá Bosque",
+        "cidade": "Campo Grande",
+        "uf": "MS",
+        "cep": "79537-180"
+      },
+      "numero": 17880,
+      "numero_formatado": "000.017.880",
+      "serie": 3,
+      "chave_acesso": "50250499148725000199650030000178801376379730",
+      "chave_acesso_formatada": "5025 0499 1487 2500 0199 6500 3000 0178 8013 7637 9730",
+      "data_emissao": "2025-04-26",
+      "data_emissao_formatada": "26/04/2025",
+      "hora_emissao": "08:57:42",
+      "valor_produtos": 146.03,
+      "valor_frete": 0.0,
+      "valor_desconto": 14.6,
+      "valor_total": 131.43,
+      "valor_total_formatado": "131,43",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 2.563,
+          "unidade": "KG",
+          "valor_unitario": 43.16,
+          "valor_total": 110.62
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 3.29,
+          "valor_total": 6.58
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 9.61,
+          "valor_total": 28.83
+        }
+      ],
+      "valor_pago": 131.43,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_014",
+      "arquivo_xml": "xml/nfce_014.xml",
+      "arquivo_pdf": "pdf/nfce_014.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Atacadista Aurora LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "93.156.237/0001-47",
+        "documento_numeros": "93156237000147",
+        "endereco": "Rua Marechal Deodoro, 1770",
+        "bairro": "Centro",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65793-732"
+      },
+      "destinatario": null,
+      "numero": 76518,
+      "numero_formatado": "000.076.518",
+      "serie": 3,
+      "chave_acesso": "21260493156237000147650030000765181516927326",
+      "chave_acesso_formatada": "2126 0493 1562 3700 0147 6500 3000 0765 1815 1692 7326",
+      "data_emissao": "2026-04-12",
+      "data_emissao_formatada": "12/04/2026",
+      "hora_emissao": "18:12:50",
+      "valor_produtos": 50.38,
+      "valor_frete": 0.0,
+      "valor_desconto": 1.51,
+      "valor_total": 48.87,
+      "valor_total_formatado": "48,87",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 8.9,
+          "valor_total": 17.8
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.741,
+          "unidade": "KG",
+          "valor_unitario": 9.55,
+          "valor_total": 26.18
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 6.4,
+          "valor_total": 6.4
+        }
+      ],
+      "valor_pago": 48.87,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_015",
+      "arquivo_xml": "xml/nfce_015.xml",
+      "arquivo_pdf": "pdf/nfce_015.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Comercial Litoral ME",
+        "tipo_documento": "CNPJ",
+        "documento": "74.590.451/0001-62",
+        "documento_numeros": "74590451000162",
+        "endereco": "Rua Tiradentes, 463",
+        "bairro": "Capim Macio",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59145-137"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "729.495.305-83",
+        "documento_numeros": "72949530583",
+        "endereco": "Rua Dom Pedro II, 940",
+        "bairro": "Tirol",
+        "cidade": "Natal",
+        "uf": "RN",
+        "cep": "59530-724"
+      },
+      "numero": 167619,
+      "numero_formatado": "000.167.619",
+      "serie": 1,
+      "chave_acesso": "24250574590451000162650010001676191130179559",
+      "chave_acesso_formatada": "2425 0574 5904 5100 0162 6500 1000 1676 1911 3017 9559",
+      "data_emissao": "2025-05-14",
+      "data_emissao_formatada": "14/05/2025",
+      "hora_emissao": "15:12:03",
+      "valor_produtos": 285.59,
+      "valor_frete": 0.0,
+      "valor_desconto": 14.28,
+      "valor_total": 271.31,
+      "valor_total_formatado": "271,31",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 9.24,
+          "valor_total": 27.72
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 6.36,
+          "valor_total": 76.32
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.159,
+          "unidade": "KG",
+          "valor_unitario": 7.61,
+          "valor_total": 16.43
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 10.5,
+          "valor_total": 31.5
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 6.61,
+          "valor_total": 39.66
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 4.45,
+          "valor_total": 35.6
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 22.78,
+          "valor_total": 45.56
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 3.2,
+          "valor_total": 12.8
+        }
+      ],
+      "valor_pago": 271.31,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_016",
+      "arquivo_xml": "xml/nfce_016.xml",
+      "arquivo_pdf": "pdf/nfce_016.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Distribuidora Bom Preço LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "94.717.673/0001-00",
+        "documento_numeros": "94717673000100",
+        "endereco": "Avenida Independência, 2267",
+        "bairro": "Setor Oeste",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74077-548"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "755.526.733-01",
+        "documento_numeros": "75552673301",
+        "endereco": "Rua São João, 1669",
+        "bairro": "Setor Oeste",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74502-101"
+      },
+      "numero": 80207,
+      "numero_formatado": "000.080.207",
+      "serie": 2,
+      "chave_acesso": "52251094717673000100650020000802071588324915",
+      "chave_acesso_formatada": "5225 1094 7176 7300 0100 6500 2000 0802 0715 8832 4915",
+      "data_emissao": "2025-10-10",
+      "data_emissao_formatada": "10/10/2025",
+      "hora_emissao": "12:20:49",
+      "valor_produtos": 374.44,
+      "valor_frete": 0.0,
+      "valor_desconto": 37.44,
+      "valor_total": 337.0,
+      "valor_total_formatado": "337,00",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 3.2,
+          "valor_total": 38.4
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 5.42,
+          "valor_total": 48.78
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 0.975,
+          "unidade": "KG",
+          "valor_unitario": 6.02,
+          "valor_total": 5.87
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 25.49,
+          "valor_total": 25.49
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 11.68,
+          "valor_total": 23.36
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 31.08,
+          "valor_total": 93.24
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 10.21,
+          "valor_total": 30.63
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 5.02,
+          "valor_total": 20.08
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4.3,
+          "valor_total": 12.9
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 8.61,
+          "valor_total": 8.61
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 1.9,
+          "valor_total": 22.8
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 7.38,
+          "valor_total": 44.28
+        }
+      ],
+      "valor_pago": 337.0,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_017",
+      "arquivo_xml": "xml/nfce_017.xml",
+      "arquivo_pdf": "pdf/nfce_017.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Comercial Nova Era ME",
+        "tipo_documento": "CNPJ",
+        "documento": "99.575.075/0001-68",
+        "documento_numeros": "99575075000168",
+        "endereco": "Avenida Getúlio Vargas, 1210",
+        "bairro": "Praia do Canto",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "cep": "29989-197"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "745.009.149-60",
+        "documento_numeros": "74500914960",
+        "endereco": "Rua Santos Dumont, 1649",
+        "bairro": "Praia do Canto",
+        "cidade": "Vitória",
+        "uf": "ES",
+        "cep": "29787-085"
+      },
+      "numero": 160960,
+      "numero_formatado": "000.160.960",
+      "serie": 2,
+      "chave_acesso": "32250499575075000168650020001609601671631090",
+      "chave_acesso_formatada": "3225 0499 5750 7500 0168 6500 2000 1609 6016 7163 1090",
+      "data_emissao": "2025-04-18",
+      "data_emissao_formatada": "18/04/2025",
+      "hora_emissao": "11:53:21",
+      "valor_produtos": 375.04,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 375.04,
+      "valor_total_formatado": "375,04",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 1.022,
+          "unidade": "KG",
+          "valor_unitario": 6.6,
+          "valor_total": 6.75
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 7.96,
+          "valor_total": 47.76
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 28.61,
+          "valor_total": 57.22
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 29.07,
+          "valor_total": 87.21
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 7.1,
+          "valor_total": 42.6
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 9.09,
+          "valor_total": 36.36
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 1.255,
+          "unidade": "KG",
+          "valor_unitario": 41.36,
+          "valor_total": 51.91
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 3.14,
+          "valor_total": 28.26
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 6.05,
+          "valor_total": 6.05
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3.64,
+          "valor_total": 10.92
+        }
+      ],
+      "valor_pago": 375.04,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_018",
+      "arquivo_xml": "xml/nfce_018.xml",
+      "arquivo_pdf": "pdf/nfce_018.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Padaria Primavera S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "81.695.542/0001-28",
+        "documento_numeros": "81695542000128",
+        "endereco": "Rua Marechal Deodoro, 1869",
+        "bairro": "Petrópolis",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "cep": "90922-520"
+      },
+      "destinatario": {
+        "nome": "José Andrade Gomes",
+        "tipo_documento": "CPF",
+        "documento": "604.602.770-57",
+        "documento_numeros": "60460277057",
+        "endereco": "Avenida Getúlio Vargas, 334",
+        "bairro": "Cidade Baixa",
+        "cidade": "Porto Alegre",
+        "uf": "RS",
+        "cep": "90831-670"
+      },
+      "numero": 71119,
+      "numero_formatado": "000.071.119",
+      "serie": 2,
+      "chave_acesso": "43250881695542000128650020000711191014979272",
+      "chave_acesso_formatada": "4325 0881 6955 4200 0128 6500 2000 0711 1910 1497 9272",
+      "data_emissao": "2025-08-19",
+      "data_emissao_formatada": "19/08/2025",
+      "hora_emissao": "14:41:05",
+      "valor_produtos": 317.33,
+      "valor_frete": 0.0,
+      "valor_desconto": 31.73,
+      "valor_total": 285.6,
+      "valor_total_formatado": "285,60",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 11.27,
+          "valor_total": 33.81
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 2.05,
+          "valor_total": 16.4
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 19.53,
+          "valor_total": 78.12
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 28.15,
+          "valor_total": 84.45
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 7.69,
+          "valor_total": 30.76
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 0.952,
+          "unidade": "KG",
+          "valor_unitario": 40.89,
+          "valor_total": 38.93
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 17.43,
+          "valor_total": 34.86
+        }
+      ],
+      "valor_pago": 285.6,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_019",
+      "arquivo_xml": "xml/nfce_019.xml",
+      "arquivo_pdf": "pdf/nfce_019.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Agropecuária São Jorge ME",
+        "tipo_documento": "CNPJ",
+        "documento": "04.008.178/0001-30",
+        "documento_numeros": "04008178000130",
+        "endereco": "Avenida Rio Branco, 1024",
+        "bairro": "Cambuí",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13860-631"
+      },
+      "destinatario": {
+        "nome": "Aline Lima Vieira",
+        "tipo_documento": "CPF",
+        "documento": "100.639.751-57",
+        "documento_numeros": "10063975157",
+        "endereco": "Avenida Independência, 2025",
+        "bairro": "Cambuí",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13019-138"
+      },
+      "numero": 180288,
+      "numero_formatado": "000.180.288",
+      "serie": 1,
+      "chave_acesso": "35250704008178000130650010001802881482355626",
+      "chave_acesso_formatada": "3525 0704 0081 7800 0130 6500 1000 1802 8814 8235 5626",
+      "data_emissao": "2025-07-04",
+      "data_emissao_formatada": "04/07/2025",
+      "hora_emissao": "12:44:49",
+      "valor_produtos": 229.26,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 229.26,
+      "valor_total_formatado": "229,26",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 10.78,
+          "valor_total": 64.68
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 5.9,
+          "valor_total": 17.7
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 5.72,
+          "valor_total": 22.88
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 15.5,
+          "valor_total": 124.0
+        }
+      ],
+      "valor_pago": 229.26,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_020",
+      "arquivo_xml": "xml/nfce_020.xml",
+      "arquivo_pdf": "pdf/nfce_020.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Padaria Nova Era LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "78.624.554/0001-57",
+        "documento_numeros": "78624554000157",
+        "endereco": "Rua Barão do Rio Branco, 2021",
+        "bairro": "Cocó",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60327-072"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "885.127.032-53",
+        "documento_numeros": "88512703253",
+        "endereco": "Avenida Paulista, 309",
+        "bairro": "Meireles",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60454-281"
+      },
+      "numero": 82016,
+      "numero_formatado": "000.082.016",
+      "serie": 3,
+      "chave_acesso": "23260978624554000157650030000820161392314901",
+      "chave_acesso_formatada": "2326 0978 6245 5400 0157 6500 3000 0820 1613 9231 4901",
+      "data_emissao": "2026-09-21",
+      "data_emissao_formatada": "21/09/2026",
+      "hora_emissao": "09:27:30",
+      "valor_produtos": 287.82,
+      "valor_frete": 0.0,
+      "valor_desconto": 14.39,
+      "valor_total": 273.43,
+      "valor_total_formatado": "273,43",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 14.12,
+          "valor_total": 127.08
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.002,
+          "unidade": "KG",
+          "valor_unitario": 7.76,
+          "valor_total": 15.54
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 24.2,
+          "valor_total": 145.2
+        }
+      ],
+      "valor_pago": 280.0,
+      "troco": 6.57
+    },
+    {
+      "id": "nfce_021",
+      "arquivo_xml": "xml/nfce_021.xml",
+      "arquivo_pdf": "pdf/nfce_021.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Agropecuária Primavera S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "13.522.166/0001-10",
+        "documento_numeros": "13522166000110",
+        "endereco": "Avenida Paulista, 2316",
+        "bairro": "Tatuapé",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01780-184"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "723.547.454-86",
+        "documento_numeros": "72354745486",
+        "endereco": "Rua Sete de Setembro, 1337",
+        "bairro": "Pinheiros",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01653-260"
+      },
+      "numero": 51970,
+      "numero_formatado": "000.051.970",
+      "serie": 3,
+      "chave_acesso": "35261113522166000110650030000519701100604311",
+      "chave_acesso_formatada": "3526 1113 5221 6600 0110 6500 3000 0519 7011 0060 4311",
+      "data_emissao": "2026-11-06",
+      "data_emissao_formatada": "06/11/2026",
+      "hora_emissao": "14:08:15",
+      "valor_produtos": 285.66,
+      "valor_frete": 0.0,
+      "valor_desconto": 8.57,
+      "valor_total": 277.09,
+      "valor_total_formatado": "277,09",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.813,
+          "unidade": "KG",
+          "valor_unitario": 9.05,
+          "valor_total": 25.46
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 6.23,
+          "valor_total": 18.69
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 6.84,
+          "valor_total": 6.84
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 9.75,
+          "valor_total": 87.75
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 6.05,
+          "valor_total": 18.15
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 10.34,
+          "valor_total": 10.34
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4.12,
+          "valor_total": 8.24
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 8.68,
+          "valor_total": 26.04
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 2.71,
+          "valor_total": 24.39
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 19.92,
+          "valor_total": 59.76
+        }
+      ],
+      "valor_pago": 277.09,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_022",
+      "arquivo_xml": "xml/nfce_022.xml",
+      "arquivo_pdf": "pdf/nfce_022.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Indústria São Jorge LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "61.967.836/0001-54",
+        "documento_numeros": "61967836000154",
+        "endereco": "Rua Santos Dumont, 192",
+        "bairro": "Espinheiro",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50999-295"
+      },
+      "destinatario": {
+        "nome": "Maria Barbosa Mendes",
+        "tipo_documento": "CPF",
+        "documento": "216.022.567-30",
+        "documento_numeros": "21602256730",
+        "endereco": "Rua Santos Dumont, 2231",
+        "bairro": "Graças",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50442-472"
+      },
+      "numero": 178475,
+      "numero_formatado": "000.178.475",
+      "serie": 2,
+      "chave_acesso": "26260661967836000154650020001784751500563208",
+      "chave_acesso_formatada": "2626 0661 9678 3600 0154 6500 2000 1784 7515 0056 3208",
+      "data_emissao": "2026-06-18",
+      "data_emissao_formatada": "18/06/2026",
+      "hora_emissao": "13:18:35",
+      "valor_produtos": 211.98,
+      "valor_frete": 0.0,
+      "valor_desconto": 10.6,
+      "valor_total": 201.38,
+      "valor_total_formatado": "201,38",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4.58,
+          "valor_total": 9.16
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 26.14,
+          "valor_total": 78.42
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 17.06,
+          "valor_total": 68.24
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 3.63,
+          "valor_total": 10.89
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.443,
+          "unidade": "KG",
+          "valor_unitario": 15.92,
+          "valor_total": 38.89
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 6.38,
+          "valor_total": 6.38
+        }
+      ],
+      "valor_pago": 201.38,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_023",
+      "arquivo_xml": "xml/nfce_023.xml",
+      "arquivo_pdf": "pdf/nfce_023.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Supermercado Primavera LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "68.153.319/0001-90",
+        "documento_numeros": "68153319000190",
+        "endereco": "Rua XV de Novembro, 398",
+        "bairro": "Cohama",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65460-743"
+      },
+      "destinatario": {
+        "nome": "Fernanda Oliveira Soares",
+        "tipo_documento": "CPF",
+        "documento": "761.075.775-64",
+        "documento_numeros": "76107577564",
+        "endereco": "Avenida Rio Branco, 2830",
+        "bairro": "Calhau",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65608-284"
+      },
+      "numero": 116497,
+      "numero_formatado": "000.116.497",
+      "serie": 3,
+      "chave_acesso": "21241268153319000190650030001164971029756536",
+      "chave_acesso_formatada": "2124 1268 1533 1900 0190 6500 3000 1164 9710 2975 6536",
+      "data_emissao": "2024-12-11",
+      "data_emissao_formatada": "11/12/2024",
+      "hora_emissao": "16:01:57",
+      "valor_produtos": 87.27,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 87.27,
+      "valor_total_formatado": "87,27",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 30.86,
+          "valor_total": 30.86
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 1.871,
+          "unidade": "KG",
+          "valor_unitario": 10.92,
+          "valor_total": 20.43
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 17.99,
+          "valor_total": 35.98
+        }
+      ],
+      "valor_pago": 90.0,
+      "troco": 2.73
+    },
+    {
+      "id": "nfce_024",
+      "arquivo_xml": "xml/nfce_024.xml",
+      "arquivo_pdf": "pdf/nfce_024.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Auto Peças Serra Azul LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "15.188.875/0001-36",
+        "documento_numeros": "15188875000136",
+        "endereco": "Avenida Independência, 1976",
+        "bairro": "Santa Mônica",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38274-277"
+      },
+      "destinatario": {
+        "nome": "Gabriela Souza Lopes",
+        "tipo_documento": "CPF",
+        "documento": "843.913.239-58",
+        "documento_numeros": "84391323958",
+        "endereco": "Rua Dom Pedro II, 555",
+        "bairro": "Centro",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38650-731"
+      },
+      "numero": 202718,
+      "numero_formatado": "000.202.718",
+      "serie": 1,
+      "chave_acesso": "31240915188875000136650010002027181301559827",
+      "chave_acesso_formatada": "3124 0915 1888 7500 0136 6500 1000 2027 1813 0155 9827",
+      "data_emissao": "2024-09-13",
+      "data_emissao_formatada": "13/09/2024",
+      "hora_emissao": "12:15:21",
+      "valor_produtos": 337.24,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 337.24,
+      "valor_total_formatado": "337,24",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 7.98,
+          "valor_total": 15.96
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 2.738,
+          "unidade": "KG",
+          "valor_unitario": 8.65,
+          "valor_total": 23.68
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 26.82,
+          "valor_total": 160.92
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 6.93,
+          "valor_total": 6.93
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 3.41,
+          "valor_total": 20.46
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 13.87,
+          "valor_total": 41.61
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 7.6,
+          "valor_total": 7.6
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 6.8,
+          "valor_total": 20.4
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 19.84,
+          "valor_total": 39.68
+        }
+      ],
+      "valor_pago": 337.24,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_025",
+      "arquivo_xml": "xml/nfce_025.xml",
+      "arquivo_pdf": "pdf/nfce_025.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Comercial Litoral S.A.",
+        "tipo_documento": "CNPJ",
+        "documento": "82.671.339/0001-84",
+        "documento_numeros": "82671339000184",
+        "endereco": "Travessa da Paz, 980",
+        "bairro": "Setor Marista",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74922-929"
+      },
+      "destinatario": {
+        "nome": "Rodrigo Ferreira Soares",
+        "tipo_documento": "CPF",
+        "documento": "248.363.852-02",
+        "documento_numeros": "24836385202",
+        "endereco": "Rua XV de Novembro, 1255",
+        "bairro": "Jardim Goiás",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74090-711"
+      },
+      "numero": 16949,
+      "numero_formatado": "000.016.949",
+      "serie": 1,
+      "chave_acesso": "52260482671339000184650010000169491860789224",
+      "chave_acesso_formatada": "5226 0482 6713 3900 0184 6500 1000 0169 4918 6078 9224",
+      "data_emissao": "2026-04-18",
+      "data_emissao_formatada": "18/04/2026",
+      "hora_emissao": "11:06:18",
+      "valor_produtos": 69.06,
+      "valor_frete": 0.0,
+      "valor_desconto": 2.07,
+      "valor_total": 66.99,
+      "valor_total_formatado": "66,99",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 2.8,
+          "valor_total": 8.4
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 5.8,
+          "valor_total": 5.8
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 10.3,
+          "valor_total": 41.2
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 1.899,
+          "unidade": "KG",
+          "valor_unitario": 4.34,
+          "valor_total": 8.24
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 2.71,
+          "valor_total": 5.42
+        }
+      ],
+      "valor_pago": 66.99,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_026",
+      "arquivo_xml": "xml/nfce_026.xml",
+      "arquivo_pdf": "pdf/nfce_026.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Padaria Boa Vista EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "29.295.887/0001-74",
+        "documento_numeros": "29295887000174",
+        "endereco": "Rua Barão do Rio Branco, 508",
+        "bairro": "Cocó",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60256-911"
+      },
+      "destinatario": {
+        "nome": "Maria Machado Silva",
+        "tipo_documento": "CPF",
+        "documento": "118.744.874-56",
+        "documento_numeros": "11874487456",
+        "endereco": "Rua Tiradentes, 2585",
+        "bairro": "Fátima",
+        "cidade": "Fortaleza",
+        "uf": "CE",
+        "cep": "60851-178"
+      },
+      "numero": 115730,
+      "numero_formatado": "000.115.730",
+      "serie": 1,
+      "chave_acesso": "23260629295887000174650010001157301007847092",
+      "chave_acesso_formatada": "2326 0629 2958 8700 0174 6500 1000 1157 3010 0784 7092",
+      "data_emissao": "2026-06-16",
+      "data_emissao_formatada": "16/06/2026",
+      "hora_emissao": "08:39:50",
+      "valor_produtos": 72.67,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 72.67,
+      "valor_total_formatado": "72,67",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 21.23,
+          "valor_total": 42.46
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 0.839,
+          "unidade": "KG",
+          "valor_unitario": 10.27,
+          "valor_total": 8.62
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.06,
+          "valor_total": 4.06
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.612,
+          "unidade": "KG",
+          "valor_unitario": 6.71,
+          "valor_total": 17.53
+        }
+      ],
+      "valor_pago": 72.67,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_027",
+      "arquivo_xml": "xml/nfce_027.xml",
+      "arquivo_pdf": "pdf/nfce_027.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Distribuidora Cerrado ME",
+        "tipo_documento": "CNPJ",
+        "documento": "96.635.525/0001-72",
+        "documento_numeros": "96635525000172",
+        "endereco": "Rua Tiradentes, 1542",
+        "bairro": "Ponta Negra",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69578-449"
+      },
+      "destinatario": null,
+      "numero": 137765,
+      "numero_formatado": "000.137.765",
+      "serie": 2,
+      "chave_acesso": "13250196635525000172650020001377651591410415",
+      "chave_acesso_formatada": "1325 0196 6355 2500 0172 6500 2000 1377 6515 9141 0415",
+      "data_emissao": "2025-01-13",
+      "data_emissao_formatada": "13/01/2025",
+      "hora_emissao": "08:19:52",
+      "valor_produtos": 159.09,
+      "valor_frete": 0.0,
+      "valor_desconto": 7.95,
+      "valor_total": 151.14,
+      "valor_total_formatado": "151,14",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 2.477,
+          "unidade": "KG",
+          "valor_unitario": 7.92,
+          "valor_total": 19.62
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 8.35,
+          "valor_total": 16.7
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 22.86,
+          "valor_total": 22.86
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 3.71,
+          "valor_total": 3.71
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.89,
+          "valor_total": 4.89
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 14.75,
+          "valor_total": 29.5
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 6.35,
+          "valor_total": 19.05
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 0.31,
+          "unidade": "KG",
+          "valor_unitario": 12.24,
+          "valor_total": 3.79
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.166,
+          "unidade": "KG",
+          "valor_unitario": 5.18,
+          "valor_total": 11.22
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4.22,
+          "valor_total": 8.44
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 19.31,
+          "valor_total": 19.31
+        }
+      ],
+      "valor_pago": 151.14,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_028",
+      "arquivo_xml": "xml/nfce_028.xml",
+      "arquivo_pdf": "pdf/nfce_028.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Auto Peças Central EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "42.031.779/0001-52",
+        "documento_numeros": "42031779000152",
+        "endereco": "Rua Tiradentes, 2679",
+        "bairro": "Jardim Karaíba",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38736-939"
+      },
+      "destinatario": null,
+      "numero": 32597,
+      "numero_formatado": "000.032.597",
+      "serie": 2,
+      "chave_acesso": "31260642031779000152650020000325971686368705",
+      "chave_acesso_formatada": "3126 0642 0317 7900 0152 6500 2000 0325 9716 8636 8705",
+      "data_emissao": "2026-06-23",
+      "data_emissao_formatada": "23/06/2026",
+      "hora_emissao": "15:58:27",
+      "valor_produtos": 410.31,
+      "valor_frete": 0.0,
+      "valor_desconto": 41.03,
+      "valor_total": 369.28,
+      "valor_total_formatado": "369,28",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 17.71,
+          "valor_total": 53.13
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 1.93,
+          "valor_total": 15.44
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 23.14,
+          "valor_total": 138.84
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 5.71,
+          "valor_total": 51.39
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 8.44,
+          "valor_total": 16.88
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.114,
+          "unidade": "KG",
+          "valor_unitario": 13.83,
+          "valor_total": 29.24
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 17.88,
+          "valor_total": 53.64
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.229,
+          "unidade": "KG",
+          "valor_unitario": 42.11,
+          "valor_total": 51.75
+        }
+      ],
+      "valor_pago": 369.28,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_029",
+      "arquivo_xml": "xml/nfce_029.xml",
+      "arquivo_pdf": "pdf/nfce_029.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Agropecuária Cerrado EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "72.488.376/0001-06",
+        "documento_numeros": "72488376000106",
+        "endereco": "Travessa da Paz, 2515",
+        "bairro": "Setor Bueno",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74372-416"
+      },
+      "destinatario": {
+        "nome": "Luíza Costa Nunes",
+        "tipo_documento": "CPF",
+        "documento": "688.456.912-33",
+        "documento_numeros": "68845691233",
+        "endereco": "Avenida Independência, 1870",
+        "bairro": "Setor Oeste",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74542-092"
+      },
+      "numero": 209928,
+      "numero_formatado": "000.209.928",
+      "serie": 1,
+      "chave_acesso": "52260972488376000106650010002099281076551340",
+      "chave_acesso_formatada": "5226 0972 4883 7600 0106 6500 1000 2099 2810 7655 1340",
+      "data_emissao": "2026-09-01",
+      "data_emissao_formatada": "01/09/2026",
+      "hora_emissao": "16:57:24",
+      "valor_produtos": 400.44,
+      "valor_frete": 0.0,
+      "valor_desconto": 20.02,
+      "valor_total": 380.42,
+      "valor_total_formatado": "380,42",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 14.93,
+          "valor_total": 44.79
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.869,
+          "unidade": "KG",
+          "valor_unitario": 9.18,
+          "valor_total": 26.34
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 3.99,
+          "valor_total": 3.99
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 10.09,
+          "valor_total": 40.36
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 28.63,
+          "valor_total": 28.63
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 1.184,
+          "unidade": "KG",
+          "valor_unitario": 7.8,
+          "valor_total": 9.24
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 26.24,
+          "valor_total": 236.16
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 3.28,
+          "valor_total": 6.56
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.37,
+          "valor_total": 4.37
+        }
+      ],
+      "valor_pago": 380.42,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_030",
+      "arquivo_xml": "xml/nfce_030.xml",
+      "arquivo_pdf": "pdf/nfce_030.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Auto Peças São Jorge ME",
+        "tipo_documento": "CNPJ",
+        "documento": "90.006.435/0001-36",
+        "documento_numeros": "90006435000136",
+        "endereco": "Rua Sete de Setembro, 728",
+        "bairro": "Tibery",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38074-568"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "549.472.273-20",
+        "documento_numeros": "54947227320",
+        "endereco": "Avenida Paulista, 2023",
+        "bairro": "Centro",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38170-707"
+      },
+      "numero": 207582,
+      "numero_formatado": "000.207.582",
+      "serie": 2,
+      "chave_acesso": "31260590006435000136650020002075821021869581",
+      "chave_acesso_formatada": "3126 0590 0064 3500 0136 6500 2000 2075 8210 2186 9581",
+      "data_emissao": "2026-05-19",
+      "data_emissao_formatada": "19/05/2026",
+      "hora_emissao": "08:14:39",
+      "valor_produtos": 101.3,
+      "valor_frete": 0.0,
+      "valor_desconto": 3.04,
+      "valor_total": 98.26,
+      "valor_total_formatado": "98,26",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 7.67,
+          "valor_total": 15.34
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4.82,
+          "valor_total": 9.64
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 25.44,
+          "valor_total": 76.32
+        }
+      ],
+      "valor_pago": 100.0,
+      "troco": 1.74
+    },
+    {
+      "id": "nfce_031",
+      "arquivo_xml": "xml/nfce_031.xml",
+      "arquivo_pdf": "pdf/nfce_031.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Papelaria Central LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "64.575.982/0001-22",
+        "documento_numeros": "64575982000122",
+        "endereco": "Rua Sete de Setembro, 1050",
+        "bairro": "Centro",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13438-994"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "450.564.906-79",
+        "documento_numeros": "45056490679",
+        "endereco": "Rua Santos Dumont, 2929",
+        "bairro": "Taquaral",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13918-258"
+      },
+      "numero": 50034,
+      "numero_formatado": "000.050.034",
+      "serie": 1,
+      "chave_acesso": "35250664575982000122650010000500341616693340",
+      "chave_acesso_formatada": "3525 0664 5759 8200 0122 6500 1000 0500 3416 1669 3340",
+      "data_emissao": "2025-06-04",
+      "data_emissao_formatada": "04/06/2025",
+      "hora_emissao": "09:02:06",
+      "valor_produtos": 516.37,
+      "valor_frete": 0.0,
+      "valor_desconto": 51.64,
+      "valor_total": 464.73,
+      "valor_total_formatado": "464,73",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 27.97,
+          "valor_total": 251.73
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 10.36,
+          "valor_total": 41.44
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 11.15,
+          "valor_total": 133.8
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 29.8,
+          "valor_total": 89.4
+        }
+      ],
+      "valor_pago": 464.73,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_032",
+      "arquivo_xml": "xml/nfce_032.xml",
+      "arquivo_pdf": "pdf/nfce_032.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Atacadista Central ME",
+        "tipo_documento": "CNPJ",
+        "documento": "40.157.430/0001-36",
+        "documento_numeros": "40157430000136",
+        "endereco": "Rua Dom Pedro II, 1738",
+        "bairro": "Sudoeste",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70865-924"
+      },
+      "destinatario": {
+        "nome": "Rodrigo Nascimento Mendes",
+        "tipo_documento": "CPF",
+        "documento": "657.421.059-32",
+        "documento_numeros": "65742105932",
+        "endereco": "Rua Barão do Rio Branco, 2679",
+        "bairro": "Lago Sul",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70345-707"
+      },
+      "numero": 216831,
+      "numero_formatado": "000.216.831",
+      "serie": 1,
+      "chave_acesso": "53251240157430000136650010002168311221850458",
+      "chave_acesso_formatada": "5325 1240 1574 3000 0136 6500 1000 2168 3112 2185 0458",
+      "data_emissao": "2025-12-16",
+      "data_emissao_formatada": "16/12/2025",
+      "hora_emissao": "08:11:11",
+      "valor_produtos": 338.97,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 338.97,
+      "valor_total_formatado": "338,97",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 2.53,
+          "valor_total": 10.12
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 2.868,
+          "unidade": "KG",
+          "valor_unitario": 36.67,
+          "valor_total": 105.17
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.53,
+          "valor_total": 4.53
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 0.811,
+          "unidade": "KG",
+          "valor_unitario": 44.55,
+          "valor_total": 36.13
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 2.825,
+          "unidade": "KG",
+          "valor_unitario": 9.95,
+          "valor_total": 28.11
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 9.74,
+          "valor_total": 29.22
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 4.12,
+          "valor_total": 32.96
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 17.06,
+          "valor_total": 68.24
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 0.641,
+          "unidade": "KG",
+          "valor_unitario": 11.12,
+          "valor_total": 7.13
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 4.34,
+          "valor_total": 17.36
+        }
+      ],
+      "valor_pago": 338.97,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_033",
+      "arquivo_xml": "xml/nfce_033.xml",
+      "arquivo_pdf": "pdf/nfce_033.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Farmácia Aurora EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "37.981.924/0001-26",
+        "documento_numeros": "37981924000126",
+        "endereco": "Alameda dos Ipês, 790",
+        "bairro": "Setor Oeste",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74924-908"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "069.545.468-44",
+        "documento_numeros": "06954546844",
+        "endereco": "Rua Tiradentes, 1299",
+        "bairro": "Setor Oeste",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74314-742"
+      },
+      "numero": 176244,
+      "numero_formatado": "000.176.244",
+      "serie": 2,
+      "chave_acesso": "52250337981924000126650020001762441943435612",
+      "chave_acesso_formatada": "5225 0337 9819 2400 0126 6500 2000 1762 4419 4343 5612",
+      "data_emissao": "2025-03-09",
+      "data_emissao_formatada": "09/03/2025",
+      "hora_emissao": "10:08:14",
+      "valor_produtos": 212.92,
+      "valor_frete": 0.0,
+      "valor_desconto": 10.65,
+      "valor_total": 202.27,
+      "valor_total_formatado": "202,27",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 3.33,
+          "valor_total": 13.32
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.087,
+          "unidade": "KG",
+          "valor_unitario": 15.57,
+          "valor_total": 32.49
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 26.25,
+          "valor_total": 26.25
+        },
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 8.54,
+          "valor_total": 25.62
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 3.78,
+          "valor_total": 34.02
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 18.91,
+          "valor_total": 56.73
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 3.17,
+          "valor_total": 12.68
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 11.81,
+          "valor_total": 11.81
+        }
+      ],
+      "valor_pago": 202.27,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_034",
+      "arquivo_xml": "xml/nfce_034.xml",
+      "arquivo_pdf": "pdf/nfce_034.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Papelaria Planalto LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "67.616.105/0001-40",
+        "documento_numeros": "67616105000140",
+        "endereco": "Rua das Flores, 2301",
+        "bairro": "Itacorubi",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88208-553"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "184.963.017-88",
+        "documento_numeros": "18496301788",
+        "endereco": "Avenida Brasil, 845",
+        "bairro": "Centro",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88384-668"
+      },
+      "numero": 104466,
+      "numero_formatado": "000.104.466",
+      "serie": 2,
+      "chave_acesso": "42260667616105000140650020001044661923128726",
+      "chave_acesso_formatada": "4226 0667 6161 0500 0140 6500 2000 1044 6619 2312 8726",
+      "data_emissao": "2026-06-11",
+      "data_emissao_formatada": "11/06/2026",
+      "hora_emissao": "14:42:32",
+      "valor_produtos": 269.04,
+      "valor_frete": 0.0,
+      "valor_desconto": 26.9,
+      "valor_total": 242.14,
+      "valor_total_formatado": "242,14",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 7.66,
+          "valor_total": 15.32
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4.24,
+          "valor_total": 12.72
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 0.779,
+          "unidade": "KG",
+          "valor_unitario": 7.95,
+          "valor_total": 6.19
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 1.61,
+          "unidade": "KG",
+          "valor_unitario": 36.61,
+          "valor_total": 58.94
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 7.53,
+          "valor_total": 30.12
+        },
+        {
+          "descricao": "SABONETE 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 1.99,
+          "valor_total": 1.99
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 30.56,
+          "valor_total": 91.68
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 17.36,
+          "valor_total": 52.08
+        }
+      ],
+      "valor_pago": 242.14,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_035",
+      "arquivo_xml": "xml/nfce_035.xml",
+      "arquivo_pdf": "pdf/nfce_035.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Indústria Serra Azul LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "31.653.534/0001-40",
+        "documento_numeros": "31653534000140",
+        "endereco": "Rua Sete de Setembro, 2776",
+        "bairro": "Tatuapé",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01800-714"
+      },
+      "destinatario": null,
+      "numero": 206280,
+      "numero_formatado": "000.206.280",
+      "serie": 2,
+      "chave_acesso": "35250431653534000140650020002062801661670797",
+      "chave_acesso_formatada": "3525 0431 6535 3400 0140 6500 2000 2062 8016 6167 0797",
+      "data_emissao": "2025-04-18",
+      "data_emissao_formatada": "18/04/2025",
+      "hora_emissao": "15:46:08",
+      "valor_produtos": 738.21,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 738.21,
+      "valor_total_formatado": "738,21",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 7.72,
+          "valor_total": 61.76
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 2.688,
+          "unidade": "KG",
+          "valor_unitario": 45.24,
+          "valor_total": 121.61
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 5.02,
+          "valor_total": 15.06
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 27.65,
+          "valor_total": 110.6
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 2.78,
+          "valor_total": 8.34
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 12,
+          "unidade": "UN",
+          "valor_unitario": 23.74,
+          "valor_total": 284.88
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 22.86,
+          "valor_total": 45.72
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 6.94,
+          "valor_total": 20.82
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 0.313,
+          "unidade": "KG",
+          "valor_unitario": 13.25,
+          "valor_total": 4.15
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 2.324,
+          "unidade": "KG",
+          "valor_unitario": 6.09,
+          "valor_total": 14.15
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 8.52,
+          "valor_total": 51.12
+        }
+      ],
+      "valor_pago": 740.0,
+      "troco": 1.79
+    },
+    {
+      "id": "nfce_036",
+      "arquivo_xml": "xml/nfce_036.xml",
+      "arquivo_pdf": "pdf/nfce_036.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Mercado Planalto EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "33.536.069/0001-93",
+        "documento_numeros": "33536069000193",
+        "endereco": "Rua XV de Novembro, 2199",
+        "bairro": "Centro",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69521-682"
+      },
+      "destinatario": {
+        "nome": "Thiago Freitas Ferreira",
+        "tipo_documento": "CPF",
+        "documento": "803.761.655-02",
+        "documento_numeros": "80376165502",
+        "endereco": "Avenida Paulista, 999",
+        "bairro": "Adrianópolis",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69260-167"
+      },
+      "numero": 191522,
+      "numero_formatado": "000.191.522",
+      "serie": 1,
+      "chave_acesso": "13241233536069000193650010001915221147873987",
+      "chave_acesso_formatada": "1324 1233 5360 6900 0193 6500 1000 1915 2211 4787 3987",
+      "data_emissao": "2024-12-20",
+      "data_emissao_formatada": "20/12/2024",
+      "hora_emissao": "17:12:39",
+      "valor_produtos": 54.39,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 54.39,
+      "valor_total_formatado": "54,39",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 1.935,
+          "unidade": "KG",
+          "valor_unitario": 13.79,
+          "valor_total": 26.68
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 7.64,
+          "valor_total": 22.92
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.79,
+          "valor_total": 4.79
+        }
+      ],
+      "valor_pago": 54.39,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_037",
+      "arquivo_xml": "xml/nfce_037.xml",
+      "arquivo_pdf": "pdf/nfce_037.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Agropecuária Central LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "21.212.210/0001-13",
+        "documento_numeros": "21212210000113",
+        "endereco": "Rua Dom Pedro II, 1138",
+        "bairro": "Jardim Karaíba",
+        "cidade": "Uberlândia",
+        "uf": "MG",
+        "cep": "38012-540"
+      },
+      "destinatario": null,
+      "numero": 223398,
+      "numero_formatado": "000.223.398",
+      "serie": 2,
+      "chave_acesso": "31240621212210000113650020002233981972891467",
+      "chave_acesso_formatada": "3124 0621 2122 1000 0113 6500 2000 2233 9819 7289 1467",
+      "data_emissao": "2024-06-09",
+      "data_emissao_formatada": "09/06/2024",
+      "hora_emissao": "08:50:00",
+      "valor_produtos": 542.99,
+      "valor_frete": 0.0,
+      "valor_desconto": 16.29,
+      "valor_total": 526.7,
+      "valor_total_formatado": "526,70",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 2.344,
+          "unidade": "KG",
+          "valor_unitario": 34.64,
+          "valor_total": 81.2
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 17.05,
+          "valor_total": 51.15
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 4.8,
+          "valor_total": 19.2
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 4.89,
+          "valor_total": 9.78
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 6.97,
+          "valor_total": 41.82
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 30.34,
+          "valor_total": 273.06
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 9.98,
+          "valor_total": 19.96
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 9.99,
+          "valor_total": 39.96
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 3.43,
+          "valor_total": 6.86
+        }
+      ],
+      "valor_pago": 530.0,
+      "troco": 3.3
+    },
+    {
+      "id": "nfce_038",
+      "arquivo_xml": "xml/nfce_038.xml",
+      "arquivo_pdf": "pdf/nfce_038.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Comercial Litoral EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "46.842.510/0001-07",
+        "documento_numeros": "46842510000107",
+        "endereco": "Rua XV de Novembro, 956",
+        "bairro": "Barão Geraldo",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13961-350"
+      },
+      "destinatario": {
+        "nome": "Rafael Vieira Oliveira",
+        "tipo_documento": "CPF",
+        "documento": "343.970.542-07",
+        "documento_numeros": "34397054207",
+        "endereco": "Avenida Paulista, 305",
+        "bairro": "Centro",
+        "cidade": "Campinas",
+        "uf": "SP",
+        "cep": "13971-123"
+      },
+      "numero": 127917,
+      "numero_formatado": "000.127.917",
+      "serie": 3,
+      "chave_acesso": "35240946842510000107650030001279171847860494",
+      "chave_acesso_formatada": "3524 0946 8425 1000 0107 6500 3000 1279 1718 4786 0494",
+      "data_emissao": "2024-09-13",
+      "data_emissao_formatada": "13/09/2024",
+      "hora_emissao": "16:06:10",
+      "valor_produtos": 196.72,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 196.72,
+      "valor_total_formatado": "196,72",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 23.12,
+          "valor_total": 23.12
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 6.39,
+          "valor_total": 38.34
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 2.305,
+          "unidade": "KG",
+          "valor_unitario": 46.5,
+          "valor_total": 107.18
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 3.12,
+          "valor_total": 28.08
+        }
+      ],
+      "valor_pago": 200.0,
+      "troco": 3.28
+    },
+    {
+      "id": "nfce_039",
+      "arquivo_xml": "xml/nfce_039.xml",
+      "arquivo_pdf": "pdf/nfce_039.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Eletro Central EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "73.132.372/0001-45",
+        "documento_numeros": "73132372000145",
+        "endereco": "Rua das Flores, 1495",
+        "bairro": "Jardim Goiás",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74147-206"
+      },
+      "destinatario": {
+        "nome": "Rodrigo Pereira Ribeiro",
+        "tipo_documento": "CPF",
+        "documento": "283.720.700-40",
+        "documento_numeros": "28372070040",
+        "endereco": "Avenida Paulista, 1015",
+        "bairro": "Setor Bueno",
+        "cidade": "Goiânia",
+        "uf": "GO",
+        "cep": "74094-258"
+      },
+      "numero": 114980,
+      "numero_formatado": "000.114.980",
+      "serie": 1,
+      "chave_acesso": "52250473132372000145650010001149801671576333",
+      "chave_acesso_formatada": "5225 0473 1323 7200 0145 6500 1000 1149 8016 7157 6333",
+      "data_emissao": "2025-04-14",
+      "data_emissao_formatada": "14/04/2025",
+      "hora_emissao": "18:34:20",
+      "valor_produtos": 515.89,
+      "valor_frete": 0.0,
+      "valor_desconto": 51.59,
+      "valor_total": 464.3,
+      "valor_total_formatado": "464,30",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 6.7,
+          "valor_total": 13.4
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 3.79,
+          "valor_total": 3.79
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 0.728,
+          "unidade": "KG",
+          "valor_unitario": 4.85,
+          "valor_total": 3.53
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 15.18,
+          "valor_total": 45.54
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 11.63,
+          "valor_total": 23.26
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.98,
+          "valor_total": 4.98
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 5.13,
+          "valor_total": 10.26
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 0.482,
+          "unidade": "KG",
+          "valor_unitario": 10.33,
+          "valor_total": 4.98
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 2.824,
+          "unidade": "KG",
+          "valor_unitario": 48.15,
+          "valor_total": 135.98
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 1.096,
+          "unidade": "KG",
+          "valor_unitario": 9.13,
+          "valor_total": 10.01
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 32.52,
+          "valor_total": 260.16
+        }
+      ],
+      "valor_pago": 470.0,
+      "troco": 5.7
+    },
+    {
+      "id": "nfce_040",
+      "arquivo_xml": "xml/nfce_040.xml",
+      "arquivo_pdf": "pdf/nfce_040.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Farmácia Boa Vista ME",
+        "tipo_documento": "CNPJ",
+        "documento": "29.662.466/0001-34",
+        "documento_numeros": "29662466000134",
+        "endereco": "Avenida Getúlio Vargas, 2014",
+        "bairro": "Centro",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88172-935"
+      },
+      "destinatario": {
+        "nome": "Paulo Dias Costa",
+        "tipo_documento": "CPF",
+        "documento": "910.413.865-16",
+        "documento_numeros": "91041386516",
+        "endereco": "Rua Marechal Deodoro, 1818",
+        "bairro": "Coqueiros",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88345-975"
+      },
+      "numero": 155087,
+      "numero_formatado": "000.155.087",
+      "serie": 3,
+      "chave_acesso": "42240829662466000134650030001550871392628008",
+      "chave_acesso_formatada": "4224 0829 6624 6600 0134 6500 3000 1550 8713 9262 8008",
+      "data_emissao": "2024-08-25",
+      "data_emissao_formatada": "25/08/2024",
+      "hora_emissao": "14:57:39",
+      "valor_produtos": 146.68,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 146.68,
+      "valor_total_formatado": "146,68",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 17.84,
+          "valor_total": 17.84
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.343,
+          "unidade": "KG",
+          "valor_unitario": 45.51,
+          "valor_total": 61.12
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 3.8,
+          "valor_total": 22.8
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 22.46,
+          "valor_total": 44.92
+        }
+      ],
+      "valor_pago": 146.68,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_041",
+      "arquivo_xml": "xml/nfce_041.xml",
+      "arquivo_pdf": "pdf/nfce_041.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Auto Peças Primavera EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "81.997.079/0001-79",
+        "documento_numeros": "81997079000179",
+        "endereco": "Alameda dos Ipês, 2883",
+        "bairro": "Itacorubi",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88319-426"
+      },
+      "destinatario": {
+        "nome": "Beatriz Moreira Machado",
+        "tipo_documento": "CPF",
+        "documento": "762.682.079-71",
+        "documento_numeros": "76268207971",
+        "endereco": "Avenida Rio Branco, 1501",
+        "bairro": "Itacorubi",
+        "cidade": "Florianópolis",
+        "uf": "SC",
+        "cep": "88376-055"
+      },
+      "numero": 244254,
+      "numero_formatado": "000.244.254",
+      "serie": 1,
+      "chave_acesso": "42260681997079000179650010002442541539240632",
+      "chave_acesso_formatada": "4226 0681 9970 7900 0179 6500 1000 2442 5415 3924 0632",
+      "data_emissao": "2026-06-29",
+      "data_emissao_formatada": "29/06/2026",
+      "hora_emissao": "19:40:49",
+      "valor_produtos": 95.95,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 95.95,
+      "valor_total_formatado": "95,95",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.634,
+          "unidade": "KG",
+          "valor_unitario": 7.27,
+          "valor_total": 19.15
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 14.3,
+          "valor_total": 57.2
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 1.962,
+          "unidade": "KG",
+          "valor_unitario": 9.99,
+          "valor_total": 19.6
+        }
+      ],
+      "valor_pago": 95.95,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_042",
+      "arquivo_xml": "xml/nfce_042.xml",
+      "arquivo_pdf": "pdf/nfce_042.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Distribuidora Planalto EPP",
+        "tipo_documento": "CNPJ",
+        "documento": "65.072.068/0001-21",
+        "documento_numeros": "65072068000121",
+        "endereco": "Alameda dos Ipês, 2210",
+        "bairro": "Adrianópolis",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69368-607"
+      },
+      "destinatario": {
+        "nome": "Francisca Martins Alves",
+        "tipo_documento": "CPF",
+        "documento": "548.777.940-69",
+        "documento_numeros": "54877794069",
+        "endereco": "Rua Barão do Rio Branco, 425",
+        "bairro": "Centro",
+        "cidade": "Manaus",
+        "uf": "AM",
+        "cep": "69374-209"
+      },
+      "numero": 222500,
+      "numero_formatado": "000.222.500",
+      "serie": 2,
+      "chave_acesso": "13240765072068000121650020002225001406702700",
+      "chave_acesso_formatada": "1324 0765 0720 6800 0121 6500 2000 2225 0014 0670 2700",
+      "data_emissao": "2024-07-10",
+      "data_emissao_formatada": "10/07/2024",
+      "hora_emissao": "13:33:07",
+      "valor_produtos": 399.06,
+      "valor_frete": 0.0,
+      "valor_desconto": 11.97,
+      "valor_total": 387.09,
+      "valor_total_formatado": "387,09",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "FEIJAO CARIOCA 1KG",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 6.64,
+          "valor_total": 59.76
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 7.3,
+          "valor_total": 21.9
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 7.96,
+          "valor_total": 23.88
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 27.97,
+          "valor_total": 27.97
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 11.91,
+          "valor_total": 35.73
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 10.05,
+          "valor_total": 40.2
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 3.44,
+          "valor_total": 13.76
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.898,
+          "unidade": "KG",
+          "valor_unitario": 6.46,
+          "valor_total": 18.72
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 26.08,
+          "valor_total": 104.32
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 5.04,
+          "valor_total": 40.32
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 6.25,
+          "valor_total": 12.5
+        }
+      ],
+      "valor_pago": 387.09,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_043",
+      "arquivo_xml": "xml/nfce_043.xml",
+      "arquivo_pdf": "pdf/nfce_043.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Farmácia Central ME",
+        "tipo_documento": "CNPJ",
+        "documento": "50.886.054/0001-74",
+        "documento_numeros": "50886054000174",
+        "endereco": "Rua Santos Dumont, 1373",
+        "bairro": "Casa Forte",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50224-656"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "336.239.704-25",
+        "documento_numeros": "33623970425",
+        "endereco": "Avenida Getúlio Vargas, 2305",
+        "bairro": "Boa Viagem",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50683-209"
+      },
+      "numero": 207391,
+      "numero_formatado": "000.207.391",
+      "serie": 1,
+      "chave_acesso": "26241150886054000174650010002073911756257497",
+      "chave_acesso_formatada": "2624 1150 8860 5400 0174 6500 1000 2073 9117 5625 7497",
+      "data_emissao": "2024-11-23",
+      "data_emissao_formatada": "23/11/2024",
+      "hora_emissao": "15:01:33",
+      "valor_produtos": 186.18,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 186.18,
+      "valor_total_formatado": "186,18",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 2.478,
+          "unidade": "KG",
+          "valor_unitario": 47.35,
+          "valor_total": 117.33
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 22.95,
+          "valor_total": 68.85
+        }
+      ],
+      "valor_pago": 186.18,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_044",
+      "arquivo_xml": "xml/nfce_044.xml",
+      "arquivo_pdf": "pdf/nfce_044.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Papelaria Ipê LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "22.578.122/0001-00",
+        "documento_numeros": "22578122000100",
+        "endereco": "Avenida Paulista, 2096",
+        "bairro": "Espinheiro",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50957-830"
+      },
+      "destinatario": {
+        "nome": "Vitória Carvalho Nascimento",
+        "tipo_documento": "CPF",
+        "documento": "286.152.403-02",
+        "documento_numeros": "28615240302",
+        "endereco": "Travessa da Paz, 1715",
+        "bairro": "Graças",
+        "cidade": "Recife",
+        "uf": "PE",
+        "cep": "50799-321"
+      },
+      "numero": 213683,
+      "numero_formatado": "000.213.683",
+      "serie": 3,
+      "chave_acesso": "26261022578122000100650030002136831574740151",
+      "chave_acesso_formatada": "2626 1022 5781 2200 0100 6500 3000 2136 8315 7474 0151",
+      "data_emissao": "2026-10-03",
+      "data_emissao_formatada": "03/10/2026",
+      "hora_emissao": "15:37:02",
+      "valor_produtos": 417.97,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 417.97,
+      "valor_total_formatado": "417,97",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 1.784,
+          "unidade": "KG",
+          "valor_unitario": 7.82,
+          "valor_total": 13.95
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 2.3,
+          "unidade": "KG",
+          "valor_unitario": 31.45,
+          "valor_total": 72.33
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 27.78,
+          "valor_total": 83.34
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 3.24,
+          "valor_total": 19.44
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 3.71,
+          "valor_total": 14.84
+        },
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 11.12,
+          "valor_total": 44.48
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 0.616,
+          "unidade": "KG",
+          "valor_unitario": 7.59,
+          "valor_total": 4.68
+        },
+        {
+          "descricao": "LEITE INTEGRAL 1L",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 7.27,
+          "valor_total": 65.43
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.975,
+          "unidade": "KG",
+          "valor_unitario": 50.37,
+          "valor_total": 99.48
+        }
+      ],
+      "valor_pago": 417.97,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_045",
+      "arquivo_xml": "xml/nfce_045.xml",
+      "arquivo_pdf": "pdf/nfce_045.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Empório Nova Era EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "61.836.700/0001-05",
+        "documento_numeros": "61836700000105",
+        "endereco": "Rua Dom Pedro II, 2196",
+        "bairro": "Funcionários",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30195-701"
+      },
+      "destinatario": {
+        "nome": "Rafael Costa Costa",
+        "tipo_documento": "CPF",
+        "documento": "656.616.382-48",
+        "documento_numeros": "65661638248",
+        "endereco": "Alameda dos Ipês, 2179",
+        "bairro": "Lourdes",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30835-308"
+      },
+      "numero": 143649,
+      "numero_formatado": "000.143.649",
+      "serie": 3,
+      "chave_acesso": "31240661836700000105650030001436491529101868",
+      "chave_acesso_formatada": "3124 0661 8367 0000 0105 6500 3000 1436 4915 2910 1868",
+      "data_emissao": "2024-06-16",
+      "data_emissao_formatada": "16/06/2024",
+      "hora_emissao": "12:32:26",
+      "valor_produtos": 127.01,
+      "valor_frete": 0.0,
+      "valor_desconto": 3.81,
+      "valor_total": 123.2,
+      "valor_total_formatado": "123,20",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 0.51,
+          "unidade": "KG",
+          "valor_unitario": 36.53,
+          "valor_total": 18.63
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 24.25,
+          "valor_total": 97.0
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 5.69,
+          "valor_total": 11.38
+        }
+      ],
+      "valor_pago": 123.2,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_046",
+      "arquivo_xml": "xml/nfce_046.xml",
+      "arquivo_pdf": "pdf/nfce_046.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Indústria Central EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "87.921.319/0001-38",
+        "documento_numeros": "87921319000138",
+        "endereco": "Rua Marechal Deodoro, 2234",
+        "bairro": "Marco",
+        "cidade": "Belém",
+        "uf": "PA",
+        "cep": "66909-369"
+      },
+      "destinatario": null,
+      "numero": 209624,
+      "numero_formatado": "000.209.624",
+      "serie": 2,
+      "chave_acesso": "15260987921319000138650020002096241972196600",
+      "chave_acesso_formatada": "1526 0987 9213 1900 0138 6500 2000 2096 2419 7219 6600",
+      "data_emissao": "2026-09-07",
+      "data_emissao_formatada": "07/09/2026",
+      "hora_emissao": "19:54:07",
+      "valor_produtos": 191.88,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 191.88,
+      "valor_total_formatado": "191,88",
+      "forma_pagamento": "Dinheiro",
+      "itens": [
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.228,
+          "unidade": "KG",
+          "valor_unitario": 12.98,
+          "valor_total": 28.92
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.959,
+          "unidade": "KG",
+          "valor_unitario": 52.33,
+          "valor_total": 102.51
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 0.731,
+          "unidade": "KG",
+          "valor_unitario": 6.34,
+          "valor_total": 4.63
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 4.07,
+          "valor_total": 16.28
+        },
+        {
+          "descricao": "OLEO DE SOJA 900ML",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 6.59,
+          "valor_total": 39.54
+        }
+      ],
+      "valor_pago": 200.0,
+      "troco": 8.12
+    },
+    {
+      "id": "nfce_047",
+      "arquivo_xml": "xml/nfce_047.xml",
+      "arquivo_pdf": "pdf/nfce_047.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Distribuidora Ipê LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "29.034.175/0001-00",
+        "documento_numeros": "29034175000100",
+        "endereco": "Rua Dom Pedro II, 727",
+        "bairro": "Calhau",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65585-489"
+      },
+      "destinatario": {
+        "nome": "Felipe Silva Pereira",
+        "tipo_documento": "CPF",
+        "documento": "903.923.955-09",
+        "documento_numeros": "90392395509",
+        "endereco": "Rua Barão do Rio Branco, 538",
+        "bairro": "Centro",
+        "cidade": "São Luís",
+        "uf": "MA",
+        "cep": "65528-865"
+      },
+      "numero": 16047,
+      "numero_formatado": "000.016.047",
+      "serie": 3,
+      "chave_acesso": "21240829034175000100650030000160471797517082",
+      "chave_acesso_formatada": "2124 0829 0341 7500 0100 6500 3000 0160 4717 9751 7082",
+      "data_emissao": "2024-08-12",
+      "data_emissao_formatada": "12/08/2024",
+      "hora_emissao": "17:03:47",
+      "valor_produtos": 161.5,
+      "valor_frete": 0.0,
+      "valor_desconto": 4.84,
+      "valor_total": 156.66,
+      "valor_total_formatado": "156,66",
+      "forma_pagamento": "Cartão de Débito",
+      "itens": [
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 5.26,
+          "valor_total": 31.56
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 22.47,
+          "valor_total": 44.94
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 0.887,
+          "unidade": "KG",
+          "valor_unitario": 9.7,
+          "valor_total": 8.6
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 10.41,
+          "valor_total": 20.82
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.771,
+          "unidade": "KG",
+          "valor_unitario": 4.98,
+          "valor_total": 13.8
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 6.14,
+          "valor_total": 36.84
+        },
+        {
+          "descricao": "CREME DENTAL 90G",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 4.94,
+          "valor_total": 4.94
+        }
+      ],
+      "valor_pago": 156.66,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_048",
+      "arquivo_xml": "xml/nfce_048.xml",
+      "arquivo_pdf": "pdf/nfce_048.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Supermercado Aurora LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "75.271.206/0001-55",
+        "documento_numeros": "75271206000155",
+        "endereco": "Rua Marechal Deodoro, 917",
+        "bairro": "Tatuapé",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01206-373"
+      },
+      "destinatario": {
+        "nome": null,
+        "tipo_documento": "CPF",
+        "documento": "534.521.305-41",
+        "documento_numeros": "53452130541",
+        "endereco": "Rua XV de Novembro, 2688",
+        "bairro": "Moema",
+        "cidade": "São Paulo",
+        "uf": "SP",
+        "cep": "01941-652"
+      },
+      "numero": 141761,
+      "numero_formatado": "000.141.761",
+      "serie": 2,
+      "chave_acesso": "35250275271206000155650020001417611107545643",
+      "chave_acesso_formatada": "3525 0275 2712 0600 0155 6500 2000 1417 6111 0754 5643",
+      "data_emissao": "2025-02-05",
+      "data_emissao_formatada": "05/02/2025",
+      "hora_emissao": "16:20:41",
+      "valor_produtos": 137.23,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 137.23,
+      "valor_total_formatado": "137,23",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "SABAO EM PO 1KG",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 14.18,
+          "valor_total": 113.44
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 7.93,
+          "valor_total": 23.79
+        }
+      ],
+      "valor_pago": 137.23,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_049",
+      "arquivo_xml": "xml/nfce_049.xml",
+      "arquivo_pdf": "pdf/nfce_049.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Distribuidora Cerrado EIRELI",
+        "tipo_documento": "CNPJ",
+        "documento": "41.321.140/0001-49",
+        "documento_numeros": "41321140000149",
+        "endereco": "Rua Tiradentes, 661",
+        "bairro": "Sudoeste",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70448-598"
+      },
+      "destinatario": {
+        "nome": "Rodrigo Marques Costa",
+        "tipo_documento": "CPF",
+        "documento": "339.253.856-65",
+        "documento_numeros": "33925385665",
+        "endereco": "Avenida Paulista, 1569",
+        "bairro": "Sudoeste",
+        "cidade": "Brasília",
+        "uf": "DF",
+        "cep": "70358-132"
+      },
+      "numero": 176787,
+      "numero_formatado": "000.176.787",
+      "serie": 2,
+      "chave_acesso": "53241041321140000149650020001767871288417050",
+      "chave_acesso_formatada": "5324 1041 3211 4000 0149 6500 2000 1767 8712 8841 7050",
+      "data_emissao": "2024-10-25",
+      "data_emissao_formatada": "25/10/2024",
+      "hora_emissao": "09:26:29",
+      "valor_produtos": 461.64,
+      "valor_frete": 0.0,
+      "valor_desconto": 0.0,
+      "valor_total": 461.64,
+      "valor_total_formatado": "461,64",
+      "forma_pagamento": "Cartão de Crédito",
+      "itens": [
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 6,
+          "unidade": "UN",
+          "valor_unitario": 17.32,
+          "valor_total": 103.92
+        },
+        {
+          "descricao": "IOGURTE NATURAL 170G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 3.68,
+          "valor_total": 14.72
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 18.59,
+          "valor_total": 148.72
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 8,
+          "unidade": "UN",
+          "valor_unitario": 4.65,
+          "valor_total": 37.2
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4.03,
+          "valor_total": 12.09
+        },
+        {
+          "descricao": "REFRIGERANTE 2L",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 10.58,
+          "valor_total": 31.74
+        },
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 2.766,
+          "unidade": "KG",
+          "valor_unitario": 9.71,
+          "valor_total": 26.86
+        },
+        {
+          "descricao": "ACUCAR CRISTAL 5KG",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 22.41,
+          "valor_total": 44.82
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 2.76,
+          "unidade": "KG",
+          "valor_unitario": 15.06,
+          "valor_total": 41.57
+        }
+      ],
+      "valor_pago": 461.64,
+      "troco": 0.0
+    },
+    {
+      "id": "nfce_050",
+      "arquivo_xml": "xml/nfce_050.xml",
+      "arquivo_pdf": "pdf/nfce_050.pdf",
+      "modelo": 65,
+      "emitente": {
+        "nome": "Comercial Bom Preço LTDA",
+        "tipo_documento": "CNPJ",
+        "documento": "24.175.011/0001-70",
+        "documento_numeros": "24175011000170",
+        "endereco": "Travessa da Paz, 2945",
+        "bairro": "Pampulha",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30664-808"
+      },
+      "destinatario": {
+        "nome": "Felipe Nascimento Almeida",
+        "tipo_documento": "CPF",
+        "documento": "227.475.490-03",
+        "documento_numeros": "22747549003",
+        "endereco": "Travessa da Paz, 1805",
+        "bairro": "Pampulha",
+        "cidade": "Belo Horizonte",
+        "uf": "MG",
+        "cep": "30963-436"
+      },
+      "numero": 11354,
+      "numero_formatado": "000.011.354",
+      "serie": 2,
+      "chave_acesso": "31241224175011000170650020000113541007906421",
+      "chave_acesso_formatada": "3124 1224 1750 1100 0170 6500 2000 0113 5410 0790 6421",
+      "data_emissao": "2024-12-22",
+      "data_emissao_formatada": "22/12/2024",
+      "hora_emissao": "10:45:58",
+      "valor_produtos": 582.77,
+      "valor_frete": 0.0,
+      "valor_desconto": 58.28,
+      "valor_total": 524.49,
+      "valor_total_formatado": "524,49",
+      "forma_pagamento": "PIX",
+      "itens": [
+        {
+          "descricao": "TOMATE KG",
+          "quantidade": 0.384,
+          "unidade": "KG",
+          "valor_unitario": 8.61,
+          "valor_total": 3.31
+        },
+        {
+          "descricao": "BANANA PRATA KG",
+          "quantidade": 2.939,
+          "unidade": "KG",
+          "valor_unitario": 4.08,
+          "valor_total": 11.99
+        },
+        {
+          "descricao": "PAO DE FORMA 500G",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 7.26,
+          "valor_total": 29.04
+        },
+        {
+          "descricao": "MACARRAO ESPAGUETE 500G",
+          "quantidade": 3,
+          "unidade": "UN",
+          "valor_unitario": 4.43,
+          "valor_total": 13.29
+        },
+        {
+          "descricao": "FRANGO CONGELADO KG",
+          "quantidade": 0.878,
+          "unidade": "KG",
+          "valor_unitario": 11.12,
+          "valor_total": 9.76
+        },
+        {
+          "descricao": "CAFE TORRADO 500G",
+          "quantidade": 9,
+          "unidade": "UN",
+          "valor_unitario": 25.0,
+          "valor_total": 225.0
+        },
+        {
+          "descricao": "QUEIJO MUSSARELA KG",
+          "quantidade": 1.56,
+          "unidade": "KG",
+          "valor_unitario": 37.06,
+          "valor_total": 57.81
+        },
+        {
+          "descricao": "CERVEJA LATA 350ML",
+          "quantidade": 2,
+          "unidade": "UN",
+          "valor_unitario": 3.8,
+          "valor_total": 7.6
+        },
+        {
+          "descricao": "PAPEL HIGIENICO 12 ROLOS",
+          "quantidade": 4,
+          "unidade": "UN",
+          "valor_unitario": 27.25,
+          "valor_total": 109.0
+        },
+        {
+          "descricao": "ARROZ TIPO 1 5KG",
+          "quantidade": 1,
+          "unidade": "UN",
+          "valor_unitario": 22.54,
+          "valor_total": 22.54
+        },
+        {
+          "descricao": "CARNE MOIDA KG",
+          "quantidade": 2.576,
+          "unidade": "KG",
+          "valor_unitario": 36.27,
+          "valor_total": 93.43
+        }
+      ],
+      "valor_pago": 524.49,
+      "troco": 0.0
+    }
+  ]
+}

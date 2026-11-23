@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS35503082262065107000175000000007147126119671296132">
+<xLocEmi>São Paulo</xLocEmi><xLocPrestacao>São Paulo</xLocPrestacao><nNFSe>71471</nNFSe>
+<cLocIncid>3550308</cLocIncid><xLocIncid>São Paulo</xLocIncid><xTribNac>Suporte técnico em informática</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-11-08T09:07:08-03:00</dhProc><nDFSe>432432</nDFSe>
+<emit><CNPJ>62065107000175</CNPJ><xNome>Ribeiro Tecnologia e Sistemas LTDA</xNome><enderNac><xLgr>Rua Dom Pedro II</xLgr>
+<nro>1535</nro><xBairro>Tatuapé</xBairro><cMun>3550308</cMun>
+<UF>SP</UF><CEP>01816919</CEP></enderNac><fone>71997634882</fone><email>ribeiro90@exemplo.com.br</email></emit>
+<valores><vBC>16985.99</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>849.30</vISSQN>
+<vTotalRet>1044.64</vTotalRet><vLiq>15941.35</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS18084"><tpAmb>1</tpAmb><dhEmi>2026-11-08T09:07:08-03:00</dhEmi><nDPS>18084</nDPS>
+<serie>1</serie><dCompet>2026-11-08</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>62065107000175</CNPJ><xNome>Ribeiro Tecnologia e Sistemas LTDA</xNome><end><xLgr>Rua Dom Pedro II</xLgr>
+<nro>1535</nro><xBairro>Tatuapé</xBairro><cMun>3550308</cMun>
+<xMun>São Paulo</xMun><UF>SP</UF><CEP>01816919</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>13356915000186</CNPJ><xNome>Papelaria Boa Vista LTDA</xNome><end><endNac><cMun>1501402</cMun>
+<CEP>66740640</CEP></endNac><xLgr>Rua das Flores</xLgr><nro>489</nro>
+<xBairro>Marco</xBairro></end><fone>36937847147</fone><email>papelaria58@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>010701</cTribNac><xDescServ>Suporte técnico em informática - competência 11/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>16985.99</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun><tribFed><vRetIRRF>254.79</vRetIRRF><vRetCSLL>789.85</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

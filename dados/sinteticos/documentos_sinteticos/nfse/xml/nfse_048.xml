@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS21113002286009075000159000000003610326057021686830">
+<xLocEmi>São Luís</xLocEmi><xLocPrestacao>São Luís</xLocPrestacao><nNFSe>36103</nNFSe>
+<cLocIncid>2111300</cLocIncid><xLocIncid>São Luís</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-05-29T11:18:48-03:00</dhProc><nDFSe>185436</nDFSe>
+<emit><CNPJ>86009075000159</CNPJ><xNome>Almeida Advocacia Associados LTDA</xNome><enderNac><xLgr>Rua das Flores</xLgr>
+<nro>2549</nro><xBairro>Cohama</xBairro><cMun>2111300</cMun>
+<UF>MA</UF><CEP>65024831</CEP></enderNac><fone>28907128975</fone><email>almeida25@exemplo.com.br</email></emit>
+<valores><vBC>14089.05</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>352.23</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>14089.05</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS58740"><tpAmb>1</tpAmb><dhEmi>2026-05-29T11:18:48-03:00</dhEmi><nDPS>58740</nDPS>
+<serie>1</serie><dCompet>2026-05-29</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>86009075000159</CNPJ><xNome>Almeida Advocacia Associados LTDA</xNome><end><xLgr>Rua das Flores</xLgr>
+<nro>2549</nro><xBairro>Cohama</xBairro><cMun>2111300</cMun>
+<xMun>São Luís</xMun><UF>MA</UF><CEP>65024831</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>85314191000119</CNPJ><xNome>Padaria São Jorge EPP</xNome><end><endNac><cMun>4106902</cMun>
+<CEP>80722759</CEP></endNac><xLgr>Avenida Independência</xLgr><nro>2139</nro>
+<xBairro>Batel</xBairro></end><fone>57925135836</fone><email>padaria75@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 05/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>14089.05</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

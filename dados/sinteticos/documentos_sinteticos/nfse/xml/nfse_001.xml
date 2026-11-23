@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS41069022238968227000106000000004818026019463764790">
+<xLocEmi>Curitiba</xLocEmi><xLocPrestacao>Curitiba</xLocPrestacao><nNFSe>48180</nNFSe>
+<cLocIncid>4106902</cLocIncid><xLocIncid>Curitiba</xLocIncid><xTribNac>Reparação e manutenção de edifícios</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-01-02T19:25:06-03:00</dhProc><nDFSe>470876</nDFSe>
+<emit><CNPJ>38968227000106</CNPJ><xNome>Almeida Manutenção Predial EPP</xNome><enderNac><xLgr>Travessa da Paz</xLgr>
+<nro>2601</nro><xBairro>Portão</xBairro><cMun>4106902</cMun>
+<UF>PR</UF><CEP>80887087</CEP></enderNac><fone>72957723875</fone><email>almeida12@exemplo.com.br</email></emit>
+<valores><vBC>886.81</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>44.34</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>886.81</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS14222"><tpAmb>1</tpAmb><dhEmi>2026-01-02T19:25:06-03:00</dhEmi><nDPS>14222</nDPS>
+<serie>1</serie><dCompet>2026-01-02</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>38968227000106</CNPJ><xNome>Almeida Manutenção Predial EPP</xNome><end><xLgr>Travessa da Paz</xLgr>
+<nro>2601</nro><xBairro>Portão</xBairro><cMun>4106902</cMun>
+<xMun>Curitiba</xMun><UF>PR</UF><CEP>80887087</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>66741274000140</CNPJ><xNome>Casa Litoral S.A.</xNome><end><endNac><cMun>3205309</cMun>
+<CEP>29063047</CEP></endNac><xLgr>Rua Sete de Setembro</xLgr><nro>2765</nro>
+<xBairro>Jardim Camburi</xBairro></end><fone>51988254825</fone><email>casa72@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>070501</cTribNac><xDescServ>Reparação e manutenção de edifícios - competência 01/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>886.81</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

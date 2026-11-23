@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS53001082283292530000188000000007087726046347226920">
+<xLocEmi>Brasília</xLocEmi><xLocPrestacao>Brasília</xLocPrestacao><nNFSe>70877</nNFSe>
+<cLocIncid>5300108</cLocIncid><xLocIncid>Brasília</xLocIncid><xTribNac>Reparação e manutenção de edifícios</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-04-04T15:52:26-03:00</dhProc><nDFSe>416866</nDFSe>
+<emit><CNPJ>83292530000188</CNPJ><xNome>Silva Manutenção Predial LTDA</xNome><enderNac><xLgr>Rua Barão do Rio Branco</xLgr>
+<nro>122</nro><xBairro>Asa Sul</xBairro><cMun>5300108</cMun>
+<UF>DF</UF><CEP>70027233</CEP></enderNac><fone>88930356396</fone><email>silva74@exemplo.com.br</email></emit>
+<valores><vBC>1559.73</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>77.99</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>1559.73</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS25386"><tpAmb>1</tpAmb><dhEmi>2026-04-04T15:52:26-03:00</dhEmi><nDPS>25386</nDPS>
+<serie>1</serie><dCompet>2026-04-04</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>83292530000188</CNPJ><xNome>Silva Manutenção Predial LTDA</xNome><end><xLgr>Rua Barão do Rio Branco</xLgr>
+<nro>122</nro><xBairro>Asa Sul</xBairro><cMun>5300108</cMun>
+<xMun>Brasília</xMun><UF>DF</UF><CEP>70027233</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>84440604000149</CNPJ><xNome>Casa Serra Azul ME</xNome><end><endNac><cMun>3304557</cMun>
+<CEP>20074374</CEP></endNac><xLgr>Avenida Brasil</xLgr><nro>2375</nro>
+<xBairro>Botafogo</xBairro></end><fone>60920630148</fone><email>casa45@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>070501</cTribNac><xDescServ>Reparação e manutenção de edifícios - competência 04/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>1559.73</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS43149022249080889000153000000008018224119838165051">
+<xLocEmi>Porto Alegre</xLocEmi><xLocPrestacao>Porto Alegre</xLocPrestacao><nNFSe>80182</nNFSe>
+<cLocIncid>4314902</cLocIncid><xLocIncid>Porto Alegre</xLocIncid><xTribNac>Odontologia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-11-06T14:37:37-03:00</dhProc><nDFSe>956336</nDFSe>
+<emit><CNPJ>49080889000153</CNPJ><xNome>Ribeiro Clínica Odontológica LTDA</xNome><enderNac><xLgr>Rua Tiradentes</xLgr>
+<nro>1108</nro><xBairro>Petrópolis</xBairro><cMun>4314902</cMun>
+<UF>RS</UF><CEP>90664992</CEP></enderNac><fone>21994012209</fone><email>ribeiro99@exemplo.com.br</email></emit>
+<valores><vBC>266.16</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>13.31</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>266.16</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS22223"><tpAmb>1</tpAmb><dhEmi>2024-11-06T14:37:37-03:00</dhEmi><nDPS>22223</nDPS>
+<serie>1</serie><dCompet>2024-11-06</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>49080889000153</CNPJ><xNome>Ribeiro Clínica Odontológica LTDA</xNome><end><xLgr>Rua Tiradentes</xLgr>
+<nro>1108</nro><xBairro>Petrópolis</xBairro><cMun>4314902</cMun>
+<xMun>Porto Alegre</xMun><UF>RS</UF><CEP>90664992</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>59210724356</CPF><xNome>Carlos Costa Rocha</xNome><end><endNac><cMun>2927408</cMun>
+<CEP>40923528</CEP></endNac><xLgr>Rua Santos Dumont</xLgr><nro>1578</nro>
+<xBairro>Rio Vermelho</xBairro></end><fone>67928471382</fone><email>carlos32@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>041201</cTribNac><xDescServ>Odontologia - competência 11/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>266.16</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

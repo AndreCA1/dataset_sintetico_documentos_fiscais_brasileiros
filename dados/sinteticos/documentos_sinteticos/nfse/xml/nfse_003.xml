@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS53001082298086144000107000000004027824089246429101">
+<xLocEmi>Brasília</xLocEmi><xLocPrestacao>Brasília</xLocPrestacao><nNFSe>40278</nNFSe>
+<cLocIncid>5300108</cLocIncid><xLocIncid>Brasília</xLocIncid><xTribNac>Propaganda e publicidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-08-20T12:49:40-03:00</dhProc><nDFSe>328499</nDFSe>
+<emit><CNPJ>98086144000107</CNPJ><xNome>Souza Publicidade e Marketing ME</xNome><enderNac><xLgr>Rua Tiradentes</xLgr>
+<nro>507</nro><xBairro>Asa Sul</xBairro><cMun>5300108</cMun>
+<UF>DF</UF><CEP>70067396</CEP></enderNac><fone>65961757308</fone><email>souza48@exemplo.com.br</email></emit>
+<valores><vBC>24097.95</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>1204.90</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>24097.95</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS12299"><tpAmb>1</tpAmb><dhEmi>2024-08-20T12:49:40-03:00</dhEmi><nDPS>12299</nDPS>
+<serie>1</serie><dCompet>2024-08-20</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>98086144000107</CNPJ><xNome>Souza Publicidade e Marketing ME</xNome><end><xLgr>Rua Tiradentes</xLgr>
+<nro>507</nro><xBairro>Asa Sul</xBairro><cMun>5300108</cMun>
+<xMun>Brasília</xMun><UF>DF</UF><CEP>70067396</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>18006798000144</CNPJ><xNome>Papelaria Aurora ME</xNome><end><endNac><cMun>1302603</cMun>
+<CEP>69945969</CEP></endNac><xLgr>Rua São João</xLgr><nro>2687</nro>
+<xBairro>Ponta Negra</xBairro></end><fone>77959900461</fone><email>papelaria94@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>170601</cTribNac><xDescServ>Propaganda e publicidade - competência 08/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>24097.95</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

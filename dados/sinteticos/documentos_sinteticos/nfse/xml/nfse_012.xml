@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS13026032239674233000105000000004736825022528811456">
+<xLocEmi>Manaus</xLocEmi><xLocPrestacao>Manaus</xLocPrestacao><nNFSe>47368</nNFSe>
+<cLocIncid>1302603</cLocIncid><xLocIncid>Manaus</xLocIncid><xTribNac>Suporte técnico em informática</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-02-01T16:26:33-03:00</dhProc><nDFSe>430263</nDFSe>
+<emit><CNPJ>39674233000105</CNPJ><xNome>Silva Tecnologia e Sistemas EIRELI</xNome><enderNac><xLgr>Rua das Flores</xLgr>
+<nro>1267</nro><xBairro>Flores</xBairro><cMun>1302603</cMun>
+<UF>AM</UF><CEP>69454746</CEP></enderNac><fone>27999208033</fone><email>silva89@exemplo.com.br</email></emit>
+<valores><vBC>5360.85</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>134.02</vISSQN>
+<vTotalRet>329.69</vTotalRet><vLiq>5031.16</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS76292"><tpAmb>1</tpAmb><dhEmi>2025-02-01T16:26:33-03:00</dhEmi><nDPS>76292</nDPS>
+<serie>1</serie><dCompet>2025-02-01</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>39674233000105</CNPJ><xNome>Silva Tecnologia e Sistemas EIRELI</xNome><end><xLgr>Rua das Flores</xLgr>
+<nro>1267</nro><xBairro>Flores</xBairro><cMun>1302603</cMun>
+<xMun>Manaus</xMun><UF>AM</UF><CEP>69454746</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>55336200000101</CNPJ><xNome>Mercado Ipê EPP</xNome><end><endNac><cMun>3205309</cMun>
+<CEP>29267725</CEP></endNac><xLgr>Avenida Getúlio Vargas</xLgr><nro>1289</nro>
+<xBairro>Jardim Camburi</xBairro></end><fone>38955427500</fone><email>mercado1@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>010701</cTribNac><xDescServ>Suporte técnico em informática - competência 02/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>5360.85</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun><tribFed><vRetIRRF>80.41</vRetIRRF><vRetCSLL>249.28</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

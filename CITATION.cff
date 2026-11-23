@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Se usar este conjunto de dados, cite-o como abaixo."
+title: "Conjunto sintético de documentos fiscais brasileiros para avaliação de OCR"
+type: dataset
+authors:
+  - family-names: "Araújo"
+    given-names: "André Carvalho"
+    affiliation: "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, Campus Formiga"
+version: "v1.0"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/AndreCA1/dataset_sintetico_documentos_fiscais_brasileiros"
+keywords:
+  - OCR
+  - ML Kit
+  - documentos fiscais
+  - NF-e
+  - boleto
+  - dados sintéticos
+preferred-citation:
+  type: thesis
+  thesis-type: "Monografia (Bacharelado em Ciência da Computação)"
+  title: "Extração automática de dados a partir de fotos de documentos fiscais utilizando OCR"
+  authors:
+    - family-names: "Araújo"
+      given-names: "André Carvalho"
+  institution:
+    name: "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais, Campus Formiga"
+    city: "Formiga"
+  year: 2026

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS24081022282949526000187000000000531826079577748398">
+<xLocEmi>Natal</xLocEmi><xLocPrestacao>Natal</xLocPrestacao><nNFSe>5318</nNFSe>
+<cLocIncid>2408102</cLocIncid><xLocIncid>Natal</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-07-07T19:29:28-03:00</dhProc><nDFSe>740924</nDFSe>
+<emit><CNPJ>82949526000187</CNPJ><xNome>Machado Advocacia Associados ME</xNome><enderNac><xLgr>Rua Dom Pedro II</xLgr>
+<nro>578</nro><xBairro>Lagoa Nova</xBairro><cMun>2408102</cMun>
+<UF>RN</UF><CEP>59536551</CEP></enderNac><fone>62936122067</fone><email>machado88@exemplo.com.br</email></emit>
+<valores><vBC>7881.28</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>197.03</vISSQN>
+<vTotalRet>484.70</vTotalRet><vLiq>7396.58</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS20504"><tpAmb>1</tpAmb><dhEmi>2026-07-07T19:29:28-03:00</dhEmi><nDPS>20504</nDPS>
+<serie>1</serie><dCompet>2026-07-07</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>82949526000187</CNPJ><xNome>Machado Advocacia Associados ME</xNome><end><xLgr>Rua Dom Pedro II</xLgr>
+<nro>578</nro><xBairro>Lagoa Nova</xBairro><cMun>2408102</cMun>
+<xMun>Natal</xMun><UF>RN</UF><CEP>59536551</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>92074099000194</CNPJ><xNome>Padaria Litoral S.A.</xNome><end><endNac><cMun>5300108</cMun>
+<CEP>70598106</CEP></endNac><xLgr>Rua das Flores</xLgr><nro>2836</nro>
+<xBairro>Asa Sul</xBairro></end><fone>99957080270</fone><email>padaria33@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 07/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>7881.28</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun><tribFed><vRetIRRF>118.22</vRetIRRF><vRetCSLL>366.48</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

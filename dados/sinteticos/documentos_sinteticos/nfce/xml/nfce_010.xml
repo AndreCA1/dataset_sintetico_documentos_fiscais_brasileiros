@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe><infNFe versao="4.00" Id="NFe35250192220872000183650030001529531821377903">
+<ide><cUF>35</cUF><cNF>82137790</cNF><natOp>Venda de mercadoria</natOp><mod>65</mod>
+<serie>3</serie><nNF>152953</nNF><dhEmi>2025-01-10T14:51:30-03:00</dhEmi>
+<tpNF>1</tpNF><idDest>1</idDest><cMunFG>3550308</cMunFG><tpImp>4</tpImp>
+<tpEmis>1</tpEmis><cDV>3</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal>
+<indPres>1</indPres><procEmi>0</procEmi><verProc>GeradorSintetico 1.0</verProc></ide>
+<emit><CNPJ>92220872000183</CNPJ><xNome>Padaria Boa Vista LTDA</xNome><xFant>Padaria Boa Vista</xFant>
+<enderEmit><xLgr>Avenida Getúlio Vargas</xLgr><nro>300</nro><xBairro>Pinheiros</xBairro><cMun>3550308</cMun><xMun>São Paulo</xMun><UF>SP</UF><CEP>01727682</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>60975653020</fone></enderEmit><IE>051835110</IE><CRT>3</CRT></emit>
+<dest><CPF>20343182181</CPF><xNome>Luíza Santos Almeida</xNome><indIEDest>9</indIEDest></dest><det nItem="1"><prod><cProd>83613</cProd><cEAN>SEM GTIN</cEAN><xProd>ACUCAR CRISTAL 5KG</xProd><NCM>17019900</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>3.0000</qCom><vUnCom>17.1200000000</vUnCom><vProd>51.36</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>3.0000</qTrib><vUnTrib>17.1200000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>12.84</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>51.36</vBC><pICMS>17.0000</pICMS><vICMS>8.73</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>51.36</vBC><pPIS>0.6500</pPIS><vPIS>0.33</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>51.36</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>1.54</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem="2"><prod><cProd>01646</cProd><cEAN>SEM GTIN</cEAN><xProd>FEIJAO CARIOCA 1KG</xProd><NCM>07133399</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>2.0000</qCom><vUnCom>10.7100000000</vUnCom><vProd>21.42</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>2.0000</qTrib><vUnTrib>10.7100000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>5.36</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>21.42</vBC><pICMS>17.0000</pICMS><vICMS>3.64</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>21.42</vBC><pPIS>0.6500</pPIS><vPIS>0.14</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>21.42</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>0.64</vCOFINS></COFINSAliq></COFINS></imposto></det><det nItem="3"><prod><cProd>19838</cProd><cEAN>SEM GTIN</cEAN><xProd>PAO DE FORMA 500G</xProd><NCM>19059010</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>3.0000</qCom><vUnCom>10.1500000000</vUnCom><vProd>30.45</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>3.0000</qTrib><vUnTrib>10.1500000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>7.61</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>30.45</vBC><pICMS>17.0000</pICMS><vICMS>5.18</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>30.45</vBC><pPIS>0.6500</pPIS><vPIS>0.20</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>30.45</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>0.91</vCOFINS></COFINSAliq></COFINS></imposto></det>
+<total><ICMSTot><vBC>103.23</vBC><vICMS>17.55</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP>
+<vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>103.23</vProd>
+<vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI>
+<vIPIDevol>0.00</vIPIDevol><vPIS>0.67</vPIS><vCOFINS>3.10</vCOFINS>
+<vOutro>0.00</vOutro><vNF>103.23</vNF><vTotTrib>25.81</vTotTrib></ICMSTot></total>
+<transp><modFrete>9</modFrete></transp>
+<pag><detPag><indPag>0</indPag><tPag>04</tPag><vPag>103.23</vPag></detPag><vTroco>0.00</vTroco></pag>
+<infAdic><infCpl>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</infCpl></infAdic>
+</infNFe><infNFeSupl><qrCode><![CDATA[https://www.sefaz.sp.gov.br/nfce/qrcode?p=35250192220872000183650030001529531821377903|2|1|1|3556404921861990876130902699437612089874]]></qrCode><urlChave>www.sefaz.sp.gov.br/nfce/consulta</urlChave></infNFeSupl></NFe>
+<protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SINTETICO</verAplic><chNFe>35250192220872000183650030001529531821377903</chNFe>
+<dhRecbto>2025-01-10T14:51:30-03:00</dhRecbto><nProt>355227458109114</nProt><digVal>AAAA</digVal>
+<cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>

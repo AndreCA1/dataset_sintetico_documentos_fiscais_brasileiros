@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS35503082267145697000160000000002886726032808489220">
+<xLocEmi>São Paulo</xLocEmi><xLocPrestacao>São Paulo</xLocPrestacao><nNFSe>28867</nNFSe>
+<cLocIncid>3550308</cLocIncid><xLocIncid>São Paulo</xLocIncid><xTribNac>Serviços de contabilidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-03-18T16:21:42-03:00</dhProc><nDFSe>385782</nDFSe>
+<emit><CNPJ>67145697000160</CNPJ><xNome>Carvalho Consultoria Contábil LTDA</xNome><enderNac><xLgr>Avenida Rio Branco</xLgr>
+<nro>42</nro><xBairro>Bela Vista</xBairro><cMun>3550308</cMun>
+<UF>SP</UF><CEP>01636686</CEP></enderNac><fone>37915108250</fone><email>carvalho59@exemplo.com.br</email></emit>
+<valores><vBC>18361.40</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>459.04</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>18361.40</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS17371"><tpAmb>1</tpAmb><dhEmi>2026-03-18T16:21:42-03:00</dhEmi><nDPS>17371</nDPS>
+<serie>1</serie><dCompet>2026-03-18</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>67145697000160</CNPJ><xNome>Carvalho Consultoria Contábil LTDA</xNome><end><xLgr>Avenida Rio Branco</xLgr>
+<nro>42</nro><xBairro>Bela Vista</xBairro><cMun>3550308</cMun>
+<xMun>São Paulo</xMun><UF>SP</UF><CEP>01636686</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>65987418000180</CNPJ><xNome>Atacadista Cerrado LTDA</xNome><end><endNac><cMun>4205407</cMun>
+<CEP>88961100</CEP></endNac><xLgr>Rua Sete de Setembro</xLgr><nro>1891</nro>
+<xBairro>Itacorubi</xBairro></end><fone>61985693403</fone><email>atacadista90@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171901</cTribNac><xDescServ>Serviços de contabilidade - competência 03/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>18361.40</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

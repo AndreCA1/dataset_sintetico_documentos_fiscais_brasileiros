@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS15014022279392212000111000000008970024126821156692">
+<xLocEmi>Belém</xLocEmi><xLocPrestacao>Belém</xLocPrestacao><nNFSe>89700</nNFSe>
+<cLocIncid>1501402</cLocIncid><xLocIncid>Belém</xLocIncid><xTribNac>Propaganda e publicidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-12-16T10:41:49-03:00</dhProc><nDFSe>235854</nDFSe>
+<emit><CNPJ>79392212000111</CNPJ><xNome>Santos Publicidade e Marketing EIRELI</xNome><enderNac><xLgr>Avenida Rio Branco</xLgr>
+<nro>2823</nro><xBairro>Nazaré</xBairro><cMun>1501402</cMun>
+<UF>PA</UF><CEP>66585165</CEP></enderNac><fone>17965132396</fone><email>santos32@exemplo.com.br</email></emit>
+<valores><vBC>18613.83</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>465.35</vISSQN>
+<vTotalRet>1144.75</vTotalRet><vLiq>17469.08</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS39900"><tpAmb>1</tpAmb><dhEmi>2024-12-16T10:41:49-03:00</dhEmi><nDPS>39900</nDPS>
+<serie>1</serie><dCompet>2024-12-16</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>79392212000111</CNPJ><xNome>Santos Publicidade e Marketing EIRELI</xNome><end><xLgr>Avenida Rio Branco</xLgr>
+<nro>2823</nro><xBairro>Nazaré</xBairro><cMun>1501402</cMun>
+<xMun>Belém</xMun><UF>PA</UF><CEP>66585165</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>57562405000130</CNPJ><xNome>Farmácia Planalto LTDA</xNome><end><endNac><cMun>1302603</cMun>
+<CEP>69822962</CEP></endNac><xLgr>Avenida Rio Branco</xLgr><nro>309</nro>
+<xBairro>Centro</xBairro></end><fone>13970983257</fone><email>farmcia6@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>170601</cTribNac><xDescServ>Propaganda e publicidade - competência 12/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>18613.83</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun><tribFed><vRetIRRF>279.21</vRetIRRF><vRetCSLL>865.54</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

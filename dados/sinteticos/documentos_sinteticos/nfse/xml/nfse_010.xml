@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS31702062275656608000178000000001033725062534032858">
+<xLocEmi>Uberlândia</xLocEmi><xLocPrestacao>Uberlândia</xLocPrestacao><nNFSe>10337</nNFSe>
+<cLocIncid>3170206</cLocIncid><xLocIncid>Uberlândia</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-06-06T16:53:18-03:00</dhProc><nDFSe>834478</nDFSe>
+<emit><CNPJ>75656608000178</CNPJ><xNome>Nascimento Advocacia Associados LTDA</xNome><enderNac><xLgr>Rua Santos Dumont</xLgr>
+<nro>794</nro><xBairro>Santa Mônica</xBairro><cMun>3170206</cMun>
+<UF>MG</UF><CEP>38909817</CEP></enderNac><fone>78925418147</fone><email>nascimento45@exemplo.com.br</email></emit>
+<valores><vBC>9766.76</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>293.00</vISSQN>
+<vTotalRet>600.65</vTotalRet><vLiq>9166.11</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS14570"><tpAmb>1</tpAmb><dhEmi>2025-06-06T16:53:18-03:00</dhEmi><nDPS>14570</nDPS>
+<serie>1</serie><dCompet>2025-06-06</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>75656608000178</CNPJ><xNome>Nascimento Advocacia Associados LTDA</xNome><end><xLgr>Rua Santos Dumont</xLgr>
+<nro>794</nro><xBairro>Santa Mônica</xBairro><cMun>3170206</cMun>
+<xMun>Uberlândia</xMun><UF>MG</UF><CEP>38909817</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>39978489000106</CNPJ><xNome>Auto Peças Planalto ME</xNome><end><endNac><cMun>3170206</cMun>
+<CEP>38597887</CEP></endNac><xLgr>Travessa da Paz</xLgr><nro>2621</nro>
+<xBairro>Jardim Karaíba</xBairro></end><fone>55923236535</fone><email>auto28@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 06/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>9766.76</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun><tribFed><vRetIRRF>146.50</vRetIRRF><vRetCSLL>454.15</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

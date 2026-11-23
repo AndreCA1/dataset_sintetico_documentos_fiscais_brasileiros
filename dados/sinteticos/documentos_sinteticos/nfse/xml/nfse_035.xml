@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS53001082263546930000165000000009982025123766955389">
+<xLocEmi>Brasília</xLocEmi><xLocPrestacao>Brasília</xLocPrestacao><nNFSe>99820</nNFSe>
+<cLocIncid>5300108</cLocIncid><xLocIncid>Brasília</xLocIncid><xTribNac>Limpeza, manutenção e conservação de imóveis</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-12-20T18:10:09-03:00</dhProc><nDFSe>859117</nDFSe>
+<emit><CNPJ>63546930000165</CNPJ><xNome>Moreira Limpeza e Conservação LTDA</xNome><enderNac><xLgr>Rua Tiradentes</xLgr>
+<nro>2612</nro><xBairro>Sudoeste</xBairro><cMun>5300108</cMun>
+<UF>DF</UF><CEP>70845903</CEP></enderNac><fone>81920498835</fone><email>moreira22@exemplo.com.br</email></emit>
+<valores><vBC>3285.52</vBC><pAliqAplic>2.00</pAliqAplic><vISSQN>65.71</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>3285.52</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS38043"><tpAmb>1</tpAmb><dhEmi>2025-12-20T18:10:09-03:00</dhEmi><nDPS>38043</nDPS>
+<serie>1</serie><dCompet>2025-12-20</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>63546930000165</CNPJ><xNome>Moreira Limpeza e Conservação LTDA</xNome><end><xLgr>Rua Tiradentes</xLgr>
+<nro>2612</nro><xBairro>Sudoeste</xBairro><cMun>5300108</cMun>
+<xMun>Brasília</xMun><UF>DF</UF><CEP>70845903</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>78907262000121</CNPJ><xNome>Distribuidora Bom Preço ME</xNome><end><endNac><cMun>2408102</cMun>
+<CEP>59909998</CEP></endNac><xLgr>Avenida Brasil</xLgr><nro>2762</nro>
+<xBairro>Petrópolis</xBairro></end><fone>88930466240</fone><email>distribuidora10@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>071001</cTribNac><xDescServ>Limpeza, manutenção e conservação de imóveis - competência 12/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>3285.52</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

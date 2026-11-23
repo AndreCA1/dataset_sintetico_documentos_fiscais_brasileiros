@@ -1,0 +1,14 @@
+# Relatórios (avaliar_ocr.py, fotos_reais.py, preprocessamento.py relatorio, cer_campos.py):
+# só a biblioteca padrão do Python 3.10+.
+
+# Análises estatísticas (spearman_degradacao.py, confianca_acerto.py, bootstrap_captura.py)
+scipy==1.16.0
+numpy==2.2.3
+
+# Variantes de pré-processamento (preprocessamento.py, função gerar)
+opencv-python-headless==5.0.0.93
+
+# Sorteio e PDF de impressão (montar_impressao.py)
+pillow==13.0.0
+
+# Geradores do conjunto sintético (scripts/geradores): ver README

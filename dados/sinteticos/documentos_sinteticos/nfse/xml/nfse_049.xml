@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS52087072278510806000117000000000017726045756755744">
+<xLocEmi>Goiânia</xLocEmi><xLocPrestacao>Goiânia</xLocPrestacao><nNFSe>177</nNFSe>
+<cLocIncid>5208707</cLocIncid><xLocIncid>Goiânia</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-04-26T16:01:35-03:00</dhProc><nDFSe>439686</nDFSe>
+<emit><CNPJ>78510806000117</CNPJ><xNome>Martins Advocacia Associados LTDA</xNome><enderNac><xLgr>Rua São João</xLgr>
+<nro>2770</nro><xBairro>Setor Oeste</xBairro><cMun>5208707</cMun>
+<UF>GO</UF><CEP>74143332</CEP></enderNac><fone>93980456416</fone><email>martins92@exemplo.com.br</email></emit>
+<valores><vBC>3029.24</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>90.88</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>3029.24</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS57389"><tpAmb>1</tpAmb><dhEmi>2026-04-26T16:01:35-03:00</dhEmi><nDPS>57389</nDPS>
+<serie>1</serie><dCompet>2026-04-26</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>78510806000117</CNPJ><xNome>Martins Advocacia Associados LTDA</xNome><end><xLgr>Rua São João</xLgr>
+<nro>2770</nro><xBairro>Setor Oeste</xBairro><cMun>5208707</cMun>
+<xMun>Goiânia</xMun><UF>GO</UF><CEP>74143332</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>36434298000195</CNPJ><xNome>Padaria Primavera S.A.</xNome><end><endNac><cMun>4106902</cMun>
+<CEP>80085331</CEP></endNac><xLgr>Avenida Getúlio Vargas</xLgr><nro>1034</nro>
+<xBairro>Batel</xBairro></end><fone>17996201908</fone><email>padaria13@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 04/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>3029.24</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS32053092226222280000176000000009924126048358602980">
+<xLocEmi>Vitória</xLocEmi><xLocPrestacao>Vitória</xLocPrestacao><nNFSe>99241</nNFSe>
+<cLocIncid>3205309</cLocIncid><xLocIncid>Vitória</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-04-18T16:41:10-03:00</dhProc><nDFSe>872719</nDFSe>
+<emit><CNPJ>26222280000176</CNPJ><xNome>Barbosa Advocacia Associados ME</xNome><enderNac><xLgr>Rua Dom Pedro II</xLgr>
+<nro>956</nro><xBairro>Praia do Canto</xBairro><cMun>3205309</cMun>
+<UF>ES</UF><CEP>29316246</CEP></enderNac><fone>49919759635</fone><email>barbosa36@exemplo.com.br</email></emit>
+<valores><vBC>556.52</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>16.70</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>556.52</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS1474"><tpAmb>1</tpAmb><dhEmi>2026-04-18T16:41:10-03:00</dhEmi><nDPS>1474</nDPS>
+<serie>1</serie><dCompet>2026-04-18</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>26222280000176</CNPJ><xNome>Barbosa Advocacia Associados ME</xNome><end><xLgr>Rua Dom Pedro II</xLgr>
+<nro>956</nro><xBairro>Praia do Canto</xBairro><cMun>3205309</cMun>
+<xMun>Vitória</xMun><UF>ES</UF><CEP>29316246</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>39636983143</CPF><xNome>Antônio Oliveira Martins</xNome><end><endNac><cMun>1501402</cMun>
+<CEP>66075100</CEP></endNac><xLgr>Travessa da Paz</xLgr><nro>2390</nro>
+<xBairro>Batista Campos</xBairro></end><fone>64962755779</fone><email>antnio49@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 04/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>556.52</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

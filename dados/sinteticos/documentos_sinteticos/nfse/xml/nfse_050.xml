@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS32053092245516953000145000000008905824091344781410">
+<xLocEmi>Vitória</xLocEmi><xLocPrestacao>Vitória</xLocPrestacao><nNFSe>89058</nNFSe>
+<cLocIncid>3205309</cLocIncid><xLocIncid>Vitória</xLocIncid><xTribNac>Limpeza, manutenção e conservação de imóveis</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2024-09-10T15:15:11-03:00</dhProc><nDFSe>426074</nDFSe>
+<emit><CNPJ>45516953000145</CNPJ><xNome>Ribeiro Limpeza e Conservação EIRELI</xNome><enderNac><xLgr>Rua Barão do Rio Branco</xLgr>
+<nro>422</nro><xBairro>Centro</xBairro><cMun>3205309</cMun>
+<UF>ES</UF><CEP>29938995</CEP></enderNac><fone>58930132897</fone><email>ribeiro19@exemplo.com.br</email></emit>
+<valores><vBC>4489.42</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>112.24</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>4489.42</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS12087"><tpAmb>1</tpAmb><dhEmi>2024-09-10T15:15:11-03:00</dhEmi><nDPS>12087</nDPS>
+<serie>1</serie><dCompet>2024-09-10</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>45516953000145</CNPJ><xNome>Ribeiro Limpeza e Conservação EIRELI</xNome><end><xLgr>Rua Barão do Rio Branco</xLgr>
+<nro>422</nro><xBairro>Centro</xBairro><cMun>3205309</cMun>
+<xMun>Vitória</xMun><UF>ES</UF><CEP>29938995</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>44635047000105</CNPJ><xNome>Materiais de Construção Nova Era LTDA</xNome><end><endNac><cMun>3509502</cMun>
+<CEP>13067119</CEP></endNac><xLgr>Rua Sete de Setembro</xLgr><nro>1367</nro>
+<xBairro>Barão Geraldo</xBairro></end><fone>58957299499</fone><email>materiais47@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>071001</cTribNac><xDescServ>Limpeza, manutenção e conservação de imóveis - competência 09/2024</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>4489.42</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

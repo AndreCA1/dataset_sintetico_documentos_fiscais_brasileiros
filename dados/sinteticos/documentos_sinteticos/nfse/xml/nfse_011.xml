@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS31062002233968598000166000000005401125127176275790">
+<xLocEmi>Belo Horizonte</xLocEmi><xLocPrestacao>Belo Horizonte</xLocPrestacao><nNFSe>54011</nNFSe>
+<cLocIncid>3106200</cLocIncid><xLocIncid>Belo Horizonte</xLocIncid><xTribNac>Propaganda e publicidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-12-17T10:44:45-03:00</dhProc><nDFSe>608177</nDFSe>
+<emit><CNPJ>33968598000166</CNPJ><xNome>Martins Publicidade e Marketing EPP</xNome><enderNac><xLgr>Rua Sete de Setembro</xLgr>
+<nro>1187</nro><xBairro>Pampulha</xBairro><cMun>3106200</cMun>
+<UF>MG</UF><CEP>30675359</CEP></enderNac><fone>79983087456</fone><email>martins35@exemplo.com.br</email></emit>
+<valores><vBC>7721.53</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>231.65</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>7721.53</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS18731"><tpAmb>1</tpAmb><dhEmi>2025-12-17T10:44:45-03:00</dhEmi><nDPS>18731</nDPS>
+<serie>1</serie><dCompet>2025-12-17</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>33968598000166</CNPJ><xNome>Martins Publicidade e Marketing EPP</xNome><end><xLgr>Rua Sete de Setembro</xLgr>
+<nro>1187</nro><xBairro>Pampulha</xBairro><cMun>3106200</cMun>
+<xMun>Belo Horizonte</xMun><UF>MG</UF><CEP>30675359</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>17090813843</CPF><xNome>Francisca Barbosa Souza</xNome><end><endNac><cMun>2304400</cMun>
+<CEP>60745032</CEP></endNac><xLgr>Rua XV de Novembro</xLgr><nro>1846</nro>
+<xBairro>Aldeota</xBairro></end><fone>24963204114</fone><email>francisca42@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>170601</cTribNac><xDescServ>Propaganda e publicidade - competência 12/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>7721.53</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

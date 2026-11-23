@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS53001082286240078000107000000009161225070286075454">
+<xLocEmi>Brasília</xLocEmi><xLocPrestacao>Brasília</xLocPrestacao><nNFSe>91612</nNFSe>
+<cLocIncid>5300108</cLocIncid><xLocIncid>Brasília</xLocIncid><xTribNac>Serviços de contabilidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-07-13T15:09:06-03:00</dhProc><nDFSe>832579</nDFSe>
+<emit><CNPJ>86240078000107</CNPJ><xNome>Mendes Consultoria Contábil ME</xNome><enderNac><xLgr>Rua Dom Pedro II</xLgr>
+<nro>1622</nro><xBairro>Lago Sul</xBairro><cMun>5300108</cMun>
+<UF>DF</UF><CEP>70137627</CEP></enderNac><fone>75908768407</fone><email>mendes36@exemplo.com.br</email></emit>
+<valores><vBC>19297.83</vBC><pAliqAplic>2.50</pAliqAplic><vISSQN>482.45</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>19297.83</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS95422"><tpAmb>1</tpAmb><dhEmi>2025-07-13T15:09:06-03:00</dhEmi><nDPS>95422</nDPS>
+<serie>1</serie><dCompet>2025-07-13</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>86240078000107</CNPJ><xNome>Mendes Consultoria Contábil ME</xNome><end><xLgr>Rua Dom Pedro II</xLgr>
+<nro>1622</nro><xBairro>Lago Sul</xBairro><cMun>5300108</cMun>
+<xMun>Brasília</xMun><UF>DF</UF><CEP>70137627</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>75556030804</CPF><xNome>Gabriela Oliveira Moreira</xNome><end><endNac><cMun>2304400</cMun>
+<CEP>60971813</CEP></endNac><xLgr>Avenida Getúlio Vargas</xLgr><nro>2498</nro>
+<xBairro>Meireles</xBairro></end><fone>41925551975</fone><email>gabriela55@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171901</cTribNac><xDescServ>Serviços de contabilidade - competência 07/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>19297.83</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.50</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

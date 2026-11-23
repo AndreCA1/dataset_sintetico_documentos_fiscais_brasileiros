@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS21113002295200608000176000000006875925028000673906">
+<xLocEmi>São Luís</xLocEmi><xLocPrestacao>São Luís</xLocPrestacao><nNFSe>68759</nNFSe>
+<cLocIncid>2111300</cLocIncid><xLocIncid>São Luís</xLocIncid><xTribNac>Propaganda e publicidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-02-03T19:44:15-03:00</dhProc><nDFSe>766746</nDFSe>
+<emit><CNPJ>95200608000176</CNPJ><xNome>Vieira Publicidade e Marketing LTDA</xNome><enderNac><xLgr>Avenida Independência</xLgr>
+<nro>1594</nro><xBairro>Cohama</xBairro><cMun>2111300</cMun>
+<UF>MA</UF><CEP>65191352</CEP></enderNac><fone>39991632574</fone><email>vieira37@exemplo.com.br</email></emit>
+<valores><vBC>23218.66</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>696.56</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>23218.66</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS18123"><tpAmb>1</tpAmb><dhEmi>2025-02-03T19:44:15-03:00</dhEmi><nDPS>18123</nDPS>
+<serie>1</serie><dCompet>2025-02-03</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>95200608000176</CNPJ><xNome>Vieira Publicidade e Marketing LTDA</xNome><end><xLgr>Avenida Independência</xLgr>
+<nro>1594</nro><xBairro>Cohama</xBairro><cMun>2111300</cMun>
+<xMun>São Luís</xMun><UF>MA</UF><CEP>65191352</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CPF>03715962976</CPF><xNome>Vitória Nascimento Martins</xNome><end><endNac><cMun>3106200</cMun>
+<CEP>30738408</CEP></endNac><xLgr>Rua Dom Pedro II</xLgr><nro>656</nro>
+<xBairro>Funcionários</xBairro></end><fone>65915825607</fone><email>vitria48@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>170601</cTribNac><xDescServ>Propaganda e publicidade - competência 02/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>23218.66</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

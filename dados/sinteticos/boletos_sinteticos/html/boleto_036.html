@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<!--
+ * OpenBoleto - Geração de boletos bancários em PHP
+ *
+ * LICENSE: The MIT License (MIT)
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this
+ * software and associated documentation files (the "Software"), to deal in the Software
+ * without restriction, including without limitation the rights to use, copy, modify,
+ * merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+ * permit persons to whom the Software is furnished to do so, subject to the following
+ * conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies
+ * or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+ * INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+ * PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ * HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+ * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+<html lang="pt-BR">
+
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <title>
+         Editora Saber Mais LTDA      </title>
+      <style type="text/css">
+         /* Embed the CSS content here */
+         /**
+ * OpenBoleto - Geração de boletos bancários em PHP
+ *
+ * LICENSE: The MIT License (MIT)
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this
+ * software and associated documentation files (the "Software"), to deal in the Software
+ * without restriction, including without limitation the rights to use, copy, modify,
+ * merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+ * permit persons to whom the Software is furnished to do so, subject to the following
+ * conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies
+ * or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+ * INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+ * PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ * HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+ * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ */
+
+@media print {
+    .noprint {
+        display: none;
+    }
+}
+* {
+    box-sizing: border-box
+}
+body {
+    background-color: #ffffff;
+    margin-right: 0;
+}
+body>div {
+    width: 100% !important;
+}
+.table-boleto {
+    font: 11pt Arial;
+    width: 100% !important;
+    height: 100mm !important;
+}
+
+.table-boleto td {
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+}
+
+.table-boleto td:last-child {
+    border-right: 1px solid #000;
+}
+
+.table-boleto .titulo {
+    color: #000033;
+}
+.linha-pontilhada {
+    color: #000033;
+    font: 9px Arial;
+    width: 100%;
+    border-bottom: 1px dashed #000;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.table-boleto .conteudo {
+    font: bold 10px Arial;
+    height: 11.5px;
+}
+
+.table-boleto .sacador {
+    display: inline;
+    margin-left: 5px;
+}
+
+.table-boleto td {
+    padding: 1px 4px;
+}
+td[width] {
+    width: auto !important;
+}
+
+.table-boleto .noleftborder {
+    border-left: none !important;
+}
+
+.table-boleto .notopborder {
+    border-top: none !important;
+}
+
+.table-boleto .norightborder {
+    border-right: none !important;
+}
+
+.table-boleto .noborder {
+    border: none !important;
+}
+
+.table-boleto .bottomborder {
+    border-bottom: 1px solid #000 !important;
+}
+
+.table-boleto .rtl {
+    text-align: right;
+}
+.table-boleto .linha-digitavel { 
+    font-size: 16pt;
+    width: 70% !important;
+    padding: 1px 5px !important;
+    margin-right: 25px !important;
+}
+.table-boleto .logocontainer {
+    width: 257px;
+    display: inline !important;
+}
+.table-boleto .logobanco {
+    display: inline-block;
+    max-width: 150px;
+}
+.table-boleto .logobanco img {
+    margin-bottom: -5px;
+    height: 27px;
+}
+
+.table-boleto .codbanco {
+    font: bold 20px Arial;
+    padding: 1px 5px;
+    display: inline;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    width: 51px;
+    margin-left: 25px;
+}
+
+.table-boleto .linha-digitavel {
+    font: bold 14px Arial;
+    display: inline-block;
+    width: 406px;
+    text-align: right;
+}
+
+.table-boleto .nopadding {
+    padding: 0px !important;
+}
+
+.table-boleto .caixa-gray-bg {
+    font-weight: bold;
+    background: #ccc;
+}
+
+.info {
+    font: 11px Arial;
+}
+
+.info-empresa {
+    font: 11px Arial;
+}
+
+.header {
+    font: bold 13px Arial;
+    display: block;
+    margin: 4px;
+}
+
+.barcode {
+    height: 50px;
+}
+
+.barcode div {
+    display: inline-block;
+    height: 100%;
+}
+
+.barcode .black {
+    border-color: #000;
+    border-left-style: solid;
+    width: 0px;
+}
+
+.barcode .white {
+    background: #fff;
+}
+
+.barcode .thin.black {
+    border-left-width: 1px;
+}
+
+.barcode .large.black {
+    border-left-width: 3px;
+}
+
+.barcode .thin.white {
+    width: 1px;
+}
+
+.barcode .large.white {
+    width: 3px;
+}
+
+.float_left {
+    float: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.conteudo.cpf_cnpj {
+    float: right;
+    width: 24%;
+}
+
+.logotipo {
+    max-height: 50px;
+}
+      </style>
+   </head>
+
+   <body>
+
+      <div style="width: 666px">
+                        <div class="noprint info">
+                  <h2>Instruções de Impressão</h2>
+                  <ul>
+                     <li>Imprima em impressora jato de tinta (ink jet) ou laser em qualidade normal ou alta (Não use modo
+                        econômico).</li>
+                     <li>Utilize folha A4 (210 x 297 mm) ou Carta (216 x 279 mm) e margens mínimas à esquerda e à direita
+                        do formulário.</li>
+                     <li>Corte na linha indicada. Não rasure, risque, fure ou dobre a região onde se encontra o código de
+                        barras.</li>
+                     <li>Caso não apareça o código de barras no final, pressione F5 para atualizar esta tela.</li>
+                     <li>Caso tenha problemas ao imprimir, copie a sequencia numérica abaixo e pague no caixa eletrônico
+                        ou no internet banking:</li>
+                  </ul>
+                  <span class="header">Linha Digitável:
+                     75691.36216 01008.013805 17673.220012 1 11600000066812                  </span>
+                  <span class="header">Valor: R$
+                           668,12                        </span>
+                                                      <br>
+                  <div class="linha-pontilhada" style="margin-bottom: 20px;">Recibo do pagador</div>
+               </div>
+         
+         <div class="info-empresa">
+                        <div style="display: inline-block; vertical-align: super;">
+               <div><strong>
+                     Editora Saber Mais LTDA                  </strong></div>
+               <div>
+                  87.781.247/0001-70               </div>
+               <div>
+                  Avenida Rio Branco, 2773               </div>
+               <div>
+                  40408-917 - Salvador - BA               </div>
+            </div>
+         </div>
+         <br>
+
+         <table class="table-boleto" cellpadding="0" cellspacing="0" border="0">
+            <tbody>
+               <tr>
+                  <td valign="bottom" colspan="8" class="noborder nopadding">
+                     <div class="logocontainer">
+                        <div class="logobanco">
+                           <img src="data:image/jpg;base64,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" alt="logotipo do banco">
+                        </div>
+                        <div class="codbanco">
+                           756-0                        </div>
+                     </div>
+                     <div class="linha-digitavel">
+                        75691.36216 01008.013805 17673.220012 1 11600000066812                     </div>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2" width="250">
+                     <div class="titulo">Beneficiário</div>
+                     <div class="conteudo">
+                        Editora Saber Mais LTDA                     </div>
+                  </td>
+                  <td>
+                     <div class="titulo">CPF/CNPJ</div>
+                     <div class="conteudo">
+                        87.781.247/0001-70                     </div>
+                  </td>
+                  <td width="120">
+                     <div class="titulo">Agência/Código do Beneficiário</div>
+                     <div class="conteudo rtl">
+                        3621 / 80138                     </div>
+                  </td>
+                  <td width="110">
+                     <div class="titulo">Vencimento</div>
+                     <div class="conteudo rtl">
+                        01/08/2025                     </div>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="3">
+                     <div class="titulo">Pagador</div>
+                     <div class="conteudo">
+                        Camila Mendes Lopes                     </div>
+                  </td>
+                  <td>
+                     <div class="titulo">Nº documento</div>
+                     <div class="conteudo rtl">
+                        1646392                     </div>
+                  </td>
+                  <td>
+                     <div class="titulo">Nosso número</div>
+                     <div class="conteudo rtl">
+                        0176732-2                     </div>
+                  </td>
+               </tr>
+               <tr>
+                  <td>
+                     <div class="titulo">Espécie</div>
+                     <div class="conteudo">
+                        REAL                     </div>
+                  </td>
+                  <td>
+                     <div class="titulo">Quantidade</div>
+                     <div class="conteudo rtl">
+                                             </div>
+                  </td>
+                  <td>
+                     <div class="titulo">Valor</div>
+                     <div class="conteudo rtl">
+                                             </div>
+                  </td>
+                  <td>
+                     <div class="titulo">(-) Descontos / Abatimentos</div>
+                     <div class="conteudo rtl">
+                        53,45                     </div>
+                  </td>
+                  <td>
+                     <div class="titulo">(=) Valor Documento</div>
+                     <div class="conteudo rtl">
+                        668,12                     </div>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="2">
+                     <div class="conteudo"></div>
+                     <div class="titulo">Demonstrativo</div>
+                  </td>
+                  <td>
+                     <div class="titulo">(-) Outras deduções</div>
+                     <div class="conteudo">
+                                             </div>
+                  </td>
+                  <td>
+                     <div class="titulo">(+) Outros acréscimos</div>
+                     <div class="conteudo rtl">
+                                             </div>
+                  </td>
+                  <td>
+                     <div class="titulo">(=) Valor cobrado</div>
+                     <div class="conteudo rtl">
+                        614,67                     </div>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="4">
+                     <div style="margin-top: 10px" class="conteudo">
+                        Assinatura de revista - ref. 07/2025                     </div>
+                  </td>
+                  <td class="noleftborder">
+                     <div class="titulo">Autenticação mecânica</div>
+                  </td>
+               </tr>
+               <tr>
+                  <td colspan="4" class="notopborder">
+                     <table style="width: 100%;" cellpadding="0" cellspacing="0" border="0"
+                        style="margin:0; padding:0;">
+                        <tbody style="margin:0; padding:0;">
+                           <tr style="margin:0; padding:0;">
+                              <td style="margin:0; padding:0;" class="noborder">
+                                 <div class="conteudo">
+                                    Documento nº 1646392                                 </div>
+                              </td>
+                           </tr>
+                           <tr style="margin:0; padding:0;">
+                              <td style="margin:0; padding:0;" class="noborder">
+                                 <div class="conteudo">
+                                                                     </div>
+                              </td>
+                           </tr>
+                           <tr style="margin:0; padding:0;">
+                              <td style="margin:0; padding:0;" class="noborder">
+                                 <div class="conteudo">
+                                                                     </div>
+                              </td>
+                           </tr>
+                           <tr style="margin:0; padding:0;">
+                              <td style="margin:0; padding:0;" class="noborder">
+                                 <div style="margin-bottom: 10px;" class="conteudo">
+                                                                     </div>
+                              </td>
+                           </tr>
+                        </tbody>
+                     </table>
+                  </td>
+                  <td class="notopborder nobottomborder noleftborder" style="text-align:center">
+                                       </td>
+               </tr>
+            </tbody>
+         </table>
+         <br>
+         <div class="linha-pontilhada">Corte na linha pontilhada</div>
+         <br>
+
+         <!-- Ficha de compensação -->
+         <!--
+ * OpenBoleto - Geração de boletos bancários em PHP
+ *
+ * LICENSE: The MIT License (MIT)
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this
+ * software and associated documentation files (the "Software"), to deal in the Software
+ * without restriction, including without limitation the rights to use, copy, modify,
+ * merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+ * permit persons to whom the Software is furnished to do so, subject to the following
+ * conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies
+ * or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+ * INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+ * PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+ * HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+ * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+
+<table class="table-boleto" cellpadding="0" cellspacing="0" border="0">
+   <tbody>
+      <tr>
+         <td valign="bottom" colspan="8" class="noborder nopadding">
+            <div class="logocontainer">
+               <div class="logobanco">
+                  <img src="data:image/jpg;base64,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" alt="logotipo do banco">
+               </div>
+               <div class="codbanco">
+                  756-0               </div>
+            </div>
+            <div class="linha-digitavel">
+               75691.36216 01008.013805 17673.220012 1 11600000066812            </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="7">
+            <div class="titulo">Local de pagamento</div>
+            <div class="conteudo">
+               Pagável preferencialmente no Sicoob            </div>
+         </td>
+         <td width="180">
+            <div class="titulo">Vencimento</div>
+            <div class="conteudo rtl">
+               01/08/2025            </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="7" rowspan="2" valign="top">
+            <div class="titulo">Beneficiário</div>
+            <div class="conteudo float_left">
+               Editora Saber Mais LTDA<br />
+               Avenida Rio Branco, 2773<br />
+               40408-917 - Salvador - BA            </div>
+            <div class="conteudo cpf_cnpj">
+               87.781.247/0001-70            </div>
+
+
+         </td>
+         <td>
+            <div class="titulo">Agência/Código beneficiário</div>
+            <div class="conteudo rtl">
+               3621 / 80138            </div>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <div class="titulo">Nosso número</div>
+            <div class="conteudo rtl">
+               0176732-2            </div>
+         </td>
+      </tr>
+      <tr>
+         <td width="110" colspan="2">
+            <div class="titulo">Data do documento</div>
+            <div class="conteudo">
+               01/07/2025            </div>
+         </td>
+         <td width="120" colspan="2">
+            <div class="titulo">Nº documento</div>
+            <div class="conteudo">
+               1646392            </div>
+         </td>
+         <td width="60">
+            <div class="titulo">Espécie doc.</div>
+            <div class="conteudo">
+                           </div>
+         </td>
+         <td>
+            <div class="titulo">Aceite</div>
+            <div class="conteudo">
+               N            </div>
+         </td>
+         <td width="110">
+            <div class="titulo">Data processamento</div>
+            <div class="conteudo">
+               01/07/2025            </div>
+         </td>
+         <td>
+            <div class="titulo">(=) Valor do Documento</div>
+            <div class="conteudo rtl">
+               668,12            </div>
+         </td>
+      </tr>
+      <tr>
+         
+            
+            <td>
+               <div class="titulo">Carteira</div>
+               <div class="conteudo">
+                  1               </div>
+               </td>
+               <td width="35">
+                  <div class="titulo">Espécie</div>
+                  <div class="conteudo">
+                     REAL                  </div>
+               </td>
+               <td colspan="2">
+                  <div class="titulo">Quantidade</div>
+                  <div class="conteudo">
+                                       </div>
+               </td>
+               <td width="110">
+                  <div class="titulo">Valor</div>
+                  <div class="conteudo">
+                                       </div>
+               </td>
+               <td>
+                  <div class="titulo">(-) Descontos / Abatimentos</div>
+                  <div class="conteudo rtl">
+                     53,45                  </div>
+               </td>
+      </tr>
+      <tr>
+         <td colspan="7" valign="top">
+            <div class="titulo">Instruções (Texto de responsabilidade do beneficiário)</div>
+         </td>
+         <td>
+            <div class="titulo">(-) Outras deduções</div>
+            <div class="conteudo rtl">
+                           </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="7" class="notopborder" valign="top">
+            <div class="conteudo">
+               Não receber após 31/08/2025.            </div>
+            <div class="conteudo">
+               Sr. Caixa, não receber em cheque.            </div>
+         </td>
+         <td>
+            <div class="titulo">(+) Mora / Multa</div>
+            <div class="conteudo rtl">
+                           </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="7" class="notopborder">
+            <div class="conteudo">
+                           </div>
+            <div class="conteudo">
+                           </div>
+         </td>
+         <td>
+            <div class="titulo">(+) Outros acréscimos</div>
+            <div class="conteudo rtl">
+                           </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="7" class="notopborder">
+            <div class="conteudo">
+                           </div>
+            <div class="conteudo">
+                           </div>
+         </td>
+         <td>
+            <div class="titulo">(=) Valor cobrado</div>
+            <div class="conteudo rtl">
+               614,67            </div>
+         </td>
+      </tr>
+      <tr>
+         <td colspan="7" valign="top">
+            <div class="titulo">Pagador</div>
+            <div class="conteudo float_left">
+               Camila Mendes Lopes<br />
+               Rua Dom Pedro II, 2052<br />
+               20412-528 - Rio de Janeiro - RJ            </div>
+            <div class="conteudo cpf_cnpj">
+               968.852.759-99            </div>
+         </td>
+         <td class="noleftborder">
+            <div class="titulo" style="margin-top: 50px">Cód. Baixa</div>
+         </td>
+      </tr>
+
+      <tr>
+         <td colspan="6" class="noleftborder">
+            <div class="titulo">Pagador / Avalista <div class="conteudo pagador">
+                                 </div>
+            </div>
+         </td>
+         <td colspan="2" class="norightborder noleftborder">
+            <div class="conteudo noborder rtl">Autenticação mecânica - Ficha de Compensação</div>
+         </td>
+      </tr>
+
+      <tr>
+         <td colspan="8" class="noborder">
+            <div class="barcode"><div class="black thin"></div><div class="white thin"></div><div class="black thin"></div><div class="white thin"></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white large'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class='black thin'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black large'></div><div class='white thin'></div><div class='black thin'></div><div class='white large'></div><div class="black large"></div><div class="white thin"></div><div class="black thin"></div></div>         </td>
+      </tr>
+
+   </tbody>
+</table>      </div>
+   </body>
+
+</html>

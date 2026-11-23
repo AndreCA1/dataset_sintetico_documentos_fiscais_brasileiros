@@ -1,0 +1,146 @@
+numero,tipo,modelo,id,folha,escala,foto_comum,foto_scanner
+1,nfe,NF-e (DANFE),nfe_002,1,0.95,fotos/001_comum.jpg,fotos/001_scanner.jpg
+2,nfe,NF-e (DANFE),nfe_003,2,0.95,fotos/002_comum.jpg,fotos/002_scanner.jpg
+3,nfe,NF-e (DANFE),nfe_005,3,0.95,fotos/003_comum.jpg,fotos/003_scanner.jpg
+4,nfe,NF-e (DANFE),nfe_006,4,0.95,fotos/004_comum.jpg,fotos/004_scanner.jpg
+5,nfe,NF-e (DANFE),nfe_007,5,0.95,fotos/005_comum.jpg,fotos/005_scanner.jpg
+6,nfe,NF-e (DANFE),nfe_010,6,0.95,fotos/006_comum.jpg,fotos/006_scanner.jpg
+7,nfe,NF-e (DANFE),nfe_011,7,0.95,fotos/007_comum.jpg,fotos/007_scanner.jpg
+8,nfe,NF-e (DANFE),nfe_012,8,0.95,fotos/008_comum.jpg,fotos/008_scanner.jpg
+9,nfe,NF-e (DANFE),nfe_013,9,0.95,fotos/009_comum.jpg,fotos/009_scanner.jpg
+10,nfe,NF-e (DANFE),nfe_016,10,0.95,fotos/010_comum.jpg,fotos/010_scanner.jpg
+11,nfe,NF-e (DANFE),nfe_017,11,0.95,fotos/011_comum.jpg,fotos/011_scanner.jpg
+12,nfe,NF-e (DANFE),nfe_018,12,0.95,fotos/012_comum.jpg,fotos/012_scanner.jpg
+13,nfe,NF-e (DANFE),nfe_020,13,0.95,fotos/013_comum.jpg,fotos/013_scanner.jpg
+14,nfe,NF-e (DANFE),nfe_023,14,0.95,fotos/014_comum.jpg,fotos/014_scanner.jpg
+15,nfe,NF-e (DANFE),nfe_024,15,0.95,fotos/015_comum.jpg,fotos/015_scanner.jpg
+16,nfe,NF-e (DANFE),nfe_025,16,0.95,fotos/016_comum.jpg,fotos/016_scanner.jpg
+17,nfe,NF-e (DANFE),nfe_026,17,0.95,fotos/017_comum.jpg,fotos/017_scanner.jpg
+18,nfe,NF-e (DANFE),nfe_029,18,0.95,fotos/018_comum.jpg,fotos/018_scanner.jpg
+19,nfe,NF-e (DANFE),nfe_030,19,0.95,fotos/019_comum.jpg,fotos/019_scanner.jpg
+20,nfe,NF-e (DANFE),nfe_031,20,0.95,fotos/020_comum.jpg,fotos/020_scanner.jpg
+21,nfe,NF-e (DANFE),nfe_032,21,0.95,fotos/021_comum.jpg,fotos/021_scanner.jpg
+22,nfe,NF-e (DANFE),nfe_034,22,0.95,fotos/022_comum.jpg,fotos/022_scanner.jpg
+23,nfe,NF-e (DANFE),nfe_036,23,0.95,fotos/023_comum.jpg,fotos/023_scanner.jpg
+24,nfe,NF-e (DANFE),nfe_039,24,0.95,fotos/024_comum.jpg,fotos/024_scanner.jpg
+25,nfe,NF-e (DANFE),nfe_041,25,0.95,fotos/025_comum.jpg,fotos/025_scanner.jpg
+26,nfe,NF-e (DANFE),nfe_042,26,0.95,fotos/026_comum.jpg,fotos/026_scanner.jpg
+27,nfe,NF-e (DANFE),nfe_043,27,0.95,fotos/027_comum.jpg,fotos/027_scanner.jpg
+28,nfe,NF-e (DANFE),nfe_045,28,0.95,fotos/028_comum.jpg,fotos/028_scanner.jpg
+29,nfe,NF-e (DANFE),nfe_046,29,0.95,fotos/029_comum.jpg,fotos/029_scanner.jpg
+30,nfe,NF-e (DANFE),nfe_047,30,0.95,fotos/030_comum.jpg,fotos/030_scanner.jpg
+31,nfse,NFS-e (DANFSe),nfse_001,31,0.95,fotos/031_comum.jpg,fotos/031_scanner.jpg
+32,nfse,NFS-e (DANFSe),nfse_002,32,0.95,fotos/032_comum.jpg,fotos/032_scanner.jpg
+33,nfse,NFS-e (DANFSe),nfse_003,33,0.95,fotos/033_comum.jpg,fotos/033_scanner.jpg
+34,nfse,NFS-e (DANFSe),nfse_004,34,0.95,fotos/034_comum.jpg,fotos/034_scanner.jpg
+35,nfse,NFS-e (DANFSe),nfse_006,35,0.95,fotos/035_comum.jpg,fotos/035_scanner.jpg
+36,nfse,NFS-e (DANFSe),nfse_012,36,0.95,fotos/036_comum.jpg,fotos/036_scanner.jpg
+37,nfse,NFS-e (DANFSe),nfse_014,37,0.95,fotos/037_comum.jpg,fotos/037_scanner.jpg
+38,nfse,NFS-e (DANFSe),nfse_015,38,0.95,fotos/038_comum.jpg,fotos/038_scanner.jpg
+39,nfse,NFS-e (DANFSe),nfse_020,39,0.95,fotos/039_comum.jpg,fotos/039_scanner.jpg
+40,nfse,NFS-e (DANFSe),nfse_021,40,0.95,fotos/040_comum.jpg,fotos/040_scanner.jpg
+41,nfse,NFS-e (DANFSe),nfse_023,41,0.95,fotos/041_comum.jpg,fotos/041_scanner.jpg
+42,nfse,NFS-e (DANFSe),nfse_024,42,0.95,fotos/042_comum.jpg,fotos/042_scanner.jpg
+43,nfse,NFS-e (DANFSe),nfse_025,43,0.95,fotos/043_comum.jpg,fotos/043_scanner.jpg
+49,nfse,NFS-e (DANFSe),nfse_032,49,0.95,fotos/049_comum.jpg,fotos/049_scanner.jpg
+50,nfse,NFS-e (DANFSe),nfse_034,50,0.95,fotos/050_comum.jpg,fotos/050_scanner.jpg
+51,nfse,NFS-e (DANFSe),nfse_035,51,0.95,fotos/051_comum.jpg,fotos/051_scanner.jpg
+52,nfse,NFS-e (DANFSe),nfse_036,52,0.95,fotos/052_comum.jpg,fotos/052_scanner.jpg
+53,nfse,NFS-e (DANFSe),nfse_037,53,0.95,fotos/053_comum.jpg,fotos/053_scanner.jpg
+54,nfse,NFS-e (DANFSe),nfse_040,54,0.95,fotos/054_comum.jpg,fotos/054_scanner.jpg
+55,nfse,NFS-e (DANFSe),nfse_041,55,0.95,fotos/055_comum.jpg,fotos/055_scanner.jpg
+56,nfse,NFS-e (DANFSe),nfse_043,56,0.95,fotos/056_comum.jpg,fotos/056_scanner.jpg
+57,nfse,NFS-e (DANFSe),nfse_045,57,0.95,fotos/057_comum.jpg,fotos/057_scanner.jpg
+58,nfse,NFS-e (DANFSe),nfse_046,58,0.95,fotos/058_comum.jpg,fotos/058_scanner.jpg
+59,nfse,NFS-e (DANFSe),nfse_048,59,0.95,fotos/059_comum.jpg,fotos/059_scanner.jpg
+60,nfse,NFS-e (DANFSe),nfse_050,60,0.95,fotos/060_comum.jpg,fotos/060_scanner.jpg
+61,boleto,Boleto,boleto_001,61,1.0,fotos/061_comum.jpg,fotos/061_scanner.jpg
+62,boleto,Boleto,boleto_002,62,1.0,fotos/062_comum.jpg,fotos/062_scanner.jpg
+63,boleto,Boleto,boleto_004,63,1.0,fotos/063_comum.jpg,fotos/063_scanner.jpg
+64,boleto,Boleto,boleto_005,64,1.0,fotos/064_comum.jpg,fotos/064_scanner.jpg
+65,boleto,Boleto,boleto_006,65,1.0,fotos/065_comum.jpg,fotos/065_scanner.jpg
+66,boleto,Boleto,boleto_008,66,1.0,fotos/066_comum.jpg,fotos/066_scanner.jpg
+67,boleto,Boleto,boleto_009,67,1.0,fotos/067_comum.jpg,fotos/067_scanner.jpg
+68,boleto,Boleto,boleto_010,68,1.0,fotos/068_comum.jpg,fotos/068_scanner.jpg
+69,boleto,Boleto,boleto_011,69,1.0,fotos/069_comum.jpg,fotos/069_scanner.jpg
+70,boleto,Boleto,boleto_012,70,1.0,fotos/070_comum.jpg,fotos/070_scanner.jpg
+71,boleto,Boleto,boleto_016,71,1.0,fotos/071_comum.jpg,fotos/071_scanner.jpg
+72,boleto,Boleto,boleto_017,72,1.0,fotos/072_comum.jpg,fotos/072_scanner.jpg
+73,boleto,Boleto,boleto_018,73,1.0,fotos/073_comum.jpg,fotos/073_scanner.jpg
+74,boleto,Boleto,boleto_019,74,1.0,fotos/074_comum.jpg,fotos/074_scanner.jpg
+75,boleto,Boleto,boleto_020,75,1.0,fotos/075_comum.jpg,fotos/075_scanner.jpg
+76,boleto,Boleto,boleto_021,76,1.0,fotos/076_comum.jpg,fotos/076_scanner.jpg
+77,boleto,Boleto,boleto_023,77,1.0,fotos/077_comum.jpg,fotos/077_scanner.jpg
+78,boleto,Boleto,boleto_026,78,1.0,fotos/078_comum.jpg,fotos/078_scanner.jpg
+79,boleto,Boleto,boleto_027,79,1.0,fotos/079_comum.jpg,fotos/079_scanner.jpg
+80,boleto,Boleto,boleto_031,80,1.0,fotos/080_comum.jpg,fotos/080_scanner.jpg
+81,boleto,Boleto,boleto_033,81,1.0,fotos/081_comum.jpg,fotos/081_scanner.jpg
+82,boleto,Boleto,boleto_035,82,1.0,fotos/082_comum.jpg,fotos/082_scanner.jpg
+83,boleto,Boleto,boleto_037,83,1.0,fotos/083_comum.jpg,fotos/083_scanner.jpg
+84,boleto,Boleto,boleto_040,84,1.0,fotos/084_comum.jpg,fotos/084_scanner.jpg
+85,boleto,Boleto,boleto_042,85,1.0,fotos/085_comum.jpg,fotos/085_scanner.jpg
+86,boleto,Boleto,boleto_043,86,1.0,fotos/086_comum.jpg,fotos/086_scanner.jpg
+87,boleto,Boleto,boleto_044,87,1.0,fotos/087_comum.jpg,fotos/087_scanner.jpg
+88,boleto,Boleto,boleto_046,88,1.0,fotos/088_comum.jpg,fotos/088_scanner.jpg
+89,boleto,Boleto,boleto_048,89,1.0,fotos/089_comum.jpg,fotos/089_scanner.jpg
+90,boleto,Boleto,boleto_050,90,1.0,fotos/090_comum.jpg,fotos/090_scanner.jpg
+91,nfce,NFC-e (DANFCe),nfce_001,91,1.0,fotos/091_comum.jpg,fotos/091_scanner.jpg
+92,nfce,NFC-e (DANFCe),nfce_004,91,1.0,fotos/092_comum.jpg,fotos/092_scanner.jpg
+93,nfce,NFC-e (DANFCe),nfce_008,92,1.0,fotos/093_comum.jpg,fotos/093_scanner.jpg
+94,nfce,NFC-e (DANFCe),nfce_009,92,1.0,fotos/094_comum.jpg,fotos/094_scanner.jpg
+95,nfce,NFC-e (DANFCe),nfce_010,93,1.0,fotos/095_comum.jpg,fotos/095_scanner.jpg
+96,nfce,NFC-e (DANFCe),nfce_012,93,1.0,fotos/096_comum.jpg,fotos/096_scanner.jpg
+97,nfce,NFC-e (DANFCe),nfce_013,94,1.0,fotos/097_comum.jpg,fotos/097_scanner.jpg
+98,nfce,NFC-e (DANFCe),nfce_014,94,1.0,fotos/098_comum.jpg,fotos/098_scanner.jpg
+99,nfce,NFC-e (DANFCe),nfce_018,95,1.0,fotos/099_comum.jpg,fotos/099_scanner.jpg
+100,nfce,NFC-e (DANFCe),nfce_019,95,1.0,fotos/100_comum.jpg,fotos/100_scanner.jpg
+101,nfce,NFC-e (DANFCe),nfce_024,96,1.0,fotos/101_comum.jpg,fotos/101_scanner.jpg
+102,nfce,NFC-e (DANFCe),nfce_025,96,1.0,fotos/102_comum.jpg,fotos/102_scanner.jpg
+103,nfce,NFC-e (DANFCe),nfce_026,97,1.0,fotos/103_comum.jpg,fotos/103_scanner.jpg
+104,nfce,NFC-e (DANFCe),nfce_027,97,1.0,fotos/104_comum.jpg,fotos/104_scanner.jpg
+105,nfce,NFC-e (DANFCe),nfce_028,98,1.0,fotos/105_comum.jpg,fotos/105_scanner.jpg
+106,nfce,NFC-e (DANFCe),nfce_029,98,1.0,fotos/106_comum.jpg,fotos/106_scanner.jpg
+107,nfce,NFC-e (DANFCe),nfce_030,99,1.0,fotos/107_comum.jpg,fotos/107_scanner.jpg
+108,nfce,NFC-e (DANFCe),nfce_033,99,1.0,fotos/108_comum.jpg,fotos/108_scanner.jpg
+109,nfce,NFC-e (DANFCe),nfce_035,100,1.0,fotos/109_comum.jpg,fotos/109_scanner.jpg
+110,nfce,NFC-e (DANFCe),nfce_036,100,1.0,fotos/110_comum.jpg,fotos/110_scanner.jpg
+111,nfce,NFC-e (DANFCe),nfce_037,101,1.0,fotos/111_comum.jpg,fotos/111_scanner.jpg
+112,nfce,NFC-e (DANFCe),nfce_038,101,1.0,fotos/112_comum.jpg,fotos/112_scanner.jpg
+113,nfce,NFC-e (DANFCe),nfce_039,102,1.0,fotos/113_comum.jpg,fotos/113_scanner.jpg
+114,nfce,NFC-e (DANFCe),nfce_041,102,1.0,fotos/114_comum.jpg,fotos/114_scanner.jpg
+115,nfce,NFC-e (DANFCe),nfce_042,103,1.0,fotos/115_comum.jpg,fotos/115_scanner.jpg
+116,nfce,NFC-e (DANFCe),nfce_043,103,1.0,fotos/116_comum.jpg,fotos/116_scanner.jpg
+117,nfce,NFC-e (DANFCe),nfce_044,104,1.0,fotos/117_comum.jpg,fotos/117_scanner.jpg
+118,nfce,NFC-e (DANFCe),nfce_047,104,1.0,fotos/118_comum.jpg,fotos/118_scanner.jpg
+119,nfce,NFC-e (DANFCe),nfce_049,105,1.0,fotos/119_comum.jpg,fotos/119_scanner.jpg
+120,nfce,NFC-e (DANFCe),nfce_050,105,1.0,fotos/120_comum.jpg,fotos/120_scanner.jpg
+121,recibo,Recibo,recibo_001,106,1.0,fotos/121_comum.jpg,fotos/121_scanner.jpg
+122,recibo,Recibo,recibo_002,106,1.0,fotos/122_comum.jpg,fotos/122_scanner.jpg
+123,recibo,Recibo,recibo_004,107,1.0,fotos/123_comum.jpg,fotos/123_scanner.jpg
+124,recibo,Recibo,recibo_005,107,1.0,fotos/124_comum.jpg,fotos/124_scanner.jpg
+125,recibo,Recibo,recibo_006,108,1.0,fotos/125_comum.jpg,fotos/125_scanner.jpg
+126,recibo,Recibo,recibo_007,108,1.0,fotos/126_comum.jpg,fotos/126_scanner.jpg
+127,recibo,Recibo,recibo_008,109,1.0,fotos/127_comum.jpg,fotos/127_scanner.jpg
+128,recibo,Recibo,recibo_009,109,1.0,fotos/128_comum.jpg,fotos/128_scanner.jpg
+129,recibo,Recibo,recibo_011,110,1.0,fotos/129_comum.jpg,fotos/129_scanner.jpg
+130,recibo,Recibo,recibo_013,110,1.0,fotos/130_comum.jpg,fotos/130_scanner.jpg
+131,recibo,Recibo,recibo_014,111,1.0,fotos/131_comum.jpg,fotos/131_scanner.jpg
+132,recibo,Recibo,recibo_016,111,1.0,fotos/132_comum.jpg,fotos/132_scanner.jpg
+133,recibo,Recibo,recibo_017,112,1.0,fotos/133_comum.jpg,fotos/133_scanner.jpg
+134,recibo,Recibo,recibo_020,112,1.0,fotos/134_comum.jpg,fotos/134_scanner.jpg
+135,recibo,Recibo,recibo_024,113,1.0,fotos/135_comum.jpg,fotos/135_scanner.jpg
+136,recibo,Recibo,recibo_026,113,1.0,fotos/136_comum.jpg,fotos/136_scanner.jpg
+137,recibo,Recibo,recibo_028,114,1.0,fotos/137_comum.jpg,fotos/137_scanner.jpg
+138,recibo,Recibo,recibo_029,114,1.0,fotos/138_comum.jpg,fotos/138_scanner.jpg
+139,recibo,Recibo,recibo_030,115,1.0,fotos/139_comum.jpg,fotos/139_scanner.jpg
+140,recibo,Recibo,recibo_033,115,1.0,fotos/140_comum.jpg,fotos/140_scanner.jpg
+141,recibo,Recibo,recibo_036,116,1.0,fotos/141_comum.jpg,fotos/141_scanner.jpg
+142,recibo,Recibo,recibo_038,116,1.0,fotos/142_comum.jpg,fotos/142_scanner.jpg
+143,recibo,Recibo,recibo_039,117,1.0,fotos/143_comum.jpg,fotos/143_scanner.jpg
+144,recibo,Recibo,recibo_040,117,1.0,fotos/144_comum.jpg,fotos/144_scanner.jpg
+145,recibo,Recibo,recibo_043,118,1.0,fotos/145_comum.jpg,fotos/145_scanner.jpg
+146,recibo,Recibo,recibo_044,118,1.0,fotos/146_comum.jpg,fotos/146_scanner.jpg
+147,recibo,Recibo,recibo_046,119,1.0,fotos/147_comum.jpg,fotos/147_scanner.jpg
+148,recibo,Recibo,recibo_047,119,1.0,fotos/148_comum.jpg,fotos/148_scanner.jpg
+149,recibo,Recibo,recibo_049,120,1.0,fotos/149_comum.jpg,fotos/149_scanner.jpg
+150,recibo,Recibo,recibo_050,120,1.0,fotos/150_comum.jpg,fotos/150_scanner.jpg

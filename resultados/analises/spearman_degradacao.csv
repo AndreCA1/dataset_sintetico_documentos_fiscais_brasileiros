@@ -1,0 +1,14 @@
+escopo,parametro,rotulo,n,rho,p_t,p_normal
+todas,desfoque_raio,Raio do desfoque,250,-0.3273,1.1909e-07,2.41797e-07
+todas,largura_px,Largura da imagem,250,0.2058,0.00106412,0.00116348
+todas,contraste,Contraste,250,-0.1171,0.0645507,0.0646651
+todas,deslocamento_perspectiva_px,Deslocamento de perspectiva,250,0.0960,0.130137,0.129865
+todas,qualidade_jpeg,Qualidade JPEG,250,-0.0708,0.264736,0.263894
+todas,intensidade_iluminacao,Intensidade da iluminação irregular,250,-0.0586,0.356157,0.355118
+todas,ruido_sigma,Desvio padrão do ruído,250,-0.0253,0.690518,0.689678
+todas,rotacao_modulo,Ângulo de rotação (em módulo),250,-0.0067,0.915937,0.915684
+NF-e,desfoque_raio,Raio do desfoque,50,-0.5103,0.000152897,0.000353691
+NFC-e,desfoque_raio,Raio do desfoque,50,-0.5329,6.76671e-05,0.000191097
+NFS-e,desfoque_raio,Raio do desfoque,50,-0.5090,0.000160219,0.000366629
+Boleto,desfoque_raio,Raio do desfoque,50,-0.3892,0.00521732,0.00644581
+Recibo,desfoque_raio,Raio do desfoque,50,-0.1607,0.265005,0.260718

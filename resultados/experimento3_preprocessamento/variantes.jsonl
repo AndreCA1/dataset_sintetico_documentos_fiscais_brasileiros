@@ -1,0 +1,1306 @@
+{"chave": "original/001", "bytes": 3637283}
+{"chave": "recodificada/001", "bytes": 3434659}
+{"chave": "cinza/001", "bytes": 3328615}
+{"chave": "mediana/001", "bytes": 2638067}
+{"chave": "clahe/001", "bytes": 4286201}
+{"chave": "inclinacao/001", "bytes": 3195781, "angulo": -0.5}
+{"chave": "adaptativa/001", "bytes": 2950961}
+{"chave": "otsu/001", "bytes": 2456760}
+{"chave": "completo/001", "bytes": 2482440, "angulo": -0.5}
+{"chave": "original/002", "bytes": 4147652}
+{"chave": "recodificada/002", "bytes": 3912233}
+{"chave": "cinza/002", "bytes": 3811709}
+{"chave": "mediana/002", "bytes": 3048208}
+{"chave": "clahe/002", "bytes": 4916257}
+{"chave": "inclinacao/002", "bytes": 3631285, "angulo": 0.5}
+{"chave": "adaptativa/002", "bytes": 4177812}
+{"chave": "otsu/002", "bytes": 2893669}
+{"chave": "completo/002", "bytes": 3501741, "angulo": 0.5}
+{"chave": "original/003", "bytes": 4068826}
+{"chave": "recodificada/003", "bytes": 3838600}
+{"chave": "cinza/003", "bytes": 3735801}
+{"chave": "cinza/003", "bytes": 3735801}
+{"chave": "mediana/003", "bytes": 2957823}
+{"chave": "clahe/003", "bytes": 4877295}
+{"chave": "inclinacao/003", "bytes": 3838600, "angulo": 0.0}
+{"chave": "adaptativa/003", "bytes": 4130746}
+{"chave": "otsu/003", "bytes": 2857182}
+{"chave": "completo/003", "bytes": 3101977, "angulo": 0.0}
+{"chave": "original/004", "bytes": 4571391}
+{"chave": "recodificada/004", "bytes": 4313129}
+{"chave": "cinza/004", "bytes": 4202963}
+{"chave": "mediana/004", "bytes": 3389158}
+{"chave": "clahe/004", "bytes": 5450654}
+{"chave": "inclinacao/004", "bytes": 3993850, "angulo": 0.5}
+{"chave": "adaptativa/004", "bytes": 5359169}
+{"chave": "otsu/004", "bytes": 3408361}
+{"chave": "completo/004", "bytes": 4301055, "angulo": 0.5}
+{"chave": "original/005", "bytes": 4089350}
+{"chave": "recodificada/005", "bytes": 3856571}
+{"chave": "cinza/005", "bytes": 3748889}
+{"chave": "mediana/005", "bytes": 2989918}
+{"chave": "clahe/005", "bytes": 4786559}
+{"chave": "inclinacao/005", "bytes": 3575391, "angulo": 0.5}
+{"chave": "adaptativa/005", "bytes": 3851678}
+{"chave": "otsu/005", "bytes": 3355385}
+{"chave": "completo/005", "bytes": 3124368, "angulo": 0.5}
+{"chave": "original/006", "bytes": 3750328}
+{"chave": "recodificada/006", "bytes": 3540448}
+{"chave": "cinza/006", "bytes": 3435373}
+{"chave": "mediana/006", "bytes": 2753852}
+{"chave": "clahe/006", "bytes": 4414292}
+{"chave": "inclinacao/006", "bytes": 3301627, "angulo": 0.5}
+{"chave": "adaptativa/006", "bytes": 3333431}
+{"chave": "otsu/006", "bytes": 2796575}
+{"chave": "completo/006", "bytes": 2719011, "angulo": 0.5}
+{"chave": "original/007", "bytes": 3588523}
+{"chave": "recodificada/007", "bytes": 3388028}
+{"chave": "cinza/007", "bytes": 3285439}
+{"chave": "mediana/007", "bytes": 2611437}
+{"chave": "clahe/007", "bytes": 4232411}
+{"chave": "inclinacao/007", "bytes": 3151125, "angulo": 0.5}
+{"chave": "adaptativa/007", "bytes": 2954543}
+{"chave": "otsu/007", "bytes": 2430220}
+{"chave": "completo/007", "bytes": 2424906, "angulo": 0.5}
+{"chave": "original/008", "bytes": 3872653}
+{"chave": "recodificada/008", "bytes": 3656058}
+{"chave": "cinza/008", "bytes": 3555754}
+{"chave": "mediana/008", "bytes": 2802491}
+{"chave": "clahe/008", "bytes": 4634037}
+{"chave": "inclinacao/008", "bytes": 3656058, "angulo": 0.0}
+{"chave": "adaptativa/008", "bytes": 3550463}
+{"chave": "otsu/008", "bytes": 2712020}
+{"chave": "completo/008", "bytes": 2594553, "angulo": 0.0}
+{"chave": "original/009", "bytes": 3875826}
+{"chave": "recodificada/009", "bytes": 3660427}
+{"chave": "cinza/009", "bytes": 3556427}
+{"chave": "mediana/009", "bytes": 2812902}
+{"chave": "clahe/009", "bytes": 4610105}
+{"chave": "inclinacao/009", "bytes": 3388418, "angulo": 0.5}
+{"chave": "adaptativa/009", "bytes": 3590786}
+{"chave": "otsu/009", "bytes": 2786227}
+{"chave": "completo/009", "bytes": 2841668, "angulo": 0.5}
+{"chave": "original/010", "bytes": 4031074}
+{"chave": "recodificada/010", "bytes": 3806240}
+{"chave": "cinza/010", "bytes": 3700154}
+{"chave": "mediana/010", "bytes": 2928011}
+{"chave": "clahe/010", "bytes": 4779147}
+{"chave": "inclinacao/010", "bytes": 3516933, "angulo": -1.0}
+{"chave": "adaptativa/010", "bytes": 3915272}
+{"chave": "otsu/010", "bytes": 3404662}
+{"chave": "completo/010", "bytes": 2932855, "angulo": -1.0}
+{"chave": "original/011", "bytes": 3943053}
+{"chave": "recodificada/011", "bytes": 3722422}
+{"chave": "cinza/011", "bytes": 3616307}
+{"chave": "mediana/011", "bytes": 2889033}
+{"chave": "clahe/011", "bytes": 4634326}
+{"chave": "inclinacao/011", "bytes": 3452420, "angulo": 0.5}
+{"chave": "adaptativa/011", "bytes": 3655002}
+{"chave": "otsu/011", "bytes": 3161387}
+{"chave": "completo/011", "bytes": 2997116, "angulo": 0.5}
+{"chave": "original/012", "bytes": 3938068}
+{"chave": "recodificada/012", "bytes": 3718801}
+{"chave": "cinza/012", "bytes": 3616773}
+{"chave": "mediana/012", "bytes": 2847417}
+{"chave": "clahe/012", "bytes": 4668835}
+{"chave": "inclinacao/012", "bytes": 3448095, "angulo": -0.5}
+{"chave": "adaptativa/012", "bytes": 3582379}
+{"chave": "otsu/012", "bytes": 2795616}
+{"chave": "completo/012", "bytes": 2826954, "angulo": -0.5}
+{"chave": "original/013", "bytes": 3976061}
+{"chave": "recodificada/013", "bytes": 3750779}
+{"chave": "cinza/013", "bytes": 3643822}
+{"chave": "mediana/013", "bytes": 2914815}
+{"chave": "clahe/013", "bytes": 4661975}
+{"chave": "inclinacao/013", "bytes": 3750779, "angulo": 0.0}
+{"chave": "adaptativa/013", "bytes": 3888127}
+{"chave": "otsu/013", "bytes": 2939531}
+{"chave": "completo/013", "bytes": 2993543, "angulo": 0.0}
+{"chave": "original/014", "bytes": 4124540}
+{"chave": "recodificada/014", "bytes": 3893444}
+{"chave": "cinza/014", "bytes": 3791775}
+{"chave": "mediana/014", "bytes": 3002216}
+{"chave": "clahe/014", "bytes": 4938874}
+{"chave": "inclinacao/014", "bytes": 3585711, "angulo": -1.5}
+{"chave": "adaptativa/014", "bytes": 4249538}
+{"chave": "otsu/014", "bytes": 3195419}
+{"chave": "completo/014", "bytes": 3199654, "angulo": -1.5}
+{"chave": "original/015", "bytes": 3657146}
+{"chave": "recodificada/015", "bytes": 3453683}
+{"chave": "cinza/015", "bytes": 3346526}
+{"chave": "mediana/015", "bytes": 2637354}
+{"chave": "clahe/015", "bytes": 4332590}
+{"chave": "inclinacao/015", "bytes": 3453683, "angulo": 0.0}
+{"chave": "adaptativa/015", "bytes": 3087092}
+{"chave": "otsu/015", "bytes": 2928001}
+{"chave": "completo/015", "bytes": 2454252, "angulo": 0.0}
+{"chave": "original/016", "bytes": 3709619}
+{"chave": "recodificada/016", "bytes": 3507697}
+{"chave": "cinza/016", "bytes": 3414575}
+{"chave": "mediana/016", "bytes": 2678718}
+{"chave": "clahe/016", "bytes": 4449431}
+{"chave": "inclinacao/016", "bytes": 3507697, "angulo": 0.0}
+{"chave": "adaptativa/016", "bytes": 3353306}
+{"chave": "otsu/016", "bytes": 2506144}
+{"chave": "completo/016", "bytes": 2431113, "angulo": 0.0}
+{"chave": "original/017", "bytes": 4147115}
+{"chave": "recodificada/017", "bytes": 3910803}
+{"chave": "cinza/017", "bytes": 3798858}
+{"chave": "mediana/017", "bytes": 3030106}
+{"chave": "clahe/017", "bytes": 4876797}
+{"chave": "inclinacao/017", "bytes": 3606960, "angulo": 1.0}
+{"chave": "adaptativa/017", "bytes": 4217823}
+{"chave": "otsu/017", "bytes": 3291469}
+{"chave": "completo/017", "bytes": 3359495, "angulo": 1.0}
+{"chave": "original/018", "bytes": 3790289}
+{"chave": "recodificada/018", "bytes": 3579906}
+{"chave": "cinza/018", "bytes": 3482379}
+{"chave": "mediana/018", "bytes": 2730467}
+{"chave": "clahe/018", "bytes": 4591974}
+{"chave": "inclinacao/018", "bytes": 3309167, "angulo": 0.5}
+{"chave": "adaptativa/018", "bytes": 3587960}
+{"chave": "otsu/018", "bytes": 2672285}
+{"chave": "completo/018", "bytes": 2679332, "angulo": 0.5}
+{"chave": "original/019", "bytes": 3876375}
+{"chave": "recodificada/019", "bytes": 3657892}
+{"chave": "cinza/019", "bytes": 3552523}
+{"chave": "mediana/019", "bytes": 2814615}
+{"chave": "clahe/019", "bytes": 4579905}
+{"chave": "inclinacao/019", "bytes": 3657892, "angulo": 0.0}
+{"chave": "adaptativa/019", "bytes": 3464501}
+{"chave": "otsu/019", "bytes": 3131476}
+{"chave": "completo/019", "bytes": 2738325, "angulo": 0.0}
+{"chave": "original/020", "bytes": 4552354}
+{"chave": "recodificada/020", "bytes": 4290623}
+{"chave": "cinza/020", "bytes": 4181732}
+{"chave": "mediana/020", "bytes": 3323107}
+{"chave": "clahe/020", "bytes": 5452683}
+{"chave": "inclinacao/020", "bytes": 3944261, "angulo": -1.5}
+{"chave": "adaptativa/020", "bytes": 5310574}
+{"chave": "otsu/020", "bytes": 3130152}
+{"chave": "completo/020", "bytes": 3855375, "angulo": -1.5}
+{"chave": "original/021", "bytes": 4128735}
+{"chave": "recodificada/021", "bytes": 3894334}
+{"chave": "cinza/021", "bytes": 3789524}
+{"chave": "mediana/021", "bytes": 3011538}
+{"chave": "clahe/021", "bytes": 4919123}
+{"chave": "inclinacao/021", "bytes": 3894334, "angulo": 0.0}
+{"chave": "adaptativa/021", "bytes": 4080019}
+{"chave": "otsu/021", "bytes": 3079781}
+{"chave": "completo/021", "bytes": 3122209, "angulo": 0.0}
+{"chave": "original/022", "bytes": 3732345}
+{"chave": "recodificada/022", "bytes": 3525029}
+{"chave": "cinza/022", "bytes": 3425593}
+{"chave": "mediana/022", "bytes": 2691674}
+{"chave": "clahe/022", "bytes": 4471553}
+{"chave": "inclinacao/022", "bytes": 3239952, "angulo": 1.5}
+{"chave": "adaptativa/022", "bytes": 3355638}
+{"chave": "otsu/022", "bytes": 2686383}
+{"chave": "completo/022", "bytes": 2644414, "angulo": 1.5}
+{"chave": "original/023", "bytes": 3987951}
+{"chave": "recodificada/023", "bytes": 3765764}
+{"chave": "cinza/023", "bytes": 3663098}
+{"chave": "mediana/023", "bytes": 2949246}
+{"chave": "clahe/023", "bytes": 4687709}
+{"chave": "inclinacao/023", "bytes": 3765764, "angulo": 0.0}
+{"chave": "adaptativa/023", "bytes": 4008628}
+{"chave": "otsu/023", "bytes": 3040713}
+{"chave": "completo/023", "bytes": 3229436, "angulo": 0.0}
+{"chave": "original/024", "bytes": 4004375}
+{"chave": "recodificada/024", "bytes": 3781729}
+{"chave": "cinza/024", "bytes": 3681307}
+{"chave": "mediana/024", "bytes": 2914627}
+{"chave": "clahe/024", "bytes": 4774393}
+{"chave": "inclinacao/024", "bytes": 3475196, "angulo": 1.5}
+{"chave": "adaptativa/024", "bytes": 3876781}
+{"chave": "otsu/024", "bytes": 3320567}
+{"chave": "completo/024", "bytes": 2998641, "angulo": 1.5}
+{"chave": "original/025", "bytes": 3992034}
+{"chave": "recodificada/025", "bytes": 3771076}
+{"chave": "cinza/025", "bytes": 3669405}
+{"chave": "mediana/025", "bytes": 2926169}
+{"chave": "clahe/025", "bytes": 4713680}
+{"chave": "inclinacao/025", "bytes": 3771076, "angulo": 0.0}
+{"chave": "adaptativa/025", "bytes": 3765102}
+{"chave": "otsu/025", "bytes": 2995023}
+{"chave": "completo/025", "bytes": 2933233, "angulo": 0.0}
+{"chave": "original/026", "bytes": 4598733}
+{"chave": "recodificada/026", "bytes": 4335789}
+{"chave": "cinza/026", "bytes": 4227369}
+{"chave": "mediana/026", "bytes": 3390822}
+{"chave": "clahe/026", "bytes": 5510980}
+{"chave": "inclinacao/026", "bytes": 4013010, "angulo": -0.5}
+{"chave": "adaptativa/026", "bytes": 5412435}
+{"chave": "otsu/026", "bytes": 3628644}
+{"chave": "completo/026", "bytes": 4196257, "angulo": -0.5}
+{"chave": "original/027", "bytes": 3839971}
+{"chave": "recodificada/027", "bytes": 3624184}
+{"chave": "cinza/027", "bytes": 3518100}
+{"chave": "mediana/027", "bytes": 2831451}
+{"chave": "clahe/027", "bytes": 4474611}
+{"chave": "inclinacao/027", "bytes": 3624184, "angulo": 0.0}
+{"chave": "adaptativa/027", "bytes": 3400556}
+{"chave": "otsu/027", "bytes": 2990751}
+{"chave": "completo/027", "bytes": 2763941, "angulo": 0.0}
+{"chave": "original/028", "bytes": 3683756}
+{"chave": "recodificada/028", "bytes": 3480920}
+{"chave": "cinza/028", "bytes": 3381528}
+{"chave": "mediana/028", "bytes": 2721715}
+{"chave": "clahe/028", "bytes": 4326419}
+{"chave": "inclinacao/028", "bytes": 3216734, "angulo": -1.5}
+{"chave": "adaptativa/028", "bytes": 3181687}
+{"chave": "otsu/028", "bytes": 2823651}
+{"chave": "completo/028", "bytes": 2637606, "angulo": -1.5}
+{"chave": "original/029", "bytes": 4365083}
+{"chave": "recodificada/029", "bytes": 4115823}
+{"chave": "cinza/029", "bytes": 4004866}
+{"chave": "mediana/029", "bytes": 3193760}
+{"chave": "clahe/029", "bytes": 5119945}
+{"chave": "inclinacao/029", "bytes": 4115823, "angulo": 0.0}
+{"chave": "adaptativa/029", "bytes": 4624201}
+{"chave": "otsu/029", "bytes": 3348162}
+{"chave": "completo/029", "bytes": 3645077, "angulo": 1.0}
+{"chave": "original/030", "bytes": 3878225}
+{"chave": "recodificada/030", "bytes": 3662221}
+{"chave": "cinza/030", "bytes": 3563534}
+{"chave": "mediana/030", "bytes": 2813711}
+{"chave": "clahe/030", "bytes": 4635348}
+{"chave": "inclinacao/030", "bytes": 3394045, "angulo": -0.5}
+{"chave": "adaptativa/030", "bytes": 3620814}
+{"chave": "otsu/030", "bytes": 2917319}
+{"chave": "completo/030", "bytes": 2852146, "angulo": -0.5}
+{"chave": "original/031", "bytes": 4058928}
+{"chave": "recodificada/031", "bytes": 3828933}
+{"chave": "cinza/031", "bytes": 3734896}
+{"chave": "mediana/031", "bytes": 2960603}
+{"chave": "clahe/031", "bytes": 4828425}
+{"chave": "inclinacao/031", "bytes": 3828933, "angulo": 0.0}
+{"chave": "adaptativa/031", "bytes": 3835671}
+{"chave": "otsu/031", "bytes": 3027714}
+{"chave": "completo/031", "bytes": 2968594, "angulo": 0.0}
+{"chave": "original/032", "bytes": 4273990}
+{"chave": "recodificada/032", "bytes": 4032442}
+{"chave": "cinza/032", "bytes": 3923608}
+{"chave": "mediana/032", "bytes": 3086608}
+{"chave": "clahe/032", "bytes": 5040287}
+{"chave": "inclinacao/032", "bytes": 3739189, "angulo": -0.5}
+{"chave": "adaptativa/032", "bytes": 4452872}
+{"chave": "otsu/032", "bytes": 2690225}
+{"chave": "completo/032", "bytes": 3474620, "angulo": -0.5}
+{"chave": "original/033", "bytes": 3892769}
+{"chave": "recodificada/033", "bytes": 3671117}
+{"chave": "cinza/033", "bytes": 3564765}
+{"chave": "mediana/033", "bytes": 2822591}
+{"chave": "clahe/033", "bytes": 4567429}
+{"chave": "inclinacao/033", "bytes": 3408355, "angulo": 0.5}
+{"chave": "adaptativa/033", "bytes": 3496108}
+{"chave": "otsu/033", "bytes": 2889203}
+{"chave": "completo/033", "bytes": 2900596, "angulo": 0.5}
+{"chave": "original/034", "bytes": 4204084}
+{"chave": "recodificada/034", "bytes": 3966627}
+{"chave": "cinza/034", "bytes": 3866770}
+{"chave": "mediana/034", "bytes": 3065284}
+{"chave": "clahe/034", "bytes": 5066102}
+{"chave": "inclinacao/034", "bytes": 3656987, "angulo": -1.0}
+{"chave": "adaptativa/034", "bytes": 4332005}
+{"chave": "otsu/034", "bytes": 3097232}
+{"chave": "completo/034", "bytes": 3472176, "angulo": -1.0}
+{"chave": "original/035", "bytes": 4253469}
+{"chave": "recodificada/035", "bytes": 4010042}
+{"chave": "cinza/035", "bytes": 3904147}
+{"chave": "mediana/035", "bytes": 3103357}
+{"chave": "clahe/035", "bytes": 5014753}
+{"chave": "inclinacao/035", "bytes": 4010042, "angulo": 0.0}
+{"chave": "adaptativa/035", "bytes": 4213236}
+{"chave": "otsu/035", "bytes": 3332037}
+{"chave": "completo/035", "bytes": 3401733, "angulo": 0.0}
+{"chave": "original/036", "bytes": 4117847}
+{"chave": "recodificada/036", "bytes": 3892132}
+{"chave": "cinza/036", "bytes": 3797405}
+{"chave": "mediana/036", "bytes": 3024219}
+{"chave": "clahe/036", "bytes": 4931885}
+{"chave": "inclinacao/036", "bytes": 3600337, "angulo": 0.5}
+{"chave": "adaptativa/036", "bytes": 4069533}
+{"chave": "otsu/036", "bytes": 3163680}
+{"chave": "completo/036", "bytes": 3296254, "angulo": 0.5}
+{"chave": "original/037", "bytes": 3981098}
+{"chave": "recodificada/037", "bytes": 3754613}
+{"chave": "cinza/037", "bytes": 3652627}
+{"chave": "mediana/037", "bytes": 2896061}
+{"chave": "clahe/037", "bytes": 4660218}
+{"chave": "inclinacao/037", "bytes": 3484911, "angulo": -0.5}
+{"chave": "adaptativa/037", "bytes": 3500514}
+{"chave": "otsu/037", "bytes": 3031355}
+{"chave": "completo/037", "bytes": 2998597, "angulo": -0.5}
+{"chave": "original/038", "bytes": 4296601}
+{"chave": "recodificada/038", "bytes": 4053449}
+{"chave": "cinza/038", "bytes": 3948852}
+{"chave": "mediana/038", "bytes": 3144094}
+{"chave": "clahe/038", "bytes": 5122818}
+{"chave": "inclinacao/038", "bytes": 3750182, "angulo": -0.5}
+{"chave": "adaptativa/038", "bytes": 4546644}
+{"chave": "otsu/038", "bytes": 3401940}
+{"chave": "completo/038", "bytes": 3718437, "angulo": -0.5}
+{"chave": "original/039", "bytes": 3990924}
+{"chave": "recodificada/039", "bytes": 3770084}
+{"chave": "cinza/039", "bytes": 3672235}
+{"chave": "mediana/039", "bytes": 2913917}
+{"chave": "clahe/039", "bytes": 4737396}
+{"chave": "inclinacao/039", "bytes": 3770084, "angulo": 0.0}
+{"chave": "adaptativa/039", "bytes": 3658345}
+{"chave": "otsu/039", "bytes": 3179155}
+{"chave": "completo/039", "bytes": 2972565, "angulo": 0.0}
+{"chave": "original/040", "bytes": 4187458}
+{"chave": "recodificada/040", "bytes": 3951464}
+{"chave": "cinza/040", "bytes": 3847770}
+{"chave": "mediana/040", "bytes": 3045599}
+{"chave": "clahe/040", "bytes": 5013432}
+{"chave": "inclinacao/040", "bytes": 3651964, "angulo": 0.5}
+{"chave": "adaptativa/040", "bytes": 4313710}
+{"chave": "otsu/040", "bytes": 2819111}
+{"chave": "completo/040", "bytes": 3446331, "angulo": 0.5}
+{"chave": "original/041", "bytes": 4212893}
+{"chave": "recodificada/041", "bytes": 3978721}
+{"chave": "cinza/041", "bytes": 3877169}
+{"chave": "mediana/041", "bytes": 3056174}
+{"chave": "clahe/041", "bytes": 4967078}
+{"chave": "inclinacao/041", "bytes": 3677081, "angulo": -0.5}
+{"chave": "adaptativa/041", "bytes": 4208407}
+{"chave": "otsu/041", "bytes": 3189601}
+{"chave": "completo/041", "bytes": 3277389, "angulo": -0.5}
+{"chave": "original/042", "bytes": 4070914}
+{"chave": "recodificada/042", "bytes": 3839445}
+{"chave": "cinza/042", "bytes": 3734279}
+{"chave": "mediana/042", "bytes": 2962089}
+{"chave": "clahe/042", "bytes": 4783925}
+{"chave": "inclinacao/042", "bytes": 3839445, "angulo": 0.0}
+{"chave": "adaptativa/042", "bytes": 3736696}
+{"chave": "otsu/042", "bytes": 2797676}
+{"chave": "completo/042", "bytes": 3110076, "angulo": 0.0}
+{"chave": "original/043", "bytes": 4111347}
+{"chave": "recodificada/043", "bytes": 3882184}
+{"chave": "cinza/043", "bytes": 3783508}
+{"chave": "mediana/043", "bytes": 3005208}
+{"chave": "clahe/043", "bytes": 4827844}
+{"chave": "inclinacao/043", "bytes": 3588133, "angulo": -1.0}
+{"chave": "adaptativa/043", "bytes": 3769795}
+{"chave": "otsu/043", "bytes": 3060023}
+{"chave": "completo/043", "bytes": 3291969, "angulo": -1.0}
+{"chave": "original/049", "bytes": 3782820}
+{"chave": "recodificada/049", "bytes": 3569431}
+{"chave": "cinza/049", "bytes": 3460220}
+{"chave": "mediana/049", "bytes": 2699088}
+{"chave": "clahe/049", "bytes": 4420618}
+{"chave": "inclinacao/049", "bytes": 3569431, "angulo": 0.0}
+{"chave": "adaptativa/049", "bytes": 2988443}
+{"chave": "otsu/049", "bytes": 2407155}
+{"chave": "completo/049", "bytes": 2347238, "angulo": 0.0}
+{"chave": "original/050", "bytes": 3920002}
+{"chave": "recodificada/050", "bytes": 3695725}
+{"chave": "cinza/050", "bytes": 3582761}
+{"chave": "mediana/050", "bytes": 2852079}
+{"chave": "clahe/050", "bytes": 4543948}
+{"chave": "inclinacao/050", "bytes": 3695725, "angulo": 0.0}
+{"chave": "adaptativa/050", "bytes": 3695806}
+{"chave": "otsu/050", "bytes": 2663807}
+{"chave": "completo/050", "bytes": 2872834, "angulo": 0.0}
+{"chave": "original/051", "bytes": 3816429}
+{"chave": "recodificada/051", "bytes": 3599358}
+{"chave": "cinza/051", "bytes": 3490368}
+{"chave": "mediana/051", "bytes": 2760794}
+{"chave": "clahe/051", "bytes": 4447207}
+{"chave": "inclinacao/051", "bytes": 3599358, "angulo": 0.0}
+{"chave": "adaptativa/051", "bytes": 3239099}
+{"chave": "otsu/051", "bytes": 2588585}
+{"chave": "completo/051", "bytes": 2563664, "angulo": 0.0}
+{"chave": "original/052", "bytes": 4067657}
+{"chave": "recodificada/052", "bytes": 3837822}
+{"chave": "cinza/052", "bytes": 3734119}
+{"chave": "mediana/052", "bytes": 2968328}
+{"chave": "clahe/052", "bytes": 4807361}
+{"chave": "inclinacao/052", "bytes": 3544940, "angulo": -1.0}
+{"chave": "adaptativa/052", "bytes": 3950870}
+{"chave": "otsu/052", "bytes": 3136050}
+{"chave": "completo/052", "bytes": 3201115, "angulo": -1.0}
+{"chave": "original/053", "bytes": 4007553}
+{"chave": "recodificada/053", "bytes": 3781464}
+{"chave": "cinza/053", "bytes": 3673751}
+{"chave": "mediana/053", "bytes": 2895726}
+{"chave": "clahe/053", "bytes": 4707454}
+{"chave": "inclinacao/053", "bytes": 3502530, "angulo": -0.5}
+{"chave": "adaptativa/053", "bytes": 3874941}
+{"chave": "otsu/053", "bytes": 2641996}
+{"chave": "completo/053", "bytes": 3027290, "angulo": -0.5}
+{"chave": "original/054", "bytes": 3952103}
+{"chave": "recodificada/054", "bytes": 3732077}
+{"chave": "cinza/054", "bytes": 3636249}
+{"chave": "mediana/054", "bytes": 2855182}
+{"chave": "clahe/054", "bytes": 4677980}
+{"chave": "inclinacao/054", "bytes": 3447361, "angulo": -1.0}
+{"chave": "adaptativa/054", "bytes": 3605427}
+{"chave": "otsu/054", "bytes": 2577405}
+{"chave": "completo/054", "bytes": 2839001, "angulo": -1.0}
+{"chave": "original/055", "bytes": 4392326}
+{"chave": "recodificada/055", "bytes": 4142515}
+{"chave": "cinza/055", "bytes": 4037092}
+{"chave": "mediana/055", "bytes": 3216944}
+{"chave": "clahe/055", "bytes": 5243529}
+{"chave": "inclinacao/055", "bytes": 4142515, "angulo": 0.0}
+{"chave": "adaptativa/055", "bytes": 4745437}
+{"chave": "otsu/055", "bytes": 3526396}
+{"chave": "completo/055", "bytes": 3588753, "angulo": 0.0}
+{"chave": "original/056", "bytes": 3878568}
+{"chave": "recodificada/056", "bytes": 3658830}
+{"chave": "cinza/056", "bytes": 3551627}
+{"chave": "mediana/056", "bytes": 2795693}
+{"chave": "clahe/056", "bytes": 4559388}
+{"chave": "inclinacao/056", "bytes": 3658830, "angulo": 0.0}
+{"chave": "adaptativa/056", "bytes": 3356326}
+{"chave": "otsu/056", "bytes": 2758898}
+{"chave": "completo/056", "bytes": 2728954, "angulo": 0.0}
+{"chave": "original/057", "bytes": 4017217}
+{"chave": "recodificada/057", "bytes": 3793535}
+{"chave": "cinza/057", "bytes": 3693569}
+{"chave": "mediana/057", "bytes": 2934674}
+{"chave": "clahe/057", "bytes": 4707419}
+{"chave": "inclinacao/057", "bytes": 3522040, "angulo": 0.5}
+{"chave": "adaptativa/057", "bytes": 3839478}
+{"chave": "otsu/057", "bytes": 3209776}
+{"chave": "completo/057", "bytes": 3237152, "angulo": 0.5}
+{"chave": "original/058", "bytes": 3946525}
+{"chave": "recodificada/058", "bytes": 3722991}
+{"chave": "cinza/058", "bytes": 3615950}
+{"chave": "mediana/058", "bytes": 2853411}
+{"chave": "clahe/058", "bytes": 4645518}
+{"chave": "inclinacao/058", "bytes": 3430259, "angulo": 1.5}
+{"chave": "adaptativa/058", "bytes": 3623268}
+{"chave": "otsu/058", "bytes": 3007352}
+{"chave": "completo/058", "bytes": 2995463, "angulo": 1.5}
+{"chave": "original/059", "bytes": 4417705}
+{"chave": "recodificada/059", "bytes": 4164845}
+{"chave": "cinza/059", "bytes": 4059451}
+{"chave": "mediana/059", "bytes": 3227443}
+{"chave": "clahe/059", "bytes": 5230624}
+{"chave": "inclinacao/059", "bytes": 3849221, "angulo": -1.0}
+{"chave": "adaptativa/059", "bytes": 4748466}
+{"chave": "otsu/059", "bytes": 3481504}
+{"chave": "completo/059", "bytes": 3861105, "angulo": -1.0}
+{"chave": "original/060", "bytes": 4095247}
+{"chave": "recodificada/060", "bytes": 3862045}
+{"chave": "cinza/060", "bytes": 3758032}
+{"chave": "mediana/060", "bytes": 2986142}
+{"chave": "clahe/060", "bytes": 4818126}
+{"chave": "inclinacao/060", "bytes": 3586384, "angulo": -0.5}
+{"chave": "adaptativa/060", "bytes": 3786360}
+{"chave": "otsu/060", "bytes": 3254337}
+{"chave": "completo/060", "bytes": 3117532, "angulo": -0.5}
+{"chave": "original/061", "bytes": 3875006}
+{"chave": "recodificada/061", "bytes": 3654972}
+{"chave": "cinza/061", "bytes": 3550792}
+{"chave": "mediana/061", "bytes": 2813435}
+{"chave": "clahe/061", "bytes": 4557994}
+{"chave": "inclinacao/061", "bytes": 3388215, "angulo": -0.5}
+{"chave": "adaptativa/061", "bytes": 3251961}
+{"chave": "otsu/061", "bytes": 2596556}
+{"chave": "completo/061", "bytes": 2766394, "angulo": -0.5}
+{"chave": "original/062", "bytes": 4128090}
+{"chave": "recodificada/062", "bytes": 3892854}
+{"chave": "cinza/062", "bytes": 3784798}
+{"chave": "mediana/062", "bytes": 3009547}
+{"chave": "clahe/062", "bytes": 4872015}
+{"chave": "inclinacao/062", "bytes": 3597337, "angulo": -1.0}
+{"chave": "adaptativa/062", "bytes": 4143133}
+{"chave": "otsu/062", "bytes": 2972564}
+{"chave": "completo/062", "bytes": 3251538, "angulo": -1.0}
+{"chave": "original/063", "bytes": 3525003}
+{"chave": "recodificada/063", "bytes": 3330592}
+{"chave": "cinza/063", "bytes": 3214011}
+{"chave": "mediana/063", "bytes": 2588245}
+{"chave": "clahe/063", "bytes": 4100121}
+{"chave": "inclinacao/063", "bytes": 3106183, "angulo": -0.5}
+{"chave": "adaptativa/063", "bytes": 2866347}
+{"chave": "otsu/063", "bytes": 2368574}
+{"chave": "completo/063", "bytes": 2488700, "angulo": -0.5}
+{"chave": "original/064", "bytes": 3923881}
+{"chave": "recodificada/064", "bytes": 3701097}
+{"chave": "cinza/064", "bytes": 3588338}
+{"chave": "mediana/064", "bytes": 2845573}
+{"chave": "clahe/064", "bytes": 4606073}
+{"chave": "inclinacao/064", "bytes": 3414192, "angulo": -1.0}
+{"chave": "adaptativa/064", "bytes": 3458723}
+{"chave": "otsu/064", "bytes": 2695009}
+{"chave": "completo/064", "bytes": 2830063, "angulo": -1.0}
+{"chave": "original/065", "bytes": 3953878}
+{"chave": "recodificada/065", "bytes": 3728490}
+{"chave": "cinza/065", "bytes": 3615747}
+{"chave": "mediana/065", "bytes": 2869151}
+{"chave": "clahe/065", "bytes": 4668137}
+{"chave": "inclinacao/065", "bytes": 3439170, "angulo": -1.0}
+{"chave": "adaptativa/065", "bytes": 3693832}
+{"chave": "otsu/065", "bytes": 2798115}
+{"chave": "completo/065", "bytes": 2950301, "angulo": -1.0}
+{"chave": "original/066", "bytes": 4191584}
+{"chave": "recodificada/066", "bytes": 3953052}
+{"chave": "cinza/066", "bytes": 3837929}
+{"chave": "mediana/066", "bytes": 3031801}
+{"chave": "clahe/066", "bytes": 4925104}
+{"chave": "inclinacao/066", "bytes": 3647156, "angulo": -1.0}
+{"chave": "adaptativa/066", "bytes": 4186727}
+{"chave": "otsu/066", "bytes": 2883445}
+{"chave": "completo/066", "bytes": 3285672, "angulo": -1.0}
+{"chave": "original/067", "bytes": 4060374}
+{"chave": "recodificada/067", "bytes": 3829823}
+{"chave": "cinza/067", "bytes": 3717200}
+{"chave": "mediana/067", "bytes": 2946113}
+{"chave": "clahe/067", "bytes": 4792127}
+{"chave": "inclinacao/067", "bytes": 3536711, "angulo": -1.0}
+{"chave": "adaptativa/067", "bytes": 3929198}
+{"chave": "otsu/067", "bytes": 2765925}
+{"chave": "completo/067", "bytes": 3097486, "angulo": -1.0}
+{"chave": "original/068", "bytes": 3826016}
+{"chave": "recodificada/068", "bytes": 3607783}
+{"chave": "cinza/068", "bytes": 3491963}
+{"chave": "mediana/068", "bytes": 2819965}
+{"chave": "clahe/068", "bytes": 4432329}
+{"chave": "inclinacao/068", "bytes": 3335145, "angulo": -1.5}
+{"chave": "adaptativa/068", "bytes": 3546178}
+{"chave": "otsu/068", "bytes": 2658677}
+{"chave": "completo/068", "bytes": 2920960, "angulo": -1.5}
+{"chave": "original/069", "bytes": 3702699}
+{"chave": "recodificada/069", "bytes": 3501256}
+{"chave": "cinza/069", "bytes": 3398655}
+{"chave": "mediana/069", "bytes": 2670558}
+{"chave": "clahe/069", "bytes": 4386537}
+{"chave": "inclinacao/069", "bytes": 3228294, "angulo": -1.0}
+{"chave": "adaptativa/069", "bytes": 2990713}
+{"chave": "otsu/069", "bytes": 2417071}
+{"chave": "completo/069", "bytes": 2520077, "angulo": -1.0}
+{"chave": "original/070", "bytes": 4115692}
+{"chave": "recodificada/070", "bytes": 3881991}
+{"chave": "cinza/070", "bytes": 3775646}
+{"chave": "mediana/070", "bytes": 2989038}
+{"chave": "clahe/070", "bytes": 4909461}
+{"chave": "inclinacao/070", "bytes": 3579562, "angulo": -1.0}
+{"chave": "adaptativa/070", "bytes": 4070681}
+{"chave": "otsu/070", "bytes": 3215358}
+{"chave": "completo/070", "bytes": 3221955, "angulo": -1.0}
+{"chave": "original/071", "bytes": 3845493}
+{"chave": "recodificada/071", "bytes": 3626821}
+{"chave": "cinza/071", "bytes": 3513154}
+{"chave": "mediana/071", "bytes": 2841326}
+{"chave": "clahe/071", "bytes": 4483698}
+{"chave": "inclinacao/071", "bytes": 3381294, "angulo": -0.5}
+{"chave": "adaptativa/071", "bytes": 3456149}
+{"chave": "otsu/071", "bytes": 2903069}
+{"chave": "completo/071", "bytes": 3055822, "angulo": -0.5}
+{"chave": "original/072", "bytes": 3950439}
+{"chave": "recodificada/072", "bytes": 3729358}
+{"chave": "cinza/072", "bytes": 3624679}
+{"chave": "mediana/072", "bytes": 2884449}
+{"chave": "clahe/072", "bytes": 4714095}
+{"chave": "inclinacao/072", "bytes": 3448500, "angulo": 0.5}
+{"chave": "adaptativa/072", "bytes": 4041633}
+{"chave": "otsu/072", "bytes": 3179783}
+{"chave": "completo/072", "bytes": 3278810, "angulo": 0.5}
+{"chave": "original/073", "bytes": 3476669}
+{"chave": "recodificada/073", "bytes": 3285516}
+{"chave": "cinza/073", "bytes": 3173112}
+{"chave": "mediana/073", "bytes": 2503824}
+{"chave": "clahe/073", "bytes": 4105963}
+{"chave": "inclinacao/073", "bytes": 3023670, "angulo": -1.5}
+{"chave": "adaptativa/073", "bytes": 2874348}
+{"chave": "otsu/073", "bytes": 2197870}
+{"chave": "completo/073", "bytes": 2425542, "angulo": -1.5}
+{"chave": "original/074", "bytes": 3793418}
+{"chave": "recodificada/074", "bytes": 3581815}
+{"chave": "cinza/074", "bytes": 3474970}
+{"chave": "mediana/074", "bytes": 2735921}
+{"chave": "clahe/074", "bytes": 4522296}
+{"chave": "inclinacao/074", "bytes": 3310489, "angulo": -1.0}
+{"chave": "adaptativa/074", "bytes": 3335945}
+{"chave": "otsu/074", "bytes": 2632727}
+{"chave": "completo/074", "bytes": 2756668, "angulo": -1.0}
+{"chave": "original/075", "bytes": 3715614}
+{"chave": "recodificada/075", "bytes": 3508073}
+{"chave": "cinza/075", "bytes": 3400406}
+{"chave": "mediana/075", "bytes": 2686974}
+{"chave": "clahe/075", "bytes": 4398191}
+{"chave": "inclinacao/075", "bytes": 3508073, "angulo": 0.0}
+{"chave": "adaptativa/075", "bytes": 3148152}
+{"chave": "otsu/075", "bytes": 2534667}
+{"chave": "completo/075", "bytes": 2538944, "angulo": 0.0}
+{"chave": "original/076", "bytes": 3814767}
+{"chave": "recodificada/076", "bytes": 3599039}
+{"chave": "cinza/076", "bytes": 3490702}
+{"chave": "mediana/076", "bytes": 2736691}
+{"chave": "clahe/076", "bytes": 4508475}
+{"chave": "inclinacao/076", "bytes": 3300619, "angulo": -1.5}
+{"chave": "adaptativa/076", "bytes": 3371305}
+{"chave": "otsu/076", "bytes": 2646496}
+{"chave": "completo/076", "bytes": 2709027, "angulo": -1.5}
+{"chave": "original/077", "bytes": 3548404}
+{"chave": "recodificada/077", "bytes": 3351051}
+{"chave": "cinza/077", "bytes": 3241939}
+{"chave": "mediana/077", "bytes": 2550632}
+{"chave": "clahe/077", "bytes": 4200370}
+{"chave": "inclinacao/077", "bytes": 3096803, "angulo": 1.0}
+{"chave": "adaptativa/077", "bytes": 2883175}
+{"chave": "otsu/077", "bytes": 2332469}
+{"chave": "completo/077", "bytes": 2499593, "angulo": 1.0}
+{"chave": "original/078", "bytes": 3627820}
+{"chave": "recodificada/078", "bytes": 3424625}
+{"chave": "cinza/078", "bytes": 3322845}
+{"chave": "mediana/078", "bytes": 2636446}
+{"chave": "clahe/078", "bytes": 4257989}
+{"chave": "inclinacao/078", "bytes": 3144530, "angulo": -3.0}
+{"chave": "adaptativa/078", "bytes": 3064726}
+{"chave": "otsu/078", "bytes": 2567887}
+{"chave": "completo/078", "bytes": 2540065, "angulo": -3.0}
+{"chave": "original/079", "bytes": 3571270}
+{"chave": "recodificada/079", "bytes": 3370194}
+{"chave": "cinza/079", "bytes": 3263008}
+{"chave": "mediana/079", "bytes": 2594055}
+{"chave": "clahe/079", "bytes": 4214226}
+{"chave": "inclinacao/079", "bytes": 3111491, "angulo": -1.5}
+{"chave": "adaptativa/079", "bytes": 2989239}
+{"chave": "otsu/079", "bytes": 2497416}
+{"chave": "completo/079", "bytes": 2507169, "angulo": -1.5}
+{"chave": "original/080", "bytes": 3700560}
+{"chave": "recodificada/080", "bytes": 3497949}
+{"chave": "cinza/080", "bytes": 3399445}
+{"chave": "mediana/080", "bytes": 2687142}
+{"chave": "clahe/080", "bytes": 4367159}
+{"chave": "inclinacao/080", "bytes": 3497949, "angulo": 0.0}
+{"chave": "adaptativa/080", "bytes": 3227067}
+{"chave": "otsu/080", "bytes": 2558617}
+{"chave": "completo/080", "bytes": 2505248, "angulo": 0.0}
+{"chave": "original/081", "bytes": 3638497}
+{"chave": "recodificada/081", "bytes": 3435213}
+{"chave": "cinza/081", "bytes": 3326697}
+{"chave": "mediana/081", "bytes": 2645985}
+{"chave": "clahe/081", "bytes": 4255788}
+{"chave": "inclinacao/081", "bytes": 3159374, "angulo": -2.0}
+{"chave": "adaptativa/081", "bytes": 3014729}
+{"chave": "otsu/081", "bytes": 2433504}
+{"chave": "completo/081", "bytes": 2573494, "angulo": -2.0}
+{"chave": "original/082", "bytes": 3863363}
+{"chave": "recodificada/082", "bytes": 3647128}
+{"chave": "cinza/082", "bytes": 3540317}
+{"chave": "mediana/082", "bytes": 2786802}
+{"chave": "clahe/082", "bytes": 4551202}
+{"chave": "inclinacao/082", "bytes": 3366312, "angulo": -1.0}
+{"chave": "adaptativa/082", "bytes": 3657975}
+{"chave": "otsu/082", "bytes": 2716382}
+{"chave": "completo/082", "bytes": 2948743, "angulo": -1.0}
+{"chave": "original/083", "bytes": 3754263}
+{"chave": "recodificada/083", "bytes": 3543691}
+{"chave": "cinza/083", "bytes": 3438138}
+{"chave": "mediana/083", "bytes": 2696212}
+{"chave": "clahe/083", "bytes": 4424517}
+{"chave": "inclinacao/083", "bytes": 3270288, "angulo": -1.0}
+{"chave": "adaptativa/083", "bytes": 3245922}
+{"chave": "otsu/083", "bytes": 2630330}
+{"chave": "completo/083", "bytes": 2668336, "angulo": -1.0}
+{"chave": "original/084", "bytes": 3731568}
+{"chave": "recodificada/084", "bytes": 3521533}
+{"chave": "cinza/084", "bytes": 3409254}
+{"chave": "mediana/084", "bytes": 2726179}
+{"chave": "clahe/084", "bytes": 4394686}
+{"chave": "inclinacao/084", "bytes": 3273148, "angulo": -0.5}
+{"chave": "adaptativa/084", "bytes": 3415110}
+{"chave": "otsu/084", "bytes": 2578231}
+{"chave": "completo/084", "bytes": 2721881, "angulo": -0.5}
+{"chave": "original/085", "bytes": 3878002}
+{"chave": "recodificada/085", "bytes": 3660344}
+{"chave": "cinza/085", "bytes": 3558392}
+{"chave": "mediana/085", "bytes": 2787180}
+{"chave": "clahe/085", "bytes": 4604301}
+{"chave": "inclinacao/085", "bytes": 3368600, "angulo": -1.0}
+{"chave": "adaptativa/085", "bytes": 3579733}
+{"chave": "otsu/085", "bytes": 2663376}
+{"chave": "completo/085", "bytes": 2826221, "angulo": -1.0}
+{"chave": "original/086", "bytes": 3920406}
+{"chave": "recodificada/086", "bytes": 3701333}
+{"chave": "cinza/086", "bytes": 3597488}
+{"chave": "mediana/086", "bytes": 2839521}
+{"chave": "clahe/086", "bytes": 4666815}
+{"chave": "inclinacao/086", "bytes": 3400608, "angulo": -1.5}
+{"chave": "adaptativa/086", "bytes": 3775547}
+{"chave": "otsu/086", "bytes": 3020813}
+{"chave": "completo/086", "bytes": 2955499, "angulo": -1.5}
+{"chave": "original/087", "bytes": 3868262}
+{"chave": "recodificada/087", "bytes": 3652592}
+{"chave": "cinza/087", "bytes": 3546859}
+{"chave": "mediana/087", "bytes": 2795902}
+{"chave": "clahe/087", "bytes": 4615338}
+{"chave": "inclinacao/087", "bytes": 3377352, "angulo": -0.5}
+{"chave": "adaptativa/087", "bytes": 3509281}
+{"chave": "otsu/087", "bytes": 2795900}
+{"chave": "completo/087", "bytes": 2738741, "angulo": -0.5}
+{"chave": "original/088", "bytes": 3941006}
+{"chave": "recodificada/088", "bytes": 3720699}
+{"chave": "cinza/088", "bytes": 3615499}
+{"chave": "mediana/088", "bytes": 2871243}
+{"chave": "clahe/088", "bytes": 4653433}
+{"chave": "inclinacao/088", "bytes": 3424019, "angulo": -1.5}
+{"chave": "adaptativa/088", "bytes": 3891064}
+{"chave": "otsu/088", "bytes": 2820668}
+{"chave": "completo/088", "bytes": 3036954, "angulo": -1.5}
+{"chave": "original/089", "bytes": 3894054}
+{"chave": "recodificada/089", "bytes": 3675429}
+{"chave": "cinza/089", "bytes": 3568654}
+{"chave": "mediana/089", "bytes": 2805022}
+{"chave": "clahe/089", "bytes": 4670376}
+{"chave": "inclinacao/089", "bytes": 3352870, "angulo": -3.0}
+{"chave": "adaptativa/089", "bytes": 3810132}
+{"chave": "otsu/089", "bytes": 2597747}
+{"chave": "completo/089", "bytes": 2751328, "angulo": -3.0}
+{"chave": "original/090", "bytes": 3776691}
+{"chave": "recodificada/090", "bytes": 3566022}
+{"chave": "cinza/090", "bytes": 3462523}
+{"chave": "mediana/090", "bytes": 2702579}
+{"chave": "clahe/090", "bytes": 4465598}
+{"chave": "inclinacao/090", "bytes": 3272250, "angulo": -2.0}
+{"chave": "adaptativa/090", "bytes": 3229889}
+{"chave": "otsu/090", "bytes": 2811887}
+{"chave": "completo/090", "bytes": 2604845, "angulo": -2.0}
+{"chave": "original/091", "bytes": 5581766}
+{"chave": "recodificada/091", "bytes": 5257350}
+{"chave": "cinza/091", "bytes": 5153393}
+{"chave": "mediana/091", "bytes": 4369074}
+{"chave": "clahe/091", "bytes": 6836306}
+{"chave": "inclinacao/091", "bytes": 4833448, "angulo": -1.5}
+{"chave": "adaptativa/091", "bytes": 9008160}
+{"chave": "otsu/091", "bytes": 6566578}
+{"chave": "completo/091", "bytes": 7546485, "angulo": -1.5}
+{"chave": "original/092", "bytes": 5151239}
+{"chave": "recodificada/092", "bytes": 4851330}
+{"chave": "cinza/092", "bytes": 4753033}
+{"chave": "mediana/092", "bytes": 4036207}
+{"chave": "clahe/092", "bytes": 6337900}
+{"chave": "inclinacao/092", "bytes": 4483054, "angulo": -0.5}
+{"chave": "adaptativa/092", "bytes": 7860600}
+{"chave": "otsu/092", "bytes": 6182016}
+{"chave": "completo/092", "bytes": 6981846, "angulo": -0.5}
+{"chave": "original/093", "bytes": 5565827}
+{"chave": "recodificada/093", "bytes": 5239481}
+{"chave": "cinza/093", "bytes": 5135960}
+{"chave": "mediana/093", "bytes": 4419218}
+{"chave": "clahe/093", "bytes": 6697213}
+{"chave": "inclinacao/093", "bytes": 4861067, "angulo": -0.5}
+{"chave": "adaptativa/093", "bytes": 8189276}
+{"chave": "otsu/093", "bytes": 6951990}
+{"chave": "completo/093", "bytes": 7481282, "angulo": -0.5}
+{"chave": "original/094", "bytes": 5846231}
+{"chave": "recodificada/094", "bytes": 5500580}
+{"chave": "cinza/094", "bytes": 5404383}
+{"chave": "mediana/094", "bytes": 4674609}
+{"chave": "clahe/094", "bytes": 7019066}
+{"chave": "inclinacao/094", "bytes": 5098848, "angulo": -1.0}
+{"chave": "adaptativa/094", "bytes": 8699446}
+{"chave": "otsu/094", "bytes": 7497635}
+{"chave": "completo/094", "bytes": 8069113, "angulo": -1.0}
+{"chave": "original/095", "bytes": 5377661}
+{"chave": "recodificada/095", "bytes": 5068515}
+{"chave": "cinza/095", "bytes": 4967814}
+{"chave": "mediana/095", "bytes": 4235942}
+{"chave": "clahe/095", "bytes": 6532919}
+{"chave": "inclinacao/095", "bytes": 4679972, "angulo": -1.0}
+{"chave": "adaptativa/095", "bytes": 8102868}
+{"chave": "otsu/095", "bytes": 6870583}
+{"chave": "completo/095", "bytes": 7303082, "angulo": -1.0}
+{"chave": "original/096", "bytes": 5470864}
+{"chave": "recodificada/096", "bytes": 5150571}
+{"chave": "cinza/096", "bytes": 5049609}
+{"chave": "mediana/096", "bytes": 4290935}
+{"chave": "clahe/096", "bytes": 6605605}
+{"chave": "inclinacao/096", "bytes": 4746517, "angulo": -1.5}
+{"chave": "adaptativa/096", "bytes": 8060196}
+{"chave": "otsu/096", "bytes": 6512013}
+{"chave": "completo/096", "bytes": 7139138, "angulo": -1.5}
+{"chave": "original/097", "bytes": 5552714}
+{"chave": "recodificada/097", "bytes": 5225050}
+{"chave": "cinza/097", "bytes": 5113169}
+{"chave": "mediana/097", "bytes": 4372627}
+{"chave": "clahe/097", "bytes": 6673955}
+{"chave": "inclinacao/097", "bytes": 5225050, "angulo": 0.0}
+{"chave": "adaptativa/097", "bytes": 8452165}
+{"chave": "otsu/097", "bytes": 6697111}
+{"chave": "completo/097", "bytes": 7492847, "angulo": 0.0}
+{"chave": "original/098", "bytes": 5354550}
+{"chave": "recodificada/098", "bytes": 5045588}
+{"chave": "cinza/098", "bytes": 4948464}
+{"chave": "mediana/098", "bytes": 4189380}
+{"chave": "clahe/098", "bytes": 6537036}
+{"chave": "inclinacao/098", "bytes": 4645031, "angulo": -1.5}
+{"chave": "adaptativa/098", "bytes": 8242544}
+{"chave": "otsu/098", "bytes": 6161731}
+{"chave": "completo/098", "bytes": 7131444, "angulo": -1.5}
+{"chave": "original/099", "bytes": 5168989}
+{"chave": "recodificada/099", "bytes": 4869260}
+{"chave": "cinza/099", "bytes": 4762717}
+{"chave": "mediana/099", "bytes": 4031644}
+{"chave": "clahe/099", "bytes": 6271929}
+{"chave": "inclinacao/099", "bytes": 4495737, "angulo": -1.0}
+{"chave": "adaptativa/099", "bytes": 7840576}
+{"chave": "otsu/099", "bytes": 5271117}
+{"chave": "completo/099", "bytes": 6783312, "angulo": -1.0}
+{"chave": "original/100", "bytes": 5693349}
+{"chave": "recodificada/100", "bytes": 5356946}
+{"chave": "cinza/100", "bytes": 5260538}
+{"chave": "mediana/100", "bytes": 4519941}
+{"chave": "clahe/100", "bytes": 6824517}
+{"chave": "inclinacao/100", "bytes": 4929505, "angulo": -3.0}
+{"chave": "adaptativa/100", "bytes": 8348891}
+{"chave": "otsu/100", "bytes": 7342946}
+{"chave": "completo/100", "bytes": 7685528, "angulo": -3.0}
+{"chave": "original/101", "bytes": 5425749}
+{"chave": "recodificada/101", "bytes": 5122647}
+{"chave": "cinza/101", "bytes": 5019620}
+{"chave": "mediana/101", "bytes": 4263469}
+{"chave": "clahe/101", "bytes": 6615342}
+{"chave": "inclinacao/101", "bytes": 4715533, "angulo": -1.0}
+{"chave": "adaptativa/101", "bytes": 8671307}
+{"chave": "otsu/101", "bytes": 6417219}
+{"chave": "completo/101", "bytes": 7464472, "angulo": -1.0}
+{"chave": "original/102", "bytes": 5642233}
+{"chave": "recodificada/102", "bytes": 5303922}
+{"chave": "cinza/102", "bytes": 5189733}
+{"chave": "mediana/102", "bytes": 4373626}
+{"chave": "clahe/102", "bytes": 6748243}
+{"chave": "inclinacao/102", "bytes": 4896345, "angulo": -2.0}
+{"chave": "adaptativa/102", "bytes": 8065590}
+{"chave": "otsu/102", "bytes": 7009499}
+{"chave": "completo/102", "bytes": 7463328, "angulo": -2.0}
+{"chave": "original/103", "bytes": 5602660}
+{"chave": "recodificada/103", "bytes": 5274777}
+{"chave": "cinza/103", "bytes": 5169881}
+{"chave": "mediana/103", "bytes": 4452249}
+{"chave": "clahe/103", "bytes": 6746799}
+{"chave": "inclinacao/103", "bytes": 4904647, "angulo": 0.5}
+{"chave": "adaptativa/103", "bytes": 8322751}
+{"chave": "otsu/103", "bytes": 6941759}
+{"chave": "completo/103", "bytes": 7733802, "angulo": 0.5}
+{"chave": "original/104", "bytes": 5833041}
+{"chave": "recodificada/104", "bytes": 5490395}
+{"chave": "cinza/104", "bytes": 5379890}
+{"chave": "mediana/104", "bytes": 4585960}
+{"chave": "clahe/104", "bytes": 6995493}
+{"chave": "inclinacao/104", "bytes": 5101965, "angulo": 0.5}
+{"chave": "adaptativa/104", "bytes": 8851246}
+{"chave": "otsu/104", "bytes": 7232044}
+{"chave": "completo/104", "bytes": 7974563, "angulo": 0.5}
+{"chave": "original/105", "bytes": 5393536}
+{"chave": "recodificada/105", "bytes": 5077833}
+{"chave": "cinza/105", "bytes": 4975076}
+{"chave": "mediana/105", "bytes": 4238591}
+{"chave": "clahe/105", "bytes": 6525213}
+{"chave": "inclinacao/105", "bytes": 4684828, "angulo": -1.5}
+{"chave": "adaptativa/105", "bytes": 8146553}
+{"chave": "otsu/105", "bytes": 6494122}
+{"chave": "completo/105", "bytes": 7430756, "angulo": -1.5}
+{"chave": "original/106", "bytes": 5315744}
+{"chave": "recodificada/106", "bytes": 5009086}
+{"chave": "cinza/106", "bytes": 4908483}
+{"chave": "mediana/106", "bytes": 4162974}
+{"chave": "clahe/106", "bytes": 6498004}
+{"chave": "inclinacao/106", "bytes": 5009086, "angulo": 0.0}
+{"chave": "adaptativa/106", "bytes": 8243988}
+{"chave": "otsu/106", "bytes": 6451579}
+{"chave": "completo/106", "bytes": 6887134, "angulo": 0.0}
+{"chave": "original/107", "bytes": 5489926}
+{"chave": "recodificada/107", "bytes": 5171938}
+{"chave": "cinza/107", "bytes": 5072991}
+{"chave": "mediana/107", "bytes": 4360509}
+{"chave": "clahe/107", "bytes": 6623014}
+{"chave": "inclinacao/107", "bytes": 4784235, "angulo": 1.5}
+{"chave": "adaptativa/107", "bytes": 8116823}
+{"chave": "otsu/107", "bytes": 6261218}
+{"chave": "completo/107", "bytes": 7426125, "angulo": 1.5}
+{"chave": "original/108", "bytes": 5841666}
+{"chave": "recodificada/108", "bytes": 5493250}
+{"chave": "cinza/108", "bytes": 5383431}
+{"chave": "mediana/108", "bytes": 4645196}
+{"chave": "clahe/108", "bytes": 6994651}
+{"chave": "inclinacao/108", "bytes": 5078029, "angulo": -2.0}
+{"chave": "adaptativa/108", "bytes": 8740488}
+{"chave": "otsu/108", "bytes": 6999835}
+{"chave": "completo/108", "bytes": 8025686, "angulo": -2.0}
+{"chave": "original/109", "bytes": 5787837}
+{"chave": "recodificada/109", "bytes": 5443569}
+{"chave": "cinza/109", "bytes": 5332532}
+{"chave": "mediana/109", "bytes": 4578064}
+{"chave": "clahe/109", "bytes": 7005789}
+{"chave": "inclinacao/109", "bytes": 5028636, "angulo": -1.0}
+{"chave": "adaptativa/109", "bytes": 9087923}
+{"chave": "otsu/109", "bytes": 7351441}
+{"chave": "completo/109", "bytes": 8098968, "angulo": -1.0}
+{"chave": "original/110", "bytes": 5481547}
+{"chave": "recodificada/110", "bytes": 5163424}
+{"chave": "cinza/110", "bytes": 5062234}
+{"chave": "mediana/110", "bytes": 4281414}
+{"chave": "clahe/110", "bytes": 6698375}
+{"chave": "inclinacao/110", "bytes": 4766102, "angulo": 1.0}
+{"chave": "adaptativa/110", "bytes": 8470271}
+{"chave": "otsu/110", "bytes": 6480778}
+{"chave": "completo/110", "bytes": 7435172, "angulo": 1.0}
+{"chave": "original/111", "bytes": 5499625}
+{"chave": "recodificada/111", "bytes": 5178673}
+{"chave": "cinza/111", "bytes": 5072690}
+{"chave": "mediana/111", "bytes": 4275010}
+{"chave": "clahe/111", "bytes": 6705680}
+{"chave": "inclinacao/111", "bytes": 4757331, "angulo": 2.0}
+{"chave": "adaptativa/111", "bytes": 8410899}
+{"chave": "otsu/111", "bytes": 6228461}
+{"chave": "completo/111", "bytes": 7128458, "angulo": 2.0}
+{"chave": "original/112", "bytes": 5538237}
+{"chave": "recodificada/112", "bytes": 5211514}
+{"chave": "cinza/112", "bytes": 5114209}
+{"chave": "mediana/112", "bytes": 4396892}
+{"chave": "clahe/112", "bytes": 6669717}
+{"chave": "inclinacao/112", "bytes": 5211514, "angulo": 0.0}
+{"chave": "adaptativa/112", "bytes": 8165056}
+{"chave": "otsu/112", "bytes": 6778848}
+{"chave": "completo/112", "bytes": 7265021, "angulo": 0.0}
+{"chave": "original/113", "bytes": 5846150}
+{"chave": "recodificada/113", "bytes": 5503009}
+{"chave": "cinza/113", "bytes": 5398732}
+{"chave": "mediana/113", "bytes": 4628515}
+{"chave": "clahe/113", "bytes": 7093385}
+{"chave": "inclinacao/113", "bytes": 5098457, "angulo": 1.0}
+{"chave": "adaptativa/113", "bytes": 9259413}
+{"chave": "otsu/113", "bytes": 7686214}
+{"chave": "completo/113", "bytes": 8256474, "angulo": 1.0}
+{"chave": "original/114", "bytes": 5472634}
+{"chave": "recodificada/114", "bytes": 5153913}
+{"chave": "cinza/114", "bytes": 5051333}
+{"chave": "mediana/114", "bytes": 4281052}
+{"chave": "clahe/114", "bytes": 6645193}
+{"chave": "inclinacao/114", "bytes": 5153913, "angulo": 0.0}
+{"chave": "adaptativa/114", "bytes": 8164507}
+{"chave": "otsu/114", "bytes": 6827065}
+{"chave": "completo/114", "bytes": 7060388, "angulo": 0.0}
+{"chave": "original/115", "bytes": 5703561}
+{"chave": "recodificada/115", "bytes": 5369559}
+{"chave": "cinza/115", "bytes": 5263588}
+{"chave": "mediana/115", "bytes": 4493463}
+{"chave": "clahe/115", "bytes": 6904258}
+{"chave": "inclinacao/115", "bytes": 4967323, "angulo": 1.0}
+{"chave": "adaptativa/115", "bytes": 8988123}
+{"chave": "otsu/115", "bytes": 7490568}
+{"chave": "completo/115", "bytes": 8010693, "angulo": 1.0}
+{"chave": "original/116", "bytes": 5169669}
+{"chave": "recodificada/116", "bytes": 4864410}
+{"chave": "cinza/116", "bytes": 4744585}
+{"chave": "mediana/116", "bytes": 4070295}
+{"chave": "clahe/116", "bytes": 6194099}
+{"chave": "inclinacao/116", "bytes": 4511303, "angulo": -1.0}
+{"chave": "adaptativa/116", "bytes": 7465136}
+{"chave": "otsu/116", "bytes": 6226439}
+{"chave": "completo/116", "bytes": 6837636, "angulo": -1.0}
+{"chave": "original/117", "bytes": 5287592}
+{"chave": "recodificada/117", "bytes": 4980777}
+{"chave": "cinza/117", "bytes": 4882291}
+{"chave": "mediana/117", "bytes": 4088897}
+{"chave": "clahe/117", "bytes": 6463041}
+{"chave": "inclinacao/117", "bytes": 4980777, "angulo": 0.0}
+{"chave": "adaptativa/117", "bytes": 8099002}
+{"chave": "otsu/117", "bytes": 5919440}
+{"chave": "completo/117", "bytes": 6389713, "angulo": 0.0}
+{"chave": "original/118", "bytes": 5644398}
+{"chave": "recodificada/118", "bytes": 5312461}
+{"chave": "cinza/118", "bytes": 5204767}
+{"chave": "mediana/118", "bytes": 4446714}
+{"chave": "clahe/118", "bytes": 6817033}
+{"chave": "inclinacao/118", "bytes": 4876610, "angulo": -3.5}
+{"chave": "adaptativa/118", "bytes": 8675590}
+{"chave": "otsu/118", "bytes": 7187206}
+{"chave": "completo/118", "bytes": 7518917, "angulo": -3.0}
+{"chave": "original/119", "bytes": 5504289}
+{"chave": "recodificada/119", "bytes": 5182070}
+{"chave": "cinza/119", "bytes": 5079158}
+{"chave": "mediana/119", "bytes": 4264801}
+{"chave": "clahe/119", "bytes": 6700256}
+{"chave": "inclinacao/119", "bytes": 5182070, "angulo": 0.0}
+{"chave": "adaptativa/119", "bytes": 8582871}
+{"chave": "otsu/119", "bytes": 6365775}
+{"chave": "completo/119", "bytes": 6566063, "angulo": 0.0}
+{"chave": "original/120", "bytes": 5673212}
+{"chave": "recodificada/120", "bytes": 5339333}
+{"chave": "cinza/120", "bytes": 5233504}
+{"chave": "mediana/120", "bytes": 4480559}
+{"chave": "clahe/120", "bytes": 6832154}
+{"chave": "inclinacao/120", "bytes": 4948779, "angulo": 0.5}
+{"chave": "adaptativa/120", "bytes": 8823144}
+{"chave": "otsu/120", "bytes": 6957448}
+{"chave": "completo/120", "bytes": 7895952, "angulo": 0.5}
+{"chave": "original/121", "bytes": 5215901}
+{"chave": "recodificada/121", "bytes": 4908149}
+{"chave": "cinza/121", "bytes": 4816435}
+{"chave": "mediana/121", "bytes": 4119996}
+{"chave": "clahe/121", "bytes": 6345959}
+{"chave": "inclinacao/121", "bytes": 4551075, "angulo": -0.5}
+{"chave": "adaptativa/121", "bytes": 7908970}
+{"chave": "otsu/121", "bytes": 5776209}
+{"chave": "completo/121", "bytes": 7088279, "angulo": -0.5}
+{"chave": "original/122", "bytes": 5299783}
+{"chave": "recodificada/122", "bytes": 4991892}
+{"chave": "cinza/122", "bytes": 4898439}
+{"chave": "mediana/122", "bytes": 4032181}
+{"chave": "clahe/122", "bytes": 6577137}
+{"chave": "inclinacao/122", "bytes": 4991892, "angulo": 0.0}
+{"chave": "adaptativa/122", "bytes": 8279800}
+{"chave": "otsu/122", "bytes": 6416307}
+{"chave": "completo/122", "bytes": 5621863, "angulo": 0.0}
+{"chave": "original/123", "bytes": 5028297}
+{"chave": "recodificada/123", "bytes": 4735295}
+{"chave": "cinza/123", "bytes": 4638542}
+{"chave": "mediana/123", "bytes": 3874550}
+{"chave": "clahe/123", "bytes": 6166227}
+{"chave": "inclinacao/123", "bytes": 4382847, "angulo": -1.0}
+{"chave": "adaptativa/123", "bytes": 7422934}
+{"chave": "otsu/123", "bytes": 5421115}
+{"chave": "completo/123", "bytes": 6232868, "angulo": -1.0}
+{"chave": "original/124", "bytes": 5341964}
+{"chave": "recodificada/124", "bytes": 5026156}
+{"chave": "cinza/124", "bytes": 4930280}
+{"chave": "mediana/124", "bytes": 4121682}
+{"chave": "clahe/124", "bytes": 6524214}
+{"chave": "inclinacao/124", "bytes": 4651253, "angulo": -1.0}
+{"chave": "adaptativa/124", "bytes": 8126918}
+{"chave": "otsu/124", "bytes": 5776311}
+{"chave": "completo/124", "bytes": 6533969, "angulo": -1.0}
+{"chave": "original/125", "bytes": 5546354}
+{"chave": "recodificada/125", "bytes": 5220907}
+{"chave": "cinza/125", "bytes": 5116383}
+{"chave": "mediana/125", "bytes": 4259861}
+{"chave": "clahe/125", "bytes": 6866777}
+{"chave": "inclinacao/125", "bytes": 4814900, "angulo": -1.0}
+{"chave": "adaptativa/125", "bytes": 8993838}
+{"chave": "otsu/125", "bytes": 6707480}
+{"chave": "completo/125", "bytes": 7092380, "angulo": -1.0}
+{"chave": "original/126", "bytes": 4801146}
+{"chave": "recodificada/126", "bytes": 4522307}
+{"chave": "cinza/126", "bytes": 4427933}
+{"chave": "mediana/126", "bytes": 3689249}
+{"chave": "clahe/126", "bytes": 5906624}
+{"chave": "inclinacao/126", "bytes": 4177209, "angulo": -2.0}
+{"chave": "adaptativa/126", "bytes": 6919290}
+{"chave": "otsu/126", "bytes": 4513632}
+{"chave": "completo/126", "bytes": 5271038, "angulo": -2.0}
+{"chave": "original/127", "bytes": 5724495}
+{"chave": "recodificada/127", "bytes": 5382784}
+{"chave": "cinza/127", "bytes": 5283493}
+{"chave": "mediana/127", "bytes": 4492131}
+{"chave": "clahe/127", "bytes": 6913369}
+{"chave": "inclinacao/127", "bytes": 4973224, "angulo": -2.0}
+{"chave": "adaptativa/127", "bytes": 9171846}
+{"chave": "otsu/127", "bytes": 6751262}
+{"chave": "completo/127", "bytes": 7705743, "angulo": -2.0}
+{"chave": "original/128", "bytes": 4497226}
+{"chave": "recodificada/128", "bytes": 4237173}
+{"chave": "cinza/128", "bytes": 4145109}
+{"chave": "mediana/128", "bytes": 3428898}
+{"chave": "clahe/128", "bytes": 5531167}
+{"chave": "inclinacao/128", "bytes": 3917512, "angulo": -1.0}
+{"chave": "adaptativa/128", "bytes": 5945484}
+{"chave": "otsu/128", "bytes": 4287182}
+{"chave": "completo/128", "bytes": 4635605, "angulo": -1.0}
+{"chave": "original/129", "bytes": 5752513}
+{"chave": "recodificada/129", "bytes": 5409007}
+{"chave": "cinza/129", "bytes": 5309691}
+{"chave": "mediana/129", "bytes": 4539486}
+{"chave": "clahe/129", "bytes": 6970078}
+{"chave": "inclinacao/129", "bytes": 5004066, "angulo": -1.0}
+{"chave": "adaptativa/129", "bytes": 9325388}
+{"chave": "otsu/129", "bytes": 7007235}
+{"chave": "completo/129", "bytes": 7954061, "angulo": -1.0}
+{"chave": "original/130", "bytes": 4795609}
+{"chave": "recodificada/130", "bytes": 4516434}
+{"chave": "cinza/130", "bytes": 4422510}
+{"chave": "mediana/130", "bytes": 3602086}
+{"chave": "clahe/130", "bytes": 5912038}
+{"chave": "inclinacao/130", "bytes": 4516434, "angulo": 0.0}
+{"chave": "adaptativa/130", "bytes": 6654013}
+{"chave": "otsu/130", "bytes": 4727448}
+{"chave": "completo/130", "bytes": 4811141, "angulo": 0.0}
+{"chave": "original/131", "bytes": 5614896}
+{"chave": "recodificada/131", "bytes": 5285386}
+{"chave": "cinza/131", "bytes": 5187916}
+{"chave": "mediana/131", "bytes": 4381304}
+{"chave": "clahe/131", "bytes": 6771637}
+{"chave": "inclinacao/131", "bytes": 5285386, "angulo": 0.0}
+{"chave": "adaptativa/131", "bytes": 9045358}
+{"chave": "otsu/131", "bytes": 6813256}
+{"chave": "completo/131", "bytes": 7238598, "angulo": 0.0}
+{"chave": "original/132", "bytes": 5335364}
+{"chave": "recodificada/132", "bytes": 5021889}
+{"chave": "cinza/132", "bytes": 4928001}
+{"chave": "mediana/132", "bytes": 4073223}
+{"chave": "clahe/132", "bytes": 6570916}
+{"chave": "inclinacao/132", "bytes": 5021889, "angulo": 0.0}
+{"chave": "adaptativa/132", "bytes": 8389768}
+{"chave": "otsu/132", "bytes": 5867829}
+{"chave": "completo/132", "bytes": 6089593, "angulo": 0.0}
+{"chave": "original/133", "bytes": 5439919}
+{"chave": "recodificada/133", "bytes": 5123133}
+{"chave": "cinza/133", "bytes": 5028767}
+{"chave": "mediana/133", "bytes": 4206571}
+{"chave": "clahe/133", "bytes": 6616043}
+{"chave": "inclinacao/133", "bytes": 5123133, "angulo": 0.0}
+{"chave": "adaptativa/133", "bytes": 8695534}
+{"chave": "otsu/133", "bytes": 7007069}
+{"chave": "completo/133", "bytes": 6913915, "angulo": 0.0}
+{"chave": "original/134", "bytes": 5528364}
+{"chave": "recodificada/134", "bytes": 5218550}
+{"chave": "cinza/134", "bytes": 5113533}
+{"chave": "mediana/134", "bytes": 4249339}
+{"chave": "clahe/134", "bytes": 6722101}
+{"chave": "inclinacao/134", "bytes": 4787794, "angulo": -3.5}
+{"chave": "adaptativa/134", "bytes": 9102996}
+{"chave": "otsu/134", "bytes": 6601143}
+{"chave": "completo/134", "bytes": 7277301, "angulo": -3.5}
+{"chave": "original/135", "bytes": 5630829}
+{"chave": "recodificada/135", "bytes": 5298019}
+{"chave": "cinza/135", "bytes": 5190280}
+{"chave": "mediana/135", "bytes": 4387869}
+{"chave": "clahe/135", "bytes": 6842610}
+{"chave": "inclinacao/135", "bytes": 4882383, "angulo": -2.5}
+{"chave": "adaptativa/135", "bytes": 8965292}
+{"chave": "otsu/135", "bytes": 7037255}
+{"chave": "completo/135", "bytes": 7571752, "angulo": -2.5}
+{"chave": "original/136", "bytes": 4442612}
+{"chave": "recodificada/136", "bytes": 4189017}
+{"chave": "cinza/136", "bytes": 4099052}
+{"chave": "mediana/136", "bytes": 3240234}
+{"chave": "clahe/136", "bytes": 5458329}
+{"chave": "inclinacao/136", "bytes": 3844889, "angulo": -1.5}
+{"chave": "adaptativa/136", "bytes": 5689307}
+{"chave": "otsu/136", "bytes": 3695514}
+{"chave": "completo/136", "bytes": 3853256, "angulo": -1.5}
+{"chave": "original/137", "bytes": 5092134}
+{"chave": "recodificada/137", "bytes": 4794887}
+{"chave": "cinza/137", "bytes": 4701086}
+{"chave": "mediana/137", "bytes": 3901892}
+{"chave": "clahe/137", "bytes": 6227124}
+{"chave": "inclinacao/137", "bytes": 4373934, "angulo": -3.0}
+{"chave": "adaptativa/137", "bytes": 7478594}
+{"chave": "otsu/137", "bytes": 5668222}
+{"chave": "completo/137", "bytes": 5912247, "angulo": -3.0}
+{"chave": "original/138", "bytes": 5037618}
+{"chave": "recodificada/138", "bytes": 4745238}
+{"chave": "cinza/138", "bytes": 4642524}
+{"chave": "mediana/138", "bytes": 3850366}
+{"chave": "clahe/138", "bytes": 6073753}
+{"chave": "inclinacao/138", "bytes": 4401428, "angulo": -0.5}
+{"chave": "adaptativa/138", "bytes": 7149519}
+{"chave": "otsu/138", "bytes": 5307682}
+{"chave": "completo/138", "bytes": 5698982, "angulo": 0.0}
+{"chave": "original/139", "bytes": 5456619}
+{"chave": "recodificada/139", "bytes": 5140880}
+{"chave": "cinza/139", "bytes": 5031843}
+{"chave": "mediana/139", "bytes": 4269982}
+{"chave": "clahe/139", "bytes": 6626506}
+{"chave": "inclinacao/139", "bytes": 5140880, "angulo": 0.0}
+{"chave": "adaptativa/139", "bytes": 8395149}
+{"chave": "otsu/139", "bytes": 6476612}
+{"chave": "completo/139", "bytes": 7043069, "angulo": 0.0}
+{"chave": "original/140", "bytes": 4642738}
+{"chave": "recodificada/140", "bytes": 4377147}
+{"chave": "cinza/140", "bytes": 4267553}
+{"chave": "mediana/140", "bytes": 3508932}
+{"chave": "clahe/140", "bytes": 5608049}
+{"chave": "inclinacao/140", "bytes": 4377147, "angulo": 0.0}
+{"chave": "adaptativa/140", "bytes": 5844119}
+{"chave": "otsu/140", "bytes": 4099188}
+{"chave": "completo/140", "bytes": 4777353, "angulo": 0.0}
+{"chave": "original/141", "bytes": 5467052}
+{"chave": "recodificada/141", "bytes": 5150675}
+{"chave": "cinza/141", "bytes": 5041162}
+{"chave": "mediana/141", "bytes": 4198452}
+{"chave": "clahe/141", "bytes": 6679151}
+{"chave": "inclinacao/141", "bytes": 5150675, "angulo": 0.0}
+{"chave": "adaptativa/141", "bytes": 8112075}
+{"chave": "otsu/141", "bytes": 6464201}
+{"chave": "completo/141", "bytes": 6520368, "angulo": 0.0}
+{"chave": "original/142", "bytes": 5629871}
+{"chave": "recodificada/142", "bytes": 5303138}
+{"chave": "cinza/142", "bytes": 5195656}
+{"chave": "mediana/142", "bytes": 4402903}
+{"chave": "clahe/142", "bytes": 6804441}
+{"chave": "inclinacao/142", "bytes": 5303138, "angulo": 0.0}
+{"chave": "adaptativa/142", "bytes": 8799257}
+{"chave": "otsu/142", "bytes": 6526018}
+{"chave": "completo/142", "bytes": 7383805, "angulo": 0.0}
+{"chave": "original/143", "bytes": 5201385}
+{"chave": "recodificada/143", "bytes": 4906434}
+{"chave": "cinza/143", "bytes": 4793360}
+{"chave": "mediana/143", "bytes": 3945026}
+{"chave": "clahe/143", "bytes": 6367896}
+{"chave": "inclinacao/143", "bytes": 4906434, "angulo": 0.0}
+{"chave": "adaptativa/143", "bytes": 7751725}
+{"chave": "otsu/143", "bytes": 5443660}
+{"chave": "completo/143", "bytes": 5862662, "angulo": 0.0}
+{"chave": "original/144", "bytes": 4732994}
+{"chave": "recodificada/144", "bytes": 4457448}
+{"chave": "cinza/144", "bytes": 4346325}
+{"chave": "mediana/144", "bytes": 3655179}
+{"chave": "clahe/144", "bytes": 5617293}
+{"chave": "inclinacao/144", "bytes": 4457448, "angulo": 0.0}
+{"chave": "adaptativa/144", "bytes": 5936888}
+{"chave": "otsu/144", "bytes": 4610229}
+{"chave": "completo/144", "bytes": 5291237, "angulo": 0.0}
+{"chave": "original/145", "bytes": 5346260}
+{"chave": "recodificada/145", "bytes": 5037370}
+{"chave": "cinza/145", "bytes": 4938229}
+{"chave": "mediana/145", "bytes": 4198089}
+{"chave": "clahe/145", "bytes": 6395265}
+{"chave": "inclinacao/145", "bytes": 4663067, "angulo": -1.5}
+{"chave": "adaptativa/145", "bytes": 7510979}
+{"chave": "otsu/145", "bytes": 6182018}
+{"chave": "completo/145", "bytes": 6622276, "angulo": -1.5}
+{"chave": "original/146", "bytes": 4430048}
+{"chave": "recodificada/146", "bytes": 4172765}
+{"chave": "cinza/146", "bytes": 4071461}
+{"chave": "mediana/146", "bytes": 3177691}
+{"chave": "clahe/146", "bytes": 5405244}
+{"chave": "inclinacao/146", "bytes": 3835501, "angulo": -1.0}
+{"chave": "adaptativa/146", "bytes": 5465190}
+{"chave": "otsu/146", "bytes": 4068913}
+{"chave": "completo/146", "bytes": 3584804, "angulo": -1.0}
+{"chave": "original/147", "bytes": 4489447}
+{"chave": "recodificada/147", "bytes": 4228492}
+{"chave": "cinza/147", "bytes": 4127782}
+{"chave": "mediana/147", "bytes": 3351478}
+{"chave": "clahe/147", "bytes": 5453696}
+{"chave": "inclinacao/147", "bytes": 3878704, "angulo": -2.0}
+{"chave": "adaptativa/147", "bytes": 5247966}
+{"chave": "otsu/147", "bytes": 3758239}
+{"chave": "completo/147", "bytes": 3840856, "angulo": -2.0}
+{"chave": "original/148", "bytes": 5561717}
+{"chave": "recodificada/148", "bytes": 5246373}
+{"chave": "cinza/148", "bytes": 5153426}
+{"chave": "mediana/148", "bytes": 4391857}
+{"chave": "clahe/148", "bytes": 6715106}
+{"chave": "inclinacao/148", "bytes": 4865180, "angulo": 0.5}
+{"chave": "adaptativa/148", "bytes": 8463117}
+{"chave": "otsu/148", "bytes": 6830058}
+{"chave": "completo/148", "bytes": 7373753, "angulo": 0.5}
+{"chave": "original/149", "bytes": 5388076}
+{"chave": "recodificada/149", "bytes": 5073260}
+{"chave": "cinza/149", "bytes": 4982255}
+{"chave": "mediana/149", "bytes": 4213752}
+{"chave": "clahe/149", "bytes": 6558678}
+{"chave": "inclinacao/149", "bytes": 4684873, "angulo": -2.0}
+{"chave": "adaptativa/149", "bytes": 8062896}
+{"chave": "otsu/149", "bytes": 5977230}
+{"chave": "completo/149", "bytes": 6933901, "angulo": -2.0}
+{"chave": "original/150", "bytes": 5381066}
+{"chave": "recodificada/150", "bytes": 5066560}
+{"chave": "cinza/150", "bytes": 4971487}
+{"chave": "mediana/150", "bytes": 4143487}
+{"chave": "clahe/150", "bytes": 6526938}
+{"chave": "inclinacao/150", "bytes": 4702149, "angulo": -0.5}
+{"chave": "adaptativa/150", "bytes": 8041524}
+{"chave": "otsu/150", "bytes": 6293409}
+{"chave": "completo/150", "bytes": 6411598, "angulo": -0.5}

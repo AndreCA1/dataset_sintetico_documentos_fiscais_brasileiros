@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe><infNFe versao="4.00" Id="NFe51241014163036000109550030000935661580162235">
+<ide><cUF>51</cUF><cNF>58016223</cNF><natOp>Venda de mercadoria</natOp><mod>55</mod>
+<serie>3</serie><nNF>93566</nNF><dhEmi>2024-10-30T16:08:07-03:00</dhEmi><dhSaiEnt>2024-10-30T16:08:07-03:00</dhSaiEnt>
+<tpNF>1</tpNF><idDest>1</idDest><cMunFG>5103403</cMunFG><tpImp>1</tpImp>
+<tpEmis>1</tpEmis><cDV>5</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal>
+<indPres>1</indPres><procEmi>0</procEmi><verProc>GeradorSintetico 1.0</verProc></ide>
+<emit><CNPJ>14163036000109</CNPJ><xNome>Agropecuária Planalto EIRELI</xNome><xFant>Agropecuária Planalto</xFant>
+<enderEmit><xLgr>Rua Dom Pedro II</xLgr><nro>2250</nro><xBairro>Goiabeiras</xBairro><cMun>5103403</cMun><xMun>Cuiabá</xMun><UF>MT</UF><CEP>78778120</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>39956735804</fone></enderEmit><IE>328184908</IE><CRT>3</CRT></emit>
+<dest><CPF>47167557625</CPF><xNome>Juliana Santos Martins</xNome><enderDest><xLgr>Travessa da Paz</xLgr><nro>46</nro><xBairro>Cocó</xBairro><cMun>2304400</cMun><xMun>Fortaleza</xMun><UF>CE</UF><CEP>60571389</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>60949617284</fone></enderDest><indIEDest>9</indIEDest></dest><det nItem="1"><prod><cProd>42905</cProd><cEAN>SEM GTIN</cEAN><xProd>Detergente neutro 5L</xProd><NCM>34022000</NCM><CFOP>5102</CFOP><uCom>GL</uCom><qCom>4.0000</qCom><vUnCom>25.7300000000</vUnCom><vProd>102.92</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>GL</uTrib><qTrib>4.0000</qTrib><vUnTrib>25.7300000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>25.73</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>102.92</vBC><pICMS>18.0000</pICMS><vICMS>18.53</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>102.92</vBC><pPIS>0.6500</pPIS><vPIS>0.67</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>102.92</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>3.09</vCOFINS></COFINSAliq></COFINS></imposto></det>
+<total><ICMSTot><vBC>102.92</vBC><vICMS>18.53</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP>
+<vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>102.92</vProd>
+<vFrete>29.80</vFrete><vSeg>0.00</vSeg><vDesc>0.00</vDesc><vII>0.00</vII><vIPI>0.00</vIPI>
+<vIPIDevol>0.00</vIPIDevol><vPIS>0.67</vPIS><vCOFINS>3.09</vCOFINS>
+<vOutro>0.00</vOutro><vNF>132.72</vNF><vTotTrib>25.73</vTotTrib></ICMSTot></total>
+<transp><modFrete>0</modFrete></transp>
+<pag><detPag><indPag>0</indPag><tPag>04</tPag><vPag>132.72</vPag></detPag></pag>
+<infAdic><infCpl>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</infCpl></infAdic>
+</infNFe></NFe>
+<protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SINTETICO</verAplic><chNFe>51241014163036000109550030000935661580162235</chNFe>
+<dhRecbto>2024-10-30T16:08:07-03:00</dhRecbto><nProt>515342809664116</nProt><digVal>AAAA</digVal>
+<cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>

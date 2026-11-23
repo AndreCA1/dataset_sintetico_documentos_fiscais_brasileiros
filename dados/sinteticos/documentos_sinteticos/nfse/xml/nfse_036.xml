@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS32053092251344242000133000000008690226031862327522">
+<xLocEmi>Vitória</xLocEmi><xLocPrestacao>Vitória</xLocPrestacao><nNFSe>86902</nNFSe>
+<cLocIncid>3205309</cLocIncid><xLocIncid>Vitória</xLocIncid><xTribNac>Elaboração de projetos de engenharia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-03-31T14:07:32-03:00</dhProc><nDFSe>641523</nDFSe>
+<emit><CNPJ>51344242000133</CNPJ><xNome>Almeida Engenharia e Projetos LTDA</xNome><enderNac><xLgr>Rua XV de Novembro</xLgr>
+<nro>930</nro><xBairro>Jardim Camburi</xBairro><cMun>3205309</cMun>
+<UF>ES</UF><CEP>29643450</CEP></enderNac><fone>93929605489</fone><email>almeida4@exemplo.com.br</email></emit>
+<valores><vBC>11178.79</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>335.36</vISSQN>
+<vTotalRet>687.49</vTotalRet><vLiq>10491.30</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS48901"><tpAmb>1</tpAmb><dhEmi>2026-03-31T14:07:32-03:00</dhEmi><nDPS>48901</nDPS>
+<serie>1</serie><dCompet>2026-03-31</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>51344242000133</CNPJ><xNome>Almeida Engenharia e Projetos LTDA</xNome><end><xLgr>Rua XV de Novembro</xLgr>
+<nro>930</nro><xBairro>Jardim Camburi</xBairro><cMun>3205309</cMun>
+<xMun>Vitória</xMun><UF>ES</UF><CEP>29643450</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>80643577000150</CNPJ><xNome>Farmácia Bom Preço EPP</xNome><end><endNac><cMun>3205309</cMun>
+<CEP>29643019</CEP></endNac><xLgr>Avenida Independência</xLgr><nro>2735</nro>
+<xBairro>Centro</xBairro></end><fone>45922709843</fone><email>farmcia33@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>070301</cTribNac><xDescServ>Elaboração de projetos de engenharia - competência 03/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>11178.79</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun><tribFed><vRetIRRF>167.68</vRetIRRF><vRetCSLL>519.81</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

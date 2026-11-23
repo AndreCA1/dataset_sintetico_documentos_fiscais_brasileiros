@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe"><NFe><infNFe versao="4.00" Id="NFe35260690331436000156550030001965571590048727">
+<ide><cUF>35</cUF><cNF>59004872</cNF><natOp>Venda de mercadoria</natOp><mod>55</mod>
+<serie>3</serie><nNF>196557</nNF><dhEmi>2026-06-28T08:59:10-03:00</dhEmi><dhSaiEnt>2026-06-28T08:59:10-03:00</dhSaiEnt>
+<tpNF>1</tpNF><idDest>1</idDest><cMunFG>3550308</cMunFG><tpImp>1</tpImp>
+<tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><finNFe>1</finNFe><indFinal>1</indFinal>
+<indPres>1</indPres><procEmi>0</procEmi><verProc>GeradorSintetico 1.0</verProc></ide>
+<emit><CNPJ>90331436000156</CNPJ><xNome>Auto Peças Central S.A.</xNome><xFant>Auto Peças Central</xFant>
+<enderEmit><xLgr>Avenida Brasil</xLgr><nro>2608</nro><xBairro>Pinheiros</xBairro><cMun>3550308</cMun><xMun>São Paulo</xMun><UF>SP</UF><CEP>01666459</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>72986441875</fone></enderEmit><IE>011122272</IE><CRT>3</CRT></emit>
+<dest><CNPJ>70032135000114</CNPJ><xNome>Agropecuária Cerrado EIRELI</xNome><enderDest><xLgr>Rua Santos Dumont</xLgr><nro>1523</nro><xBairro>Pituba</xBairro><cMun>2927408</cMun><xMun>Salvador</xMun><UF>BA</UF><CEP>40807042</CEP><cPais>1058</cPais><xPais>Brasil</xPais><fone>12914397843</fone></enderDest><indIEDest>1</indIEDest><IE>142176351</IE></dest><det nItem="1"><prod><cProd>26278</cProd><cEAN>SEM GTIN</cEAN><xProd>Monitor LED 24 pol Full HD</xProd><NCM>85285200</NCM><CFOP>5102</CFOP><uCom>UN</uCom><qCom>3.0000</qCom><vUnCom>878.2500000000</vUnCom><vProd>2634.75</vProd><cEANTrib>SEM GTIN</cEANTrib><uTrib>UN</uTrib><qTrib>3.0000</qTrib><vUnTrib>878.2500000000</vUnTrib><indTot>1</indTot></prod><imposto><vTotTrib>658.69</vTotTrib><ICMS><ICMS00><orig>0</orig><CST>00</CST><modBC>3</modBC><vBC>2634.75</vBC><pICMS>18.0000</pICMS><vICMS>474.25</vICMS></ICMS00></ICMS><PIS><PISAliq><CST>01</CST><vBC>2634.75</vBC><pPIS>0.6500</pPIS><vPIS>17.13</vPIS></PISAliq></PIS><COFINS><COFINSAliq><CST>01</CST><vBC>2634.75</vBC><pCOFINS>3.0000</pCOFINS><vCOFINS>79.04</vCOFINS></COFINSAliq></COFINS></imposto></det>
+<total><ICMSTot><vBC>2634.75</vBC><vICMS>474.25</vICMS><vICMSDeson>0.00</vICMSDeson><vFCP>0.00</vFCP>
+<vBCST>0.00</vBCST><vST>0.00</vST><vFCPST>0.00</vFCPST><vFCPSTRet>0.00</vFCPSTRet><vProd>2634.75</vProd>
+<vFrete>0.00</vFrete><vSeg>0.00</vSeg><vDesc>263.48</vDesc><vII>0.00</vII><vIPI>0.00</vIPI>
+<vIPIDevol>0.00</vIPIDevol><vPIS>17.13</vPIS><vCOFINS>79.04</vCOFINS>
+<vOutro>0.00</vOutro><vNF>2371.27</vNF><vTotTrib>658.69</vTotTrib></ICMSTot></total>
+<transp><modFrete>9</modFrete></transp>
+<pag><detPag><indPag>0</indPag><tPag>15</tPag><vPag>2371.27</vPag></detPag></pag>
+<infAdic><infCpl>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</infCpl></infAdic>
+</infNFe></NFe>
+<protNFe versao="4.00"><infProt><tpAmb>1</tpAmb><verAplic>SINTETICO</verAplic><chNFe>35260690331436000156550030001965571590048727</chNFe>
+<dhRecbto>2026-06-28T08:59:10-03:00</dhRecbto><nProt>351897931038894</nProt><digVal>AAAA</digVal>
+<cStat>100</cStat><xMotivo>Autorizado o uso da NF-e</xMotivo></infProt></protNFe></nfeProc>

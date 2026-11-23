@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS43149022208290991000104000000006283526054316279024">
+<xLocEmi>Porto Alegre</xLocEmi><xLocPrestacao>Porto Alegre</xLocPrestacao><nNFSe>62835</nNFSe>
+<cLocIncid>4314902</cLocIncid><xLocIncid>Porto Alegre</xLocIncid><xTribNac>Advocacia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2026-05-13T15:50:22-03:00</dhProc><nDFSe>563901</nDFSe>
+<emit><CNPJ>08290991000104</CNPJ><xNome>Mendes Advocacia Associados LTDA</xNome><enderNac><xLgr>Rua das Flores</xLgr>
+<nro>88</nro><xBairro>Menino Deus</xBairro><cMun>4314902</cMun>
+<UF>RS</UF><CEP>90499494</CEP></enderNac><fone>75915564998</fone><email>mendes85@exemplo.com.br</email></emit>
+<valores><vBC>19361.60</vBC><pAliqAplic>5.00</pAliqAplic><vISSQN>968.08</vISSQN>
+<vTotalRet>1190.73</vTotalRet><vLiq>18170.87</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS44971"><tpAmb>1</tpAmb><dhEmi>2026-05-13T15:50:22-03:00</dhEmi><nDPS>44971</nDPS>
+<serie>1</serie><dCompet>2026-05-13</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>08290991000104</CNPJ><xNome>Mendes Advocacia Associados LTDA</xNome><end><xLgr>Rua das Flores</xLgr>
+<nro>88</nro><xBairro>Menino Deus</xBairro><cMun>4314902</cMun>
+<xMun>Porto Alegre</xMun><UF>RS</UF><CEP>90499494</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>05405715000148</CNPJ><xNome>Eletro Horizonte EPP</xNome><end><endNac><cMun>2408102</cMun>
+<CEP>59979051</CEP></endNac><xLgr>Rua Barão do Rio Branco</xLgr><nro>2800</nro>
+<xBairro>Tirol</xBairro></end><fone>28945111649</fone><email>eletro28@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>171401</cTribNac><xDescServ>Advocacia - competência 05/2026</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>19361.60</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>5.00</pAliq></tribMun><tribFed><vRetIRRF>290.42</vRetIRRF><vRetCSLL>900.31</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

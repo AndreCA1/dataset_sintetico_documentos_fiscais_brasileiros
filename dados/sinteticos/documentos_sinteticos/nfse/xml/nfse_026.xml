@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS26116062250339681000195000000003068825105386151261">
+<xLocEmi>Recife</xLocEmi><xLocPrestacao>Recife</xLocPrestacao><nNFSe>30688</nNFSe>
+<cLocIncid>2611606</cLocIncid><xLocIncid>Recife</xLocIncid><xTribNac>Elaboração de projetos de engenharia</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-10-30T11:11:37-03:00</dhProc><nDFSe>355622</nDFSe>
+<emit><CNPJ>50339681000195</CNPJ><xNome>Fernandes Engenharia e Projetos S.A.</xNome><enderNac><xLgr>Alameda dos Ipês</xLgr>
+<nro>1684</nro><xBairro>Casa Forte</xBairro><cMun>2611606</cMun>
+<UF>PE</UF><CEP>50115604</CEP></enderNac><fone>34973613776</fone><email>fernandes24@exemplo.com.br</email></emit>
+<valores><vBC>17844.12</vBC><pAliqAplic>2.00</pAliqAplic><vISSQN>356.88</vISSQN>
+<vTotalRet>0.00</vTotalRet><vLiq>17844.12</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS64665"><tpAmb>1</tpAmb><dhEmi>2025-10-30T11:11:37-03:00</dhEmi><nDPS>64665</nDPS>
+<serie>1</serie><dCompet>2025-10-30</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>50339681000195</CNPJ><xNome>Fernandes Engenharia e Projetos S.A.</xNome><end><xLgr>Alameda dos Ipês</xLgr>
+<nro>1684</nro><xBairro>Casa Forte</xBairro><cMun>2611606</cMun>
+<xMun>Recife</xMun><UF>PE</UF><CEP>50115604</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>72531360000120</CNPJ><xNome>Agropecuária São Jorge EPP</xNome><end><endNac><cMun>3550308</cMun>
+<CEP>01814612</CEP></endNac><xLgr>Rua Santos Dumont</xLgr><nro>52</nro>
+<xBairro>Moema</xBairro></end><fone>91978973720</fone><email>agropecuria3@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>070301</cTribNac><xDescServ>Elaboração de projetos de engenharia - competência 10/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>17844.12</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>2.00</pAliq></tribMun></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFSe xmlns="http://www.sped.fazenda.gov.br/nfse"><infNFSe versao="1.01" Id="NFS35503082275828987000136000000005888725117860120230">
+<xLocEmi>São Paulo</xLocEmi><xLocPrestacao>São Paulo</xLocPrestacao><nNFSe>58887</nNFSe>
+<cLocIncid>3550308</cLocIncid><xLocIncid>São Paulo</xLocIncid><xTribNac>Propaganda e publicidade</xTribNac>
+<verAplic>SINTETICO_1.0</verAplic><ambGer>2</ambGer><tpEmis>1</tpEmis><procEmi>1</procEmi><cStat>100</cStat>
+<dhProc>2025-11-26T18:28:20-03:00</dhProc><nDFSe>444346</nDFSe>
+<emit><CNPJ>75828987000136</CNPJ><xNome>Nascimento Publicidade e Marketing LTDA</xNome><enderNac><xLgr>Avenida Getúlio Vargas</xLgr>
+<nro>1011</nro><xBairro>Tatuapé</xBairro><cMun>3550308</cMun>
+<UF>SP</UF><CEP>01083188</CEP></enderNac><fone>71973564486</fone><email>nascimento61@exemplo.com.br</email></emit>
+<valores><vBC>23389.39</vBC><pAliqAplic>3.00</pAliqAplic><vISSQN>701.68</vISSQN>
+<vTotalRet>1438.45</vTotalRet><vLiq>21950.94</vLiq></valores>
+<DPS versao="1.00"><infDPS Id="DPS43613"><tpAmb>1</tpAmb><dhEmi>2025-11-26T18:28:20-03:00</dhEmi><nDPS>43613</nDPS>
+<serie>1</serie><dCompet>2025-11-26</dCompet><tpEmit>1</tpEmit>
+<prest><CNPJ>75828987000136</CNPJ><xNome>Nascimento Publicidade e Marketing LTDA</xNome><end><xLgr>Avenida Getúlio Vargas</xLgr>
+<nro>1011</nro><xBairro>Tatuapé</xBairro><cMun>3550308</cMun>
+<xMun>São Paulo</xMun><UF>SP</UF><CEP>01083188</CEP></end>
+<regTrib><opSimpNac>1</opSimpNac><regEspTrib>0</regEspTrib></regTrib></prest>
+<toma><CNPJ>20732884000186</CNPJ><xNome>Distribuidora Ipê LTDA</xNome><end><endNac><cMun>2927408</cMun>
+<CEP>40619473</CEP></endNac><xLgr>Avenida Brasil</xLgr><nro>1056</nro>
+<xBairro>Rio Vermelho</xBairro></end><fone>36978061435</fone><email>distribuidora72@exemplo.com.br</email></toma>
+<serv><cServ><cTribNac>170601</cTribNac><xDescServ>Propaganda e publicidade - competência 11/2025</xDescServ></cServ></serv>
+<valores><vServPrest><vServ>23389.39</vServ></vServPrest><trib><tribMun><tribISSQN>1</tribISSQN>
+<tpRetISSQN>1</tpRetISSQN><pAliq>3.00</pAliq></tribMun><tribFed><vRetIRRF>350.84</vRetIRRF><vRetCSLL>1087.61</vRetCSLL><tpRetPisCofins>3</tpRetPisCofins><piscofins><CST>00</CST></piscofins></tribFed></trib></valores>
+<infCompl><xInfComp>DOCUMENTO FICTICIO GERADO PARA PESQUISA ACADEMICA (TCC) - SEM VALOR FISCAL</xInfComp></infCompl>
+</infDPS></DPS></infNFSe></NFSe>
